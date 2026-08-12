@@ -597,13 +597,13 @@ def run_crawler():
                 print(f"Unable to write log to {log_file}: {e}")
 
             try:
-                # ai_result = summarize_with_gemini(raw_title, raw_summary, category=source['category'])
-                ai_result = {
-                    'title_vietnamese': '',
-                    'summary_org': raw_summary,
-                    'summary_vietnamese': '',
-                    'isPolicy': False
-                }
+                ai_result = summarize_with_gemini(raw_title, raw_summary, category=source['category'])
+                # ai_result = {
+                #     'title_vietnamese': '',
+                #     'summary_org': raw_summary,
+                #     'summary_vietnamese': '',
+                #     'isPolicy': False
+                # }
                 title_vietnamese = ''
                 summary_vietnamese = ''
                 if source['category'] == 'International':
