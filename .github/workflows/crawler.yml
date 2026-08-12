@@ -2,10 +2,14 @@ name: Semiconductor News Auto Crawler
 
 on:
   schedule:
-    # Chạy tự động mỗi 4 tiếng (phút thứ 0 của các giờ 0, 4, 8, 12, 16, 20 UTC)
+    # Auto run every 4 hours
     - cron: '0 */4 * * *'
-  # Cho phép bấm nút chạy thủ công trên GitHub UI để test
+  # Allow manual trigger of the workflow
   workflow_dispatch:
+
+# Allow GitHub Actions to push changes back to the repository
+permissions:
+  contents: write
 
 jobs:
   crawl:
@@ -15,10 +19,10 @@ jobs:
     - name: Checkout repository code
       uses: actions/checkout@v4
 
-    - name: Set up Python 3.10
+    - name: Set up Python 3.11
       uses: actions/setup-python@v5
       with:
-        python-version: '3.10'
+        python-version: '3.11'
 
     - name: Install dependencies
       run: |
@@ -30,3 +34,18 @@ jobs:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
       run: python main.py
+
+    - name: Commit crawler logs
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+        git add log
+        git add failed_article.json added_article.json
+
+        if git diff --cached --quiet; then
+          echo "No changes to commit."
+        else
+          git commit -m "Update crawler logs"
+          git push
+        fi
