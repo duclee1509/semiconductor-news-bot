@@ -533,6 +533,8 @@ def run_crawler():
                 raw_title = entry.title
             except Exception:
                 raw_title = None
+            if raw_title and raw_title.startswith("Tin tức sáng"):
+                continue
 
             try:
                 raw_summary = getattr(entry, 'summary', getattr(entry, 'description', ''))
