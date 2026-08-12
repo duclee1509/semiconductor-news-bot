@@ -152,5 +152,33 @@
     "author": "Duy Linh",
     "createdAt": "2026-08-12T18:05:51.149210+00:00",
     "publishedAt": "2026-08-06T15:50:00+00:00"
+  },
+  {
+    "title_org": "2D GAA CFETs Need Contact And Parasitic Co-Optimization At A2 Node (imec)",
+    "title_vietnamese": "Các cấu trúc 2D GAA CFET cần tối ưu hóa đồng thời tiếp điểm và điện dung ký sinh tại tiến trình A2 (imec)",
+    "summary_org": "Researchers from imec have explored whether Gate-All-Around 2D CFETs are the optimal architecture for the A2 node and beyond. They developed an A2-oriented integration flow with a 36 nm CPP and 10 nm Lg, demonstrating key process modules.",
+    "summary_vietnamese": "Các nhà nghiên cứu từ imec đã khảo sát xem liệu cấu trúc Gate-All-Around 2D CFET có phải là kiến trúc tối ưu cho tiến trình A2 và các thế hệ tiếp theo hay không. Họ đã phát triển quy trình tích hợp định hướng A2 với CPP 36 nm và Lg 10 nm, đồng thời trình bày các mô-đun quy trình cốt lõi.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/2d-gaa-cfets-need-contact-and-parasitic-co-optimization-at-a2-node-imec/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/06/AdobeStock_532528757-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-08-12T20:53:54.040503+00:00",
+    "publishedAt": "2026-08-12T18:01:03+00:00"
+  },
+  {
+    "title_org": "Defect Prediction in Optical Lithography, EUVL, and NIL (National Taiwan University)",
+    "title_vietnamese": "Dự đoán lỗi trong quang khắc quang học, EUVL và NIL (Đại học Quốc gia Đài Loan)",
+    "summary_org": "Researchers at National Taiwan University published a technical paper on advanced patterning technologies. The paper explores physics-based, data-driven, and hybrid frameworks for defect prediction in lithography, EUVL, and nanoimprint. These frameworks help address challenges shaped by imaging physics, material response, and process variation.",
+    "summary_vietnamese": "Các nhà nghiên cứu tại Đại học Quốc gia Đài Loan đã công bố một bài báo kỹ thuật về các công nghệ tạo mẫu tiên tiến. Bài báo khám phá các framework dựa trên vật lý, dựa على dữ liệu và lai để dự đoán lỗi trong quang khắc, EUVL và nanoimprint. Các framework này giúp giải quyết những thách thức được hình thành bởi vật lý hình ảnh, phản ứng vật liệu và biến động quy trình.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/defect-prediction-in-optical-lithography-euvl-and-nil-national-taiwan-university/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/06/wafer-06-26-AdobeStock_569552758-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-08-12T20:53:57.305869+00:00",
+    "publishedAt": "2026-08-12T17:46:29+00:00"
   }
 ]

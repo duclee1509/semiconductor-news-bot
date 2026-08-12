@@ -1,0 +1,15 @@
+Article: https://semiengineering.com/2d-gaa-cfets-need-contact-and-parasitic-co-optimization-at-a2-node-imec/
+Title: 2D GAA CFETs Need Contact And Parasitic Co-Optimization At A2 Node (imec)
+Summary: <p>Researchers from imec published a technical paper titled “Are Gate-All-Around 2D CFETs the Optimal Architecture for the A2 Node and Beyond?” Abstract Excerpt: “Here, we develop an A2-oriented 2D...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/AdobeStock_532528757-scaled.jpeg
+Author: Technical Paper Link
+Published date: Wed, 12 Aug 2026 18:01:03 +0000
+
+Article: https://semiengineering.com/defect-prediction-in-optical-lithography-euvl-and-nil-national-taiwan-university/
+Title: Defect Prediction in Optical Lithography, EUVL, and NIL (National Taiwan University)
+Summary: <p>National Taiwan University researchers published a technical paper titled “From Lithography to Nanoimprint: Physics-Based, Data-Driven, and Hybrid Frameworks for Defect Prediction in Advanced Pa...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/wafer-06-26-AdobeStock_569552758-scaled.jpeg
+Author: Technical Paper Link
+Published date: Wed, 12 Aug 2026 17:46:29 +0000
+
+Completed! Added a total of 2 new news items to Firebase.

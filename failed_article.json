@@ -14,5 +14,21 @@
     "thumbnail": null,
     "author": null,
     "published_date": "Wed, 12 Aug 2026 10:06:27 +0000"
+  },
+  {
+    "article_url": "https://www.eetimes.com/revolutionizing-safety-unveiling-the-power-of-safety-bubble-detectors-in-robotics/",
+    "title": "Revolutionizing Safety: Unveiling the Power of Safety Bubble Detectors in Robotics",
+    "summary": "<p>This article will explain the architecture of real-time safety bubble detection that includes challenges for developing a modular solution, optimizing such a high data bandwidth application to r...",
+    "thumbnail": null,
+    "author": null,
+    "published_date": "Wed, 12 Aug 2026 19:34:18 +0000"
+  },
+  {
+    "article_url": "https://www.eetimes.com/meta-cuts-server-count-25-by-reusing-old-memory-can-anyone-else-do-it/",
+    "title": "Meta Cuts Server Count 25% by Reusing Old Memory: Can Anyone Else Do It?",
+    "summary": "<p>Meta squeezes 25% fewer servers from old DDR4 via CXL, but most firms face messy DIMM, power, and telemetry traps.</p>",
+    "thumbnail": null,
+    "author": null,
+    "published_date": "Wed, 12 Aug 2026 18:40:03 +0000"
   }
 ]
