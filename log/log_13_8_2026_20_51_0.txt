@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/semiconductor-services/tuple-technologies/372163-tuple-technologies-at-dac-2026/
+Title: Tuple Technologies at DAC 2026
+Summary: <p>At <strong>#DAC2026</strong> I met with Vamshi Kothur at Tuple Technologies to see how their cloud infrastructure products help IC design teams get their chip designs to market more quickly with...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Team_TupleTech_DAC26.jpeg
+Author: Daniel Payne
+Published date: Thu, 13 Aug 2026 17:00:43 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

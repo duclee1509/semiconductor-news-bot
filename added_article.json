@@ -250,5 +250,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-08-13T13:25:06.758683+00:00",
     "publishedAt": "2026-08-13T13:00:52+00:00"
+  },
+  {
+    "title_org": "Tuple Technologies at DAC 2026",
+    "title_vietnamese": "Tuple Technologies tại sự kiện DAC 2026",
+    "summary_org": "At DAC 2026, Tuple Technologies showcased their cloud infrastructure products designed to help IC design teams accelerate time-to-market. Founded in 2017 and based in New Jersey, the company enables smaller design teams to bypass the traditional overhead of large IT and CAD departments.",
+    "summary_vietnamese": "Tại sự kiện DAC 2026, Tuple Technologies đã giới thiệu các sản phẩm cơ sở hạ tầng đám mây giúp các nhóm thiết kế vi mạch (IC) đẩy nhanh thời gian đưa sản phẩm ra thị trường. Được thành lập vào năm 2017 và có trụ sở tại New Jersey, công ty này giúp các nhóm thiết kế nhỏ hơn tránh được những gánh nặng chi phí truyền thống từ các đội ngũ IT và CAD lớn.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-services/tuple-technologies/372163-tuple-technologies-at-dac-2026/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Team_TupleTech_DAC26.jpeg",
+    "author": "Daniel Payne",
+    "createdAt": "2026-08-13T20:51:26.054337+00:00",
+    "publishedAt": "2026-08-13T17:00:43+00:00"
   }
 ]
