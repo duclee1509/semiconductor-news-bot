@@ -43,26 +43,38 @@ MAX_ADDED_ENTRIES = 10000
 def summarize_with_gemini(title, content, category='International'):
     if category == 'VietNam':
         prompt = f"""
-        You are a news editing expert. This article is in Vietnamese.
-        Title: {title}
-        Content: {content}
+        Bạn là chuyên gia biên tập tin tức công nghệ vi mạch bán dẫn.
+        Hãy phân tích bài viết tiếng Việt sau:
+        Tiêu đề: {title}
+        Nội dung: {content}
 
-        Return a single JSON object with fields:
-        - summary_org: a concise summary in Vietnamese, 2-3 short sentences.
-        - isPolicy: true if the article directly relates to policy or government support, false otherwise.
+        Yêu cầu xử lý:
+        1. Tóm tắt bài viết thành 2-3 câu ngắn gọn, súc tích, nêu bật điểm cốt lõi (công nghệ, thị trường, doanh nghiệp). Giữ nguyên các thuật ngữ kỹ thuật tiếng Anh phổ biến nếu có.
+        2. Phân loại xem bài viết có liên quan trực tiếp đến chính sách, quy hoạch, ưu đãi hoặc hỗ trợ từ Chính phủ/Nhà nước hay không.
+
+        Trả về duy nhất 01 đối tượng JSON với cấu trúc:
+        - "summary_org": Đoạn tóm tắt tiếng Việt (2-3 câu).
+        - "isPolicy": true nếu liên quan tới chính sách/hỗ trợ nhà nước, false nếu không.
         """
     else:
         prompt = f"""
-        You are an international news editing expert and translator into Vietnamese.
-        This article is in English.
-        Title: {title}
-        Content: {content}
+        Bạn là chuyên gia dịch thuật và biên tập tin tức vi mạch bán dẫn quốc tế.
+        Hãy phân tích bài viết tiếng Anh sau:
+        Tiêu đề: {title}
+        Nội dung: {content}
 
-        Return a single JSON object with fields:
-        - title_vietnamese: the title translated into Vietnamese.
-        - summary_org: a concise summary in English, 2-3 short sentences.
-        - summary_vietnamese: the summary translated into Vietnamese.
-        - isPolicy: true if the article directly relates to policy or government support, false otherwise.
+        Yêu cầu xử lý:
+        1. Dịch tiêu đề sang tiếng Việt tự nhiên, chuẩn văn phong báo chí công nghệ.
+        2. Tóm tắt nội dung bài viết bằng tiếng Anh (2-3 câu súc tích).
+        3. Dịch đoạn tóm tắt sang tiếng Việt (2-3 câu). 
+           * Lưu ý thuật ngữ: Giữ nguyên các từ chuyên ngành tiếng Anh phổ biến (như Tape-out, Foundry, Fab, EDA, Packaging, Wafer, GAAFET, HBM, EUV, Substrate...) nếu dịch ra tiếng Việt gây khiên cưỡng hoặc mất nghĩa.
+        4. Phân loại xem bài viết có liên quan trực tiếp đến chính sách, đạo luật, cấm vận hay trợ cấp chính phủ (như CHIPS Act, kiểm soát xuất khẩu...) hay không.
+
+        Trả về duy nhất 01 đối tượng JSON với cấu trúc:
+        - "title_vietnamese": Tiêu đề dịch sang tiếng Việt.
+        - "summary_org": Tóm tắt gốc bằng tiếng Anh (2-3 câu).
+        - "summary_vietnamese": Tóm tắt dịch sang tiếng Việt (2-3 câu).
+        - "isPolicy": true nếu liên quan tới chính sách/hỗ trợ nhà nước/đạo luật, false nếu không.
         """
 
     response = gemini_client.models.generate_content(
