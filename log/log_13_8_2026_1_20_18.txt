@@ -1,0 +1,15 @@
+Article: https://semiengineering.com/self-supervised-layout-generation-to-fix-advanced-node-drvs-nvidia-duke/
+Title: Self-Supervised Layout Generation To Fix Advanced-Node DRVs (Nvidia, Duke)
+Summary: <p>Researchers from NVIDIA and Duke University published a technical paper titled “SCALE: Self-Supervised Constraint-Aware Layout GEneration for Local P&#38;R DRV Fixing at Advanced Nodes.” Abstrac...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_617037593-02-27-2026-scaled.jpeg
+Author: Technical Paper Link
+Published date: Wed, 12 Aug 2026 22:47:43 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/369794-micron-advanced-memory-portfolio-positioned-for-ai-infrastructure-expansion/
+Title: Micron Advanced Memory Portfolio Positioned for AI Infrastructure Expansion
+Summary: <p>Micron Technology has emerged as a critical supplier in the AI compute ecosystem, leveraging its leadership in advanced DRAM, High Bandwidth Memory (HBM), and NAND flash technologies to address ...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/06/Micron-Advanced-Memory-Portfolio-Positioned-for-AI-Infrastructure-Expansion-2-1200x600.jpg
+Author: Daniel Nenni
+Published date: Wed, 12 Aug 2026 21:00:55 +0000
+
+Completed! Added a total of 2 new news items to Firebase.

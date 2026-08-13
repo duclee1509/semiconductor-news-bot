@@ -180,5 +180,33 @@
     "author": "Technical Paper Link",
     "createdAt": "2026-08-12T20:53:57.305869+00:00",
     "publishedAt": "2026-08-12T17:46:29+00:00"
+  },
+  {
+    "title_org": "Self-Supervised Layout Generation To Fix Advanced-Node DRVs (Nvidia, Duke)",
+    "title_vietnamese": "Tạo bố cục tự giám sát để khắc phục lỗi DRV ở tiến trình tiên tiến (Nvidia, Duke)",
+    "summary_org": "Researchers from NVIDIA and Duke University have published a paper on SCALE, a self-supervised and constraint-aware layout generation method. This approach addresses local place-and-route design-rule violation (DRV) fixing as semiconductor manufacturing advances toward sub-2nm nodes, overcoming complex rule interactions and foundry-specific constraints.",
+    "summary_vietnamese": "Các nhà nghiên cứu từ NVIDIA và Đại học Duke đã công bố một bài báo kỹ thuật về SCALE, phương pháp tạo bố cục tự giám sát và nhận biết ràng buộc. Phương pháp này giải quyết việc khắc phục lỗi vi phạm quy tắc thiết kế định vị và đi dây cục bộ (DRV) khi quá trình sản xuất chất bán dẫn tiếns đến các nút dưới 2nm, vượt qua các tương tác quy tắc phức tạp và các ràng buộc cụ thể của xưởng đúc.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/self-supervised-layout-generation-to-fix-advanced-node-drvs-nvidia-duke/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_617037593-02-27-2026-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-08-13T01:20:42.932231+00:00",
+    "publishedAt": "2026-08-12T22:47:43+00:00"
+  },
+  {
+    "title_org": "Micron Advanced Memory Portfolio Positioned for AI Infrastructure Expansion",
+    "title_vietnamese": "Danh mục bộ nhớ tiên tiến của Micron sẵn sàng cho việc mở rộng cơ sở hạ tầng AI",
+    "summary_org": "Micron Technology has positioned itself as a key supplier in the AI compute ecosystem through its leadership in advanced DRAM, High Bandwidth Memory (HBM), and NAND flash technologies. The company is strategically addressing the rapidly growing demand from hyperscale data centers and AI accelerator platforms.",
+    "summary_vietnamese": "Micron Technology đã khẳng định vị thế là nhà cung cấp quan trọng trong hệ sinh thái điện toán AI nhờ sự dẫn đầu về công nghệ DRAM tiên tiến, High Bandwidth Memory (HBM) và flash NAND. Công ty đang đáp ứng chiến lược nhu cầu phát triển nhanh chóng từ các trung tâm dữ liệu siêu quy mô và nền tảng tăng tốc AI.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/369794-micron-advanced-memory-portfolio-positioned-for-ai-infrastructure-expansion/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/06/Micron-Advanced-Memory-Portfolio-Positioned-for-AI-Infrastructure-Expansion-2-1200x600.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-08-13T01:20:47.969127+00:00",
+    "publishedAt": "2026-08-12T21:00:55+00:00"
   }
 ]
