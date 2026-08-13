@@ -38,5 +38,21 @@
     "thumbnail": null,
     "author": null,
     "published_date": "Thu, 13 Aug 2026 08:00:00 +0000"
+  },
+  {
+    "article_url": "https://www.eetimes.com/neuromorphic-computing-needs-more-than-novel-chips/",
+    "title": "Neuromorphic Computing Needs More Than Novel Chips",
+    "summary": "<p>Katie Schuman on why neuromorphic computing needs HPC engineers, compilers, and shared hardware access to move from promise to practice.</p>",
+    "thumbnail": null,
+    "author": null,
+    "published_date": "Thu, 13 Aug 2026 13:00:00 +0000"
+  },
+  {
+    "article_url": "https://www.eetimes.com/using-agents-to-maximize-nvidia-jetson-memory-usage-at-the-edge/",
+    "title": "Using Agents to Maximize NVIDIA Jetson Memory Usage at the Edge",
+    "summary": "<p>Discover how NVIDIA Jetson's software optimization stack can reclaim significant memory, enabling teams to run bigger AI workloads at a lower module cost. </p>",
+    "thumbnail": null,
+    "author": null,
+    "published_date": "Thu, 13 Aug 2026 12:00:00 +0000"
   }
 ]

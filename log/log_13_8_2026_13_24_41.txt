@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/eda/371785-using-claude-ai-for-chip-design/
+Title: Using Claude AI for Chip Design
+Summary: <p class="isSelectedEnd">After speaking with dozens of semiconductor professionals at the Design Automation Conference in Long Beach about AI in the chip-design workflow, Claude emerged as the comm...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Using-Claude-AI-for-Chip-Design-1200x480.jpg
+Author: Daniel Nenni
+Published date: Thu, 13 Aug 2026 13:00:52 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

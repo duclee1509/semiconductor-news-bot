@@ -236,5 +236,19 @@
     "author": "Brian Bailey",
     "createdAt": "2026-08-13T08:27:32.691955+00:00",
     "publishedAt": "2026-08-13T07:12:15+00:00"
+  },
+  {
+    "title_org": "Using Claude AI for Chip Design",
+    "title_vietnamese": "Sử dụng Claude AI trong thiết kế vi mạch",
+    "summary_org": "At the Design Automation Conference in Long Beach, semiconductor professionals frequently highlighted Claude AI as a key tool in the chip-design workflow. This trend indicates that the industry is still only scratching the surface of integrating artificial intelligence into design flows.",
+    "summary_vietnamese": "Tại hội nghị Design Automation Conference ở Long Beach, các chuyên gia bán dẫn thường xuyên nhắc đến Claude AI như một công cụ chủ chốt trong quy trình thiết kế vi mạch. Xu hướng này cho thấy ngành công nghiệp mới chỉ đang ở giai đoạn đầu của việc tích hợp trí tuệ nhân tạo vào các luồng thiết kế.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/371785-using-claude-ai-for-chip-design/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Using-Claude-AI-for-Chip-Design-1200x480.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-08-13T13:25:06.758683+00:00",
+    "publishedAt": "2026-08-13T13:00:52+00:00"
   }
 ]
