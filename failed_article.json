@@ -54,5 +54,21 @@
     "thumbnail": null,
     "author": null,
     "published_date": "Thu, 13 Aug 2026 12:00:00 +0000"
+  },
+  {
+    "article_url": "https://www.eetimes.com/enabling-robot-operating-systems/",
+    "title": "Enabling Robot Operating Systems—Introducing the ADI Trinamic Motor Controller ROS1 Driver",
+    "summary": "<p>Robot Operating System (ROS) drivers were developed on Analog Devices prod ucts so that they can be readily used within a ROS ecosystem. This article will give an overview on how to use and inte...",
+    "thumbnail": null,
+    "author": null,
+    "published_date": "Thu, 13 Aug 2026 16:14:17 +0000"
+  },
+  {
+    "article_url": "https://www.eetimes.com/ais-next-bottleneck-is-public-consent/",
+    "title": "AI’s Next Bottleneck Is Public Consent",
+    "summary": "<p>AI’s next choke point isn’t chips—it’s public trust as states slow data centers over power, water, and secrecy. </p>",
+    "thumbnail": null,
+    "author": null,
+    "published_date": "Thu, 13 Aug 2026 14:13:06 +0000"
   }
 ]
