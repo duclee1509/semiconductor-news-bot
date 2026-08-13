@@ -208,5 +208,33 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-08-13T01:20:47.969127+00:00",
     "publishedAt": "2026-08-12T21:00:55+00:00"
+  },
+  {
+    "title_org": "The 1-Megawatt Rack Debate",
+    "title_vietnamese": "Cuộc tranh luận về rack máy chủ 1-Megawatt",
+    "summary_org": "The article discusses the ongoing debate in the semiconductor and data center industries regarding whether to cram more compute power into each rack or to fundamentally rethink the system architecture. It highlights the challenges of handling extreme power densities, such as reaching the 1-megawatt threshold per rack.",
+    "summary_vietnamese": "Bài viết thảo luận về cuộc tranh luận đang diễn ra trong ngành công nghiệp bán dẫn và trung tâm dữ liệu về việc nên nhồi nhét thêm nhiều sức mạnh tính toán vào mỗi rack hay thay đổi cơ bản kiến trúc hệ thống. Bài viết nhấn mạnh các thách thức trong việc xử lý mật độ công suất cực high, chẳng hạn như việc đạt ngưỡng 1-megawatt trên mỗi rack.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/the-1-megawatt-rack-debate/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_594956379-data-center-MARch-26-2025-scaled.jpeg?fit=2560%2C1440&ssl=1",
+    "author": "Ann Mutschler",
+    "createdAt": "2026-08-13T08:27:28.093647+00:00",
+    "publishedAt": "2026-08-13T07:15:49+00:00"
+  },
+  {
+    "title_org": "Vertical Integration Becoming Pervasive",
+    "title_vietnamese": "Tích hợp dọc đang trở nên phổ biến rộng rãi",
+    "summary_org": "System optimization requires a deep understanding of both hardware and software, necessitating close cooperation to achieve the right architectural choices. This trend highlights the growing pervasiveness of vertical integration in the semiconductor industry.",
+    "summary_vietnamese": "Việc tối ưu hóa hệ thống đòi hỏi sự thấu hiểu sâu sắc về cả phần cứng lẫn phần mềm, đồng thời cần sự hợp tác chặt chẽ để đưa ra các lựa chọn kiến trúc phù hợp. Xu hướng này làm nổi bật tầm quan trọng ngày càng tăng của việc tích hợp dọc trong ngành công nghiệp bán dẫn.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/vertical-integration-becoming-pervasive/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_416615461-01-29-25-scaled.jpeg?fit=2560%2C1061&ssl=1",
+    "author": "Brian Bailey",
+    "createdAt": "2026-08-13T08:27:32.691955+00:00",
+    "publishedAt": "2026-08-13T07:12:15+00:00"
   }
 ]
