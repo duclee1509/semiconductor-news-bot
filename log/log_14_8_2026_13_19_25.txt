@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/lithography/372177-asmls-path-to-lithography-dominance-and-the-coming-maskless-revolution/
+Title: ASML’s Path to Lithography Dominance—and the Coming Maskless Revolution
+Summary: <p>ASML’s dominance was not born from a single invention. It emerged from four decades of systems engineering, supplier orchestration, and repeated bets on lithographic transitions that competitors...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/ASMLs-Path-to-Lithography-Dominance—and-the-Coming-Maskless-Revolution-1200x675.jpg
+Author: Daniel Nenni
+Published date: Fri, 14 Aug 2026 13:00:53 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

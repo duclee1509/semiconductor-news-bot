@@ -78,5 +78,21 @@
     "thumbnail": null,
     "author": null,
     "published_date": "Thu, 13 Aug 2026 18:47:35 +0000"
+  },
+  {
+    "article_url": "https://www.eetimes.com/intel-at-a-memory-crossroads-again/",
+    "title": "Intel at a Memory Crossroads, Again",
+    "summary": "<p>The CPU specialist heeds a memory comeback while memory chips transform from commodity to AI gold rush.</p>",
+    "thumbnail": null,
+    "author": null,
+    "published_date": "Fri, 14 Aug 2026 13:01:36 +0000"
+  },
+  {
+    "article_url": "https://www.eetimes.com/semiconductor-equipment-shifts-to-build-to-print-manufacturing/",
+    "title": "Semiconductor Equipment Shifts To Build-to-Print Manufacturing",
+    "summary": "<p>Semiconductor equipment OEMs look to build-to-print for greater capacity.</p>",
+    "thumbnail": null,
+    "author": null,
+    "published_date": "Fri, 14 Aug 2026 10:56:17 +0000"
   }
 ]
