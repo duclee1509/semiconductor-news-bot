@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/eda/bronco-ai/368908-bronco-ai-webinar-full-chip-soc-debug-in-15-minutes/
+Title: Bronco AI Webinar: Full-Chip SoC Debug in 15 Minutes
+Summary: <p><a href="https://register.gotowebinar.com/register/5055193182407277404?source=SemiWiki"></a></p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Full-Chip-SoC-Debug-in-15-Minutes-1200x1200.jpg
+Author: Daniel Nenni
+Published date: Thu, 13 Aug 2026 21:00:46 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

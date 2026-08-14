@@ -264,5 +264,19 @@
     "author": "Daniel Payne",
     "createdAt": "2026-08-13T20:51:26.054337+00:00",
     "publishedAt": "2026-08-13T17:00:43+00:00"
+  },
+  {
+    "title_org": "Bronco AI Webinar: Full-Chip SoC Debug in 15 Minutes",
+    "title_vietnamese": "Hội thảo trực tuyến của Bronco AI: Gỡ lỗi SoC toàn chip chỉ trong 15 phút",
+    "summary_org": "Debugging complex full-chip SoC issues typically consumes days or weeks of valuable engineering time by analyzing massive waveforms and dense RTL/UVM files. An upcoming webinar by Bronco AI introduces advanced methodologies to streamline this debug process significantly. The session focuses on reducing resolution time and overcoming traditional verification bottlenecks.",
+    "summary_vietnamese": "Việc gỡ lỗi các vấn đề phức tạp trên SoC toàn chip thường tiêu tốn nhiều ngày hoặc nhiều tuần thời gian của kỹ sư để phân tích các dạng sóng lớn và các tệp RTL/UVM dày đặc. Một hội thảo trực tuyến sắp tới của Bronco AI giới thiệu các phương pháp tiên tiến để hợp lý hóa đáng kể quy trình gỡ lỗi này. Buổi hội thảo tập trung vào việc giảm thời gian xử lý và vượt qua các nút thắt xác minh truyền thống.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/bronco-ai/368908-bronco-ai-webinar-full-chip-soc-debug-in-15-minutes/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Full-Chip-SoC-Debug-in-15-Minutes-1200x1200.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-08-14T02:26:48.885686+00:00",
+    "publishedAt": "2026-08-13T21:00:46+00:00"
   }
 ]
