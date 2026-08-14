@@ -278,5 +278,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-08-14T02:26:48.885686+00:00",
     "publishedAt": "2026-08-13T21:00:46+00:00"
+  },
+  {
+    "title_org": "Chip Industry Week In Review",
+    "title_vietnamese": "Điểm tin ngành công nghiệp vi mạch trong tuần",
+    "summary_org": "This week's review covers major expansions by Lam Research and ASE, architectural shifts in data centers, and new technological breakthroughs including CPO systems and 2D-transistor interfaces. It also highlights updates on USENIX hardware security, patent lawsuits, image sensors, programmable AI memtransistors, Nvidia's new plans, and corporate earnings.",
+    "summary_vietnamese": "Bản tin tuần này đề cập đến việc mở rộng quy mô của Lam Research và ASE, sự chuyển dịch trong trung tâm dữ liệu, cùng các đột phá công nghệ mới như hệ thống CPO và giao diện 2D-transistor. Ngoài ra, bài viết cũng tổng hợp các thông tin về bảo mật phần cứng USENIX, các vụ kiện bằng sáng chế, cảm biến hình ảnh, memtransistor AI lập trình được, kế hoạch mới của Nvidia và kết quả kinh doanh của các doanh nghiệp.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-week-in-review-151/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_596228503-wafer-scaled.jpeg?fit=2560%2C890&ssl=1",
+    "author": "The SE Staff",
+    "createdAt": "2026-08-14T09:13:30.688911+00:00",
+    "publishedAt": "2026-08-14T07:01:48+00:00"
   }
 ]

@@ -1,0 +1,8 @@
+Article: https://semiengineering.com/chip-industry-week-in-review-151/
+Title: Chip Industry Week In Review
+Summary: <p>Lam Research and ASE expansions; data center shifts; CPO system architecture initiative; 2D-transistor interface solution; USENIX HW security; patent suits; image sensors; programmable AI memtra...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_596228503-wafer-scaled.jpeg?fit=2560%2C890&ssl=1
+Author: The SE Staff
+Published date: Fri, 14 Aug 2026 07:01:48 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
