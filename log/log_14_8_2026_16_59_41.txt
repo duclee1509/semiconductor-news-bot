@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/semiconductor-manufacturers/tsmc/372146-a-0-42-nanometer-breakthrough-from-tsmc-could-push-transistors-beyond-silicon/
+Title: A 0.42-Nanometer Breakthrough From TSMC Could Push Transistors Beyond Silicon
+Summary: <p>Researchers at National Yang Ming Chiao Tung University and TSMC Corporate Research engineered a 0.42-nanometer aluminum-oxide interface that protects electron transport in monolayer MoS₂ transi...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/A-0.42-Nanometer-Breakthrough-Could-Push-Transistors-Beyond-Silicon-1200x675.jpg
+Author: Daniel Nenni
+Published date: Fri, 14 Aug 2026 15:00:13 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

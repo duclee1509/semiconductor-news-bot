@@ -306,5 +306,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-08-14T13:19:50.961592+00:00",
     "publishedAt": "2026-08-14T13:00:53+00:00"
+  },
+  {
+    "title_org": "A 0.42-Nanometer Breakthrough From TSMC Could Push Transistors Beyond Silicon",
+    "title_vietnamese": "Bước đột phá 0,42 nanômét từ TSMC có thể đưa transistor vượt qua giới hạn của silicon",
+    "summary_org": "Researchers from National Yang Ming Chiao Tung University and TSMC have developed a 0.42-nanometer aluminum-oxide interface. This innovation protects electron transport in monolayer MoS2 transistors while maintaining strong gate control, potentially helping push semiconductor technology beyond traditional silicon limits.",
+    "summary_vietnamese": "Các nhà nghiên cứu từ Đại học Quốc lập Dương Minh Chiao Tung và TSMC đã phát triển một lớp màng oxit nhôm giao diện dày 0,42 nanômét. Cải tiến này giúp bảo vệ quá trình vận chuyển điện tử trong các transistor MoS2 đơn lớp đồng thời duy trì khả năng kiểm soát cổng mạnh mẽ, có thể giúp đẩy công nghệ bán dẫn vượt qua các giới hạn truyền thống của silicon.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/tsmc/372146-a-0-42-nanometer-breakthrough-from-tsmc-could-push-transistors-beyond-silicon/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/A-0.42-Nanometer-Breakthrough-Could-Push-Transistors-Beyond-Silicon-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-08-14T17:00:10.179905+00:00",
+    "publishedAt": "2026-08-14T15:00:13+00:00"
   }
 ]

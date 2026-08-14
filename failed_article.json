@@ -94,5 +94,13 @@
     "thumbnail": null,
     "author": null,
     "published_date": "Fri, 14 Aug 2026 10:56:17 +0000"
+  },
+  {
+    "article_url": "https://www.eetimes.com/an-introduction-to-software-prototyping-unlocking-soc-software-verification-with-profpga-cs/",
+    "title": "An Introduction to Software Prototyping: Unlocking SoC Software Verification with proFPGA CS",
+    "summary": "<p>Discover how the Veloce™ proFPGA CS platform delivers a flexible, modular architecture that scales across the full spectrum of SoC software verification needs.</p>",
+    "thumbnail": null,
+    "author": null,
+    "published_date": "Fri, 14 Aug 2026 15:22:50 +0000"
   }
 ]
