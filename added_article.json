@@ -334,5 +334,19 @@
     "author": "Minh Giảng",
     "createdAt": "2026-08-15T04:37:59.328142+00:00",
     "publishedAt": "2026-07-07T12:52:00+00:00"
+  },
+  {
+    "title_org": "Common Earth Project Aims to End Chip Supply Chain Bottlenecks",
+    "title_vietnamese": "Dự án Common Earth nhằm chấm dứt tình trạng tắc nghẽn chuỗi cung ứng chip",
+    "summary_org": "Researchers at the University of Michigan and Imec have launched the \"Common Earth\" project to address critical material bottlenecks and environmental hazards in the semiconductor supply chain. By finding alternatives to rare earths, hafnium, and toxic PFAS chemicals, and leveraging advanced architectures like chiplets, the team aims to build a more resilient and sustainable chipmaking ecosystem.",
+    "summary_vietnamese": "Các nhà nghiên cứu tại Đại học Michigan và Imec đã khởi động dự án \"Common Earth\" nhằm giải quyết tình trạng tắc nghẽn vật liệu trọng yếu và các mối nguy hại môi trường trong chuỗi cung ứng bán dẫn. Bằng cách tìm kiếm các giải pháp thay thế cho đất hiếm, hafnium cùng hóa chất độc hại PFAS, đồng thời tận dụng các kiến trúc tiên tiến như chiplets, nhóm nghiên cứu hướng tới việc xây dựng một hệ sinh thái sản xuất chip có khả năng chống chịu tốt hơn và bền vững hơn.",
+    "source": "IEEE Spectrum - Semiconductors",
+    "url": "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://spectrum.ieee.org/media-library/three-professors-standing-around-a-colleague-seated-at-a-computer-workstation.jpg?id=67625295&width=1200&height=600&coordinates=0%2C81%2C0%2C419",
+    "author": "Alex Music",
+    "createdAt": "2026-08-15T16:32:16.466724+00:00",
+    "publishedAt": "2026-08-15T13:00:01+00:00"
   }
 ]
