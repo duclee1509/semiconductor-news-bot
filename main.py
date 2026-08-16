@@ -26,16 +26,18 @@ db = firestore.client()
 gemini_client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 
 RSS_SOURCES = [
-    {"name": "EETimes", "url": "https://www.eetimes.com/feed/", "category": "International", "type": "rss"},
     {"name": "Semiconductor Engineering", "url": "https://semiengineering.com/feed/", "category": "International", "type": "rss"},
     {"name": "IEEE Spectrum - Semiconductors", "url": "https://spectrum.ieee.org/feeds/topic/semiconductors.rss", "category": "International", "type": "rss"},
     {"name": "SemiWiki", "url": "https://semiwiki.com/feed/", "category": "International", "type": "rss"},
     {"name": "Báo Chính phủ ", "url": "https://baochinhphu.vn/ban-dan.html", "category": "VietNam", "type": "html"},
     {"name": "VnExpress", "url": "https://vnexpress.net/tag/ban-dan-236473", "category": "VietNam", "type": "html"},
-    {"name": "Báo Tuổi Trẻ", "url": "https://tuoitre.vn/ban-dan.html", "category": "VietNam", "type": "html"}
+    {"name": "VnExpress", "url": "https://vnexpress.net/tag/chip-346401", "category": "VietNam", "type": "html"},
+    {"name": "VnExpress", "url": "https://vnexpress.net/tag/chip-9167", "category": "VietNam", "type": "html"},
+    {"name": "Báo Tuổi Trẻ", "url": "https://tuoitre.vn/ban-dan.html", "category": "VietNam", "type": "html"},
+    {"name": "Báo Tuổi Trẻ", "url": "https://tuoitre.vn/vi-mach.html", "category": "VietNam", "type": "html"}
 ]
 
-NUMBER_OF_ARTICLES_FOR_EACH_SOURCE = 2  # Maximum number of articles to fetch from each source
+NUMBER_OF_ARTICLES_FOR_EACH_SOURCE = 5  # Maximum number of articles to fetch from each source
 MAX_LOG_FILES = 50
 MAX_FAILED_ENTRIES = 100
 MAX_ADDED_ENTRIES = 10000
