@@ -1,0 +1,197 @@
+Article: https://semiengineering.com/coppers-grip-on-ai-scaling-is-starting-to-slip/
+Title: Copper’s Grip On AI Scaling Is Starting To Slip
+Summary: <p>As AI clusters push beyond rack-scale limits, optical interconnects and circuit switching are reshaping how data centers scale. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/Image-from-iOS-6.gif
+Author: Bryon Moyer
+Published date: Thu, 13 Aug 2026 07:11:36 +0000
+
+Article: https://semiengineering.com/ddr5-9600-rdimms-raising-the-performance-benchmark-for-server-memory/
+Title: DDR5 9600 RDIMMs: Raising The Performance Benchmark For Server Memory
+Summary: <p>The ability to move and manage data efficiently is a defining challenge for data center architects.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/data-center-06-26-AdobeStock_1647933846-scaled.jpeg?fit=2560%2C1440&ssl=1
+Author: Zaman Mollah
+Published date: Thu, 13 Aug 2026 07:08:19 +0000
+
+Article: https://spectrum.ieee.org/ai-in-robotics
+Title: Optical Tech Would Update a Robot’s AI on the Fly
+Summary: <img src="https://spectrum.ieee.org/media-library/an-asian-man-positions-the-lens-of-an-optical-receiver-a-meter-away-from-a-beam-of-led-light-in-a-lab.jpg?id=67530602&amp;width=1245&amp;height=700...
+Thumbnail: https://spectrum.ieee.org/media-library/an-asian-man-positions-the-lens-of-an-optical-receiver-a-meter-away-from-a-beam-of-led-light-in-a-lab.jpg?id=67530602&width=1200&height=600&coordinates=0%2C325%2C0%2C926
+Author: Alex Music
+Published date: Sun, 26 Jul 2026 13:00:01 +0000
+
+Article: https://spectrum.ieee.org/sleep-monitoring-device
+Title: Sleep Patch Could Track Brain’s Nightly Cleansing Ritual
+Summary: <img src="https://spectrum.ieee.org/media-library/a-flexible-wireless-medical-monitor-adhered-to-a-sleeping-persons-forehead.jpg?id=67516768&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C...
+Thumbnail: https://spectrum.ieee.org/media-library/image.jpg?id=67516771&width=1200&height=600&coordinates=0%2C404%2C0%2C96
+Author: Alex Music
+Published date: Thu, 23 Jul 2026 12:00:01 +0000
+
+Article: https://baochinhphu.vn/phat-trien-cong-nghiep-ban-dan-theo-huong-gan-ket-chat-che-nghien-cuu-ung-dung-thi-truong-102260407162329459.htm
+Title: Phát triển công nghiệp bán dẫn theo hướng gắn kết chặt chẽ nghiên cứu - ứng dụng - thị trường
+Summary: (Chinhphu.vn) - Phó Thủ tướng Nguyễn Chí Dũng - Trưởng Ban Chỉ đạo quốc gia về phát triển ngành công nghiệp bán dẫn đã ký Quyết định số 32/QĐ-BCĐPTCNBD ngày 5/4/2026 ban hành Kế hoạch hoạt động năm...
+Thumbnail: https://bcp2.cdnchinhphu.vn/zoom/1200_630/334894974524682240/2026/4/7/loat-ong-lon-do-bo-nganh-ban-dan-viet-nam-lam-gi-chop-thoi-co-78f641d73696-17755536153161343762496-0-61-337-600-crop-17755537259701597546978.jpg
+Author: Phương Nhi
+Published date: Tue, 07 Apr 2026 07:56:00 +0000
+
+Article: https://baochinhphu.vn/tap-trung-phat-trien-nganh-cong-nghiep-ban-dan-102260330101012621.htm
+Title: Tập trung phát triển ngành công nghiệp bán dẫn
+Summary: (Chinhphu.vn) - Văn phòng Chính phủ ban hành Thông báo số 156/TB-VPCP ngày 28/3/2026 kết luận của Ban Chỉ đạo quốc gia về phát triển ngành công nghiệp bán dẫn tại Phiên họp thứ nhất năm 2026 (Ban C...
+Thumbnail: https://bcp2.cdnchinhphu.vn/zoom/1200_630/334894974524682240/2026/3/30/91-1875jpg-17278366261481083170128-1774840056710860299665-0-31-437-730-crop-17748400987101997877015.jpg
+Author: Phương Nhi
+Published date: Mon, 30 Mar 2026 15:22:00 +0000
+
+Article: https://baochinhphu.vn/di-dung-huong-va-buoc-dau-hinh-thanh-nen-tang-phat-trien-cong-nghiep-ban-dan-10226031018055547.htm
+Title: Đi đúng hướng và bước đầu hình thành nền tảng phát triển công nghiệp bán dẫn
+Summary: (Chinhphu.vn) – Chiều 10/3, chủ trì Phiên họp lần thứ nhất năm 2026 của Ban Chỉ đạo quốc gia về phát triển ngành công nghiệp bán dẫn, Phó Thủ tướng Nguyễn Chí Dũng khẳng định nước ta đã đi đúng hướ...
+Thumbnail: https://bcp2.cdnchinhphu.vn/zoom/1200_630/334894974524682240/2026/3/10/z7606691897585d9b745ebd362315cf1ff138ac15cca04-17731404623281004380808-16-0-900-1415-crop-17731407120321762576785.jpg
+Author: Thu Sa
+Published date: Tue, 10 Mar 2026 18:14:00 +0000
+
+Article: https://vnexpress.net/chuyen-gia-viet-nam-la-tam-diem-thuong-mai-ai-o-chau-a-5097751.html
+Title: Chuyên gia: Việt Nam là tâm điểm thương mại AI ở châu Á
+Summary: Thị phần thương mại của Việt Nam mảng thiết bị liên quan AI tăng vọt thập kỷ qua, thành tâm điểm châu Á, theo Tổng giám đốc HSBC Việt Nam.
+Thumbnail: https://vcdn1-kinhdoanh.vnecdn.net/2026/07/15/tim-1784102928-5691-1784103406.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=1qP-kLfRzQiblqvavgfd6g
+Author: Viễn Thông
+Published date: Thu, 16 Jul 2026 09:16:42 +0000
+
+Article: https://vnexpress.net/tu-chu-chip-viet-can-xoa-khoang-trong-ve-nhan-luc-va-ha-tang-5094998.html
+Title: 'Tự chủ chip Việt cần xóa khoảng trống về nhân lực và hạ tầng'
+Summary: Nhân lực và đi sau là lợi thế khi Việt Nam phát triển ngành vi mạch bán dẫn, nhưng để làm chủ công nghệ thực sự vẫn còn những khoảng trống cần lấp đầy, theo TS Lê Quang Đạm.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/07/08/qdportrait-1783493659-5179-1783493818.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=pe2Fgcs2cU1Loh99_0rCCg
+Author: Nam Nguyễn
+Published date: Mon, 13 Jul 2026 02:00:00 +0000
+
+Article: https://vnexpress.net/nhan-vien-nganh-chip-cao-gia-tren-thi-truong-hon-nhan-5089468.html
+Title: Nhân viên ngành chip 'cao giá' trên thị trường hôn nhân
+Summary: Hàn QuốcSự bùng nổ AI giúp nhân viên độc thân tại Samsung, SK Hynix tăng thu nhập và sức hút, trở thành ứng viên kết hôn hấp dẫn.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/06/24/smartphonemarketchina04569-178-9598-6378-1782295663.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=aIqNmT_W6eEUgz8Y-AQ4sw
+Author: Thu Thảo
+Published date: Fri, 26 Jun 2026 22:00:00 +0000
+
+Article: https://vnexpress.net/viet-nam-can-co-phong-thi-nghiem-phat-trien-chip-dung-chung-5108691.html
+Title: Việt Nam cần có phòng thí nghiệm phát triển chip dùng chung
+Summary: Các chuyên gia đề xuất xây dựng phòng thí nghiệm dùng chung để viện, trường đại học và doanh nghiệp cùng nghiên cứu, phát triển chip bán dẫn.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/08/13/lq-1786598624-7151-1786598646.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=YmNhH6UeNgPV2lmShgpw_w
+Author: Trọng Đạt
+Published date: Thu, 13 Aug 2026 07:19:11 +0000
+
+Article: https://vnexpress.net/quy-nafosted-tai-tro-nghien-cuu-hop-tac-viet-nhat-ve-ban-dan-5100478.html
+Title: Quỹ Nafosted tài trợ nghiên cứu hợp tác Việt - Nhật về bán dẫn
+Summary: Hà NộiQuỹ Phát triển khoa học và công nghệ Quốc gia (Nafosted) ký hợp đồng tài trợ 5 nhiệm vụ nghiên cứu chung giữa Việt Nam và Nhật Bản về bán dẫn.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/07/22/nafosted-jfif-1784715394-3870-1784715453.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=M4a8rknRkxHDiQezqj1vmA
+Author: Trọng Đạt
+Published date: Wed, 22 Jul 2026 13:29:02 +0000
+
+Article: https://vnexpress.net/trung-quoc-tim-cach-vuot-gioi-han-voi-cong-nghe-xep-chong-3d-5093944.html
+Title: Trung Quốc tìm cách vượt giới hạn với công nghệ xếp chồng 3D
+Summary: Ngày càng nhiều công ty bán dẫn Trung Quốc sử dụng giải pháp xếp chồng 3D trong bối cảnh bị Mỹ hạn chế tiếp cận công nghệ tiên tiến.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/07/06/cesbkdrpwffivcedofxtozwwzm-178-8269-4626-1783334707.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=8JKSuQXM_YMmX5NlLF_axA
+Author: Bảo Lâm
+Published date: Thu, 09 Jul 2026 01:32:41 +0000
+
+Article: https://vnexpress.net/con-khat-chip-ai-lan-sang-linh-kien-vat-lieu-ban-dan-5092223.html
+Title: Cơn khát chip AI lan sang linh kiện, vật liệu bán dẫn
+Summary: Không chỉ đẩy giá GPU và chip nhớ lên cao, cơn sốt AI còn tạo ra "nút thắt cổ chai" mới khi tụ điện, tấm đồng hay vải thủy tinh trở nên khan hiếm.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/07/01/infineon-lowres-produktion-rei-8808-1966-1782903513.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=63k-QCAx-1yfMDDtgH2EyQ
+Author: Bảo Lâm
+Published date: Sat, 04 Jul 2026 22:00:00 +0000
+
+Article: https://vnexpress.net/chip-dieu-khien-vu-khi-trong-cuoc-chien-xe-tu-lai-trung-quoc-5086662.html
+Title: Chip điều khiển - 'vũ khí' trong cuộc chiến xe tự lái Trung Quốc
+Summary: Các công ty ôtô Trung Quốc đang chạy đua sản xuất chip điều khiển thông minh cho xe tự lái nhằm giảm sự phụ thuộc Nvidia và Horizon Robotics.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/06/17/2026051210093227-1781668560-2478-1781668934.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=0S6_5d69kTzSgShJ4T9eoA
+Author: Bảo Lâm
+Published date: Fri, 19 Jun 2026 22:00:00 +0000
+
+Article: https://vnexpress.net/nha-khoa-hoc-viet-duoc-cap-bang-sang-che-my-cho-bo-nao-trong-mach-dien-5107019.html
+Title: Nhà khoa học Việt được cấp bằng sáng chế Mỹ cho 'bộ não trong mạch điện'
+Summary: Memristor - linh kiện điện tử có khả năng tính toán và lưu trữ, do các nhà khoa học Việt Nam phát triển, được Văn phòng Sáng chế và Nhãn hiệu Mỹ (USPTO) cấp bằng sáng chế.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/08/12/tro-nho-1786505125-4486-1786505185.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=J-7fPdExJTDWsWVhZImVnA
+Author: Nam Nguyễn
+Published date: Tue, 11 Aug 2026 17:00:00 +0000
+
+Article: https://vnexpress.net/my-sap-ap-them-thue-de-chan-tham-vong-chip-cua-trung-quoc-5105918.html
+Title: Mỹ sắp áp thêm thuế để chặn tham vọng chip của Trung Quốc
+Summary: Reuters cho biết sớm nhất là hôm nay chính quyền Tổng thống Trump sẽ công bố thuế nhập khẩu 15% và giá sàn với các sản phẩm làm từ polysilicon.
+Thumbnail: https://vcdn1-kinhdoanh.vnecdn.net/2026/08/06/Screenshot20260806111600-17859-7557-7365-1785989835.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=OM9DfnjpX9jtQugdSJFouA
+Author: Hà Thu
+Published date: Thu, 06 Aug 2026 04:26:03 +0000
+
+Article: https://vnexpress.net/buoc-tien-may-duv-cua-trung-quoc-khien-phuong-tay-lo-ngai-5105403.html
+Title: Bước tiến máy DUV của Trung Quốc khiến phương Tây lo ngại
+Summary: Thông tin Trung Quốc sản xuất máy quang khắc DUV thiết yếu trong chế tạo chip cho thấy nước này đang tiến bộ nhanh chóng dù chịu kiểm soát nghiêm ngặt.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/08/05/semiconductors1770282993445917-4024-2569-1785901696.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=ZGLJOmDn8jIe3--8zLoeXA
+Author: Thu Thảo
+Published date: Wed, 05 Aug 2026 09:15:00 +0000
+
+Article: https://vnexpress.net/trung-quoc-phat-trien-cong-nghe-chip-nho-tiet-kiem-dien-5101310.html
+Title: Trung Quốc phát triển công nghệ chip nhớ tiết kiệm điện
+Summary: Các nhà nghiên cứu ở Đại học Phúc Đán, Thượng Hải phát triển công nghệ chip mới, cho phép mô hình AI chạy trên điện thoại với mức tiêu thụ điện tối thiểu.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/07/24/VNEChip-1784884388-1528-1784884666.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=GU9vZmCO8UGRjchpjF8zSg
+Author: An Khang
+Published date: Fri, 24 Jul 2026 17:00:00 +0000
+
+Article: https://vnexpress.net/startup-xay-trung-tam-du-lieu-1-gw-co-the-chi-dung-chip-trung-quoc-5100463.html
+Title: Startup xây trung tâm dữ liệu 1 GW, có thể chỉ dùng chip Trung Quốc
+Summary: Công ty Trung Quốc Z.ai (Zhipu AI) được cho là đã xây xong và bắt đầu vận hành trung tâm dữ liệu khổng lồ sử dụng hoàn toàn chip nội địa.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/07/23/wm1-wm1-zai-1784768218-3515-1784768346.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=r_jI468BeL5cUU4SPr2hYg
+Author: Thu Thảo
+Published date: Fri, 24 Jul 2026 00:00:00 +0000
+
+Article: https://tuoitre.vn/tphcm-de-xuat-goi-ho-tro-den-200-ti-dong-cho-moi-du-an-cong-nghe-ai-va-ban-dan-10026072408484206.htm
+Title: TP.HCM đề xuất gói hỗ trợ đến 200 tỉ đồng cho mỗi dự án công nghệ, AI và bán dẫn
+Summary: Sở Khoa học và Công nghệ TP.HCM đang lấy ý kiến về dự thảo hỗ trợ trực tiếp tối đa 200 tỉ đồng cho mỗi dự án.
+Thumbnail: https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/7/24/chip-17848572944442068352372-160-0-1450-2464-crop-1784857415240548799995.jpg
+Author: Công Triệu
+Published date: Fri, 24 Jul 2026 10:44:00 +0000
+
+Article: https://tuoitre.vn/tphcm-muon-dao-tao-9000-nhan-luc-ban-dan-nghien-cuu-mien-thue-5-nam-cho-chuyen-gia-100260721144245083.htm
+Title: TP.HCM muốn đào tạo 9.000 nhân lực bán dẫn, nghiên cứu miễn thuế 5 năm cho chuyên gia
+Summary: TP.HCM đặt mục tiêu đào tạo 9.000 nhân lực bán dẫn đến năm 2030, đồng thời nghiên cứu quỹ 5 triệu USD và chính sách miễn thuế 5 năm để thu hút chuyên gia.
+Thumbnail: https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/7/21/2aoboqlutzk3ifwmvg2vxnwkmlp3heazuqnhe0jg-17846194198921668005454-210-570-1165-2393-crop-17846270033201902018279.jpg
+Author: Trọng Nhân
+Published date: Tue, 21 Jul 2026 16:22:00 +0000
+
+Article: https://tuoitre.vn/tphcm-ho-tro-den-15-ti-dong-cho-moi-du-an-thiet-ke-chip-ban-dan-noi-100260707201219476.htm
+Title: TP.HCM hỗ trợ đến 15 tỉ đồng cho mỗi dự án thiết kế chip bán dẫn 'nội'
+Summary: TP.HCM dự kiến hỗ trợ tối đa 15 tỉ đồng cho các doanh nghiệp trong nước thực hiện dự án thiết kế chip bán dẫn.
+Thumbnail: https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/7/7/chip-ban-dan-1783429380984266538373-263-0-1553-2464-crop-17834295629652062033994.jpg
+Author: Công Triệu
+Published date: Tue, 07 Jul 2026 20:29:00 +0000
+
+Article: https://tuoitre.vn/dai-hoc-quoc-gia-tphcm-va-fpt-hop-tac-nghien-cuu-cong-nghe-loi-10026062312561654.htm
+Title: Đại học Quốc gia TP.HCM và FPT hợp tác nghiên cứu công nghệ lõi
+Summary: Đại học Quốc gia TP.HCM và Tập đoàn FPT vừa ký kết hợp tác toàn diện, trong đó có phát triển nhân lực lĩnh vực vi mạch bán dẫn, nghiên cứu chuyển giao công nghệ.
+Thumbnail: https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/6/23/fpt-ky-ket-hop-tac-dhqg-hcm-1782193681181917149242-0-83-933-1865-crop-17821954305182115424569.jpeg
+Author: Minh Giảng
+Published date: Tue, 23 Jun 2026 13:12:00 +0000
+
+Article: https://tuoitre.vn/dhqghn-dat-muc-tieu-den-nam-2030-dao-tao-10000-chuyen-gia-ban-dan-100260619115548154.htm
+Title: ĐHQG Hà Nội đặt mục tiêu đến năm 2030 đào tạo 10.000 chuyên gia bán dẫn
+Summary: Lãnh đạo Đại học Quốc gia Hà Nội nhấn mạnh việc phát triển ngành bán dẫn không thể thực hiện riêng lẻ mà cần một cơ chế hợp tác mở giữa trường đại học, doanh nghiệp và cơ quan quản lý nhà nước.
+Thumbnail: https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/6/19/7183159209820394611295861919240541425989105n-1781843720435263793513-80-0-1152-2048-crop-17818442613501965391796.jpg
+Author: Nguyên Bảo
+Published date: Fri, 19 Jun 2026 13:02:00 +0000
+
+Article: https://tuoitre.vn/tp-hcm-dat-muc-tieu-thu-hut-it-nhat-4-du-an-vi-mach-ban-dan-vao-khu-cong-nghe-cao-20260526182453221.htm
+Title: TP.HCM đặt mục tiêu thu hút ít nhất 4 dự án vi mạch bán dẫn vào Khu công nghệ cao
+Summary: Năm 2026, TP.HCM đặt mục tiêu triển khai loạt nhiệm vụ cụ thể để phát triển công nghiệp vi mạch tại Khu công nghệ cao. Trong đó có làm chủ công nghệ MEMS, đào tạo nhân lực và thu hút nhà đầu tư chi...
+Thumbnail: https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/5/26/ug4ytdggtna67ic4atgk2xzula-17797944850881563016793-64-0-1069-1920-crop-17797946455181175579720.jpg
+Author: Trọng Nhân
+Published date: Tue, 26 May 2026 19:57:00 +0000
+
+Article: https://tuoitre.vn/chien-luoc-ban-dan-nam-2026-tp-hcm-muon-dao-tao-hon-3-000-nhan-luc-hut-dau-tu-cong-nghe-cao-20260319115853584.htm
+Title: Chiến lược bán dẫn năm 2026: TP.HCM muốn đào tạo hơn 3.000 nhân lực, hút đầu tư công nghệ cao
+Summary: Với mục tiêu đào tạo hơn 3.000 nhân lực, thu hút các "ông lớn" công nghệ và xây dựng hạ tầng nghiên cứu hiện đại, TP.HCM đang đặt nền móng rõ ràng để tham gia sâu chuỗi giá trị bán dẫn toàn cầu nga...
+Thumbnail: https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/3/19/chat-ban-dan-my-han-asean-16578002834931635649554-173-0-801-1200-crop-1773896178285181623369.jpg
+Author: Trọng Nhân
+Published date: Thu, 19 Mar 2026 13:39:00 +0000
+
+Article: https://tuoitre.vn/pgs-ts-hoang-trang-va-giac-mo-ban-dan-viet-20260316222829915.htm
+Title: PGS.TS Hoàng Trang và giấc mơ bán dẫn Việt
+Summary: PGS.TS Hoàng Trang là nhà khoa học Việt Nam đầu tiên được vinh danh tại giải thưởng Sáng tạo châu Á Hitachi 2025 trong lĩnh vực vi mạch.
+Thumbnail: https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/3/16/hoang-trang09638-read-only-17736746826901384907855-64-186-1307-2560-crop-17737029528521859312143.jpg
+Author: Phúc Hậu
+Published date: Tue, 17 Mar 2026 04:44:00 +0000
+
+Completed! Added a total of 28 new news items to Firebase.
