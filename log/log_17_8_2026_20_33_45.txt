@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/eda/372254-rise-design-automation-at-dac-2026/
+Title: Rise Design Automation at DAC 2026
+Summary: <p>AI was everywhere at DAC 2026, so I stopped by the booth of Rise Design Automation to chat with Ellie Burns to hear what’s new this year. Ellie shared that Rise DA has added a new AI-powered flo...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/rise-da-dac2026.jpg
+Author: Daniel Payne
+Published date: Mon, 17 Aug 2026 17:00:32 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

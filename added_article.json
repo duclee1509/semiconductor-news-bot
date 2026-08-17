@@ -810,5 +810,19 @@
     "author": "Mike Gianfagna",
     "createdAt": "2026-08-17T16:34:44.157688+00:00",
     "publishedAt": "2026-08-17T13:00:10+00:00"
+  },
+  {
+    "title_org": "Rise Design Automation at DAC 2026",
+    "title_vietnamese": "Rise Design Automation tại DAC 2026",
+    "summary_org": "At DAC 2026, Rise Design Automation introduced a new AI-powered flow that transitions seamlessly from specifications to a High Level Synthesis (HLS) model, and finally to an RTL model. This innovative approach leverages HLS models to significantly improve simulation capabilities and design efficiency.",
+    "summary_vietnamese": "Tại sự kiện DAC 2026, Rise Design Automation đã giới thiệu một quy trình tích hợp AI mới giúp chuyển đổi liền mạch từ các thông số kỹ thuật sang mô hình Tổng hợp mức cao (HLS) và tiếp theo là mô hình RTL. Phương pháp đổi mới này tận dụng các mô hình HLS để cải thiện đáng kể năng lực mô phỏng và hiệu quả thiết kế.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/372254-rise-design-automation-at-dac-2026/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/rise-da-dac2026.jpg",
+    "author": "Daniel Payne",
+    "createdAt": "2026-08-17T20:33:49.468781+00:00",
+    "publishedAt": "2026-08-17T17:00:32+00:00"
   }
 ]
