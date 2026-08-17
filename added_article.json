@@ -796,5 +796,19 @@
     "author": "YiPeng Zhou",
     "createdAt": "2026-08-17T08:51:22.660954+00:00",
     "publishedAt": "2026-08-17T07:01:15+00:00"
+  },
+  {
+    "title_org": "ChipAgents Leads the AI Revolution at DAC 2026",
+    "title_vietnamese": "ChipAgents dẫn dắt cuộc cách mạng AI tại DAC 2026",
+    "summary_org": "DAC 2026 marks a major paradigm shift in EDA, moving from traditional tools and methodologies to agentic design flows powered by advanced AI agents. While conventional tools remain necessary, the design community is rapidly embracing these highly trained agentic systems.",
+    "summary_vietnamese": "DAC 2026 đánh dấu một bước ngoặt lớn trong lĩnh vực EDA, chuyển dịch từ các công cụ và phương pháp truyền thống sang các luồng thiết kế tự trị (agentic design flows) được hỗ trợ bởi các AI agent được đào tạo chuyên sâu. Mặc dù các công cụ thông thường vẫn rất cần thiết, cộng đồng thiết kế đang nhanh chóng đón nhận các hệ thống agent tiên tiến này.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/events/372079-chipagents-leads-the-ai-revolution-at-dac-2026/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/ChipAgents-Leads-the-AI-Revolution-at-DAC-2026-1200x585.png",
+    "author": "Mike Gianfagna",
+    "createdAt": "2026-08-17T16:34:44.157688+00:00",
+    "publishedAt": "2026-08-17T13:00:10+00:00"
   }
 ]
