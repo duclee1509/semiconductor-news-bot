@@ -1,0 +1,15 @@
+Article: https://semiengineering.com/800vdc-pushes-ai-power-design-from-grid-to-gate/
+Title: 800VDC Pushes AI Power Design From Grid To Gate
+Summary: <p>The next power bottleneck is no longer just inside the accelerator — it is the full conversion path from medium-voltage AC to sub-1V silicon.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/Screenshot-2026-08-14-at-2.27.23-PM.png?fit=1548%2C920&ssl=1
+Author: Liz Allan
+Published date: Mon, 17 Aug 2026 07:01:48 +0000
+
+Article: https://semiengineering.com/precision-under-pressure-rethinking-bond-reliability-in-high-density-semiconductor-test/
+Title: Precision Under Pressure: Rethinking Bond Reliability In High-Density Semiconductor Test
+Summary: <p>Bond testing is emerging as a critical control point for long-term performance and yield.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/Nordson_Precision-Under-Pressure-Bond-Reliability-fig1.webp?fit=1132%2C1003&ssl=1
+Author: YiPeng Zhou
+Published date: Mon, 17 Aug 2026 07:01:15 +0000
+
+Completed! Added a total of 2 new news items to Firebase.

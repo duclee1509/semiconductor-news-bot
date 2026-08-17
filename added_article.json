@@ -768,5 +768,33 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-08-17T01:41:59.538837+00:00",
     "publishedAt": "2026-08-16T21:00:03+00:00"
+  },
+  {
+    "title_org": "800VDC Pushes AI Power Design From Grid To Gate",
+    "title_vietnamese": "Điện áp 800VDC thúc đẩy thiết kế nguồn cho AI từ lưới điện đến cổng silic",
+    "summary_org": "The article highlights that the next major power bottleneck for AI systems is the entire conversion path from medium-voltage AC down to sub-1V silicon, rather than just within the accelerator itself. Transitioning to 800VDC architectures is reshaping power design strategies from the grid all the way to the gate.",
+    "summary_vietnamese": "Bài viết nhấn mạnh rằng nút cổ chai về nguồn điện tiếp theo cho các hệ thống AI không chỉ nằm bên trong bộ tăng tốc mà là toàn bộ đường chuyển đổi từ dòng điện xoay chiều trung thế xuống silicon dưới 1V. Việc chuyển đổi sang kiến trúc 800VDC đang định hình lại các chiến lược thiết kế nguồn điện từ lưới điện cho đến cổng bán dẫn.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/800vdc-pushes-ai-power-design-from-grid-to-gate/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/Screenshot-2026-08-14-at-2.27.23-PM.png?fit=1548%2C920&ssl=1",
+    "author": "Liz Allan",
+    "createdAt": "2026-08-17T08:51:17.446654+00:00",
+    "publishedAt": "2026-08-17T07:01:48+00:00"
+  },
+  {
+    "title_org": "Precision Under Pressure: Rethinking Bond Reliability In High-Density Semiconductor Test",
+    "title_vietnamese": "Độ chính xác dưới áp lực: Tư duy lại độ tin cậy của mối nối trong kiểm thử vi mạch mật độ cao",
+    "summary_org": "Bond testing is becoming a crucial control point to ensure long-term performance and yield in semiconductor manufacturing. As packaging becomes denser, evaluating bond reliability is essential for preventing failures and maintaining high standards.",
+    "summary_vietnamese": "Kiểm tra liên kết (bond testing) đang trở thành một điểm kiểm soát quan trọng để đảm bảo hiệu suất lâu dài và tỷ lệ thu hồi (yield) trong sản xuất bán dẫn. Khi công nghệ đóng gói (packaging) ngày càng trở nên dày đặc, việc đánh giá độ tin cậy của mối nối là điều cốt lõi để ngăn ngừa lỗi và duy trì các tiêu chuẩn cao.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/precision-under-pressure-rethinking-bond-reliability-in-high-density-semiconductor-test/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/Nordson_Precision-Under-Pressure-Bond-Reliability-fig1.webp?fit=1132%2C1003&ssl=1",
+    "author": "YiPeng Zhou",
+    "createdAt": "2026-08-17T08:51:22.660954+00:00",
+    "publishedAt": "2026-08-17T07:01:15+00:00"
   }
 ]
