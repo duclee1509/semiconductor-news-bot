@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/semiconductor-manufacturers/372192-beyond-moore-co-optimizing-ai-from-systems-to-materials/
+Title: Beyond Moore: Co-Optimizing AI from Systems to Materials
+Summary: <p>At the <a href="https://iowngf.org/ocp-apac-summit-2026/">OCP APAC Summit in Taiwan</a>, August 11–12, 2026, Applied Materials’ Subi Kengeri framed artificial intelligence as the semiconductor i...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Beyond-Moore-AI-from-manufacturing-to-Systems-1200x675.jpg
+Author: Daniel Nenni
+Published date: Tue, 18 Aug 2026 17:00:26 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

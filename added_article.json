@@ -894,5 +894,19 @@
     "author": "Mike Gianfagna",
     "createdAt": "2026-08-18T16:38:12.178970+00:00",
     "publishedAt": "2026-08-18T13:00:06+00:00"
+  },
+  {
+    "title_org": "Beyond Moore: Co-Optimizing AI from Systems to Materials",
+    "title_vietnamese": "Vượt ngoài định luật Moore: Đồng tối ưu hóa AI từ hệ thống đến vật liệu",
+    "summary_org": "At the OCP APAC Summit 2026, Applied Materials highlighted artificial intelligence as the semiconductor industry's biggest inflection point driving growth toward a trillion-dollar market. The keynote emphasized the critical need for co-optimizing AI technologies across all levels, ranging from macro systems down to fundamental materials, to sustain future advancements beyond the limits of Moore's Law.",
+    "summary_vietnamese": "Tại Hội nghị Thượng đỉnh OCP APAC 2026, Applied Materials đã nhấn mạnh trí tuệ nhân tạo (AI) là bước ngoặt lớn nhất của ngành công nghiệp bán dẫn, thúc đẩy tăng trưởng hướng tới thị trường trị giá một nghìn tỷ USD. Bài phát biểu chính đã nhấn mạnh nhu cầu cấp thiết về việc đồng tối ưu hóa các công nghệ AI ở mọi cấp độ, từ hệ thống vĩ mô cho đến vật liệu nền tảng, nhằm duy trì sự tiến bộ trong tương lai vượt ra ngoài giới hạn của định luật Moore.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/372192-beyond-moore-co-optimizing-ai-from-systems-to-materials/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Beyond-Moore-AI-from-manufacturing-to-Systems-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-08-18T20:30:48.586483+00:00",
+    "publishedAt": "2026-08-18T17:00:26+00:00"
   }
 ]
