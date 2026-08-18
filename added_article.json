@@ -880,5 +880,19 @@
     "author": "Jesse Allen",
     "createdAt": "2026-08-18T08:44:51.731714+00:00",
     "publishedAt": "2026-08-18T07:01:22+00:00"
+  },
+  {
+    "title_org": "Focusing on the AI Big Picture with Moores Lab AI at DAC 2026",
+    "title_vietnamese": "Nhìn nhận toàn cảnh AI cùng Moores Lab AI tại DAC 2026",
+    "summary_org": "DAC 2026 highlighted the permanent adoption of agentic AI design flows, featuring contributions from both industry veterans and new entrants. While many solutions targeted specific segments of the design flow, others addressed broader systemic challenges in the EDA and semiconductor ecosystem.",
+    "summary_vietnamese": "DAC 2026 đã làm nổi bật việc ứng dụng các luồng thiết kế AI tự trị (agentic AI), với sự tham gia của cả các tên tuổi quen thuộc lẫn những gương mặt mới trong ngành. Trong khi nhiều giải pháp tập trung vào các phân khúc cụ thể của luồng thiết kế, một số giải pháp khác lại giải quyết các thách thức toàn diện hơn trong hệ sinh thái EDA và vi mạch.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/moores-lab-ai/372168-focusing-on-the-ai-big-picture-with-moores-lab-ai-at-dac-2026/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Focusing-on-the-AI-Big-Picture-with-Moores-Lab-AI-at-DAC-2026.png",
+    "author": "Mike Gianfagna",
+    "createdAt": "2026-08-18T16:38:12.178970+00:00",
+    "publishedAt": "2026-08-18T13:00:06+00:00"
   }
 ]

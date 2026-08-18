@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/eda/moores-lab-ai/372168-focusing-on-the-ai-big-picture-with-moores-lab-ai-at-dac-2026/
+Title: Focusing on the AI Big Picture with Moores Lab AI at DAC 2026
+Summary: <p style="font-weight: 400;">DAC 2026 proved that agentic AI design flows are here to stay. The news was conveyed both by familiar companies who we’ve seen at DAC many times before as well as new e...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Focusing-on-the-AI-Big-Picture-with-Moores-Lab-AI-at-DAC-2026.png
+Author: Mike Gianfagna
+Published date: Tue, 18 Aug 2026 13:00:06 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
