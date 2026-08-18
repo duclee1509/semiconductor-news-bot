@@ -824,5 +824,19 @@
     "author": "Daniel Payne",
     "createdAt": "2026-08-17T20:33:49.468781+00:00",
     "publishedAt": "2026-08-17T17:00:32+00:00"
+  },
+  {
+    "title_org": "Controlling Voltage Droop In 2.5D PIM Chiplet Architectures (Washington St., UW-Madison)",
+    "title_vietnamese": "Kiểm soát sụt áp trong kiến trúc chiplet PIM 2.5D (Đại học Washington và UW-Madison)",
+    "summary_org": "Researchers from Washington State University and the University of Wisconsin–Madison published a paper titled \"ReVolt\" focusing on voltage droop control in 2.5D PIM chiplet architectures. The study addresses how varying chiplet-level current demands in processing-in-memory platforms impact the performance of machine learning workloads through the power delivery network (PDN).",
+    "summary_vietnamese": "Các nhà nghiên cứu từ Đại học Washington và Đại học Wisconsin–Madison đã công bố một bài báo kỹ thuật mang tên \"ReVolt\" tập trung vào việc kiểm soát hiện tượng sụt áp trong các kiến trúc chiplet PIM 2.5D. Nghiên cứu này giải quyết vấn đề nhu cầu dòng điện thay đổi ở cấp độ chiplet trong các nền tảng xử lý trong bộ nhớ (PIM) tác động như thế nào đến hiệu suất của các khối lượng công việc học máy (ML) thông qua mạng lưới cấp nguồn (PDN).",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/controlling-voltage-droop-in-2-5d-pim-chiplet-architectures-washington-st-uw-madison/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_482095378-08-06-24.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-08-18T01:37:24.884297+00:00",
+    "publishedAt": "2026-08-17T21:31:19+00:00"
   }
 ]
