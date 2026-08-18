@@ -838,5 +838,47 @@
     "author": "Technical Paper Link",
     "createdAt": "2026-08-18T01:37:24.884297+00:00",
     "publishedAt": "2026-08-17T21:31:19+00:00"
+  },
+  {
+    "title_org": "Chip Industry Technical Paper Roundup: Aug. 18",
+    "title_vietnamese": "Điểm tin kỹ thuật ngành vi mạch: Ngày 18 tháng 8",
+    "summary_org": "This roundup highlights recent technical papers focusing on advanced semiconductor technologies, including 2D CFET scaling, PIM chiplet voltage-droop control, and advanced-node layout repair. Other topics cover lithography defect prediction, 3D-IC failure analysis, chiplet and interposer optimization, and 4H-SiC wafer slicing.",
+    "summary_vietnamese": "Bản tổng hợp này điểm qua các tài liệu kỹ thuật gần đây tập trung vào các công nghệ bán dẫn tiên tiến, bao gồm mở rộng quy mô 2D CFET, kiểm soát sụt áp chiplet PIM và sửa lỗi layout ở các node tiến trình nâng cao. Các chủ đề khác bao gồm dự đoán lỗi quang khắc, phân tích lỗi 3D-IC, tối ưu hóa chiplet và interposer, cùng với việc cắt wafer 4H-SiC.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-aug-18/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/06/06-26-AdobeStock_143980229-scaled.jpeg?fit=2560%2C1398&ssl=1",
+    "author": "Linda Christensen",
+    "createdAt": "2026-08-18T08:44:43.322709+00:00",
+    "publishedAt": "2026-08-18T07:01:59+00:00"
+  },
+  {
+    "title_org": "Semiconductor Earnings Roundup: Revenue, Growth and Takeaways",
+    "title_vietnamese": "Tổng hợp kết quả kinh doanh ngành bán dẫn: Doanh thu, tăng trưởng và những điểm nhấn",
+    "summary_org": "An analysis of earnings reports across 80 semiconductor companies reveals that the demand driven by artificial intelligence is expanding well beyond the major industry players. This comprehensive breakdown highlights overall revenue trends, growth trajectories, and key takeaways for the broader chip market.",
+    "summary_vietnamese": "Phân tích báo cáo kết quả kinh doanh từ 80 công ty bán dẫn cho thấy nhu cầu thúc đẩy bởi trí tuệ nhân tạo (AI) đang lan rộng vượt ra ngoài các tên tuổi lớn quen thuộc trong ngành. Tổng hợp toàn diện này nhấn mạnh các xu hướng doanh thu, quỹ đạo tăng trưởng và những điểm nhấn quan trọng đối với thị trường chip rộng lớn hơn.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-earnings-roundup/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2019/11/fluctuating-market-graph.jpg?fit=721%2C484&ssl=1",
+    "author": "Linda Christensen",
+    "createdAt": "2026-08-18T08:44:48.243448+00:00",
+    "publishedAt": "2026-08-18T07:01:24+00:00"
+  },
+  {
+    "title_org": "Research Bits: Aug. 18",
+    "title_vietnamese": "Điểm tin nghiên cứu vi mạch: Ngày 18 tháng 8",
+    "summary_org": "This article highlights recent research developments in semiconductor technology, including Edge AI hardware and algorithm co-design. It also covers novel hardware innovations such as a memtransistor with programmable response speeds and an artificial synapse featuring both long- and short-term memory.",
+    "summary_vietnamese": "Bài viết này điểm lại những bước phát triển nghiên cứu mới nhất trong công nghệ bán dẫn, bao gồm việc thiết kế đồng bộ phần cứng và thuật toán cho Edge AI. Ngoài ra, bài viết còn đề cập đến các đổi mới phần cứng mới lạ như memtransistor với tốc độ phản hồi có thể lập trình và khớp thần kinh nhân tạo có cả bộ nhớ dài hạn lẫn ngắn hạn.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/research-bits-aug-18/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/06/wafer-06-26-AdobeStock_414995950-scaled.jpeg?fit=2560%2C1440&ssl=1",
+    "author": "Jesse Allen",
+    "createdAt": "2026-08-18T08:44:51.731714+00:00",
+    "publishedAt": "2026-08-18T07:01:22+00:00"
   }
 ]
