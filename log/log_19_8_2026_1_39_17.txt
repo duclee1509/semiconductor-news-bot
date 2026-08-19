@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/artificial-intelligence/372347-pdf-solutions-exensio-was-built-for-semiconductor-analytics-the-new-exensio-aurora-architecture-is-built-for-semiconductor-intelligence/
+Title: PDF Solutions’ Exensio Was Built for Semiconductor Analytics. The New Exensio Aurora Architecture Is Built for Semiconductor Intelligence.
+Summary: <p>The semiconductor industry doesn&#8217;t have a shortage of data. It has a shortage of ways to turn that data into useful manufacturing insights quickly enough to matter.</p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/PDF-Solutions-Direct-Connect-Block.jpg
+Author: Kalar Rajendiran
+Published date: Tue, 18 Aug 2026 21:00:04 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
