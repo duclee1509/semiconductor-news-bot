@@ -922,5 +922,33 @@
     "author": "Kalar Rajendiran",
     "createdAt": "2026-08-19T01:39:21.831516+00:00",
     "publishedAt": "2026-08-18T21:00:04+00:00"
+  },
+  {
+    "title_org": "The Future Of AI Compute Won’t Run On Just One Kind Of Chip",
+    "title_vietnamese": "Tương lai điện toán AI sẽ không chỉ phụ thuộc vào một loại chip duy nhất",
+    "summary_org": "Data centers are increasingly shifting toward heterogeneous clusters combining CPUs, GPUs, NPUs, optics, and custom accelerators to handle growing workloads. Key factors driving this transition include power efficiency, token costs, advanced interconnects, and complex software orchestration.",
+    "summary_vietnamese": "Các trung tâm dữ liệu đang ngày càng chuyển dịch sang các cụm điện toán dị thể kết hợp giữa CPU, GPU, NPU, quang học và các bộ tăng tốc tùy chỉnh để xử lý khối lượng công việc ngày càng tăng. Các yếu tố chính thúc đẩy quá trình chuyển đổi này bao gồm hiệu quả năng lượng, chi phí token, các kết nối tiên tiến và hệ thống điều phối phần mềm phức tạp.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/the-future-of-ai-compute-wont-run-on-just-one-kind-of-chip/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/07/Screenshot-2026-07-23-at-2.42.05-PM.png?fit=1742%2C1266&ssl=1",
+    "author": "Liz Allan",
+    "createdAt": "2026-08-19T08:45:17.676955+00:00",
+    "publishedAt": "2026-08-19T07:01:42+00:00"
+  },
+  {
+    "title_org": "Blog Review: Aug. 19",
+    "title_vietnamese": "Điểm tin Blog: Ngày 19 tháng 8",
+    "summary_org": "This blog review highlights key topics in the semiconductor industry, including memory tagging, the digital twin of the Moon, and the growing importance of advanced packaging. It also covers the processing and streaming of sensor data in modern applications.",
+    "summary_vietnamese": "Bài điểm tin blog này tổng hợp các chủ đề quan trọng trong ngành bán dẫn, bao gồm gắn thẻ bộ nhớ (memory tagging), mô hình số song sinh của Mặt Trận (digital twin of the Moon), và tầm quan trọng ngày càng tăng của packaging nâng cao. Nội dung cũng đề cập đến việc xử lý và truyền phát dữ liệu cảm biến trong các ứng dụng hiện đại.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/blog-review-aug-19-3/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_1304142802-March-26-2025-scaled.jpeg?fit=2560%2C1440&ssl=1",
+    "author": "Jesse Allen",
+    "createdAt": "2026-08-19T08:45:22.381194+00:00",
+    "publishedAt": "2026-08-19T07:01:32+00:00"
   }
 ]

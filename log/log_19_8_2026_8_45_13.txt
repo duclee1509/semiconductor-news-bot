@@ -1,0 +1,15 @@
+Article: https://semiengineering.com/the-future-of-ai-compute-wont-run-on-just-one-kind-of-chip/
+Title: The Future Of AI Compute Won’t Run On Just One Kind Of Chip
+Summary: <p>Power, token cost, interconnects, and software orchestration are pushing data centers toward heterogeneous clusters built from CPUs, GPUs, NPUs, optics, and custom accelerators.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/07/Screenshot-2026-07-23-at-2.42.05-PM.png?fit=1742%2C1266&ssl=1
+Author: Liz Allan
+Published date: Wed, 19 Aug 2026 07:01:42 +0000
+
+Article: https://semiengineering.com/blog-review-aug-19-3/
+Title: Blog Review: Aug. 19
+Summary: <p>Memory tagging; digital twin of the Moon; packaging moves front-and-center; streaming sensor data.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_1304142802-March-26-2025-scaled.jpeg?fit=2560%2C1440&ssl=1
+Author: Jesse Allen
+Published date: Wed, 19 Aug 2026 07:01:32 +0000
+
+Completed! Added a total of 2 new news items to Firebase.
