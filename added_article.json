@@ -950,5 +950,19 @@
     "author": "Jesse Allen",
     "createdAt": "2026-08-19T08:45:22.381194+00:00",
     "publishedAt": "2026-08-19T07:01:32+00:00"
+  },
+  {
+    "title_org": "Meet Quadric on the Road: Three Must-Attend AI Events",
+    "title_vietnamese": "Gặp gỡ Quadric trên hành trình: Ba sự kiện AI không thể bỏ qua",
+    "summary_org": "Quadric is showcasing its programmable, on-device AI vision at three major industry events this late summer. The company will demonstrate processor design at HotChips, scalable deployment at the AI Infra Summit, and physical AI at Embedded World North America. These gatherings highlight Quadric's innovative approaches to edge AI and hardware solutions.",
+    "summary_vietnamese": "Quadric đang giới thiệu tầm nhìn về AI lập trình được trên thiết bị tại ba sự kiện lớn của ngành trong dịp cuối hè này. Công ty sẽ trình diễn thiết kế bộ xử lý tại HotChips, khả năng triển khai mô-đun tại AI Infra Summit và AI vật lý tại Embedded World North America. Các sự kiện này làm nổi bật những cách tiếp cận đổi mới của Quadric đối với edge AI và các giải pháp phần cứng.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ip/quadric/372240-meet-quadric-on-the-road-three-must-attend-ai-events/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Catch-Quadric-Hot-Chips-AI-Infra-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-08-19T16:37:53.556439+00:00",
+    "publishedAt": "2026-08-19T13:00:01+00:00"
   }
 ]
