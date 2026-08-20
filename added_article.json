@@ -1076,5 +1076,19 @@
     "author": "Pushkar Apte",
     "createdAt": "2026-08-20T08:47:41.043505+00:00",
     "publishedAt": "2026-08-20T07:01:40+00:00"
+  },
+  {
+    "title_org": "The Fab Is Not the Finish Line",
+    "title_vietnamese": "Nhà máy Fab chưa phải là đích đến cuối cùng",
+    "summary_org": "Although AI handles design and fabs produce the silicon, true semiconductor production requires realizing the complete system. Semiconductor engineering is advancing rapidly with EDA platforms expanding into comprehensive system analysis and multiphysics simulation.",
+    "summary_vietnamese": "Mặc dù AI đảm nhận khâu thiết kế và các nhà máy fab hoàn thiện tấm silicon, việc sản xuất chất bán dẫn thực sự vẫnòi hỏi phải hiện thực hóa được toàn bộ hệ thống. Ngành kỹ thuật bán dẫn đang tiến bộ nhanh chóng khi các nền tảng EDA mở rộng sang phân tích hệ thống toàn diện và mô phỏng đa vật lý.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/372312-the-fab-is-not-the-finish-line/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/FAb_is_not_the_finish_line-1-1200x799.jpg",
+    "author": "Moh Kolb",
+    "createdAt": "2026-08-20T16:41:05.164978+00:00",
+    "publishedAt": "2026-08-20T13:00:58+00:00"
   }
 ]
