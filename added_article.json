@@ -978,5 +978,19 @@
     "author": "Admin",
     "createdAt": "2026-08-19T20:35:07.048143+00:00",
     "publishedAt": "2026-08-19T17:00:36+00:00"
+  },
+  {
+    "title_org": "Hot Chips 2026: Architectures for the Agentic Computing Era",
+    "title_vietnamese": "Hot Chips 2026: Kiến trúc cho kỷ nguyên điện toán tác nhân (Agentic Computing)",
+    "summary_org": "Hot Chips 2026, the 38th Symposium on High Performance Chips, will take place at Stanford University from August 23 to 25. The conference highlights a major shift in computer architecture, focusing on system balance rather than just peak arithmetic throughput to support the agentic computing era.",
+    "summary_vietnamese": "Hot Chips 2026, hội nghị chuyên đề về chip hiệu năng cao lần thứ 38, sẽ diễn ra tại Đại học Stanford từ ngày 23 đến 25 tháng 8. Hội nghị làm nổi bật sự chuyển dịch quan trọng trong kiến trúc máy tính, tập trung vào sự cân bằng của hệ thống thay vì chỉ tốc độ tính toán đỉnh để hỗ trợ kỷ nguyên điện toán tác nhân.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/events/372278-hot-chips-2026-architectures-for-the-agentic-computing-era/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Hot-Chips-2026-Agentrys-Quadric-SemiWiki-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-08-20T01:38:34.664318+00:00",
+    "publishedAt": "2026-08-19T21:00:08+00:00"
   }
 ]
