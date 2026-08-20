@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/dont-scrap-it-save-it-feedforward-control-for-modern-semiconductor-manufacturing/
+Title: Don’t Scrap It, Save It: Feedforward Control For Modern Semiconductor Manufacturing
+Summary: <p>By measuring each wafer after lithography and adjusting the next etch step, fabs can pull more wafers back into spec.  </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/Lam_Dont-Scrap-It-Feedforward-Control-fig1.webp
+Author: Swapnil Kailash More
+Published date: Thu, 20 Aug 2026 07:06:29 +0000
+
+Article: https://semiengineering.com/from-research-to-production-collaboration-is-key-for-semiconductor-innovation/
+Title: From Research To Production: Collaboration Is Key For Semiconductor Innovation
+Summary: <p>Semiconductor R&#038;D depends on access to high-quality data, realistic process assumptions, and practical learning from silicon. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/Synopsys_From-Research-to-Production-Collab-fig1.webp?fit=1400%2C520&ssl=1
+Author: Germain Fenger
+Published date: Thu, 20 Aug 2026 07:03:43 +0000
+
+Article: https://semiengineering.com/how-will-the-custom-hbm-business-work/
+Title: How Will The Custom HBM Business Work?
+Summary: <p>There is no one-size-fits-all — yet. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/Image-from-iOS-8.gif?fit=1065%2C1182&ssl=1
+Author: Bryon Moyer
+Published date: Thu, 20 Aug 2026 07:02:29 +0000
+
+Article: https://semiengineering.com/reducing-scope-3-value-chain-emissions-for-customers-through-sustainability-and-innovation/
+Title: Reducing Scope 3 Value Chain Emissions For Customers Through Sustainability And Innovation
+Summary: <p>Reducing manufacturing-related emissions may support lowering the embedded carbon footprint of the chips customers use in their products. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/Intel_Reducing-Scope-3-Value-Chain-Emissions-fig1.webp?fit=1125%2C210&ssl=1
+Author: Madison West
+Published date: Thu, 20 Aug 2026 07:02:04 +0000
+
+Article: https://semiengineering.com/three-strategic-imperatives-for-energy-efficient-ai-computing/
+Title: Three Strategic Imperatives For Energy-Efficient AI Computing
+Summary: <p>Reducing energy consumption is key to both lowering inference cost and enabling emerging physical AI applications.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_594956379-data-center-MARch-26-2025-scaled.jpeg?fit=2560%2C1440&ssl=1
+Author: Pushkar Apte
+Published date: Thu, 20 Aug 2026 07:01:40 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
