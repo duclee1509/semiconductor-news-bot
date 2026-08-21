@@ -1132,5 +1132,19 @@
     "author": "The SE Staff",
     "createdAt": "2026-08-21T08:49:17.918968+00:00",
     "publishedAt": "2026-08-21T07:01:08+00:00"
+  },
+  {
+    "title_org": "Intel Eyes a Memory Comeback as AI Rewrites Chip Economics",
+    "title_vietnamese": "Intel cân nhắc quay lại thị trường bộ nhớ khi AI định nghĩa lại kinh tế học chip",
+    "summary_org": "Intel is exploring a potential reentry into the memory technology sector, moving away from the traditional view of memory as a low-margin commodity. Driven by the demands of artificial intelligence, CEO Lip-Bu Tan highlights how bandwidth, latency, and data movement are becoming critical factors in chip design and economics.",
+    "summary_vietnamese": "Intel đang khám phá khả năng quay trở lại lĩnh vực công nghệ bộ nhớ, dịch chuyển khỏi quan点 truyền thống xem bộ nhớ là mặt hàng có biên lợi nhuận thấp. Được thúc đẩy bởi các yêu cầu của trí tuệ nhân tạo, Giám đốc điều hành Lip-Bu Tan nhấn mạnh cách băng thông, độ trễ và sự di chuyển dữ liệu đang trở thành những yếu tố cốt lõi trong thiết kế và kinh tế học chip.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/intel/372371-intel-eyes-a-memory-comeback-as-ai-rewrites-chip-economics/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Intel-Eyes-Memory-Comeback-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-08-21T16:40:59.262635+00:00",
+    "publishedAt": "2026-08-21T13:00:41+00:00"
   }
 ]
