@@ -1146,5 +1146,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-08-21T16:40:59.262635+00:00",
     "publishedAt": "2026-08-21T13:00:41+00:00"
+  },
+  {
+    "title_org": "How TSMC Is Wiring the AI Era With Light",
+    "title_vietnamese": "Cách TSMC đang kết nối kỷ nguyên AI bằng ánh sáng",
+    "summary_org": "TSMC's photonics strategy focuses on integrating optical input-output directly with advanced logic instead of selling standalone optical transceivers. The company is advancing this through a silicon-photonics foundry platform and an innovative packaging architecture known as TSMC-COUPE.",
+    "summary_vietnamese": "Chiến lược quang tử của TSMC tập trung vào việc tích hợp trực tiếp đầu vào-đầu ra quang học với vi mạch logic tiên tiến thay vì bán các bộ thu phát quang độc lập. Công ty đang thúc đẩy điều này thông qua một nền tảng foundry quang tử silicon và kiến trúc packaging đổi mới gọi là TSMC-COUPE.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/tsmc/372488-how-tsmc-is-wiring-the-ai-era-with-light/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/How-TSMC-Is-Wiring-the-AI-Era-With-Light-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-08-21T20:31:55.164309+00:00",
+    "publishedAt": "2026-08-21T17:00:18+00:00"
   }
 ]
