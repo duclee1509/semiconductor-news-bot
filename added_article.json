@@ -1118,5 +1118,19 @@
     "author": "Mike Gianfagna",
     "createdAt": "2026-08-21T01:43:12.101929+00:00",
     "publishedAt": "2026-08-20T21:00:25+00:00"
+  },
+  {
+    "title_org": "Chip Industry Week In Review",
+    "title_vietnamese": "Điểm tin tuần ngành công nghiệp vi mạch",
+    "summary_org": "This week's industry roundup covers major developments including a new Micron lab, rising chip and AI prices, advancements in multi-die monitoring, and cryo links for quantum chips. It also highlights interconnect RC bottlenecks, an 18A manufacturing win, CPO roadmaps, new leadership appointments, and humanoid readiness gaps.",
+    "summary_vietnamese": "Bản tin tổng hợp tuần này đề cập đến các bước phát triển quan trọng bao gồm phòng thí nghiệm mới của Micron, giá chip và AI tăng cao, tiến bộ trong giám sát đa die (multi-die), và các kết nối lạnh cho chip lượng tử. Bản tin cũng nhấn mạnh nút thắt RC trong kết nối nội bộ, một chiến thắng gia công ở tiến trình 18A, lộ trình CPO, các quyết định bổ nhiệm lãnh đạo mới và khoảng cách sẵn sàng của robot hình người.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-week-in-review-152/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_490561109-wafers-05-21-2024.jpeg?fit=1200%2C800&ssl=1",
+    "author": "The SE Staff",
+    "createdAt": "2026-08-21T08:49:17.918968+00:00",
+    "publishedAt": "2026-08-21T07:01:08+00:00"
   }
 ]
