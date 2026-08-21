@@ -1104,5 +1104,19 @@
     "author": "Daniel Payne",
     "createdAt": "2026-08-20T20:35:23.545136+00:00",
     "publishedAt": "2026-08-20T17:00:56+00:00"
+  },
+  {
+    "title_org": "Agentrys Shows You How to Build a Multi-Agent System in 30 Minutes",
+    "title_vietnamese": "Agentrys hướng dẫn cách xây dựng hệ thống đa tác nhân chỉ trong 30 phút",
+    "summary_org": "Agentrys demonstrates that building a purpose-built multi-agent system for chip design can be achieved in just 30 minutes. While agentic AI systems are increasingly popular for reducing design time and improving quality in complex semiconductor projects, finding the right workflow remains a key challenge.",
+    "summary_vietnamese": "Agentrys chứng minh rằng việc xây dựng một hệ thống đa tác nhân chuyên dụng cho thiết kế vi mạch có thể hoàn thành chỉ trong 30 phút. Mặc dù các hệ thống AI tác nhân ngày càng trở nên phổ biến trong việc rút ngắn thời gian thiết kế và nâng cao chất lượng cho các dự án bán dẫn phức tạp, việc tìm ra luồng công việc phù hợp vẫn là một thách thức lớn.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/agentrys/372384-agentrys-shows-you-how-to-build-a-multi-agent-system-in-30-minutes/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Agentrys-Shows-You-How-to-Build-a-Multi-Agent-System-in-30-Minutes.png",
+    "author": "Mike Gianfagna",
+    "createdAt": "2026-08-21T01:43:12.101929+00:00",
+    "publishedAt": "2026-08-20T21:00:25+00:00"
   }
 ]

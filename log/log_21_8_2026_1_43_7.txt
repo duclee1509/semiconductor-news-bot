@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/eda/agentrys/372384-agentrys-shows-you-how-to-build-a-multi-agent-system-in-30-minutes/
+Title: Agentrys Shows You How to Build a Multi-Agent System in 30 Minutes
+Summary: <p style="font-weight: 400;">Agentrys believes that a purpose-built multi-agent system for chip design shouldn&#8217;t be a quarter-long project. Agentic AI systems are becoming quite popular to cu...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Agentrys-Shows-You-How-to-Build-a-Multi-Agent-System-in-30-Minutes.png
+Author: Mike Gianfagna
+Published date: Thu, 20 Aug 2026 21:00:25 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
