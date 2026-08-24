@@ -1,8 +1,0 @@
-Article: https://spectrum.ieee.org/rare-earth-metals-in-semiconductors
-Title: Common Earth Project Aims to End Chip Supply Chain Bottlenecks
-Summary: <img src="https://spectrum.ieee.org/media-library/three-professors-standing-around-a-colleague-seated-at-a-computer-workstation.jpg?id=67625295&amp;width=1245&amp;height=700&amp;coordinates=0%2C187...
-Thumbnail: https://spectrum.ieee.org/media-library/three-professors-standing-around-a-colleague-seated-at-a-computer-workstation.jpg?id=67625295&width=1200&height=600&coordinates=0%2C81%2C0%2C419
-Author: Alex Music
-Published date: Sat, 15 Aug 2026 13:00:01 +0000
-
-Completed! Added a total of 1 new news items to Firebase.

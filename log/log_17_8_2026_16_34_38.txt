@@ -1,8 +1,0 @@
-Article: https://semiwiki.com/events/372079-chipagents-leads-the-ai-revolution-at-dac-2026/
-Title: ChipAgents Leads the AI Revolution at DAC 2026
-Summary: <p style="font-weight: 400;">I believe this year’s DAC will be viewed as the time and place where EDA experienced a major shift. That is, the shift from the value of tools and methodology to the va...
-Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/ChipAgents-Leads-the-AI-Revolution-at-DAC-2026-1200x585.png
-Author: Mike Gianfagna
-Published date: Mon, 17 Aug 2026 13:00:10 +0000
-
-Completed! Added a total of 1 new news items to Firebase.

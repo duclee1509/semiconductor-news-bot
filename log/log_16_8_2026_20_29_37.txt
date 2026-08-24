@@ -1,8 +1,0 @@
-Article: https://semiwiki.com/ceo-interviews/371606-ceo-interview-with-jerry-chen-of-upbeat-technology/
-Title: CEO Interview with Jerry Chen of Upbeat Technology
-Summary: <p>Jerry Chen, CEO and Founder of Upbeat Technology, received his Master of Science in ECE from the University of Texas at Austin. Started working as an IC design engineer in Silicon Valley at Inte...
-Thumbnail: https://semiwiki.com/wp-content/uploads/2026/07/Jerry-Chen-CEO-Founder-Upbeat-Technology.jpg
-Author: Daniel Nenni
-Published date: Sun, 16 Aug 2026 17:00:37 +0000
-
-Completed! Added a total of 1 new news items to Firebase.

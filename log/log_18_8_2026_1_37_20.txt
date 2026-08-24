@@ -1,8 +1,0 @@
-Article: https://semiengineering.com/controlling-voltage-droop-in-2-5d-pim-chiplet-architectures-washington-st-uw-madison/
-Title: Controlling Voltage Droop In 2.5D PIM Chiplet Architectures (Washington St., UW-Madison)
-Summary: <p>Researchers from Washington State University and University of Wisconsin–Madison published a technical paper titled “ReVolt: Power Delivery Network-Aware Voltage Droop Control for 2.5D PIM Chipl...
-Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_482095378-08-06-24.jpeg
-Author: Technical Paper Link
-Published date: Mon, 17 Aug 2026 21:31:19 +0000
-
-Completed! Added a total of 1 new news items to Firebase.

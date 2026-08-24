@@ -38,9 +38,10 @@ RSS_SOURCES = [
 ]
 
 NUMBER_OF_ARTICLES_FOR_EACH_SOURCE = 5  # Maximum number of articles to fetch from each source
-MAX_LOG_FILES = 50
+MAX_LOG_FILES = 25
 MAX_FAILED_ENTRIES = 100
-MAX_ADDED_ENTRIES = 10000
+MAX_ADDED_ENTRIES = 500
+VIETNAM_TIMEZONE = datetime.timezone(datetime.timedelta(hours=7))
 
 def summarize_with_gemini(title, content, category='International'):
     if category == 'VietNam':
@@ -441,7 +442,7 @@ def run_crawler():
     failed_urls = set()
     log_dir = 'log'
     os.makedirs(log_dir, exist_ok=True)
-    now = datetime.datetime.now()
+    now = datetime.datetime.now(VIETNAM_TIMEZONE)
     log_file = os.path.join(log_dir, f"log_{now.day}_{now.month}_{now.year}_{now.hour}_{now.minute}_{now.second}.txt")
 
     # Remove old log files if exceeding MAX_LOG_FILES
