@@ -1286,5 +1286,33 @@
     "author": "Daniel Payne",
     "createdAt": "2026-08-24T16:31:15.415611+00:00",
     "publishedAt": "2026-08-24T15:00:23+00:00"
+  },
+  {
+    "title_org": "RISC-V at Sixteen: From Modular ISA to Standardized Platforms at Hot Chips 2026",
+    "title_vietnamese": "RISC-V ở tuổi 16: Từ kiến trúc tập lệnh mô-đun đến các nền tảng tiêu chuẩn hóa tại Hot Chips 2026",
+    "summary_org": "RISC-V has evolved from a Berkeley research architecture into a global instruction-set standard spanning embedded controllers, application processors, accelerators, and servers. Its defining technical characteristic is disciplined modularity, featuring four ratified base ISAs such as RV32I and RV64I. The upcoming Hot Chips 2026 event will highlight its maturation into standardized platforms.",
+    "summary_vietnamese": "RISC-V đã phát triển từ một kiến trúc nghiên cứu tại Berkeley thành một tiêu chuẩn tập lệnh toàn cầu, bao gồm các bộ điều khiển nhúng, bộ xử lý ứng dụng, bộ tăng tốc và máy chủ. Đặc điểm kỹ thuật nổi bật của nó là tính mô-đun có kỷ luật, với bốn ISA cơ bản đã được phê duyệt như RV32I và RV64I. Sự kiện Hot Chips 2026 sắp tới sẽ làm nổi bật quá trình trưởng thành của nó thành các nền tảng được tiêu chuẩn hóa.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ip/sifive/372639-risc-v-at-sixteen-from-modular-isa-to-standardized-platforms-at-hot-chips-2026/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/RISC-V-at-16-Hot-Chips-1200x675.jpg",
+    "author": "Admin",
+    "createdAt": "2026-08-24T20:24:10.422028+00:00",
+    "publishedAt": "2026-08-24T19:00:01+00:00"
+  },
+  {
+    "title_org": "Hot Chips: Evolving Memory Architectures for Artificial Intelligence",
+    "title_vietnamese": "Hot Chips: Kiến trúc bộ nhớ không ngừng tiến hóa cho trí tuệ nhân tạo",
+    "summary_org": "Artificial intelligence performance is increasingly constrained by memory bandwidth rather than mere arithmetic throughput. Scaling laws indicate that model quality improves when parameters, training data, and compute scale together, a balance that fails when processors cannot feed operands quickly enough. Contemporary accelerators rely on evolving memory architectures to overcome these critical data-movement bottlenecks.",
+    "summary_vietnamese": "Hiệu năng của trí tuệ nhân tạo ngày càng bị kìm hãm bởi băng thông bộ nhớ thay vì thông lượng tính toán thuần túy. Các định luật mở rộng chỉ ra rằng chất lượng mô hình chỉ cải thiện khi các tham số, dữ liệu huấn luyện và khả năng tính toán tăng trưởng đồng thời, một sự cân bằng sẽ thất bại nếu bộ xử lý không thể nạp toán hạng đủ nhanh. Các bộ gia tốc hiện đại đang phải phụ thuộc vào các kiến trúc bộ nhớ không ngừng tiến hóa để vượt qua những nút thắt cổ chai về truyền tải dữ liệu quan trọng này.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/372632-hot-chips-evolving-memory-architectures-for-artificial-intelligence/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Evolving-Memory-Architectures-for-AI-Hot-CHips-2026-1200x675.jpg",
+    "author": "Admin",
+    "createdAt": "2026-08-24T20:24:14.521656+00:00",
+    "publishedAt": "2026-08-24T17:00:52+00:00"
   }
 ]
