@@ -1272,5 +1272,19 @@
     "author": "Admin",
     "createdAt": "2026-08-24T15:54:48.811878+00:00",
     "publishedAt": "2026-08-23T17:00:18+00:00"
+  },
+  {
+    "title_org": "Synopsys Cloud at DAC 2026",
+    "title_vietnamese": "Synopsys Cloud tại sự kiện DAC 2026",
+    "summary_org": "At DAC 2026, Vikram Bhatia, Executive Director of Synopsys Cloud, discussed the latest updates regarding their cloud-based EDA solutions. The Synopsys Cloud FlexEDA platform enables design teams to run complex EDA workflows directly within a standard web browser.",
+    "summary_vietnamese": "Tại sự kiện DAC 2026, ông Vikram Bhatia, Giám đốc điều hành của Synopsys Cloud, đã thảo luận về các cập nhật mới nhất đối với các giải pháp EDA dựa trên điện toán đám mây của họ. Nền tảng Synopsys Cloud FlexEDA cho phép các nhóm thiết kế chạy các quy trình EDA phức tạp trực tiếp ngay trong trình duyệt web tiêu chuẩn.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/synopsys/372498-synopsys-cloud-at-dac-2026/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Synopsys-Cloud-FlexEDA.jpg",
+    "author": "Daniel Payne",
+    "createdAt": "2026-08-24T16:31:15.415611+00:00",
+    "publishedAt": "2026-08-24T15:00:23+00:00"
   }
 ]
