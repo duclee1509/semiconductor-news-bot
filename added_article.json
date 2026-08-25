@@ -1356,5 +1356,33 @@
     "author": "Bernard Murphy",
     "createdAt": "2026-08-25T16:31:24.280766+00:00",
     "publishedAt": "2026-08-25T13:00:45+00:00"
+  },
+  {
+    "title_org": "Webinar: Warpage has a Timing Problem",
+    "title_vietnamese": "Hội thảo trực tuyến: Vấn đề độ cong vênh (warpage) thực chất là vấn đề thời điểm",
+    "summary_org": "In advanced semiconductor packaging, warpage is often treated as a timing issue rather than merely a modeling problem. By the time high-fidelity thermo-mechanical analysis is performed, many crucial decisions regarding stackup, materials, and architecture have already been locked in, severely limiting optimization.",
+    "summary_vietnamese": "Trong lĩnh vực đóng gói vi mạch tiên tiến, độ cong vênh thường được xem là vấn đề về thời điểm hơn là chỉ là bài toán mô hình hóa. Khi quá trình phân tích nhiệt-cơ độ chính xác cao được thực hiện, nhiều quyết định quan trọng về cấu trúc chồng tầng, vật liệu và kiến trúc đã bị ấn định, làm hạn chế nghiêm trọng khả năng tối ưu hóa.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/vinci/372476-webinar-warpage-has-a-timing-problem/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Thermo-mechanical-1-1200x575.png",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-08-25T20:22:56.541992+00:00",
+    "publishedAt": "2026-08-25T16:00:19+00:00"
+  },
+  {
+    "title_org": "Avestra: Agentic AI for SystemVerilog Assertion Generation",
+    "title_vietnamese": "Avestra: AI tự trị dành cho việc tạo SystemVerilog Assertion",
+    "summary_org": "Modern ASIC, SoC, CPU, and GPU development relies heavily on rigorous verification processes to catch subtle functional bugs before tapeout. SystemVerilog Assertions (SVA) play a crucial role in this by formally encoding temporal design intent across clock cycles. Avestra introduces an agentic AI approach to streamline and enhance the generation of these essential verification assertions.",
+    "summary_vietnamese": "Quá trình phát triển ASIC, SoC, CPU và GPU hiện đại phụ thuộc rất nhiều vào các quy trình kiểm tra nghiêm ngặt để phát hiện các lỗi chức năng nhỏ trước khi tapeout. SystemVerilog Assertions (SVA) đóng vai trò quan trọng trong việc mã hóa chính xác ýdồ thiết kế theo thời gian qua các chu kỳ xung nhịp. Avestra giới thiệu một phương pháp AI tự trị nhằm hợp lý hóa và nâng cao việc tạo ra các assertion kiểm tra thiết yếu này.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-services/372299-avestra-agentic-ai-for-systemverilog-assertion-generation/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Avestra-Studio-Tuple-Tech.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-08-25T20:23:00.953812+00:00",
+    "publishedAt": "2026-08-24T21:00:33+00:00"
   }
 ]

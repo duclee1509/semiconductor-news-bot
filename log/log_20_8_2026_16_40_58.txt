@@ -1,8 +1,0 @@
-Article: https://semiwiki.com/semiconductor-manufacturers/372312-the-fab-is-not-the-finish-line/
-Title: The Fab Is Not the Finish Line
-Summary: <p><em><strong>AI may close the design. The fab may finish the silicon. Production still has to realize the system.</strong></em></p>
-Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/FAb_is_not_the_finish_line-1-1200x799.jpg
-Author: Moh Kolb
-Published date: Thu, 20 Aug 2026 13:00:58 +0000
-
-Completed! Added a total of 1 new news items to Firebase.
