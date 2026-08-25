@@ -1314,5 +1314,47 @@
     "author": "Admin",
     "createdAt": "2026-08-24T20:24:14.521656+00:00",
     "publishedAt": "2026-08-24T17:00:52+00:00"
+  },
+  {
+    "title_org": "Redefining Roles For Edge And Cloud AI",
+    "title_vietnamese": "Định nghĩa lại vai trò của trí tuệ nhân tạo biên và điện toán đám mây",
+    "summary_org": "The semiconductor industry is currently engaged in a fast-paced race to advance localized intelligence. This article explores the evolving dynamics and shifting responsibilities between edge AI and cloud AI infrastructure.",
+    "summary_vietnamese": "Ngành công nghiệp bán dẫn đang bước vào cuộc đua tốc độ nhằm thúc đẩy trí tuệ nhân tạo cục bộ. Bài viết này khám phá động lực đang phát triển và sự thay đổi trách nhiệm giữa cơ sở hạ tầng AI biên và AI đám mây.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/redefining-roles-for-edge-and-cloud-ai/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/Screenshot-2026-08-24-at-5.44.47-PM-scaled.png",
+    "author": "Ed Sperling",
+    "createdAt": "2026-08-25T16:31:14.944562+00:00",
+    "publishedAt": "2026-08-25T07:15:21+00:00"
+  },
+  {
+    "title_org": "Research Bits: Aug. 25",
+    "title_vietnamese": "Điểm tin nghiên cứu: Ngày 25 tháng 8",
+    "summary_org": "This research roundup highlights recent scientific developments including bacterial transistors, forgetful antiferroelectrics, and high-entropy mixing. These emerging concepts explore innovative materials and biological interfaces for future electronics.",
+    "summary_vietnamese": "Bản tổng hợp nghiên cứu này làm nổi bật các phát triển khoa học gần đây bao gồm transistor vi khuẩn, vật liệu phản điện tử có độ nhớt kém và quá trình trộn entropy cao. Những khái niệm mới nổi này khám phá các vật liệu đổi mới và giao diện sinh học cho ngành điện tử trong tương lai.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/research-bits-aug-25/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_322557739-01-29-25-scaled.jpeg?fit=2560%2C1350&ssl=1",
+    "author": "Jesse Allen",
+    "createdAt": "2026-08-25T16:31:20.088498+00:00",
+    "publishedAt": "2026-08-25T07:01:30+00:00"
+  },
+  {
+    "title_org": "Optimizing for Thermoelastic in Package and PCB Design from the Outset",
+    "title_vietnamese": "Tối ưu hóa ứng suất nhiệt đàn hồi ngay từ đầu trong thiết kế đóng gói và PCB",
+    "summary_org": "Signoff-quality design tools offer high precision and accuracy but are unsuitable for early design exploration when architectural decisions are still fluid. The article discusses the challenges of using these tools too early and the importance of optimizing for thermoelastic effects from the outset of package and PCB design.",
+    "summary_vietnamese": "Các công cụ thiết kế đạt chuẩn signoff mang lại độ chính xác cao nhưng lại không phù hợp cho giai đoạn khám phá thiết kế ban đầu khi các quyết định về kiến trúc vẫn chưa ổn định. Bài viết thảo luận về những thách thức khi sử dụng các công cụ này quá sớm và tầm quan trọng của việc tối ưu hóa hiệu ứng nhiệt đàn hồi ngay từ giai đoạn đầu của quá trình thiết kế đóng gói và PCB.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/3dic/372435-optimizing-for-thermoelastic-in-package-and-pcb-design-from-the-outset/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Vinci-image.png",
+    "author": "Bernard Murphy",
+    "createdAt": "2026-08-25T16:31:24.280766+00:00",
+    "publishedAt": "2026-08-25T13:00:45+00:00"
   }
 ]
