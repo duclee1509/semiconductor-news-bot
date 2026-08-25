@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/eda/372299-avestra-agentic-ai-for-systemverilog-assertion-generation/
+Title: Avestra: Agentic AI for SystemVerilog Assertion Generation
+Summary: <p>Modern ASIC, SoC, CPU, and GPU development depends on verification processes that detect subtle functional defects before tapeout. SystemVerilog Assertions (SVA) are particularly important becau...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Avestra-Studio-Tuple-Tech.jpg
+Author: Daniel Nenni
+Published date: Mon, 24 Aug 2026 21:00:33 +0000
+
+Completed! Added a total of 0 new news items to Firebase.
