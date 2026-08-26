@@ -1,8 +1,0 @@
-Article: https://semiengineering.com/chip-industry-week-in-review-152/
-Title: Chip Industry Week In Review
-Summary: <p>New Micron lab; chip/AI price jump; multi-die monitoring; cryo links for quantum chips; interconnect RC bottleneck; 18A win; CPO roadmap; 2 new CEOs; humanoid readiness gap; Hot Interconnects.</p>
-Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_490561109-wafers-05-21-2024.jpeg?fit=1200%2C800&ssl=1
-Author: The SE Staff
-Published date: Fri, 21 Aug 2026 07:01:08 +0000
-
-Completed! Added a total of 1 new news items to Firebase.
