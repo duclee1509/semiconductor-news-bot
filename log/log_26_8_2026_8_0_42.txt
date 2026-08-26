@@ -1,0 +1,15 @@
+Article: https://semiwiki.com/eda/372693-synopsys-wins-the-silicon-brain-drain/
+Title: Synopsys Wins the AI Silicon Brain Drain
+Summary: <p>The reported move of Amit Gupta, Jeff Dyck, and Ryan Silk from Siemens EDA to Synopsys matters because this is more than a routine transfer of experienced executives and engineers. Together, the...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/SYnopsys-Wins-the-AI-Brain-Drain-2026-1200x675.jpg
+Author: Daniel Nenni
+Published date: Tue, 25 Aug 2026 23:00:40 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/intel/372653-intel-wildcat-lake-right-sizing-silicon-without-sinking-performance/
+Title: Intel Wildcat Lake: Right-Sizing Silicon Without Sinking Performance
+Summary: <p><em>Lance Hacking, Intel</em></p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Intel-Wildcat-Hot-Chips-2026-1200x612.jpg
+Author: Admin
+Published date: Tue, 25 Aug 2026 21:00:35 +0000
+
+Completed! Added a total of 2 new news items to Firebase.

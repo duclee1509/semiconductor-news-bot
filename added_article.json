@@ -1384,5 +1384,33 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-08-25T20:23:00.953812+00:00",
     "publishedAt": "2026-08-24T21:00:33+00:00"
+  },
+  {
+    "title_org": "Synopsys Wins the AI Silicon Brain Drain",
+    "title_vietnamese": "Synopsys chiến thắng trong cuộc chiến hút chất xám AI silicon",
+    "summary_org": "The transition of key executives Amit Gupta, Jeff Dyck, and Ryan Silk from Siemens EDA to Synopsys represents a major shift in artificial intelligence expertise for semiconductor design. This high-profile talent movement highlights the intense competition among EDA giants to secure top minds in AI-driven chip design.",
+    "summary_vietnamese": "Việc chuyển dịch của các nhân sự cấp cao Amit Gupta, Jeff Dyck và Ryan Silk từ Siemens EDA sang Synopsys đánh dấu một bước ngoặt lớn về chuyên môn trí tuệ nhân tạo trong thiết kế bán dẫn. Sự dịch chuyển nhân tài này cho thấy sự cạnh tranh khốc liệt giữa các gã khổng lồ EDA nhằm chiêu mộ những bộ óc hàng đầu trong lĩnh vực thiết kế chip ứng dụng AI.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/372693-synopsys-wins-the-silicon-brain-drain/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/SYnopsys-Wins-the-AI-Brain-Drain-2026-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-08-26T01:00:46.726926+00:00",
+    "publishedAt": "2026-08-25T23:00:40+00:00"
+  },
+  {
+    "title_org": "Intel Wildcat Lake: Right-Sizing Silicon Without Sinking Performance",
+    "title_vietnamese": "Intel Wildcat Lake: Tối ưu hóa kích thước silicon mà không làm giảm hiệu năng",
+    "summary_org": "Intel Core Series 3, code-named Wildcat Lake, is a mainstream client system-on-chip derived from the Panther Lake architecture. Its design objective is to enable the broad deployment of current-generation CPU, graphics, AI, and connectivity technologies without focusing on maximum feature density.",
+    "summary_vietnamese": "Intel Core Series 3 với tên mã Wildcat Lake là dòng system-on-chip phổ thông dành cho thiết bị khách, được phát triển từ kiến trúc Panther Lake. Mục tiêu thiết kế của chip này là cho phép triển khai rộng rãi các công nghệ CPU, đồ họa, AI và kết nối thế hệ mới mà không tập trung vào mật độ tính năng tối đa.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/intel/372653-intel-wildcat-lake-right-sizing-silicon-without-sinking-performance/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Intel-Wildcat-Hot-Chips-2026-1200x612.jpg",
+    "author": "Admin",
+    "createdAt": "2026-08-26T01:00:51.014537+00:00",
+    "publishedAt": "2026-08-25T21:00:35+00:00"
   }
 ]

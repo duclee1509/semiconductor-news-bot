@@ -1,8 +1,0 @@
-Article: https://semiwiki.com/eda/372370-questa-one-updated-at-dac-2026/
-Title: Questa One Updated at DAC 2026
-Summary: <p>Abhi Kolpekwar, VP &#38; General Manager, Digital Verification Technologies at Siemens EDA met with me at #DAC2026 to provide the big picture on smart verification tools, something they call <a ...
-Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/questa-one-dac2026.jpg
-Author: Daniel Payne
-Published date: Thu, 20 Aug 2026 17:00:56 +0000
-
-Completed! Added a total of 1 new news items to Firebase.
