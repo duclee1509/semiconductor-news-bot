@@ -1412,5 +1412,33 @@
     "author": "Admin",
     "createdAt": "2026-08-26T01:00:51.014537+00:00",
     "publishedAt": "2026-08-25T21:00:35+00:00"
+  },
+  {
+    "title_org": "Blog Review: Aug. 26",
+    "title_vietnamese": "Điểm tin Blog: Ngày 26 tháng 8",
+    "summary_org": "This blog review highlights key semiconductor industry trends, including the transition from GAA to CFET, a shift toward prioritizing communication over compute, and verification challenges. Additional focus areas include scale-up networks, local AI development, and the push for high-volume CPO (Co-Packaged Optics).",
+    "summary_vietnamese": "Bản điểm tin blog này nhấn mạnh các xu hướng chính trong ngành bán dẫn, bao gồm quá trình chuyển đổi từ GAA sang CFET, xu hướng ưu tiên truyền thông hơn tính toán và các thách thức trong khâu verification. Các lĩnh vực trọng tâm khác bao gồm scale-up networks, sự phát triển của local AI và nỗ lực hướng tới high-volume CPO (Co-Packaged Optics).",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/blog-review-aug-26-3/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_790988626-wafer-scaled.jpeg?fit=2560%2C2519&ssl=1",
+    "author": "Jesse Allen",
+    "createdAt": "2026-08-26T08:37:23.436587+00:00",
+    "publishedAt": "2026-08-26T07:01:36+00:00"
+  },
+  {
+    "title_org": "Chip Security Moves From Checkbox Compliance To Continuous Defense",
+    "title_vietnamese": "Bảo mật chip chuyển dịch từ tuân thủ hình thức sang phòng thủ liên tục",
+    "summary_org": "As advanced technologies like AI, chiplets, and software-defined systems expand the attack surface alongside new regulations, the semiconductor industry must move beyond mere certification. Effective chip security now requires continuous visibility, accountability, and real deployment discipline rather than just checkbox compliance.",
+    "summary_vietnamese": "Khi các công nghệ tiên tiến như AI, chiplets và hệ thống xác định bằng phần mềm làm mở rộng bề mặt tấn công cùng với các quy định mới, ngành công nghiệp bán dẫn phải vượt qua việc chỉ dừng lại ở các chứng nhận hình thức. Bảo mật chip hiệu quả giờ đây đòi hỏi khả năng hiển thị liên tục, trách nhiệm giải trình và kỷ luật triển khai thực tế thay vì chỉ tuân thủ trên giấy tờ.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-security-moves-from-checkbox-compliance-to-continuous-defense/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_193815747-lock-mar23-23-scaled.jpeg?fit=2560%2C1707&ssl=1",
+    "author": "Ann Mutschler",
+    "createdAt": "2026-08-26T08:37:31.215367+00:00",
+    "publishedAt": "2026-08-26T07:01:27+00:00"
   }
 ]
