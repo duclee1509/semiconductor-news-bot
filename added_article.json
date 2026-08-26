@@ -1468,5 +1468,33 @@
     "author": "Mike Gianfagna",
     "createdAt": "2026-08-26T16:44:50.971833+00:00",
     "publishedAt": "2026-08-26T13:00:31+00:00"
+  },
+  {
+    "title_org": "Intel Diamond Rapids: Building Xeon Up, Out, and Through Silicon",
+    "title_vietnamese": "Intel Diamond Rapids: Xây dựng dòng vi xử lý Xeon theo chiều sâu, chiều rộng và xuyên qua silicon",
+    "summary_org": "Diamond Rapids is Intel's next-generation Xeon processor designed to optimize hyperscale performance through efficient data movement, processing, and protection. The architecture represents a significant shift from conventional designs, focusing on enhancing capabilities up, out, and through silicon.",
+    "summary_vietnamese": "Diamond Rapids là bộ vi xử lý Xeon thế hệ tiếp theo của Intel, được thiết kế nhằm tối ưu hóa hiệu suất quy mô lớn thông qua việc di chuyển, xử lý và bảo vệ dữ liệu hiệu quả. Kiến trúc này đánh dấu sự chuyển dịch quan trọng so với các thiết kế truyền thống, tập trung nâng cao năng lực theo chiều sâu, chiều rộng và xuyên qua lớp silicon.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/intel/372661-intel-diamond-rapids-building-xeon-up-out-and-through-silicon/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Intel-Diamond-Rapids-Hot-Chips-2026-1200x615.jpg",
+    "author": "Admin",
+    "createdAt": "2026-08-26T22:40:08.336615+00:00",
+    "publishedAt": "2026-08-26T21:00:34+00:00"
+  },
+  {
+    "title_org": "A comeback journey: Rebuilding confidence through formal verification",
+    "title_vietnamese": "Hành trình trở lại: Xây dựng lại sự tự tin thông qua kiểm tra hình thức",
+    "summary_org": "Lindu Krishna joined Axiomise after a career break, successfully rebuilding her technical confidence and redefining her role as a woman engineer. Backed by a supportive company culture, she has taken ownership of complex formal verification blocks in the semiconductor industry.",
+    "summary_vietnamese": "Lindu Krishna gia nhập Axiomise sau quãng thời gian gián đoạn sự nghiệp, thành công trong việc khôi phục sự tự tin về kỹ thuật và định hình lại vai trò kỹ sư nữ của mình. Nhờ sự hỗ trợ từ văn hóa công ty, cô đã đảm nhận các khối kiểm tra hình thức (formal verification) phức tạp trong ngành bán dẫn.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-services/axiomise/372360-a-comeback-journey-rebuilding-confidence-through-formal-verification/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Lindu-K-814x1200.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-08-26T22:40:12.379059+00:00",
+    "publishedAt": "2026-08-26T17:00:23+00:00"
   }
 ]
