@@ -1,0 +1,15 @@
+Article: https://spectrum.ieee.org/rare-earth-shortage
+Title: China’s Grip on Erbium and Yttrium Could Choke Data Center Growth
+Summary: <img src="https://spectrum.ieee.org/media-library/a-spool-of-telecom-optical-fiber-illuminated-by-a-green-laser-light.jpg?id=67675339&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188...
+Thumbnail: https://spectrum.ieee.org/media-library/a-spool-of-telecom-optical-fiber-illuminated-by-a-green-laser-light.jpg?id=67675339&width=1200&height=600&coordinates=0%2C176%2C0%2C324
+Author: Glenn Zorpette
+Published date: Wed, 26 Aug 2026 13:00:01 +0000
+
+Article: https://semiwiki.com/eda/bronco-ai/372442-bronco-ai-at-dac-2026-what-a-difference-a-year-makes/
+Title: Bronco AI at DAC 2026, What a Difference a Year Makes
+Summary: <p style="font-weight: 400;">During my time at DAC 2026 I felt like I was attending two events. One was the traditional DAC where approaches to designing complex chips using the best tools and meth...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Bronco-AI-at-DAC-2026-What-a-Difference-a-Year-Makes.png
+Author: Mike Gianfagna
+Published date: Wed, 26 Aug 2026 13:00:31 +0000
+
+Completed! Added a total of 2 new news items to Firebase.

@@ -1440,5 +1440,33 @@
     "author": "Ann Mutschler",
     "createdAt": "2026-08-26T08:37:31.215367+00:00",
     "publishedAt": "2026-08-26T07:01:27+00:00"
+  },
+  {
+    "title_org": "China’s Grip on Erbium and Yttrium Could Choke Data Center Growth",
+    "title_vietnamese": "Sự kiểm soát của Trung Quốc đối với Erbium và Yttrium có thể làm đình trệ sự phát triển của trung tâm dữ liệu",
+    "summary_org": "China's export restrictions on rare earth elements like erbium and yttrium are threatening global supply chains for critical applications, including fiber-optic data networks and gas turbines powering AI data centers. With a looming geopolitical deadline in November 2026, the U.S. and its allies face a critical test in securing these essential materials amid heavy reliance on Chinese processing dominance.",
+    "summary_vietnamese": "Các hạn chế xuất khẩu của Trung Quốc đối với các nguyên tố đất hiếm như erbium và yttrium đang đe dọa chuỗi cung ứng toàn cầu cho các ứng dụng quan trọng, bao gồm mạng dữ liệu cáp quang và tuabin khí cung cấp năng lượng cho các trung tâm dữ liệu AI. Với thời hạn địa chính trị cận kề vào tháng 11 năm 2026, Mỹ và các đồng minh phải đối mặt với một bài kiểm tra quan trọng trong việc bảo đảm các vật liệu thiết yếu này trong bối cảnh phụ thuộc nặng nề vào thế độc quyền xử lý của Trung Quốc.",
+    "source": "IEEE Spectrum - Semiconductors",
+    "url": "https://spectrum.ieee.org/rare-earth-shortage",
+    "category": "International",
+    "isPolicy": true,
+    "thumbnail": "https://spectrum.ieee.org/media-library/a-spool-of-telecom-optical-fiber-illuminated-by-a-green-laser-light.jpg?id=67675339&width=1200&height=600&coordinates=0%2C176%2C0%2C324",
+    "author": "Glenn Zorpette",
+    "createdAt": "2026-08-26T16:44:45.246457+00:00",
+    "publishedAt": "2026-08-26T13:00:01+00:00"
+  },
+  {
+    "title_org": "Bronco AI at DAC 2026, What a Difference a Year Makes",
+    "title_vietnamese": "Bronco AI tại DAC 2026: Một năm mang lại sự khác biệt lớn",
+    "summary_org": "At DAC 2026, the author experienced two distinct events: a traditional conference focused on complex chip design methodologies using EDA tools, and another centered around emerging AI-driven trends. This highlights a significant shift in the semiconductor landscape over just a single year, showcasing how fast the industry is evolving with AI integration.",
+    "summary_vietnamese": "Tại sự kiện DAC 2026, tác giả cảm nhận được hai luồng chủ đề song song: một bên là hội nghị DAC truyền thống tập trung vào phương pháp thiết kế chip phức tạp bằng các công cụ EDA, và một bên xoay quanh các xu hướng tích hợp AI mới nổi. Điều này làm nổi bật sự chuyển dịch đáng kể trong ngành bán dẫn chỉ trong vòng một năm, cho thấy tốc độ phát triển nhanh chóng của ngành nhờ tích hợp AI.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/bronco-ai/372442-bronco-ai-at-dac-2026-what-a-difference-a-year-makes/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Bronco-AI-at-DAC-2026-What-a-Difference-a-Year-Makes.png",
+    "author": "Mike Gianfagna",
+    "createdAt": "2026-08-26T16:44:50.971833+00:00",
+    "publishedAt": "2026-08-26T13:00:31+00:00"
   }
 ]
