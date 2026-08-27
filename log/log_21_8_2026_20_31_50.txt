@@ -1,8 +1,0 @@
-Article: https://semiwiki.com/semiconductor-manufacturers/tsmc/372488-how-tsmc-is-wiring-the-ai-era-with-light/
-Title: How TSMC Is Wiring the AI Era With Light
-Summary: <p>TSMC’s photonics strategy is centered on integrating optical input-output with advanced logic, rather than selling conventional optical transceivers as standalone products. The company is develo...
-Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/How-TSMC-Is-Wiring-the-AI-Era-With-Light-1200x675.jpg
-Author: Daniel Nenni
-Published date: Fri, 21 Aug 2026 17:00:18 +0000
-
-Completed! Added a total of 1 new news items to Firebase.
