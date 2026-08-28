@@ -1650,5 +1650,47 @@
     "author": "Admin",
     "createdAt": "2026-08-28T03:59:15.308352+00:00",
     "publishedAt": "2026-08-27T21:00:29+00:00"
+  },
+  {
+    "title_org": "Chip Industry Week in Review",
+    "title_vietnamese": "Điểm tin tuần ngành công nghiệp bán dẫn",
+    "summary_org": "This weekly review covers major semiconductor developments, including new AI hardware trends, HBM memory comparisons, manufacturing capacity expansions, and company earnings from Nvidia and Synopsys. It also highlights critical issues such as advanced packaging, foundry updates, IC tariffs, and geopolitical reliance on Taiwan.",
+    "summary_vietnamese": "Bản tổng hợp tuần này đề cập đến các xu hướng phần cứng AI mới, sự so sánh giữa HBM và HBC, việc mở rộng năng lực sản xuất, và báo cáo tài chính của Nvidia cùng Synopsys. Bài viết cũng nhấn mạnh các vấn đề quan trọng như advanced packaging, báo cáo foundry, thuế quan đối với IC, và sự phụ thuộc địa chính trị vào Đài Loan.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-week-in-review-153/",
+    "category": "International",
+    "isPolicy": true,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_539332899-10-10-23.jpeg",
+    "author": "The SE Staff",
+    "createdAt": "2026-08-28T16:28:59.178714+00:00",
+    "publishedAt": "2026-08-28T07:01:37+00:00"
+  },
+  {
+    "title_org": "Will Agentic AI Help the Open-Source EDA Market?",
+    "title_vietnamese": "AI Tác tử sẽ giúp ích cho thị trường EDA mã nguồn mở chứ?",
+    "summary_org": "Agentic artificial intelligence is poised to give the open-source EDA market a significant boost by making these tools easier to use. While it will not immediately replace established commercial platforms from giants like Cadence, Synopsys, or Siemens, it lowers the barrier to entry for open-source alternatives.",
+    "summary_vietnamese": "Trí tuệ nhân tạo tác tử (agentic AI) chuẩn bị tạo ra cú hích ý nghĩa cho thị trường EDA mã nguồn mở bằng cách giúp các công cụ này dễ sử dụng hơn. Mặc dù nó sẽ không thay thế ngay lập tức các nền tảng thương mại đã khẳng định vị thế từ Cadence, Synopsys hay Siemens, nhưng nó lại hạ thấp rào cản gia nhập cho các giải pháp mã nguồn mở.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/372107-will-agentic-ai-help-the-open-source-eda-market/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Will-Agentic-AI-Help-the-Open-Source-EDA-Market-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-08-28T16:29:12.606173+00:00",
+    "publishedAt": "2026-08-28T15:00:30+00:00"
+  },
+  {
+    "title_org": "TSMC’s Overseas Fabs Are Paying Off",
+    "title_vietnamese": "Các nhà máy nước ngoài của TSMC đang mang lại “quả ngọt”",
+    "summary_org": "TSMC's strategy of expanding fabs overseas is successfully providing geographic redundancy, closer ties with major customers, and access to government subsidies. Facilities in Arizona and Kumamoto are already actively producing, proving the early value of this global footprint despite lacking immediate cost parity with Taiwan.",
+    "summary_vietnamese": "Chiến lược mở rộng các fab của TSMC ra nước ngoài đang mang lại hiệu quả thiết thực khi tạo ra sự dự phòng về mặt địa lý, thắt chặt mối quan hệ với các khách hàng lớn và tiếp cận được các khoản trợ cấp chính phủ. Các cơ sở tại Arizona và Kumamoto đã đi vào sản xuất, chứng minh giá trị ban đầu của mạng lưới toàn cầu này dù chưa đạt được sự tương đương về chi phí ngay lập tức với Đài Loan.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/tsmc/372625-tsmcs-overseas-fabs-are-paying-off/",
+    "category": "International",
+    "isPolicy": true,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/TSMCs-Overseas-Fabs-Are-Paying-Off-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-08-28T16:29:16.858869+00:00",
+    "publishedAt": "2026-08-28T13:00:40+00:00"
   }
 ]
