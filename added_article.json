@@ -1636,5 +1636,19 @@
     "author": "Mike Gianfagna",
     "createdAt": "2026-08-27T18:45:59.668748+00:00",
     "publishedAt": "2026-08-27T13:00:56+00:00"
+  },
+  {
+    "title_org": "Crescent Island: Turning Memory Capacity into Agentic AI Throughput",
+    "title_vietnamese": "Crescent Island: Biến dung lượng bộ nhớ thành thông lượng AI tự chủ (Agentic AI)",
+    "summary_org": "Intel's Crescent Island is a discrete data-center GPU tailored for agentic AI inference. It addresses the challenges of multi-step agents, which suffer from latency, heavy memory capacity demands for weights, and long-context key-value caches.",
+    "summary_vietnamese": "Crescent Island của Intel là một GPU trung tâm dữ liệu rời được thiết kế riêng cho suy luận AI tự chủ (agentic AI). Chip này giải quyết các thách thức của các tác nhân đa bước vốn thường gặp vấn đề về độ trễ và nhu cầu dung lượng bộ nhớ lớn cho trọng số cũng như bộ nhớ cache key-value bối cảnh dài.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/intel/372665-crescent-island-turning-memory-capacity-into-agentic-ai-throughput/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Intel-Crecesent-Island-Hot-Chips-2026-1200x637.jpg",
+    "author": "Admin",
+    "createdAt": "2026-08-28T03:59:15.308352+00:00",
+    "publishedAt": "2026-08-27T21:00:29+00:00"
   }
 ]
