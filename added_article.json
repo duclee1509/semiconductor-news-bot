@@ -1762,5 +1762,19 @@
     "author": "Technical Paper Link",
     "createdAt": "2026-08-29T02:39:48.903207+00:00",
     "publishedAt": "2026-08-28T17:20:53+00:00"
+  },
+  {
+    "title_org": "Rowhammer Backdoor Injection Attack During Inference (Northeastern)",
+    "title_vietnamese": "Tấn công chèn cửa hậu bằng Rowhammer trong quá trình suy luận (Northeastern)",
+    "summary_org": "Researchers from Northeastern University introduced ROBBIN, a novel hardware-aware backdoor injection attack that exploits Rowhammer vulnerabilities in DRAM during model inference. The technique characterizes target DRAM bit-flip patterns to iteratively select and inject backdoors directly into the hardware. This research highlights security risks in modern memory systems when running AI workloads.",
+    "summary_vietnamese": "Các nhà nghiên cứu từ Đại học Northeastern đã giới thiệu ROBBIN, một phương thức tấn công chèn cửa hậu (backdoor) nhận thức phần cứng mới, khai thác lỗ hổng Rowhammer trong DRAM trong quá trình suy luận mô hình. Kỹ thuật này đặc tả các mẫu lật bit của DRAM mục tiêu để lựa chọn lặp đi lặp lại và chèn cửa hậu trực tiếp vào phần cứng. Nghiên cứu này làm nổi bật các rủi ro bảo mật trong các hệ thống bộ nhớ hiện đại khi chạy các tác vụ AI.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/rowhammer-backdoor-injection-attack-during-inference-northeastern/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_716241307-security-scaled.jpeg?fit=2560%2C1280&ssl=1",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-08-29T10:41:04.191550+00:00",
+    "publishedAt": "2026-08-29T07:01:49+00:00"
   }
 ]
