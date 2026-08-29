@@ -1,0 +1,8 @@
+Article: https://semiengineering.com/predicting-post-route-ppa-from-macro-and-standard-cell-placements-u-of-alberta/
+Title: Predicting Post-Route PPA from Macro and Standard-Cell Placements (U. of Alberta)
+Summary: <p>Researchers from University of Alberta published a technical paper titled “PPAPlace: Differentiable Cross-Stage Objectives for Chip Placement Optimization.” Abstract: “Macro placement significan...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/AdobeStock_183702829-scaled.jpeg
+Author: Technical Paper Link
+Published date: Sat, 29 Aug 2026 17:00:22 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

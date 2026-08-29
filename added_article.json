@@ -1776,5 +1776,19 @@
     "author": "Technical Paper Link",
     "createdAt": "2026-08-29T10:41:04.191550+00:00",
     "publishedAt": "2026-08-29T07:01:49+00:00"
+  },
+  {
+    "title_org": "Predicting Post-Route PPA from Macro and Standard-Cell Placements (U. of Alberta)",
+    "title_vietnamese": "Dự đoán PPA sau định tuyến từ vị trí đặt Macro và Standard-Cell (ĐH Alberta)",
+    "summary_org": "Researchers from the University of Alberta published a paper on 'PPAPlace,' introducing differentiable cross-stage objectives for chip placement optimization. The study addresses the poor correlation between traditional half-perimeter wirelength (HPWL) optimization and actual post-route timing metrics, aiming to better predict post-route power, performance, and area (PPA) from macro and standard-cell placements.",
+    "summary_vietnamese": "Các nhà nghiên cứu từ Đại học Alberta đã công bố một bài báo về 'PPAPlace', giới thiệu các mục tiêu đa giai đoạn khả vi để tối ưu hóa việc bố trí chip. Nghiên cứu giải quyết sự tương quan kém giữa việc tối ưu hóa chiều dài dây nửa chu vi (HPWL) truyền thống và các chỉ số thời gian sau định tuyến thực tế, nhằm dự đoán tốt hơn công suất, hiệu năng và diện tích (PPA) sau định tuyến từ các vị trí đặt macro và standard-cell.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/predicting-post-route-ppa-from-macro-and-standard-cell-placements-u-of-alberta/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/06/AdobeStock_183702829-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-08-29T22:14:03.952323+00:00",
+    "publishedAt": "2026-08-29T17:00:22+00:00"
   }
 ]
