@@ -1,8 +1,0 @@
-Article: https://vnexpress.net/5-kim-loai-thuc-day-bung-no-trung-tam-du-lieu-ai-5111655.html
-Title: 5 kim loại thúc đẩy bùng nổ trung tâm dữ liệu AI
-Summary: Các kim loại thiết yếu như đồng, nhôm, đất hiếm… đang trở thành nền tảng cốt lõi cho cuộc cách mạng AI thông qua cung cấp điện năng, truyền dữ liệu và tản nhiệt.
-Thumbnail: https://i2-vnexpress.vnecdn.net/2026/08/21/VNEMetal1-1787286525-1930-1787287564.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=Tk-HC2jPMosOZof5DmsItA
-Author: VnExpress
-Published date: Sun, 23 Aug 2026 03:00:00 +0000
-
-Completed! Added a total of 1 new news items to Firebase.
