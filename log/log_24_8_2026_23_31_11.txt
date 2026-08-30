@@ -1,8 +1,0 @@
-Article: https://semiwiki.com/eda/synopsys/372498-synopsys-cloud-at-dac-2026/
-Title: Synopsys Cloud at DAC 2026
-Summary: <p>Cloud-based EDA has been around for awhile now, so at #DAC2026 I met with Vikram Bhatia, Executive Director of Synopsys Cloud to see what’s new with their offering. His background includes stint...
-Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Synopsys-Cloud-FlexEDA.jpg
-Author: Daniel Payne
-Published date: Mon, 24 Aug 2026 15:00:23 +0000
-
-Completed! Added a total of 1 new news items to Firebase.

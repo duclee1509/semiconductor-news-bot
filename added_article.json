@@ -1874,5 +1874,33 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-08-30T19:00:24.394804+00:00",
     "publishedAt": "2026-08-30T17:00:36+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Phillip Stanley-Marbell of Signaloid",
+    "title_vietnamese": "Phỏng vấn CEO Phillip Stanley-Marbell của Signaloid",
+    "summary_org": "This article features an interview with Phillip Stanley-Marbell, the founder and CEO of Signaloid. He is also a former Professor of Physical Computation at the University of Cambridge and a PhD graduate from Carnegie. The interview provides insights into his background and leadership at Signaloid.",
+    "summary_vietnamese": "Bài viết này là cuộc phỏng vấn với Phillip Stanley-Marbell, nhà sáng lập kiêm CEO của Signaloid. Ông cũng từng là Giáo sư ngành Điện toán Vật lý tại Đại học Cambridge và tốt nghiệp tiến sĩ tại Carnegie. Cuộc phỏng vấn cung cấp cái nhìn chi tiết về nền tảng học thuật cũng như vai trò lãnh đạo của ông tại Signaloid.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/372496-ceo-interview-with-phillip-stanley-marbell-of-signaloid/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/IMG_5575.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-08-30T22:19:27.941164+00:00",
+    "publishedAt": "2026-08-30T21:00:36+00:00"
+  },
+  {
+    "title_org": "Five Billion Pulses Later: What DUV Optics Testing Reveals About Semiconductor Tool Uptime",
+    "title_vietnamese": "Năm tỷ xung ánh sáng sau: Kiểm thử quang học DUV tiết lộ điều gì về thời gian hoạt động của thiết bị bán dẫn?",
+    "summary_org": "Deep-ultraviolet optics used in semiconductor lithography face severe qualification challenges after enduring billions of pulses over their lifecycle. Initial reflectance specs and laser-induced damage thresholds are insufficient for predicting real-world tool uptime. Comprehensive testing is required to understand true component durability.",
+    "summary_vietnamese": "Các hệ thống quang học cực tím sâu (DUV) dùng trong quang khắc bán dẫn phải đối mặt với những thách thức đánh giá khắt khe sau khi chịu đựng hàng tỷ xung ánh sáng trong suốt vòng đời. Các thông số phản xạ ban đầu và ngưỡng hư hại do laser gây ra là chưa đủ để dự đoán thời gian hoạt động thực tế của thiết bị. Do đó, việc kiểm thử toàn diện là cần thiết để hiểu rõ độ bền thực sự của linh kiện.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/lithography/372789-five-billion-pulses-later-what-duv-optics-testing-reveals-about-semiconductor-tool-uptime/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/umberto-jXd2FSvcRr8-unsplash-2-1200x800.jpg",
+    "author": "Admin",
+    "createdAt": "2026-08-30T22:19:32.836567+00:00",
+    "publishedAt": "2026-08-30T19:00:06+00:00"
   }
 ]
