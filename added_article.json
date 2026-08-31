@@ -1986,5 +1986,19 @@
     "author": "Bernard Murphy",
     "createdAt": "2026-08-31T18:40:01.812354+00:00",
     "publishedAt": "2026-08-31T13:00:23+00:00"
+  },
+  {
+    "title_org": "Intel’s 14A Is Winning the Race Against Defects",
+    "title_vietnamese": "Tiến trình 14A của Intel đang chiến thắng trong cuộc đua giảm thiểu lỗi sản xuất",
+    "summary_org": "Intel's next-generation 14A manufacturing process is showing unexpectedly rapid progress with defect density falling faster than anticipated. This technical improvement provides a significant boost to Intel's efforts to restore confidence, attract foundry customers, and prove its manufacturing capabilities.",
+    "summary_vietnamese": "Quy trình sản xuất thế hệ tiếp theo 14A của Intel đang cho thấy những tiến bộ vượt bậc ngoài mong đợi, với mật độ lỗi giảm nhanh hơn dự kiến. Cải tiến kỹ thuật này mang lại bước đệm quan trọng cho nỗ lực khôi phục niềm tin, thu hút khách hàng dịch vụ đúc (foundry) và chứng minh năng lực sản xuất của Intel.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/intel/372866-intels-14a-is-winning-the-race-against-defects/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Intels-14A-Is-Winning-the-Race-Against-Defects-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-08-31T23:34:36.877866+00:00",
+    "publishedAt": "2026-08-31T21:00:22+00:00"
   }
 ]
