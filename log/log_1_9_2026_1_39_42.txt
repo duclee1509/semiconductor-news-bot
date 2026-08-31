@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/workload-driven-hbf-substrate-for-capacity-scalable-llm-inference-huawei-eth-zurich-hust/
+Title: Workload-Driven HBF Substrate For Capacity-Scalable LLM Inference (Huawei, ETH Zurich, HUST)
+Summary: <p>Researchers at Huawei, ETH Zürich, and HUST published a technical paper titled “FLINT: Efficiently Leveraging High Bandwidth Flash for Capacity-Scalable LLM Inference Acceleration.” Abstract: “L...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/AdobeStock_183702829-scaled.jpeg
+Author: Technical Paper Link
+Published date: Mon, 31 Aug 2026 17:25:59 +0000
+
+Article: https://semiengineering.com/trust-but-verify/
+Title: Trust, But Verify
+Summary: <p>We trust designers to do the best they can, but know they cannot be perfect. That's why we verify. When AI gets involved, it cannot be trusted.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/Blue-circuit-board-06-22-26-AdobeStock_443617467-scaled.jpeg
+Author: Brian Bailey
+Published date: Mon, 31 Aug 2026 07:03:35 +0000
+
+Article: https://spectrum.ieee.org/europes-ai-drive
+Title: The EU’s AI Drive Undermines Its ​Own Chip Strategy
+Summary: <img src="https://spectrum.ieee.org/media-library/illustration-of-a-microchip-with-eu-flag-symbols.jpg?id=67681157&amp;width=1200&amp;height=800&amp;coordinates=62%2C0%2C63%2C0" /><br /><br /><p><e...
+Thumbnail: https://spectrum.ieee.org/media-library/illustration-of-a-microchip-with-eu-flag-symbols.jpg?id=67681157&width=1200&height=600&coordinates=0%2C125%2C0%2C125
+Author: Joana Soares
+Published date: Mon, 31 Aug 2026 14:00:04 +0000
+
+Article: https://semiwiki.com/eda/generation-alpha-transistor/372802-genalpha-brings-a-practical-approach-for-analog-ai-to-dac-2026/
+Title: GenAlpha Brings a Practical Approach for Analog AI to DAC 2026
+Summary: <p>&#160;</p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/GenAlpha-Booth.jpg
+Author: Mike Gianfagna
+Published date: Mon, 31 Aug 2026 17:00:31 +0000
+
+Article: https://semiwiki.com/artificial-intelligence/372524-exploiting-agentic-automation-cost-effectively-innovation-in-verification/
+Title: Exploiting agentic automation cost-effectively. Innovation in Verification
+Summary: <p>Frontier models (Claude, etc.) are very powerful but becoming expensive for high token counts. Methods to exploit a mix of models, including local open-weight models, are attracting attention. P...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Innovation-New-1.jpeg
+Author: Bernard Murphy
+Published date: Mon, 31 Aug 2026 13:00:23 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
