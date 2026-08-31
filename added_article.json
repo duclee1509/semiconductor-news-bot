@@ -1902,5 +1902,19 @@
     "author": "Admin",
     "createdAt": "2026-08-30T22:19:32.836567+00:00",
     "publishedAt": "2026-08-30T19:00:06+00:00"
+  },
+  {
+    "title_org": "Photonics Forces A Chiplet Rethink",
+    "title_vietnamese": "Quang tử buộc phải thiết kế lại kiến trúc Chiplet",
+    "summary_org": "Optical integration in chiplets is no longer just a bandwidth upgrade, evolving into a complex full-system co-design challenge. Issues such as thermal drift, mechanical stress, electromagnetic coupling, and verification gaps are driving this fundamental shift.",
+    "summary_vietnamese": "Tích hợp quang học trong chiplet không chỉ đơn thuần là nâng cấp băng thông mà đã trở thành một thách thức đồng thiết kế toàn hệ thống phức tạp. Các vấn đề như độ lệch nhiệt, ứng suất cơ học, ghép nối điện từ và khoảng trống xác minh đang thúc đẩy sự thay đổi cơ bản này.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/photonics-forces-a-chiplet-rethink/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2017/05/semi_fb_thumb.jpg?fit=250%2C250&ssl=1",
+    "author": "Ann Mutschler",
+    "createdAt": "2026-08-31T10:24:30.617192+00:00",
+    "publishedAt": "2026-08-31T07:01:38+00:00"
   }
 ]
