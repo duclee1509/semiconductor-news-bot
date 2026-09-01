@@ -2000,5 +2000,47 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-08-31T23:34:36.877866+00:00",
     "publishedAt": "2026-08-31T21:00:22+00:00"
+  },
+  {
+    "title_org": "Advancing The CFET-Based Device Roadmap: Novel Integration Modules And Standard Cell Configurations",
+    "title_vietnamese": "Thúc đẩy lộ trình thiết bị dựa trên CFET: Các mô-đun tích hợp mới và cấu hình ô tiêu chuẩn",
+    "summary_org": "This article discusses pioneering work in developing critical Complementary FET (CFET) modules, focusing on an improved backside contact module and a novel gate stack for threshold voltage tuning. These advancements are crucial for pushing the boundaries of future semiconductor device scaling and architecture.",
+    "summary_vietnamese": "Bài viết thảo luận về công việc tiên phong trong việc phát triển các mô-đun CFET quan trọng, tập trung vào mô-đun tiếp xúc mặt sau được cải tiến và một ngăn xếp cổng mới để điều chỉnh điện áp ngưỡng. Những tiến bộ này đóng vai trò quan trọng trong việc thúc đẩy giới hạn thu nhỏ và kiến trúc thiết bị bán dẫn trong tương lai.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/advancing-the-cfet-based-device-roadmap-novel-integration-modules-and-standard-cell-configurations/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/imec_Advancing-CFET-device-roadmap-fig0.jpg?fit=728%2C709&ssl=1",
+    "author": "Cassie Sheng",
+    "createdAt": "2026-09-01T09:06:22.674589+00:00",
+    "publishedAt": "2026-09-01T07:01:52+00:00"
+  },
+  {
+    "title_org": "Research Bits: Sep. 1",
+    "title_vietnamese": "Điểm tin nghiên cứu: Ngày 1 tháng 9",
+    "summary_org": "This research brief highlights recent advancements in gallium nitride technology, focusing on high voltage, low resistance, and the application of a diamond interposer. These developments aim to improve the performance and thermal management of semiconductor devices.",
+    "summary_vietnamese": "Bản tin nghiên cứu này điểm lại những tiến bộ gần đây trong công nghệ gali nitrit (gallium nitride), tập trung vào điện áp cao, điện trở thấp và việc ứng dụng lớp đệm kim cương (diamond interposer). Những phát triển này nhằm cải thiện hiệu suất và khả năng quản lý nhiệt của các thiết bị bán dẫn.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/research-bits-sep-1/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_617037143-scaled.jpeg?fit=2560%2C1707&ssl=1",
+    "author": "Jesse Allen",
+    "createdAt": "2026-09-01T09:06:28.840738+00:00",
+    "publishedAt": "2026-09-01T07:01:15+00:00"
+  },
+  {
+    "title_org": "Chip Industry Technical Paper Roundup: Sep. 1",
+    "title_vietnamese": "Điểm tin tài liệu kỹ thuật ngành công nghiệp chip: Ngày 1 tháng 9",
+    "summary_org": "This article provides a roundup of recent technical papers covering advanced semiconductor topics such as wafer-scale optical interconnects for LLM training, Rowhammer-based inference attacks, and thermal management solutions like liquid cooling for 2.5D/3D packages. Additionally, it highlights research on wafer-scale 2D semiconductor growth, machine learning-based parameter extraction, and chip-placement optimization.",
+    "summary_vietnamese": "Bài viết này tổng hợp các tài liệu kỹ thuật gần đây, bao gồm các chủ đề bán dẫn tiên tiến như kết nối quang học cấp wafer cho đào tạo LLM, các cuộc tấn công suy luận dựa trên Rowhammer, và giải pháp quản lý nhiệt như làm mát bằng chất lỏng cho các package 2.5D/3D. Ngoài ra, bài viết cũng nổi bật các nghiên cứu về tăng trưởng chất bán dẫn 2D cấp wafer, trích xuất thông số dựa trên học máy và tối ưu hóa vị trí đặt chip.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sep-1/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_857968898-neural-network-scaled.jpeg?fit=2560%2C1707&ssl=1",
+    "author": "Linda Christensen",
+    "createdAt": "2026-09-01T09:06:33.923985+00:00",
+    "publishedAt": "2026-09-01T07:01:14+00:00"
   }
 ]

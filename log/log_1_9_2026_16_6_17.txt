@@ -1,0 +1,22 @@
+Article: https://semiengineering.com/advancing-the-cfet-based-device-roadmap-novel-integration-modules-and-standard-cell-configurations/
+Title: Advancing The CFET-Based Device Roadmap: Novel Integration Modules And Standard Cell Configurations
+Summary: <p>Part I – Pioneering work in developing CFET-critical modules: an improved backside contact module and a novel gate stack for threshold voltage tuning.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/imec_Advancing-CFET-device-roadmap-fig0.jpg?fit=728%2C709&ssl=1
+Author: Cassie Sheng
+Published date: Tue, 01 Sep 2026 07:01:52 +0000
+
+Article: https://semiengineering.com/research-bits-sep-1/
+Title: Research Bits: Sep. 1
+Summary: <p>Gallium nitride: High voltage; low resistance; diamond interposer.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_617037143-scaled.jpeg?fit=2560%2C1707&ssl=1
+Author: Jesse Allen
+Published date: Tue, 01 Sep 2026 07:01:15 +0000
+
+Article: https://semiengineering.com/chip-industry-technical-paper-roundup-sep-1/
+Title: Chip Industry Technical Paper Roundup: Sep. 1
+Summary: <p>Wafer-scale optical interconnects for LLM training; Rowhammer-based inference attacks; 3D-IC test cases; liquid cooling for 2.5D/3D packages; wafer-scale 2D semi growth; DL-based parameter extra...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_857968898-neural-network-scaled.jpeg?fit=2560%2C1707&ssl=1
+Author: Linda Christensen
+Published date: Tue, 01 Sep 2026 07:01:14 +0000
+
+Completed! Added a total of 3 new news items to Firebase.
