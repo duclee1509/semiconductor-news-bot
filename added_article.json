@@ -2042,5 +2042,19 @@
     "author": "Linda Christensen",
     "createdAt": "2026-09-01T09:06:33.923985+00:00",
     "publishedAt": "2026-09-01T07:01:14+00:00"
+  },
+  {
+    "title_org": "Follow the Money – Agentrys Raises $24.5 Million to Build Agentic Design Automation",
+    "title_vietnamese": "Theo dòng tiền – Agentrys gọi vốn thành công 24,5 triệu USD để phát triển Tự động hóa thiết kế theo tác nhân",
+    "summary_org": "Agentrys has launched Agentic Design Automation (ADA), a new category of design technology aimed at revolutionizing AI deployment for chip design. The company successfully raised $24.5 million to build targeted agentic design flows that continuously improve with every run. This funding will support their innovative approach to advancing EDA and semiconductor design workflows.",
+    "summary_vietnamese": "Agentrys vừa ra mắt Tự động hóa thiết kế theo tác nhân (ADA), một danh mục công nghệ thiết kế mới nhằm cách mạng hóa việc ứng dụng AI trong thiết kế vi mạch. Công ty đã huy động thành công 24,5 triệu USD để xây dựng các luồng thiết kế theo tác nhân có khả năng tự cải thiện sau mỗi lần chạy. Khoản tài trợ này sẽ hỗ trợ cách tiếp cận đổi mới của họ nhằm thúc đẩy các quy trình EDA và thiết kế bán dẫn.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/agentrys/372749-follow-the-money-agentrys-raises-24-5-million-to-build-agentic-design-automation/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Follow-the-Money-–-Agentrys-Raises-24.5-Million-to-Build-Agentic-Design-Automation.png",
+    "author": "Mike Gianfagna",
+    "createdAt": "2026-09-01T15:58:38.455216+00:00",
+    "publishedAt": "2026-09-01T13:00:52+00:00"
   }
 ]

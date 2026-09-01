@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/eda/agentrys/372749-follow-the-money-agentrys-raises-24-5-million-to-build-agentic-design-automation/
+Title: Follow the Money – Agentrys Raises $24.5 Million to Build Agentic Design Automation
+Summary: <p style="font-weight: 400;">Agentrys recently launched a new category of design technology, Agentic Design Automation (ADA). The approach promises to revolutionize AI deployment for chip design wi...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Follow-the-Money-–-Agentrys-Raises-24.5-Million-to-Build-Agentic-Design-Automation.png
+Author: Mike Gianfagna
+Published date: Tue, 01 Sep 2026 13:00:52 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
