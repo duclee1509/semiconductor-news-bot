@@ -2070,5 +2070,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-09-01T19:17:23.366976+00:00",
     "publishedAt": "2026-09-01T17:00:02+00:00"
+  },
+  {
+    "title_org": "How Agentic AI Turns IC Engineers into Architects",
+    "title_vietnamese": "AI tác nhân biến kỹ sư vi mạch thành kiến trúc sư hệ thống như thế nào",
+    "summary_org": "An article by Kexun Zhang of ChipAgents discusses how agentic AI is poised to transform IC engineering in the same way it has revolutionized software development. As coding tools evolved from simple autocomplete to advanced systems capable of modifying repositories, AI agents are now empowering semiconductor engineers to focus on higher-level architectural tasks.",
+    "summary_vietnamese": "Một bài viết của Kexun Zhang từ ChipAgents thảo luận về cách AI tác nhân (agentic AI) chuẩn bị chuyển đổi ngành kỹ thuật vi mạch theo cách mà nó đã cách mạng hóa phát triển phần mềm. Khi các công cụ lập trình tiến hóa từ tính năng tự động hoàn thành đơn giản thành các hệ thống nâng cao có khả năng chỉnh sửa mã nguồn, các tác nhân AI đang trao quyền cho các kỹ sư bán dẫn tập trung vào các tác vụ kiến trúc cấp cao hơn.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/chipagents-ai/372781-how-agentic-ai-turns-ic-engineers-into-architects/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/How-Agentic-AI-Turns-IC-Engineers-into-Architects-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-01T22:20:21.478707+00:00",
+    "publishedAt": "2026-09-01T21:00:00+00:00"
   }
 ]

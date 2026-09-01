@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/eda/chipagents-ai/372781-how-agentic-ai-turns-ic-engineers-into-architects/
+Title: How Agentic AI Turns IC Engineers into Architects
+Summary: <p>There is an interesting <a href="https://chipagents.ai/blogs/agentic-ai-turns-ic-engineers-into-architects">article</a> by Kexun ZHang of <a href="https://chipagents.ai/">ChipAgents</a> on their...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/How-Agentic-AI-Turns-IC-Engineers-into-Architects-1200x675.jpg
+Author: Daniel Nenni
+Published date: Tue, 01 Sep 2026 21:00:00 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
