@@ -2056,5 +2056,19 @@
     "author": "Mike Gianfagna",
     "createdAt": "2026-09-01T15:58:38.455216+00:00",
     "publishedAt": "2026-09-01T13:00:52+00:00"
+  },
+  {
+    "title_org": "Keysight ADS Enables First-Pass Silicon at 3 THz for AttoTude",
+    "title_vietnamese": "Keysight ADS giúp AttoTude đạt thành công chip nguyên mẫu ngay lần đầu ở tần số 3 THz",
+    "summary_org": "AttoTude has expanded its use of Keysight Technologies’ Advanced Design System (ADS) to support integrated-circuit design flows spanning frequencies from 100 GHz to 3 THz. This advanced workflow has significantly reduced IC development cycles by more than 50%, enabling projects to efficiently transition from initial concept to physical implementation.",
+    "summary_vietnamese": "AttoTude đã mở rộng việc sử dụng phần mềm Advanced Design System (ADS) của Keysight Technologies để hỗ trợ quy trình thiết kế mạch tích hợp trải dài từ tần số 100 GHz đến 3 THz. Quy trình tiên tiến này đã giúp giảm hơn 50% chu kỳ phát triển IC, cho phép các dự án chuyển từ ý tưởng sang hiện thực hóa một cách hiệu quả.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/keysight-eda/372755-keysight-ads-enables-first-pass-silicon-at-3-thz-for-attotude/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Keysight-ADS-Enables-First-Pass-Silicon-at-3-THz-for-AttoTude-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-01T19:17:23.366976+00:00",
+    "publishedAt": "2026-09-01T17:00:02+00:00"
   }
 ]
