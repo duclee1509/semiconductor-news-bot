@@ -2196,5 +2196,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-09-02T19:10:28.445910+00:00",
     "publishedAt": "2026-09-02T17:00:42+00:00"
+  },
+  {
+    "title_org": "Containing AI Agents With a Will of Their Own",
+    "title_vietnamese": "Kiểm soát các tác nhân AI có ý chí riêng",
+    "summary_org": "Meta has open-sourced a powerful 30-billion-parameter AI agent model that can run locally on high-end MacBook Pro hardware. This release highlights the growing accessibility and capability of autonomous AI agents, raising important questions about control and containment.",
+    "summary_vietnamese": "Meta đã mã nguồn mở một mô hình tác nhân AI 30 tỷ tham số đầy mạnh mẽ, có thể chạy cục bộ trên phần cứng MacBook Pro cao cấp. Sự ra mắt này làm nổi bật khả năng tiếp cận và năng lực ngày càng tăng của các tác nhân AI tự động, đồng thời đặt ra những câu hỏi quan trọng về vấn đề kiểm soát.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/artificial-intelligence/372426-containing-ai-agents-with-a-will-of-their-own/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Keys-to-the-Ferrari.png",
+    "author": "Jonah McLeod",
+    "createdAt": "2026-09-02T22:17:25.516350+00:00",
+    "publishedAt": "2026-09-02T21:00:13+00:00"
   }
 ]

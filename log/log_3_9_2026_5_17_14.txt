@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/artificial-intelligence/372426-containing-ai-agents-with-a-will-of-their-own/
+Title: Containing AI Agents With a Will of Their Own
+Summary: <p>Meta recently open-sourced a capable, large-scale agent model — 30 billion parameters, a rough measure of the model&#8217;s size and complexity. It&#8217;s free, downloadable, and runs, per Meta...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Keys-to-the-Ferrari.png
+Author: Jonah McLeod
+Published date: Wed, 02 Sep 2026 21:00:13 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
