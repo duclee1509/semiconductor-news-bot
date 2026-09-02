@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/ebook-accelerate-silicon-design-for-physical-ai-part-1/
+Title: EBook – Accelerate Silicon Design for Physical AI (Part 1)
+Summary: <p>A complete path from AI model, to trusted silicon, to deployable system.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-9.15.26-AM-1.png?fit=1966%2C576&ssl=1
+Author: Cadence
+Published date: Wed, 02 Sep 2026 07:04:59 +0000
+
+Article: https://semiengineering.com/security-in-the-era-of-quantum-computing/
+Title: Security In The Era Of Quantum Computing
+Summary: <p>Enable robust cryptographic mechanisms that remain resilient even against quantum-based computational attacks.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_354894191-Quantum-11-21-scaled.jpeg?fit=2560%2C1440&ssl=1
+Author: Infineon
+Published date: Wed, 02 Sep 2026 07:02:11 +0000
+
+Article: https://semiengineering.com/fault-injection-and-false-state-in-live-perception-pipelines/
+Title: When Edge AI Lies: Fault Injection and False State in Live Perception Pipelines
+Summary: <p>In edge AI, the most dangerous failure may not be a system that stops working, but one that continues operating while quietly accepting the wrong version of reality.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_362075371-security-scaled.jpeg?fit=2560%2C1540&ssl=1
+Author: Keysight
+Published date: Wed, 02 Sep 2026 07:02:10 +0000
+
+Article: https://semiengineering.com/the-evolution-of-intelligent-systems-from-optimization-to-automation-to-ai/
+Title: The Evolution Of Intelligent Systems: From Optimization To Automation to AI
+Summary: <p>Engineering methodologies are evolving toward more integrated and intelligent approaches across three interconnected domains: optimization, automation, and AI.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_205182431-08-26-Quantum-scaled.jpeg?fit=2560%2C1575&ssl=1
+Author: Siemens EDA
+Published date: Wed, 02 Sep 2026 07:01:59 +0000
+
+Article: https://semiengineering.com/blog-review-sept-2-3/
+Title: Blog Review: Sept. 2
+Summary: <p>Shifting landscape of chip design; AI for 3D-IC; India boosts semiconductors; 6G roadmap.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_617037593-02-27-2026-scaled.jpeg?fit=2560%2C1707&ssl=1
+Author: Jesse Allen
+Published date: Wed, 02 Sep 2026 07:01:39 +0000
+
+Completed! Added a total of 4 new news items to Firebase.

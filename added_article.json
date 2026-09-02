@@ -2084,5 +2084,61 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-09-01T22:20:21.478707+00:00",
     "publishedAt": "2026-09-01T21:00:00+00:00"
+  },
+  {
+    "title_org": "EBook – Accelerate Silicon Design for Physical AI (Part 1)",
+    "title_vietnamese": "Sách điện tử – Tăng tốc thiết kế vi mạch cho AI vật lý (Phần 1)",
+    "summary_org": "This article introduces an e-book focusing on accelerating silicon design for physical AI. It provides a comprehensive path from initial AI models to trusted silicon and fully deployable systems.",
+    "summary_vietnamese": "Bài viết giới thiệu một cuốn sách điện tử tập trung vào việc tăng tốc thiết kế vi mạch cho AI vật lý. Tài liệu này cung cấp một lộ trình toàn diện từ các mô hình AI ban đầu cho đến vi mạch đáng tin cậy và các hệ thống có thể triển khai thực tế.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/ebook-accelerate-silicon-design-for-physical-ai-part-1/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-9.15.26-AM-1.png?fit=1966%2C576&ssl=1",
+    "author": "Cadence",
+    "createdAt": "2026-09-02T08:19:55.006279+00:00",
+    "publishedAt": "2026-09-02T07:04:59+00:00"
+  },
+  {
+    "title_org": "Security In The Era Of Quantum Computing",
+    "title_vietnamese": "Bảo mật trong kỷ nguyên máy tính lượng tử",
+    "summary_org": "The article emphasizes the necessity of implementing robust cryptographic mechanisms designed to withstand advanced quantum-based computational attacks. It highlights the growing need for future-proof security in semiconductor and computing systems as quantum technology evolves.",
+    "summary_vietnamese": "Bài viết nhấn mạnh sự cần thiết phải triển khai các cơ chế mã hóa mạnh mẽ nhằm chống lại các cuộc tấn công tính toán dựa trên lượng tử tiên tiến. Nội dung nêu bật nhu cầu ngày càng tăng về tính bảo mật có khả năng chống lỗi tương lai trong các hệ thống bán dẫn và máy tính khi công nghệ lượng tử phát triển.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/security-in-the-era-of-quantum-computing/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_354894191-Quantum-11-21-scaled.jpeg?fit=2560%2C1440&ssl=1",
+    "author": "Infineon",
+    "createdAt": "2026-09-02T08:20:15.961364+00:00",
+    "publishedAt": "2026-09-02T07:02:11+00:00"
+  },
+  {
+    "title_org": "When Edge AI Lies: Fault Injection and False State in Live Perception Pipelines",
+    "title_vietnamese": "Khi Edge AI nói dối: Tiêm lỗi và Trạng thái sai trong Đường ống nhận thức trực tiếp",
+    "summary_org": "The article discusses the hidden dangers in edge AI where systems continue to operate under a false version of reality due to fault injection and false states. It highlights how perception pipelines can fail silently, posing severe risks in live operational environments.",
+    "summary_vietnamese": "Bài viết thảo luận về những mối nguy hiểm tiềm ẩn trong Edge AI, nơi các hệ thống tiếp tục hoạt động dưới một phiên bản sai lệch về thực tế do việc tiêm lỗi (fault injection) và trạng thái sai. Nội dung nhấn mạnh cách các đường ống nhận thức (perception pipelines) có thể gặp lỗi một cách âm thầm, gây ra rủi ro lớn trong môi trường vận hành trực tiếp.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/fault-injection-and-false-state-in-live-perception-pipelines/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_362075371-security-scaled.jpeg?fit=2560%2C1540&ssl=1",
+    "author": "Keysight",
+    "createdAt": "2026-09-02T08:20:31.273000+00:00",
+    "publishedAt": "2026-09-02T07:02:10+00:00"
+  },
+  {
+    "title_org": "Blog Review: Sept. 2",
+    "title_vietnamese": "Điểm tin Blog: Ngày 2 tháng 9",
+    "summary_org": "This blog review highlights the shifting landscape of chip design and the application of AI in 3D-IC architectures. It also covers India's efforts to boost its domestic semiconductor industry and outlines the upcoming roadmap for 6G technology.",
+    "summary_vietnamese": "Bài điểm tin này nổi bật xu hướng thay đổi trong thiết kế chip và việc ứng dụng AI trong kiến trúc 3D-IC. Nội dung cũng đề cập đến các nỗ lực thúc đẩy ngành công nghiệp bán dẫn của Ấn Độ và phác thảo lộ trình phát triển cho công nghệ 6G.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/blog-review-sept-2-3/",
+    "category": "International",
+    "isPolicy": true,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_617037593-02-27-2026-scaled.jpeg?fit=2560%2C1707&ssl=1",
+    "author": "Jesse Allen",
+    "createdAt": "2026-09-02T08:20:40.041655+00:00",
+    "publishedAt": "2026-09-02T07:01:39+00:00"
   }
 ]
