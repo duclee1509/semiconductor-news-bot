@@ -2140,5 +2140,33 @@
     "author": "Jesse Allen",
     "createdAt": "2026-09-02T08:20:40.041655+00:00",
     "publishedAt": "2026-09-02T07:01:39+00:00"
+  },
+  {
+    "title_org": "Building a Faster Path from Semiconductor Idea to Commercial Silicon",
+    "title_vietnamese": "Xây dựng con đường nhanh hơn từ ý tưởng vi mạch đến thương mại hóa silicon",
+    "summary_org": "SEMI and Silicon Catalyst have announced a strategic partnership via a memorandum of understanding signed at SEMICON Taiwan 2026. This collaboration aims to solve a major industry challenge by accelerating the transformation of promising hardware concepts into manufacturable and commercially viable semiconductor products.",
+    "summary_vietnamese": "SEMI và Silicon Catalyst đã công bố một mối quan hệ đối tác chiến lược thông qua biên bản ghi nhớ được ký kết tại SEMICON Taiwan 2026. Sự hợp tác này nhằm giải quyết một thách thức lớn của ngành bằng cách đẩy nhanh quá trình biến các ý tưởng phần cứng đầy hứa hẹn thành các sản phẩm vi mạch có thể sản xuất và khả thi về mặt thương mại.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-services/silicon-catalyst/372828-building-a-faster-path-from-semiconductor-idea-to-commercial-silicon/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Accelerating-Semiconductor-Innovation-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-02T15:51:28.560984+00:00",
+    "publishedAt": "2026-09-02T15:00:11+00:00"
+  },
+  {
+    "title_org": "DAC 2026: A Discussion of Who Owns the Intelligence Behind Tomorrow’s Chips and How to Make it Better",
+    "title_vietnamese": "DAC 2026: Thảo luận về quyền sở hữu trí tuệ nhân tạo đằng sau các con chip tương lai và cách tối ưu hóa",
+    "summary_org": "The semiconductor industry is transitioning from basic documentation chatbots to advanced agentic workflows for tasks like design creation, verification, and library characterization. At DAC 2026, industry experts gathered to discuss how these AI agents can boost engineering productivity by approximately 50% and address questions regarding ownership and improvement of the underlying intelligence.",
+    "summary_vietnamese": "Ngành công nghiệp bán dẫn đang chuyển dịch từ các chatbot tài liệu đơn giản sang quy trình làm việc dạng tác nhân (agentic workflows) cho các tác vụ như thiết kế, xác minh và mô tả đặc tính thư viện. Tại DAC 2026, các chuyên gia đã thảo luận về cách các tác nhân AI này có thể thúc đẩy năng suất kỹ thuật lên khoảng 50% và giải quyết các vấn đề về quyền sở hữu cũng như cách tối ưu hóa trí tuệ nhân tạo cốt lõi.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/llmda-ai/372271-dac-2026-a-discussion-of-who-owns-the-intelligence-behind-tomorrows-chips-and-how-to-make-it-better/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/DAC-2026-A-Discussion-of-Who-Owns-the-Intelligence-Behind-Tomorrows-Chips-and-How-to-Make-it-Better-1200x708.png",
+    "author": "Mike Gianfagna",
+    "createdAt": "2026-09-02T15:51:33.925139+00:00",
+    "publishedAt": "2026-09-02T13:00:36+00:00"
   }
 ]

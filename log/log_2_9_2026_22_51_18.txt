@@ -1,0 +1,22 @@
+Article: https://semiengineering.com/the-evolution-of-intelligent-systems-from-optimization-to-automation-to-ai/
+Title: The Evolution Of Intelligent Systems: From Optimization To Automation to AI
+Summary: <p>Engineering methodologies are evolving toward more integrated and intelligent approaches across three interconnected domains: optimization, automation, and AI.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_205182431-08-26-Quantum-scaled.jpeg?fit=2560%2C1575&ssl=1
+Author: Siemens EDA
+Published date: Wed, 02 Sep 2026 07:01:59 +0000
+
+Article: https://semiwiki.com/semiconductor-services/silicon-catalyst/372828-building-a-faster-path-from-semiconductor-idea-to-commercial-silicon/
+Title: Building a Faster Path from Semiconductor Idea to Commercial Silicon
+Summary: <p>SEMI and Silicon Catalyst’s new strategic partnership addresses one of the semiconductor industry’s most persistent technical problems: <strong>transforming a promising hardware concept into a m...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Accelerating-Semiconductor-Innovation-1200x675.jpg
+Author: Daniel Nenni
+Published date: Wed, 02 Sep 2026 15:00:11 +0000
+
+Article: https://semiwiki.com/eda/llmda-ai/372271-dac-2026-a-discussion-of-who-owns-the-intelligence-behind-tomorrows-chips-and-how-to-make-it-better/
+Title: DAC 2026: A Discussion of Who Owns the Intelligence Behind Tomorrow’s Chips and How to Make it Better
+Summary: <p style="font-weight: 400;">The industry is moving from simple documentation chatbots to agentic workflows capable of performing complex, multi-step tasks like design creation, verification, and l...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/DAC-2026-A-Discussion-of-Who-Owns-the-Intelligence-Behind-Tomorrows-Chips-and-How-to-Make-it-Better-1200x708.png
+Author: Mike Gianfagna
+Published date: Wed, 02 Sep 2026 13:00:36 +0000
+
+Completed! Added a total of 2 new news items to Firebase.
