@@ -2168,5 +2168,33 @@
     "author": "Mike Gianfagna",
     "createdAt": "2026-09-02T15:51:33.925139+00:00",
     "publishedAt": "2026-09-02T13:00:36+00:00"
+  },
+  {
+    "title_org": "The Evolution Of Intelligent Systems: From Optimization To Automation to AI",
+    "title_vietnamese": "Sự tiến hóa của các hệ thống thông minh: Từ tối ưu hóa đến tự động hóa và AI",
+    "summary_org": "Engineering methodologies are evolving toward more integrated and intelligent approaches across three interconnected domains. These domains include optimization, automation, and AI, which are reshaping modern system design and development.",
+    "summary_vietnamese": "Các phương pháp luận kỹ thuật đang phát triển theo hướng tiếp cận tích hợp và thông minh hơn trên ba lĩnh vực có mối liên hệ chặt chẽ với nhau. Các lĩnh vực này bao gồm tối ưu hóa, tự động hóa và AI, đang định hình lại quá trình thiết kế và phát triển hệ thống hiện đại.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/the-evolution-of-intelligent-systems-from-optimization-to-automation-to-ai/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_205182431-08-26-Quantum-scaled.jpeg?fit=2560%2C1575&ssl=1",
+    "author": "Siemens EDA",
+    "createdAt": "2026-09-02T19:10:22.854182+00:00",
+    "publishedAt": "2026-09-02T07:01:59+00:00"
+  },
+  {
+    "title_org": "Intel 18A-P Pushes RibbonFET and Backside Power Beyond the First Generation",
+    "title_vietnamese": "Intel 18A-P Đẩy Giới Hạn RibbonFET và Nguồn Điện Mặt Sau Vượt Xa Thế Hệ Đầu Tiên",
+    "summary_org": "Intel Foundry highlights the capabilities of the Intel 18A-P process node in a recent technical blog. Rather than being an entirely new node, Intel 18A-P is a performance-enhanced derivative that further advances RibbonFET and backside power technologies beyond the first generation.",
+    "summary_vietnamese": "Intel Foundry nhấn mạnh các năng lực của tiến trình Intel 18A-P trong một bài viết kỹ thuật gần đây. Thay vì là một node hoàn toàn mới, Intel 18A-P là một biến thể được cải tiến hiệu năng nhằm thúc đẩy hơn nữa công nghệ RibbonFET và cấp nguồn mặt sau vượt ra ngoài thế hệ đầu tiên.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/intel/372712-intel-18a-p-pushes-ribbonfet-and-backside-power-beyond-the-first-generation/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Intel-18A-P-Extends-Intel-18A-with-Significant-Power-and-Performance-Gains.png",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-02T19:10:28.445910+00:00",
+    "publishedAt": "2026-09-02T17:00:42+00:00"
   }
 ]

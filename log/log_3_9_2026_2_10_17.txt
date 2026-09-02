@@ -1,0 +1,15 @@
+Article: https://semiengineering.com/the-evolution-of-intelligent-systems-from-optimization-to-automation-to-ai/
+Title: The Evolution Of Intelligent Systems: From Optimization To Automation to AI
+Summary: <p>Engineering methodologies are evolving toward more integrated and intelligent approaches across three interconnected domains: optimization, automation, and AI.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_205182431-08-26-Quantum-scaled.jpeg?fit=2560%2C1575&ssl=1
+Author: Siemens EDA
+Published date: Wed, 02 Sep 2026 07:01:59 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/intel/372712-intel-18a-p-pushes-ribbonfet-and-backside-power-beyond-the-first-generation/
+Title: Intel 18A-P Pushes RibbonFET and Backside Power Beyond the First Generation
+Summary: <p>Intel Foundry has a<a href="https://www.linkedin.com/newsletters/intel-foundry-blog-7480691772290093056/"> blog</a> on LinkedIn that is worth a look. The blogs are by trusted Intel Foundry techn...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Intel-18A-P-Extends-Intel-18A-with-Significant-Power-and-Performance-Gains.png
+Author: Daniel Nenni
+Published date: Wed, 02 Sep 2026 17:00:42 +0000
+
+Completed! Added a total of 2 new news items to Firebase.
