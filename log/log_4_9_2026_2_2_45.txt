@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/eda/synopsys/372834-unified-emulation-and-prototyping-pipedream-or-reality/
+Title: Unified Emulation and Prototyping: Pipedream or Reality?
+Summary: <p><strong>Preamble</strong><br />
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Unified-Emulation-and-Prototyping-Pipedream-or-Reality-Figure-1.png
+Author: Lauro Rizzatti
+Published date: Thu, 03 Sep 2026 17:00:45 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

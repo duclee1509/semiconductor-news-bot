@@ -2308,5 +2308,19 @@
     "author": "Admin",
     "createdAt": "2026-09-03T15:40:52.967330+00:00",
     "publishedAt": "2026-09-03T13:00:33+00:00"
+  },
+  {
+    "title_org": "Unified Emulation and Prototyping: Pipedream or Reality?",
+    "title_vietnamese": "Mô phỏng và Nguyên mẫu Thống nhất: Giấc mơ hão huyền hay Thực tế?",
+    "summary_org": "Hardware-assisted verification (HAV) platforms, including hardware emulators and FPGA-based prototyping systems, are the two dominant methodologies for validating complex System-on-Chip (SoC) designs before tape-out. These tools operate within a broader verification continuum that helps engineers ensure the functionality of massive workloads prior to manufacturing.",
+    "summary_vietnamese": "Các nền tảng xác thực hỗ trợ phần cứng (HAV), bao gồm bộ mô phỏng phần cứng và hệ thống tạo nguyên mẫu dựa trên FPGA, là hai phương pháp chủ đạo để kiểm tra các thiết kế System-on-Chip (SoC) phức tạp trước khi tape-out. Các công cụ này hoạt động trong một chuỗi xác thực rộng hơn, giúp các kỹ sư đảm bảo tính năng của khối lượng công việc lớn trước khi đưa vào sản xuất.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/synopsys/372834-unified-emulation-and-prototyping-pipedream-or-reality/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Unified-Emulation-and-Prototyping-Pipedream-or-Reality-Figure-1.png",
+    "author": "Lauro Rizzatti",
+    "createdAt": "2026-09-03T19:03:34.882517+00:00",
+    "publishedAt": "2026-09-03T17:00:45+00:00"
   }
 ]
