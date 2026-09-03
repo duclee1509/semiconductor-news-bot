@@ -1,8 +1,0 @@
-Article: https://semiwiki.com/semiconductor-manufacturers/intel/372665-crescent-island-turning-memory-capacity-into-agentic-ai-throughput/
-Title: Crescent Island: Turning Memory Capacity into Agentic AI Throughput
-Summary: <p>Intel’s Crescent Island is a discrete data-center GPU designed for agentic AI inference, where performance is constrained by more than matrix arithmetic. Multi-step agents impose latency through...
-Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Intel-Crecesent-Island-Hot-Chips-2026-1200x637.jpg
-Author: Admin
-Published date: Thu, 27 Aug 2026 21:00:29 +0000
-
-Completed! Added a total of 1 new news items to Firebase.

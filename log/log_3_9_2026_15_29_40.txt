@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/intelligent-engineering-from-optimization-to-ai/
+Title: Intelligent Engineering: From Optimization To AI
+Summary: <p>A methodology for transforming engineering decisions from educated guesses into data-driven choices.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Siemens_Int-Engineer-Optimiz-to-AI-fig1-layout.webp?fit=1723%2C693&ssl=1
+Author: Bradley Cecil
+Published date: Thu, 03 Sep 2026 07:08:39 +0000
+
+Article: https://semiengineering.com/protecting-mission-critical-data-beyond-the-soc-why-inline-memory-encryption-needs-integrity/
+Title: Protecting Mission-Critical Data Beyond The SoC: Why Inline Memory Encryption Needs Integrity
+Summary: <p>Aerospace and government systems need confidentiality, authentication, and implementation resilience for off-chip memory.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Rambus_Protecting-Mission-Critical-Data-Beyond-SoC-Fig1.webp?fit=1385%2C775&ssl=1
+Author: Vincent van der Leest
+Published date: Thu, 03 Sep 2026 07:07:47 +0000
+
+Article: https://semiengineering.com/humanoid-compute-security-more-complex-than-avs/
+Title: Humanoid Compute, Security More Complex Than AVs
+Summary: <p>Robots and autonomous vehicles are both edge devices, but a humanoid has wheels as well as fingers. Close interaction with humans raises the stakes. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/Image-from-iOS-11.gif?fit=1404%2C789&ssl=1
+Author: Liz Allan
+Published date: Thu, 03 Sep 2026 07:03:07 +0000
+
+Article: https://semiengineering.com/ai-is-forcing-data-centers-to-rethink-trust/
+Title: AI Is Forcing Data Centers To Rethink Trust
+Summary: <p>Exploding compute demand is exposing new gaps across the hardware supply chain, from chip identity and firmware integrity to post-quantum readiness.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_283383707-data-center-scaled.jpeg?fit=2560%2C1654&ssl=1
+Author: Brendan Heffernan
+Published date: Thu, 03 Sep 2026 07:02:45 +0000
+
+Article: https://semiengineering.com/how-many-design-experiments-does-a-machine-learning-predictor-actually-need/
+Title: How Many Design Experiments Does A Machine Learning Predictor Actually Need?
+Summary: <p>Required dataset size and achievable accuracy track how smooth the response is, not model size or number of design variables. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Cadence_Design-Experiments-ML-Predictor-fig4.webp?fit=852%2C616&ssl=1
+Author: Anne-Marie Schelkens
+Published date: Thu, 03 Sep 2026 07:02:30 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
