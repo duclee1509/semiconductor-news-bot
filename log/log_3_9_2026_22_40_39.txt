@@ -1,0 +1,15 @@
+Article: https://semiengineering.com/building-trust-into-physical-ai-systems/
+Title: Building Trust Into Physical AI Systems
+Summary: <p>Security and safety are inseparable in the physical world.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2017/05/semi_fb_thumb.jpg?fit=250%2C250&ssl=1
+Author: Dana Neustadter
+Published date: Thu, 03 Sep 2026 07:03:52 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/372849-hbms-vertical-ascent-why-packaging-is-becoming-the-heart-of-ai-memory/
+Title: HBM’s Vertical Ascent: Why Packaging Is Becoming the Heart of AI Memory
+Summary: <p>SK hynix’s <a href="https://hc2026.hotchips.org/">Hot Chips 2026</a> presentation explains how High Bandwidth Memory (HBM) is evolving to meet the extraordinary memory requirements of artificial...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/HBMs-Vertical-Ascent-1200x800.jpg
+Author: Admin
+Published date: Thu, 03 Sep 2026 13:00:33 +0000
+
+Completed! Added a total of 2 new news items to Firebase.

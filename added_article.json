@@ -2280,5 +2280,33 @@
     "author": "Anne-Marie Schelkens",
     "createdAt": "2026-09-03T08:30:02.955851+00:00",
     "publishedAt": "2026-09-03T07:02:30+00:00"
+  },
+  {
+    "title_org": "Building Trust Into Physical AI Systems",
+    "title_vietnamese": "Xây dựng niềm tin cho các hệ thống AI vật lý",
+    "summary_org": "Security and safety are fundamentally inseparable when it comes to physical AI systems. Ensuring trust requires addressing both aspects comprehensively in real-world applications.",
+    "summary_vietnamese": "Bảo mật và an toàn vốn không thể tách rời khi nói đến các hệ thống AI vật lý. Việc xây dựng niềm tin đòi hỏi phải giải quyết toàn diện cả hai khía cạnh này trong các ứng dụng thực tế.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/building-trust-into-physical-ai-systems/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2017/05/semi_fb_thumb.jpg?fit=250%2C250&ssl=1",
+    "author": "Dana Neustadter",
+    "createdAt": "2026-09-03T15:40:48.032258+00:00",
+    "publishedAt": "2026-09-03T07:03:52+00:00"
+  },
+  {
+    "title_org": "HBM’s Vertical Ascent: Why Packaging Is Becoming the Heart of AI Memory",
+    "title_vietnamese": "Sự bứt phá theo chiều dọc của HBM: Vì sao đóng gói đang trở thành trái tim của bộ nhớ AI",
+    "summary_org": "SK hynix's Hot Chips 2026 presentation highlights how High Bandwidth Memory (HBM) is evolving to meet AI demands. The core message emphasizes that future advancements rely heavily on advanced packaging and denser vertical integration alongside improved DRAM circuits.",
+    "summary_vietnamese": "Bài thuyết trình của SK hynix tại Hot Chips 2026 nhấn mạnh cách HBM đang tiến hóa để đáp ứng nhu cầu khắt khe của trí tuệ nhân tạo. Thông điệp cốt lõi là sự phát triển trong tương lai phụ thuộc lớn vào công nghệ đóng gói tiên tiến và tích hợp theo chiều dọc dày đặc hơn, bên cạnh việc cải tiến các mạch DRAM.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/372849-hbms-vertical-ascent-why-packaging-is-becoming-the-heart-of-ai-memory/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/HBMs-Vertical-Ascent-1200x800.jpg",
+    "author": "Admin",
+    "createdAt": "2026-09-03T15:40:52.967330+00:00",
+    "publishedAt": "2026-09-03T13:00:33+00:00"
   }
 ]
