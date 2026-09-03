@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/eda/yieldwerx/372412-technical-case-study-microled-yield-management-with-plessey-and-yieldwerx/
+Title: Technical Case Study: MicroLED Yield Management with Plessey and yieldWerx
+Summary: <p>Plessey Semiconductors manufactures monolithic MicroLED displays for near-eye augmented-reality systems, where pixel pitch, brightness, uniformity, and defect density directly determine usable y...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Technical-Case-Study-MicroLED-Yield-Management-at-Plessey-1-1200x675.jpg
+Author: Daniel Nenni
+Published date: Thu, 03 Sep 2026 21:00:24 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

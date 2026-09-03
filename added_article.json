@@ -2322,5 +2322,19 @@
     "author": "Lauro Rizzatti",
     "createdAt": "2026-09-03T19:03:34.882517+00:00",
     "publishedAt": "2026-09-03T17:00:45+00:00"
+  },
+  {
+    "title_org": "Technical Case Study: MicroLED Yield Management with Plessey and yieldWerx",
+    "title_vietnamese": "Nghiên cứu điển hình kỹ thuật: Quản lý năng suất MicroLED với Plessey và yieldWerx",
+    "summary_org": "Plessey Semiconductors manufactures monolithic MicroLED displays for augmented-reality systems, where factors like pixel pitch, brightness, uniformity, and defect density directly affect usable yield. The company integrates its entire manufacturing process, including device design, epitaxy, wafer fabrication, bonding, and production, into a single facility.",
+    "summary_vietnamese": "Plessey Semiconductors sản xuất các màn hình MicroLED nguyên khối cho hệ thống thực tế tăng cường, nơi khoảng cách điểm ảnh, độ sáng, tính đồng nhất và mật độ khuyết tật ảnh hưởng trực tiếp đến năng suất sử dụng. Công ty tích hợp toàn bộ quy trình sản xuất, bao gồm thiết kế thiết bị, biểu mô, chế tạo wafer, liên kết và sản xuất, vào một cơ sở duy nhất.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/yieldwerx/372412-technical-case-study-microled-yield-management-with-plessey-and-yieldwerx/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Technical-Case-Study-MicroLED-Yield-Management-at-Plessey-1-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-03T22:10:58.831483+00:00",
+    "publishedAt": "2026-09-03T21:00:24+00:00"
   }
 ]
