@@ -2336,5 +2336,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-09-03T22:10:58.831483+00:00",
     "publishedAt": "2026-09-03T21:00:24+00:00"
+  },
+  {
+    "title_org": "Chip Industry Week In Review",
+    "title_vietnamese": "Điểm tin ngành vi mạch tuần qua",
+    "summary_org": "This weekly review covers major semiconductor industry updates, including India's $13.4B Semicon 2.0 initiative, SEMICON Taiwan, and advancements in PCIe testing, NVLink Fusion deals, and AI for fabs. It also highlights recent developments in quantum processors, rare earth recycling funding, and various packaging and hardware security technologies.",
+    "summary_vietnamese": "Bản tin tổng hợp tuần này đề cập đến các cập nhật quan trọng trong ngành bán dẫn, bao gồm sáng kiến Semicon 2.0 trị giá 13,4 tỷ USD của Ấn Độ, triển lãm SEMICON Taiwan và những tiến bộ trong kiểm thử PCIe, thỏa thuận NVLink Fusion cùng ứng dụng AI cho các nhà máy fab. Bản tin cũng nhấn mạnh các phát triển mới về bộ xử lý lượng tử, quỹ tái chế đất hiếm cùng các công nghệ đóng gói và bảo mật phần cứng.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-week-in-review-154/",
+    "category": "International",
+    "isPolicy": true,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_617037143-scaled.jpeg?fit=2560%2C1707&ssl=1",
+    "author": "The SE Staff",
+    "createdAt": "2026-09-04T08:25:17.458134+00:00",
+    "publishedAt": "2026-09-04T07:01:21+00:00"
   }
 ]

@@ -1,0 +1,8 @@
+Article: https://semiengineering.com/chip-industry-week-in-review-154/
+Title: Chip Industry Week In Review
+Summary: <p>India's $13.4B Semicon 2.0; SEMICON Taiwan; PCIe 6/7 test; MediaTek, NVLink Fusion deal; state of the industry report; AI for fabs; 2D Tunnel FET; 300mm Si photonics; InP expansion; $75M to recy...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_617037143-scaled.jpeg?fit=2560%2C1707&ssl=1
+Author: The SE Staff
+Published date: Fri, 04 Sep 2026 07:01:21 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
