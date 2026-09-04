@@ -2364,5 +2364,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-09-04T15:41:14.109355+00:00",
     "publishedAt": "2026-09-04T15:00:33+00:00"
+  },
+  {
+    "title_org": "The $9.5 Billion Design IP Market: Shifting Boundaries, Arm’s Monopoly, and the RISC-V Response",
+    "title_vietnamese": "Thị trường IP thiết kế trị giá 9,5 tỷ USD: Ranh giới thay đổi, thế độc quyền của Arm và lời đáp trả từ RISC-V",
+    "summary_org": "The semiconductor design IP market, valued at $9.45 billion, serves as a critical architectural bottleneck for the global tech supply chain. Decisions made at this layer directly influence the cost, power efficiency, and security of future technologies. Additionally, the article explores the shifting market boundaries, Arm's dominant monopoly, and the growing momentum of the RISC-V architecture.",
+    "summary_vietnamese": "Thị trường IP thiết kế bán dẫn trị giá 9,45 tỷ USD đóng vai trò là nút thắt cổ chai kiến trúc cốt lõi đối với chuỗi cung ứng công nghệ toàn cầu. Các quyết định tại tầng IP này ảnh hưởng trực tiếp đến chi phí, hiệu quả năng lượng và tính bảo mật của các công nghệ tương lai. Ngoài ra, bài viết cũng khám phá sự thay đổi ranh giới thị trường, thế độc quyền thống trị của Arm và đà phát triển mạnh mẽ của kiến trúc RISC-V.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ip/373010-the-9-5-billion-design-ip-market-shifting-boundaries-arms-monopoly-and-the-risc-v-response/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/2025-Design-IP-Sub-Categories-Market-Share-Pie-Chart.png",
+    "author": "Kalar Rajendiran",
+    "createdAt": "2026-09-04T18:47:03.732377+00:00",
+    "publishedAt": "2026-09-04T13:00:09+00:00"
   }
 ]
