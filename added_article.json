@@ -2350,5 +2350,19 @@
     "author": "The SE Staff",
     "createdAt": "2026-09-04T08:25:17.458134+00:00",
     "publishedAt": "2026-09-04T07:01:21+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Timothy Regan of IN2FAB",
+    "title_vietnamese": "Phỏng vấn CEO Timothy Regan của IN2FAB",
+    "summary_org": "Timothy Regan, CEO of IN2FAB, has extensive experience in analog/mixed-signal design and supporting EDA technologies. His career includes early work at Texas Instruments, roles at GE-Calma and Valid Logic Systems, and a decade as managing director at Design Resources.",
+    "summary_vietnamese": "Timothy Regan, CEO của IN2FAB, có bề dày kinh nghiệm trong lĩnh vực thiết kế analog/mixed-signal và các công nghệ EDA hỗ trợ. Sự nghiệp của ông bắt đầu tại Texas Instruments, trải qua các vị trí tại GE-Calma và Valid Logic Systems, trước khi đảm nhận vai trò giám đốc điều hành tại Design Resources trong một thập kỷ.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/372531-ceo-interview-with-timothy-regan-of-in2fab/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Timothy-Regan.png",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-04T15:41:14.109355+00:00",
+    "publishedAt": "2026-09-04T15:00:33+00:00"
   }
 ]

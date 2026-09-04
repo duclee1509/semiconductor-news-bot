@@ -1,0 +1,15 @@
+Article: https://semiwiki.com/ceo-interviews/372531-ceo-interview-with-timothy-regan-of-in2fab/
+Title: CEO Interview with Timothy Regan of IN2FAB
+Summary: <p style="font-weight: 400;">Timothy Regan has substantial experience in analog/ mixed signal design and its supporting EDA technologies. His career began in linear engineering at Texas Instruments...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Timothy-Regan.png
+Author: Daniel Nenni
+Published date: Fri, 04 Sep 2026 15:00:33 +0000
+
+Article: https://semiwiki.com/ip/373010-the-9-5-billion-design-ip-market-shifting-boundaries-arms-monopoly-and-the-risc-v-response/
+Title: The $9.5 Billion Design IP Market: Shifting Boundaries, Arm’s Monopoly, and the RISC-V Response
+Summary: <p>While semiconductor design intellectual property (IP) is a $9.45 billion market, it acts as the absolute architectural bottleneck for the entire global semiconductor value chain. The choices mad...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/2025-Design-IP-Sub-Categories-Market-Share-Pie-Chart.png
+Author: Kalar Rajendiran
+Published date: Fri, 04 Sep 2026 13:00:09 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
