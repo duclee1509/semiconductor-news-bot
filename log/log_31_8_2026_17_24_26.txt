@@ -1,8 +1,0 @@
-Article: https://semiengineering.com/photonics-forces-a-chiplet-rethink/
-Title: Photonics Forces A Chiplet Rethink
-Summary: <p>Thermal drift, stress, electromagnetic coupling, and verification gaps are turning optical integration into a full-system co-design problem rather than a plug-in bandwidth upgrade. </p>
-Thumbnail: https://semiengineering.com/wp-content/uploads/2017/05/semi_fb_thumb.jpg?fit=250%2C250&ssl=1
-Author: Ann Mutschler
-Published date: Mon, 31 Aug 2026 07:01:38 +0000
-
-Completed! Added a total of 1 new news items to Firebase.
