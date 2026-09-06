@@ -2392,5 +2392,33 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-09-06T14:48:57.190406+00:00",
     "publishedAt": "2026-09-06T13:00:40+00:00"
+  },
+  {
+    "title_org": "Comparing Advanced Packaging from TSMC, Intel Foundry, and Samsung Foundry",
+    "title_vietnamese": "So sánh công nghệ đóng gói tiên tiến từ TSMC, Intel Foundry và Samsung Foundry",
+    "summary_org": "Advanced semiconductor packaging has become critical for boosting computing performance as traditional transistor scaling faces increasing technical and economic challenges. By breaking down large monolithic dies into smaller chiplets and integrating logic, memory, and I/O components, chipmakers can overcome these scaling limitations.",
+    "summary_vietnamese": "Công nghệ đóng gói bán dẫn tiên tiến đã trở nên tối quan trọng trong việc nâng cao hiệu năng tính toán khi việc thu nhỏ bóng bán dẫn truyền thống đối mặt với nhiều thách thức về kỹ thuật và chi phí. Bằng cách chia nhỏ các die nguyên khối lớn thành các chiplet nhỏ hơn và tích hợp các thành phần logic, bộ nhớ, cùng I/O, các nhà sản xuất chip có thể vượt qua những giới hạn thu nhỏ này.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/3dic/372087-comparing-advanced-packaging-from-tsmc-intel-foundry-and-samsung-foundry/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Advanced-Chip-Packaging-Comparison-INtel-TSMC-Samsung-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-06T17:58:12.528972+00:00",
+    "publishedAt": "2026-09-06T17:00:24+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Sander den Hoedt of Delmic",
+    "title_vietnamese": "Phỏng vấn CEO Sander den Hoedt của Delmic",
+    "summary_org": "This article features an interview with Sander den Hoedt, CEO and co-founder of Delmic. He discusses his background in applied physics from TU Delft and the company's origins in combining light and electron microscopy following a professor's suggestion in 2010.",
+    "summary_vietnamese": "Bài viết này là cuộc phỏng vấn với Sander den Hoedt, CEO và nhà đồng sáng lập của Delmic. Ông chia sẻ về nền tảng học vấn ngành vật lý ứng dụng tại TU Delft và nguồn gốc thành lập công ty từ ý tưởng kết hợp kính hiển vi quang học và điện tử theo gợi ý của một giáo sư vào năm 2010.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/372406-ceo-interview-with-sander-den-hoedt-of-delmic/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Sander_headshot-805x1200.jpeg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-06T17:58:16.427541+00:00",
+    "publishedAt": "2026-09-06T15:00:30+00:00"
   }
 ]
