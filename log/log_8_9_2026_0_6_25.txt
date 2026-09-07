@@ -1,0 +1,15 @@
+Article: https://semiwiki.com/eda/372945-ai-memory-gap-at-dac-2026/
+Title: AI Memory Gap at DAC 2026
+Summary: <p>On Tuesday at #DAC2026 I attended the exhibitor presentation, <a href="https://63dac.conference-program.com/?post_type=page&#38;p=16&#38;id=EF134&#38;sess=sess322">Synopsys: How Silicon Startups...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/AI-memory-gap.jpg
+Author: Daniel Payne
+Published date: Mon, 07 Sep 2026 17:00:29 +0000
+
+Article: https://semiwiki.com/eda/372881-when-design-gets-faster-the-bottleneck-moves-through-the-physical-stack/
+Title: When Design Gets Faster, the Bottleneck Moves Through the Physical Stack
+Summary: <p><strong>AI can compress the path to tape-out. The next challenge is compressing physical realization.</strong></p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Desing_fast_Bott_through_physicalstack-1200x799.jpg
+Author: Moh Kolb
+Published date: Mon, 07 Sep 2026 13:00:04 +0000
+
+Completed! Added a total of 2 new news items to Firebase.

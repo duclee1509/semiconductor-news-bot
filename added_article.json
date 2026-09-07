@@ -2434,5 +2434,33 @@
     "author": "Ca Linh",
     "createdAt": "2026-09-07T08:51:33.326097+00:00",
     "publishedAt": "2026-09-07T15:34:00+00:00"
+  },
+  {
+    "title_org": "AI Memory Gap at DAC 2026",
+    "title_vietnamese": "Khoảng cách bộ nhớ AI tại sự kiện DAC 2026",
+    "summary_org": "At DAC 2026, Synopsys hosted a session focusing on how silicon startups are addressing the AI memory gap. Presentations by TetraMem and ANAFLASH highlighted innovative approaches to tackle memory bottlenecks as datacenter consumption surges. The discussion emphasized the critical challenges startups face in meeting high-performance AI memory demands.",
+    "summary_vietnamese": "Tại sự kiện DAC 2026, Synopsys đã tổ chức một phiên thảo luận tập trung vào cách các startup vi mạch giải quyết khoảng cách bộ nhớ AI. Các bài thuyết trình từ TetraMem và ANAFLASH đã nêu bật những cách tiếp cận đổi mới để giải quyết các nút thắt cổ chai về bộ nhớ khi mức tiêu thụ của trung tâm dữ liệu tăng vọt. Cuộc thảo luận nhấn mạnh những thách thức cốt lõi mà các startup phải đối mặt trong việc đáp ứng nhu cầu bộ nhớ AI hiệu năng cao.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/372945-ai-memory-gap-at-dac-2026/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/AI-memory-gap.jpg",
+    "author": "Daniel Payne",
+    "createdAt": "2026-09-07T17:06:30.470130+00:00",
+    "publishedAt": "2026-09-07T17:00:29+00:00"
+  },
+  {
+    "title_org": "When Design Gets Faster, the Bottleneck Moves Through the Physical Stack",
+    "title_vietnamese": "Khi thiết kế tăng tốc, nút thắt cổ chai dịch chuyển qua tầng vật lý",
+    "summary_org": "AI is compressing the semiconductor design cycle, speeding up architecture exploration, RTL development, and verification. As a result, the new bottleneck in chip development is shifting toward physical realization and implementation. This highlights the growing need to accelerate physical design processes to match the speed of AI-driven front-end design.",
+    "summary_vietnamese": "Trí tuệ nhân tạo (AI) đang rút ngắn chu kỳ thiết kế chất bán dẫn, đẩy nhanh quá trình khám phá kiến trúc, phát triển RTL và kiểm tra. Kết quả là, nút thắt cổ chai mới trong việc phát triển chip đang dịch chuyển sang giai đoạn hiện thực hóa và triển khai vật lý. Điều này làm nổi bật nhu cầu cấp thiết phải tăng tốc các quy trình thiết kế vật lý để bắt kịp tốc độ của thiết kế front-end do AI điều khiển.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/372881-when-design-gets-faster-the-bottleneck-moves-through-the-physical-stack/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Desing_fast_Bott_through_physicalstack-1200x799.jpg",
+    "author": "Moh Kolb",
+    "createdAt": "2026-09-07T17:06:34.894569+00:00",
+    "publishedAt": "2026-09-07T13:00:04+00:00"
   }
 ]
