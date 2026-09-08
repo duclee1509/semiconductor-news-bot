@@ -2546,5 +2546,19 @@
     "author": "Phương Nguyên",
     "createdAt": "2026-09-08T08:31:51.422498+00:00",
     "publishedAt": "2026-09-08T14:55:00+00:00"
+  },
+  {
+    "title_org": "Fail-Safe Frames: Why Chips&Media’s ASIL-B Video IP Matters",
+    "title_vietnamese": "Khung hình an toàn: Lý do vì sao IP Video đạt chuẩn ASIL-B của Chips&Media đóng vai trò quan trọng",
+    "summary_org": "As vehicles evolve into software-defined and autonomous platforms, video processing has become a critical part of safety-related computing chains. Camera feeds are essential for driver assistance, object detection, and automated driving functions. Consequently, reliable hardware processing for these video streams is vital for vehicle safety.",
+    "summary_vietnamese": "Khi xe hơi phát triển thành các nền tảng tự trị và định hình bằng phần mềm, việc xử lý video đã trở thành một phần quan trọng trong chuỗi điện toán an toàn. Các luồng camera đóng vai trò thiết yếu cho các chức năng hỗ trợ lái xe, nhận diện vật thể và lái xe tự động. Do đó, phần cứng xử lý đáng tin cậy cho các luồng video này đóng vai trò sống còn đối với sự an toàn của phương tiện.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ip/chipsmedia/373341-fail-safe-frames-why-chipsmedias-asil-b-video-ip-matters/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Fail-Safe-Frames-and-Why-ChipsMedias-ASIL-B-Video-IP-Matters-1200x675.png",
+    "author": "Admin",
+    "createdAt": "2026-09-08T15:53:06.330050+00:00",
+    "publishedAt": "2026-09-08T13:00:14+00:00"
   }
 ]

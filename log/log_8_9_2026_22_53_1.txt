@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/ip/chipsmedia/373341-fail-safe-frames-why-chipsmedias-asil-b-video-ip-matters/
+Title: Fail-Safe Frames: Why Chips&Media’s ASIL-B Video IP Matters
+Summary: <p>As vehicles evolve into software-defined, increasingly autonomous platforms, video processing is becoming part of the safety-critical computing chain. Camera feeds support functions ranging from...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Fail-Safe-Frames-and-Why-ChipsMedias-ASIL-B-Video-IP-Matters-1200x675.png
+Author: Admin
+Published date: Tue, 08 Sep 2026 13:00:14 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
