@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/events/372843-372843/
+Title: HBM’s Second Act: When Memory Starts Thinking
+Summary: <p>Samsung’s <a href="https://hc2026.hotchips.org/">Hot Chips 2026</a> presentation, “HBM Base Die: How HBM Will Evolve Using Advanced Logic Processes,” argues that the base die beneath a High Band...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/HBM-Base-Die-Revolution-1200x675.jpg
+Author: Admin
+Published date: Tue, 08 Sep 2026 21:00:55 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

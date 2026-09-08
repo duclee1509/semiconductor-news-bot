@@ -2574,5 +2574,19 @@
     "author": "Admin",
     "createdAt": "2026-09-08T19:13:26.268767+00:00",
     "publishedAt": "2026-09-08T17:00:20+00:00"
+  },
+  {
+    "title_org": "HBM’s Second Act: When Memory Starts Thinking",
+    "title_vietnamese": "Hành trình thứ hai của HBM: Khi bộ nhớ bắt đầu biết suy nghĩ",
+    "summary_org": "Samsung's upcoming presentation at Hot Chips 2026 highlights how the base die in High Bandwidth Memory (HBM) will evolve beyond a simple communication layer. Traditionally used to connect stacked DRAM to processors, the HBM base die is now shifting toward utilizing advanced logic processes to integrate more processing capabilities.",
+    "summary_vietnamese": "Bài thuyết trình sắp tới của Samsung tại sự kiện Hot Chips 2026 nhấn mạnh cách lớp đế (base die) trong bộ nhớ Băng thông Cao (HBM) sẽ tiến hóa vượt ra ngoài chức năng là một lớp truyền thông đơn thuần. Vốn dĩ trước đây chỉ được dùng để kết nối DRAM xếp chồng với bộ xử lý, lớp đế HBM giờ đây đang chuyển hướng sang việc tận dụng các tiến trình logic tiên tiến để tích hợp thêm nhiều khả năng xử lý hơn.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/events/372843-372843/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/HBM-Base-Die-Revolution-1200x675.jpg",
+    "author": "Admin",
+    "createdAt": "2026-09-08T22:19:12.180912+00:00",
+    "publishedAt": "2026-09-08T21:00:55+00:00"
   }
 ]
