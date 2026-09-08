@@ -1,0 +1,43 @@
+Article: https://semiengineering.com/smart-outlier-detection/
+Title: Smart Outlier Detection
+Summary: <p>Just because a chip is deemed good doesn't mean it will work as expected.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-7.28.38-PM.png
+Author: Ed Sperling
+Published date: Tue, 08 Sep 2026 07:15:48 +0000
+
+Article: https://semiengineering.com/research-bits-sept-8-2/
+Title: Research Bits: Sept. 8
+Summary: <p>Carbon insulator for interconnects; high-temperature SiC JFETs; VCT dielectric.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_205182431-08-26-Quantum-scaled.jpeg?fit=2560%2C1575&ssl=1
+Author: Jesse Allen
+Published date: Tue, 08 Sep 2026 07:01:53 +0000
+
+Article: https://semiengineering.com/chip-industry-technical-paper-roundup-sept-8-2/
+Title: Chip Industry Technical Paper Roundup: Sept. 8
+Summary: <p>HBF for LLM inference; M3D SRAM with BEOL pass-gates at 2nm; distributed GPU architectures; hybrid HBM-HBF memory; GaN-on-silicon polarization superjunctions; programmable silicon photonics; Al ...
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_175523179-01-29-25-scaled.jpeg?fit=2560%2C1440&ssl=1
+Author: Linda Christensen
+Published date: Tue, 08 Sep 2026 07:01:25 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/intel/373350-high-na-euv-moves-from-experiment-to-manufacturing/
+Title: High-NA EUV Moves From Experiment to Manufacturing
+Summary: <p class="isSelectedEnd">Intel Foundry and ASML say high-numerical-aperture extreme-ultraviolet lithography has crossed an important boundary: it is no longer only a development tool, but a product...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/HNA-EUV-Moves-into-Manufacturing-1200x675.jpg
+Author: Daniel Nenni
+Published date: Tue, 08 Sep 2026 06:00:59 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/tsmc/373405-asml-and-tsmcs-12-inch-photomask-initiative-technical-significance/
+Title: ASML and TSMC’s 12-Inch Photomask Initiative: Technical Significance
+Summary: <p>ASML and TSMC’s proposed shift from 6-inch to 12-inch photomasks is an attempt to redesign a critical but often overlooked part of advanced semiconductor manufacturing. Photomasks are precision ...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/ASML-and-TSMCs-12-Inch-Photomask-Initiative-1200x675.jpg
+Author: Daniel Nenni
+Published date: Tue, 08 Sep 2026 06:00:28 +0000
+
+Article: https://baochinhphu.vn/nang-cao-gia-tri-gia-tang-giam-phu-thuoc-vao-nhap-khau-trong-nganh-dien-tu-102260908145128679.htm
+Title: Nâng cao giá trị gia tăng, giảm phụ thuộc vào nhập khẩu trong ngành điện tử
+Summary: (Chinhphu.vn) - Sáng 8/9, tại Trụ sở Chính phủ, Phó Thủ tướng Thường trực Chính phủ Phạm Gia Túc làm việc với Hiệp hội Doanh nghiệp điện tử Việt Nam và một số doanh nghiệp xuất nhập khẩu lớn trong ...
+Thumbnail: https://bcp2.cdnchinhphu.vn/zoom/1200_630/334894974524682240/2026/9/8/base64-1788853584429626475310.png
+Author: Phương Nguyên
+Published date: Tue, 08 Sep 2026 14:55:00 +0000
+
+Completed! Added a total of 6 new news items to Firebase.
