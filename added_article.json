@@ -2560,5 +2560,19 @@
     "author": "Admin",
     "createdAt": "2026-09-08T15:53:06.330050+00:00",
     "publishedAt": "2026-09-08T13:00:14+00:00"
+  },
+  {
+    "title_org": "NVIDIA Vera: Rebuilding the CPU for Agentic AI",
+    "title_vietnamese": "NVIDIA Vera: Tái thiết kế CPU dành cho AI tự hành (Agentic AI)",
+    "summary_org": "NVIDIA has introduced the Vera CPU, a server processor specifically engineered to meet the demands of agentic AI workloads where language models continuously observe and reason. Based on presentations at Hot Chips 2026, this processor marks a significant architectural shift in how CPUs support advanced artificial intelligence applications.",
+    "summary_vietnamese": "NVIDIA vừa giới thiệu CPU Vera, một bộ xử lý máy chủ được thiết kế chuyên biệt để đáp ứng nhu cầu của các khối lượng công việc AI tự hành (agentic AI), nơi các mô hình ngôn ngữ liên tục quan sát và suy luận. Dựa trên các bài thuyết trình tại sự kiện Hot Chips 2026, bộ xử lý này đánh dấu một bước chuyển dịch kiến trúc quan trọng trong cách CPU hỗ trợ các ứng dụng trí tuệ nhân tạo tiên tiến.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/events/372854-nvidia-vera-rebuilding-the-cpu-for-agentic-ai/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/No-Agent-Left-Waiting-1200x800.jpg",
+    "author": "Admin",
+    "createdAt": "2026-09-08T19:13:26.268767+00:00",
+    "publishedAt": "2026-09-08T17:00:20+00:00"
   }
 ]

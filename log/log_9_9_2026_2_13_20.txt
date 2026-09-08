@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/events/372854-nvidia-vera-rebuilding-the-cpu-for-agentic-ai/
+Title: NVIDIA Vera: Rebuilding the CPU for Agentic AI
+Summary: <p><strong><em>Source: Jonathon Evans and Polychronis Xekalakis, “NVIDIA Vera CPU,” <a href="https://hc2026.hotchips.org/">Hot Chips 2026</a>. Performance figures are NVIDIA claims, and several res...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/No-Agent-Left-Waiting-1200x800.jpg
+Author: Admin
+Published date: Tue, 08 Sep 2026 17:00:20 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
