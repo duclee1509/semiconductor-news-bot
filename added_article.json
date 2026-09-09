@@ -2686,5 +2686,19 @@
     "author": "Daniel Payne",
     "createdAt": "2026-09-09T19:01:04.127333+00:00",
     "publishedAt": "2026-09-09T17:00:44+00:00"
+  },
+  {
+    "title_org": "Jalapeño Hot Chip, Cool Power Bill: OpenAI Turns Up the Heat on AI Inference",
+    "title_vietnamese": "Chip Jalapeño và Hóa đơn Điện Tiết kiệm: OpenAI Đẩy Mạnh Cuộc Đua Suy luận AI",
+    "summary_org": "OpenAI has introduced 'Jalapeño', a custom accelerator specifically engineered for AI inference workloads, especially low-latency and multi-chip operations found in interactive and agentic systems. The architecture emphasizes that real-world performance goes beyond peak floating-point operations or memory bandwidth to focus on overall efficiency.",
+    "summary_vietnamese": "OpenAI đã giới thiệu 'Jalapeño', một bộ tăng tốc tùy chỉnh được thiết kế đặc biệt cho các khối lượng công việc suy luận AI, đặc biệt là các hoạt động có độ trễ thấp và đa chip trong các hệ thống tương tác và tác nhân. Kiến trúc này nhấn mạnh rằng hiệu suất thực tế vượt ra ngoài các phép toán dấu phẩy động đỉnh hoặc băng thông bộ nhớ để tập trung vào hiệu quả tổng thể.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/373394-jalapeno-hot-chip-cool-power-bill-openai-turns-up-the-heat-on-ai-inference/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Jalapeno-Hot-Chip-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-09T22:11:30.397373+00:00",
+    "publishedAt": "2026-09-09T21:00:07+00:00"
   }
 ]
