@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/the-intersection-of-ai-and-voice-at-the-edge/
+Title: The Intersection Of AI And Voice At The Edge
+Summary: <p>How natural language processing will fundamentally change the way humans interface with machines.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-7.26.40-PM.png
+Author: Ed Sperling
+Published date: Wed, 09 Sep 2026 07:15:07 +0000
+
+Article: https://semiengineering.com/when-digital-forensics-reaches-the-hardware-layer/
+Title: When Digital Forensics Reaches The Hardware Layer
+Summary: <p>Security controls are increasingly implemented in ways that can limit access to information required for an investigation.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/Security-AdobeStock_328668955-01-29-25-scaled.jpeg?fit=2560%2C1716&ssl=1
+Author: Marc Witteman
+Published date: Wed, 09 Sep 2026 07:03:23 +0000
+
+Article: https://semiengineering.com/can-gpus-continue-to-dominate-ai-compute/
+Title: Can GPUs Continue To Dominate AI Compute?
+Summary: <p>Google, Amazon, and now OpenAI have competitive offerings and are gaining share.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Tate_Can-GPUs-Dominate-AI-Compute-fig1.webp?fit=1430%2C953&ssl=1
+Author: Geoff Tate
+Published date: Wed, 09 Sep 2026 07:01:53 +0000
+
+Article: https://semiengineering.com/token-costs-are-becoming-the-new-eda-budget-battle/
+Title: Token Costs Are Becoming The New EDA Budget Battle
+Summary: <p>Cost per token is causing EDA design budgets to balloon; what comes next isn't entirely clear yet.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_790988626-wafer-scaled.jpeg?fit=2560%2C2519&ssl=1
+Author: Liz Allan
+Published date: Wed, 09 Sep 2026 07:01:25 +0000
+
+Article: https://semiengineering.com/blog-review-sept-9-3/
+Title: Blog Review: Sept. 9
+Summary: <p>Compute vs. energy scaling; adapting to AI; fab digital twin; mobile VLM.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_594956379-data-center-MARch-26-2025-scaled.jpeg?fit=2560%2C1440&ssl=1
+Author: Jesse Allen
+Published date: Wed, 09 Sep 2026 07:01:07 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
