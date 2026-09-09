@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/eda/373428-keysight-eda-update-at-dac-2026/
+Title: Keysight EDA update at DAC 2026
+Summary: <p>On the last day of #DAC2026 I stopped by the Keysight booth to chat with Nilesh Kamdar, GM of EDA Business to get an update. He has spent 27 years in the industry, and this made 25 DAC trips for...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/keysight-dac2026.jpg
+Author: Daniel Payne
+Published date: Wed, 09 Sep 2026 17:00:44 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

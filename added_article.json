@@ -2672,5 +2672,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-09-09T15:49:12.377643+00:00",
     "publishedAt": "2026-09-09T13:00:14+00:00"
+  },
+  {
+    "title_org": "Keysight EDA update at DAC 2026",
+    "title_vietnamese": "Cập nhật về công cụ EDA của Keysight tại sự kiện DAC 2026",
+    "summary_org": "During the final day of DAC 2026, the author visited the Keysight booth to speak with Nilesh Kamdar, GM of EDA Business, regarding their latest updates. Keysight continues to focus its EDA solutions on designers working on high-frequency, high-speed digital, RF, and mm-wave designs.",
+    "summary_vietnamese": "Trong ngày cuối cùng của sự kiện DAC 2026, tác giả đã ghé thăm gian hàng của Keysight để trò chuyện với Nilesh Kamdar, Tổng Giám đốc Kinh doanh EDA, nhằm cập nhật những thông tin mới nhất. Keysight tiếp tục tập trung các giải pháp EDA của mình vào việc hỗ trợ các nhà thiết kế trong lĩnh vực tần số cao, kỹ thuật số tốc độ cao, RF và thiết kế sóng milimet.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/373428-keysight-eda-update-at-dac-2026/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/keysight-dac2026.jpg",
+    "author": "Daniel Payne",
+    "createdAt": "2026-09-09T19:01:04.127333+00:00",
+    "publishedAt": "2026-09-09T17:00:44+00:00"
   }
 ]
