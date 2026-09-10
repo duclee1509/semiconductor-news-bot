@@ -2700,5 +2700,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-09-09T22:11:30.397373+00:00",
     "publishedAt": "2026-09-09T21:00:07+00:00"
+  },
+  {
+    "title_org": "Validation Gets Tested At 1kW",
+    "title_vietnamese": "Công tác kiểm chứng đối mặt với thách thức ở mức công suất 1kW",
+    "summary_org": "Kilowatt-class AI accelerators are forcing engineers to rethink what counts as adequate coverage across workload, thermal behavior, test hardware, and time. This shift requires a complete overhaul of traditional validation methodologies to handle extreme power densities in modern semiconductor design.",
+    "summary_vietnamese": "Các bộ tăng tốc AI lớp kilowatt đang buộc các kỹ sư phải suy nghĩ lại về mức độ bao phủ đầy đủ đối với khối lượng công việc, hành vi nhiệt, phần cứng kiểm tra và thời gian. Sự thay đổi này đòi hỏi phải đại tu hoàn toàn các phương pháp kiểm chứng truyền thống để xử lý mật độ công suất cực cao trong thiết kế bán dẫn hiện đại.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/validation-gets-tested-at-1kw/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-12.31.49-PM.png?fit=1376%2C1012&ssl=1",
+    "author": "Gregory Haley",
+    "createdAt": "2026-09-10T08:35:57.794722+00:00",
+    "publishedAt": "2026-09-10T07:11:34+00:00"
   }
 ]

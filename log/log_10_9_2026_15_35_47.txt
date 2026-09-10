@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/redefining-processes-at-sub-2nm/
+Title: Redefining Processes At Sub-2nm
+Summary: <p>Discrete steps are being merged with others as dimensions shrink into the angstrom range.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1100471013-08-26-scaled.jpeg?fit=2560%2C1440&ssl=1
+Author: Ed Sperling
+Published date: Thu, 10 Sep 2026 07:13:52 +0000
+
+Article: https://semiengineering.com/silent-data-errors-redefine-test-coverage-and-fleet-maintenance-strategies/
+Title: Silent Data Errors Redefine Test Coverage And Fleet Maintenance Strategies
+Summary: <p>Through better manufacturing screening, DFT for systems and fleet monitors, this major scourge on data center hardware is gradually being tamed.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Image-from-iOS-16.gif?fit=1404%2C924&ssl=1
+Author: Laura Peters
+Published date: Thu, 10 Sep 2026 07:12:39 +0000
+
+Article: https://semiengineering.com/validation-gets-tested-at-1kw/
+Title: Validation Gets Tested At 1kW
+Summary: <p>Kilowatt-class AI accelerators are forcing engineers to rethink what counts as adequate coverage across workload, thermal behavior, test hardware, and time.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-12.31.49-PM.png?fit=1376%2C1012&ssl=1
+Author: Gregory Haley
+Published date: Thu, 10 Sep 2026 07:11:34 +0000
+
+Article: https://semiengineering.com/beyond-thickness-using-picosecond-ultrasonic-technology-for-sicr-process-control-in-bcd-devices/
+Title: Beyond Thickness: Using Picosecond Ultrasonic Technology For SiCr Process Control In BCD Devices
+Summary: <p>Improve visibility into deposition variation by combining thickness metrology with simultaneous reflectivity measurements.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Onto_Picosecond-Ultrasonic-SiCr-BCD-process-control-fig1a.webp?fit=1650%2C990&ssl=1
+Author: Huayuan Li
+Published date: Thu, 10 Sep 2026 07:09:47 +0000
+
+Article: https://semiengineering.com/beyond-conventional-ring-oscillators-purpose-built-process-detectors-for-deeper-silicon-insight/
+Title: Beyond Conventional Ring Oscillators: Purpose-Built Process Detectors For Deeper Silicon Insight
+Summary: <p>How design-aware monitor analytics connects production measurements with device behavior and pre-silicon expectations.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Synopsys_Beyond-Conventional-Ring-Oscillators-fig1.webp?fit=840%2C375&ssl=1
+Author: Guy Cortez
+Published date: Thu, 10 Sep 2026 07:08:40 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
