@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/eda/pdf-solutions/373269-pdf-solutions-connect-2026-where-semiconductor-data-meets-ai/
+Title: PDF Solutions CONNECT 2026: Where Semiconductor Data Meets AI
+Summary: <p>The semiconductor industry is entering a period in which manufacturing leadership will depend not simply on producing more data, but on turning that data into timely, trustworthy decisions. <a h...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/CONNECT-400x400-1.jpg
+Author: Daniel Nenni
+Published date: Thu, 10 Sep 2026 17:00:27 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
