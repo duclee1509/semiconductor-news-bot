@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/events/372811-webinar-avestra-explains-how-to-achieve-assertion-driven-silicon-success/
+Title: Webinar – Avestra Explains How to Achieve Assertion Driven Silicon Success
+Summary: <p style="font-weight: 400;">Studies have shown that nearly 20% of the verification cycle is spent on assertion generation, debugging, and methodology integration. This work remains largely manual ...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Webinar-–-Avestra-Explains-How-to-Achieve-Assertion-Driven-Silicon-Success-1200x538.png
+Author: Mike Gianfagna
+Published date: Thu, 10 Sep 2026 21:00:29 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

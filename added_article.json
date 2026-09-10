@@ -2798,5 +2798,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-09-10T18:53:59.995717+00:00",
     "publishedAt": "2026-09-10T17:00:27+00:00"
+  },
+  {
+    "title_org": "Webinar – Avestra Explains How to Achieve Assertion Driven Silicon Success",
+    "title_vietnamese": "Hội thảo trực tuyến – Avestra hướng dẫn cách đạt được thành công trong thiết kế vi mạch dựa trên xác thực bằng assertion",
+    "summary_org": "Studies show that nearly 20% of the verification cycle is spent on manual assertion generation, debugging, and methodology integration, while general-purpose LLMs fail over 30% of the time. To address this challenge, Avestra introduces an agentic AI solution designed to streamline the assertion-driven verification process for silicon success.",
+    "summary_vietnamese": "Các nghiên cứu cho thấy gần 20% chu kỳ kiểm tra (verification) được dành cho việc tạo assertion thủ công, gỡ lỗi và tích hợp phương pháp luận, trong khi các LLM đa năng đưa ra kết quả sai hơn 30% trường hợp. Để giải quyết thách thức này, Avestra giới thiệu giải pháp AI tác nhân (agentic AI) nhằm hợp lý hóa quy trình kiểm tra dựa trên assertion để đạt được thành công khi sản xuất vi mạch.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/events/372811-webinar-avestra-explains-how-to-achieve-assertion-driven-silicon-success/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Webinar-–-Avestra-Explains-How-to-Achieve-Assertion-Driven-Silicon-Success-1200x538.png",
+    "author": "Mike Gianfagna",
+    "createdAt": "2026-09-10T22:12:55.440503+00:00",
+    "publishedAt": "2026-09-10T21:00:29+00:00"
   }
 ]
