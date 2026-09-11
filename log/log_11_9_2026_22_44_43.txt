@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/semiconductor-manufacturers/tsmc/373252-tsmcs-2026-oip-forum-to-spotlight-the-technologies-shaping-the-next-era-of-chips/
+Title: TSMC’s 2026 OIP Forum to Spotlight the Technologies Shaping the Next Era of Chips
+Summary: <p>It’s that time of year again. Time certainly flies when AI is chasing you! This year marks the 18th TSMC OIP Ecosystem Forum, and it promises to be bigger and better than ever. My SemiWiki partn...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/TSMC-OIP-2026-1200x675.jpg
+Author: Daniel Nenni
+Published date: Fri, 11 Sep 2026 13:00:49 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
