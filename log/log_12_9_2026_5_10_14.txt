@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/heterogeneous-memory-chiplets-accelerate-multi-request-llm-inference-nus/
+Title: Heterogeneous Memory Chiplets Accelerate Multi-Request LLM Inference (NUS)
+Summary: <p>Researchers at the National University of Singapore published a technical paper titled “CHIPSMORE: Compute-in-Interconnect and -Memory Chiplets for Multi-Mode Multi-Request LLM Inference Acceler...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/06-26-AdobeStock_143980229-scaled.jpeg
+Author: Technical Paper Link
+Published date: Fri, 11 Sep 2026 21:56:01 +0000
+
+Article: https://semiengineering.com/reducing-hbm-ecc-controller-overhead-for-ai-inference-rpi-ibm/
+Title: Reducing HBM ECC Controller Overhead For AI Inference (RPI, IBM)
+Summary: <p>Researchers at Rensselaer Polytechnic Institute and IBM T.J. Watson Research Center published a technical paper titled “REACH: Controller-Managed Long-Span ECC for HBM AI Inference.” Abstract Ex...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1748350067-08-26-tgreen-scaled.jpeg
+Author: Technical Paper Link
+Published date: Fri, 11 Sep 2026 21:43:18 +0000
+
+Article: https://semiengineering.com/molybdenum-quasi-phase-only-masks-improve-euv-imaging-nycu-tsmc/
+Title: Molybdenum Quasi Phase-Only Masks Improve EUV Imaging (NYCU, TSMC)
+Summary: <p>Researchers at National Yang Ming Chiao Tung University and TSMC published a technical paper titled “High contrast EUV imaging enabled by topological quasi phase-only masks.” Abstract Excerpt: “...
+Thumbnail: https://semiengineering.com/wp-content/uploads/iStock-1351473349-11-29-2023.jpeg
+Author: Technical Paper Link
+Published date: Fri, 11 Sep 2026 21:28:44 +0000
+
+Article: https://semiengineering.com/characterizing-charge-components-in-tmd-based-mos-structures-imec-ku-leuven-asm/
+Title: Characterizing Charge Components In TMD-based MOS Structures (imec, KU Leuven, ASM)
+Summary: <p>Researchers at imec, KU Leuven, and ASM published a technical paper titled “Dissecting the transition metal dichalcogenides-based metal-oxide-semiconductor structures charge components.” Abstrac...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_790988626-wafer-scaled.jpeg
+Author: Technical Paper Link
+Published date: Fri, 11 Sep 2026 21:06:41 +0000
+
+Article: https://semiengineering.com/modeling-predicts-cure-and-thermal-endurance-of-advanced-packaging-underfill-nist-ucsd-et-al/
+Title: Modeling Predicts Cure And Thermal Endurance Of Advanced Packaging Underfill (NIST, UCSD et al.)
+Summary: <p>Researchers at the NIST, UCSD et al. published a technical paper titled “Predicting Cure Evolution and Thermal Endurance of a Highly Filled Epoxy Underfill for Advanced Packaging.” Abstract Exce...
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_621001046-11-7-24.jpeg
+Author: Technical Paper Link
+Published date: Fri, 11 Sep 2026 20:54:59 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
