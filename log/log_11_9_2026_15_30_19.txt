@@ -1,0 +1,8 @@
+Article: https://semiengineering.com/chip-industry-week-in-review-155/
+Title: Chip Industry Week in Review
+Summary: <p>12-inch high-NA EUV masks; Arm's edge AI push; Amkor's expansion; 3D memory; FeRAM startup makes waves; Qualcomm-AWS $60B custom silicon deal; Ayar Labs' scale-up deal; new iPhone chip and forma...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_2043350125-08-26-scaled.jpeg?fit=2560%2C1440&ssl=1
+Author: The SE Staff
+Published date: Fri, 11 Sep 2026 07:01:29 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

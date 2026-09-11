@@ -2812,5 +2812,19 @@
     "author": "Mike Gianfagna",
     "createdAt": "2026-09-10T22:12:55.440503+00:00",
     "publishedAt": "2026-09-10T21:00:29+00:00"
+  },
+  {
+    "title_org": "Chip Industry Week in Review",
+    "title_vietnamese": "Điểm tin tuần ngành công nghiệp bán dẫn",
+    "summary_org": "The weekly review highlights major developments in the semiconductor industry, including advancements in 12-inch high-NA EUV masks, Arm's push into edge AI, Amkor's expansion, and a massive $60 billion custom silicon deal between Qualcomm and AWS. Other notable topics involve 3D memory, fine-pitch RDL technology for advanced packaging, and new AI and hardware developments.",
+    "summary_vietnamese": "Bản tin tổng hợp tuần nhấn mạnh các bước phát triển lớn trong ngành bán dẫn, bao gồm tiến bộ về mặt nạ EUV high-NA 12 inch, nỗ lực đẩy mạnh AI biên của Arm, việc mở rộng của Amkor và thỏa thuận silicon tùy chỉnh trị giá 60 tỷ USD giữa Qualcomm và AWS. Các chủ đề đáng chú ý khác bao gồm bộ nhớ 3D, công nghệ RDL bước tinh cho advanced packaging, cùng các phát triển mới về AI và phần cứng.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-week-in-review-155/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_2043350125-08-26-scaled.jpeg?fit=2560%2C1440&ssl=1",
+    "author": "The SE Staff",
+    "createdAt": "2026-09-11T08:30:26.310955+00:00",
+    "publishedAt": "2026-09-11T07:01:29+00:00"
   }
 ]
