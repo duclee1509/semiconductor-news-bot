@@ -2938,5 +2938,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-09-13T15:30:25.144515+00:00",
     "publishedAt": "2026-09-13T13:00:24+00:00"
+  },
+  {
+    "title_org": "Nvidia Sees AGI While OpenAI Sees Danger",
+    "title_vietnamese": "Nvidia nhìn thấy AGI trong khi OpenAI nhìn thấy hiểm họa",
+    "summary_org": "Jensen Huang's declaration of AGI's arrival is driven by massive infrastructure momentum, highlighted by OpenAI's GPT-6 Astra trained on over 100,000 Nvidia Grace Blackwell NVL72 systems. This massive hardware deployment, with another 400,000 GPUs on the way, reflects an economic and technological push rather than a strict scientific consensus.",
+    "summary_vietnamese": "Tuyên bố của Jensen Huang rằng AGI đã xuất hiện được thúc đẩy bởi đà phát triển hạ tầng mạnh mẽ, nổi bật là việc GPT-6 Astra của OpenAI được huấn luyện trên hơn 100.000 hệ thống Nvidia Grace Blackwell NVL72. Việc triển khai phần cứng khổng lồ này, với thêm 400.000 GPU sắp tới, phản ánh một động lực về kinh tế và công nghệ hơn là một sự đồng thuận khoa học nghiêm ngặt.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/373466-nvidia-sees-agi-while-openai-sees-danger/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Nvidia-Sees-AGI-While-OpenAI-Sees-Danger-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-13T18:29:29.989624+00:00",
+    "publishedAt": "2026-09-13T17:00:31+00:00"
   }
 ]

@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/semiconductor-manufacturers/373466-nvidia-sees-agi-while-openai-sees-danger/
+Title: Nvidia Sees AGI While OpenAI Sees Danger
+Summary: <p><a href="https://x.com/search?q=Jensen%20Huang%E2%80%99s%20declaration%20that%20%E2%80%9CAGI%20has%20arrived%E2%80%9D&#38;src=typed_query">Jensen Huang’s declaration that “AGI has arrived”</a> i...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Nvidia-Sees-AGI-While-OpenAI-Sees-Danger-1200x675.jpg
+Author: Daniel Nenni
+Published date: Sun, 13 Sep 2026 17:00:31 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
