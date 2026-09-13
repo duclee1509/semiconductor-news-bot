@@ -1,0 +1,15 @@
+Article: https://semiwiki.com/semiconductor-manufacturers/samsung-foundry/372471-samsung-might-be-the-most-unusual-company-on-earth/
+Title: Samsung Might Be the Most Unusual Company on Earth
+Summary: <p>Samsung might be the most unusual company on earth because it is difficult to decide what kind of company it actually is. To most consumers, Samsung means smartphones, televisions, refrigerators...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/Samsung-Might-Be-The-Most-Unusual-Company-2026-1200x675.jpg
+Author: Daniel Nenni
+Published date: Sun, 13 Sep 2026 15:00:12 +0000
+
+Article: https://semiwiki.com/ceo-interviews/373457-semiwiki-ceo-interview-with-dr-nissan-maskil-of-qarakal-quantum/
+Title: SemiWiki CEO Interview with Dr. Nissan Maskil of Qarakal Quantum
+Summary: <p>Nissan Maskil, PhD, is the CEO and co-founder of Qarakal Quantum, established in 2024. Nissan brings 40 years of national technology program experience to Qarakal Quantum, where they’re working ...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Nissan-Maskil-Qarakal-Qauntum-Headshot-975x1200.jpeg
+Author: Daniel Nenni
+Published date: Sun, 13 Sep 2026 13:00:24 +0000
+
+Completed! Added a total of 2 new news items to Firebase.
