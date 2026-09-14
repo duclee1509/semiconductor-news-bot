@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/advanced-packaging-changes-the-rules-for-semiconductor-health-and-performance-management/
+Title: Advanced Packaging Changes The Rules For Semiconductor Health And Performance Management
+Summary: <p>How to understand every chiplet inside the system-in-package.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/proteanTecs_Adv-Pack-Changes-Rules-Semi-Health-Perf-Mgmt-fig1.webp
+Author: Nir Sever
+Published date: Mon, 14 Sep 2026 07:04:02 +0000
+
+Article: https://semiwiki.com/ip/373416-cast-moves-the-full-tcp-ip-stack-into-hardware-at-100-gbps/
+Title: CAST Moves the Full TCP/IP Stack into Hardware at 100 Gbps
+Summary: <p>CAST has introduced TCPIP-100G, a synthesizable intellectual-property core that implements a complete TCP/IP stack in hardware for ASICs and FPGAs. The core is designed to transmit and receive a...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/CAST_TCPIP-100G_PressFigure.png
+Author: Daniel Nenni
+Published date: Mon, 14 Sep 2026 17:00:24 +0000
+
+Article: https://semiwiki.com/eda/373472-semiconductor-engineering-has-a-state-continuity-problem/
+Title: Semiconductor Engineering Has a State-Continuity Problem
+Summary: <p><em>Product realization depends not only on reaching the next engineering state, but on preserving the relationships between states from intent through qualification, release, and lifecycle lear...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Semi_eng_state_conti_Problem_sept11_semiwiki-1200x799.jpg
+Author: Moh Kolb
+Published date: Mon, 14 Sep 2026 15:00:24 +0000
+
+Article: https://semiwiki.com/semiconductor-services/samtec/373513-samtec-puts-ais-interconnect-bottleneck-on-display-at-ecoc-and-ai-infra-summit/
+Title: Samtec Puts AI’s Interconnect Bottleneck on Display at ECOC and AI Infra Summit
+Summary: <p><a href="https://www.samtec.com/">Samtec</a> is using two major 2026 industry events to make a clear engineering argument: faster accelerators alone will not determine the performance of next-ge...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Samtec-Connects-the-AI-Era-1200x675.jpg
+Author: Daniel Nenni
+Published date: Mon, 14 Sep 2026 13:00:33 +0000
+
+Article: https://baochinhphu.vn/uu-tien-ho-tro-doanh-nghiep-trong-nuoc-nghien-cuu-lam-chu-cong-nghe-nganh-dien-tu-102260914155701987.htm
+Title: Ưu tiên hỗ trợ doanh nghiệp trong nước nghiên cứu, làm chủ công nghệ ngành điện tử
+Summary: (Chinhphu.vn) - Nhà nước ưu tiên hỗ trợ doanh nghiệp trong nước nghiên cứu, làm chủ công nghệ lõi, công nghệ nền trong bán dẫn, vi mạch, vật liệu điện tử và tự động hóa...
+Thumbnail: https://bcp2.cdnchinhphu.vn/zoom/1200_630/334894974524682240/2026/9/14/quy-trinh-san-xuat-linh-kien-dien-tu97298-1789375632168108580913-28-0-459-690-crop-17893756510941069700750.jpg
+Author: Phương Nhi
+Published date: Mon, 14 Sep 2026 17:00:00 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
