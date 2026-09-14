@@ -1,0 +1,8 @@
+Article: https://semiengineering.com/chip-industry-technical-paper-roundup-sept-14/
+Title: Chip Industry Technical Paper Roundup: Sept. 14
+Summary: <p>Heterogeneous memory chiplets for multi-request LLM inference; long-span ECC for HBM AI inference; quasi phase-only EUV masks; advanced packaging underfill cure and thermal-endurance modeling; H...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/06-26-AdobeStock_143980229-scaled.jpeg?fit=2560%2C1398&ssl=1
+Author: Linda Christensen
+Published date: Mon, 14 Sep 2026 07:01:44 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

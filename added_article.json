@@ -2952,5 +2952,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-09-13T18:29:29.989624+00:00",
     "publishedAt": "2026-09-13T17:00:31+00:00"
+  },
+  {
+    "title_org": "Chip Industry Technical Paper Roundup: Sept. 14",
+    "title_vietnamese": "Điểm tin tài liệu kỹ thuật ngành công nghiệp chip: Ngày 14 tháng 9",
+    "summary_org": "This technical paper roundup highlights recent advancements in semiconductor research, focusing on heterogeneous memory chiplets for LLM inference, advanced HBM error correction, and EUV mask technologies. It also covers innovations in packaging thermal modeling, pre-silicon hardware security testing, and charge characterization in TMD-based MOS structures.",
+    "summary_vietnamese": "Bản tổng hợp tài liệu kỹ thuật này làm nổi bật những tiến bộ gần đây trong nghiên cứu chất bán dẫn, tập trung vào chiplet bộ nhớ dị thể cho suy luận LLM, mã sửa lỗi HBM nâng cao và công nghệ mặt nạ EUV. Bài viết cũng đề cập đến các đổi mới trong mô hình hóa nhiệt độ đóng gói, kiểm tra bảo mật phần cứng trước khi sản xuất (pre-silicon) và đặc tính điện tích trong cấu trúc MOS dựa trên vật liệu TMD.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-14/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/06/06-26-AdobeStock_143980229-scaled.jpeg?fit=2560%2C1398&ssl=1",
+    "author": "Linda Christensen",
+    "createdAt": "2026-09-14T09:30:05.857451+00:00",
+    "publishedAt": "2026-09-14T07:01:44+00:00"
   }
 ]
