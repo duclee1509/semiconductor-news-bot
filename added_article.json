@@ -3148,5 +3148,33 @@
     "author": "Admin",
     "createdAt": "2026-09-15T16:06:57.814148+00:00",
     "publishedAt": "2026-09-15T13:00:55+00:00"
+  },
+  {
+    "title_org": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+    "title_vietnamese": "OpenAI đã sử dụng các mô hình LLM của chính mình như thế nào để thiết kế chip Jalapeño",
+    "summary_org": "OpenAI recently unveiled its debut AI accelerator chip, Jalapeño, designed in under 20 months using a small team and leveraging its own large language models (LLMs) combined with tools like Google's XLS. By integrating AI into front-end design and software optimization, OpenAI significantly accelerated development, though physical back-end implementation relied heavily on partner Broadcom.",
+    "summary_vietnamese": "OpenAI gần đây đã công bố chip gia tốc AI đầu tiên của mình mang tên Jalapeño, được thiết kế trong vòng chưa đầy 20 tháng với quy mô đội ngũ nhỏ và tận dụng các mô hình LLM của riêng công ty kết hợp với các công cụ như XLS của Google. Bằng cách tích hợp AI vào thiết kế front-end và tối ưu hóa phần mềm, OpenAI đã đẩy nhanh đáng kể quá trình phát triển, mặc dù việc hiện thực hóa phần back-end vật lý phụ thuộc phần lớn vào đối tác Broadcom.",
+    "source": "IEEE Spectrum - Semiconductors",
+    "url": "https://spectrum.ieee.org/llms-for-chip-design",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://spectrum.ieee.org/media-library/close-up-of-a-computer-processor-consisting-of-several-pieces-of-silicon.jpg?id=67770467&width=1200&height=600&coordinates=0%2C356%2C0%2C144",
+    "author": "Matthew S. Smith",
+    "createdAt": "2026-09-15T22:39:53.010312+00:00",
+    "publishedAt": "2026-09-14T14:06:31+00:00"
+  },
+  {
+    "title_org": "A Study of Photoresist Bake Influence on Stochastics for DUV Immersion Lithography",
+    "title_vietnamese": "Nghiên cứu về ảnh hưởng của quá trình nướng cản quang đối với hiện tượng ngẫu nhiên trong quang khắc ngâm DUV",
+    "summary_org": "This article discusses a study on how photoresist bake processes influence stochastics in DUV immersion lithography. DUV immersion lithography, utilizing a 193 nm ArF exposure system with water, continues to be a critical patterning technology for advanced semiconductor manufacturing to achieve smaller feature sizes. The full study explores optimization techniques to improve patterning accuracy on the wafer.",
+    "summary_vietnamese": "Bài viết thảo luận về một nghiên cứu về cách các quá trình nướng cản quang ảnh hưởng đến hiện tượng ngẫu nhiên trong quang khắc ngâm DUV. Công nghệ quang khắc ngâm DUV, sử dụng hệ thống phơi sáng ArF 193 nm với nước, tiếp tục là công nghệ tạo mẫu quan trọng cho sản xuất chất bán dẫn tiên tiến nhằm đạt được kích thước tính năng nhỏ hơn. Nghiên cứu toàn diện khám phá các kỹ thuật tối ưu hóa để cải thiện độ chính xác tạo mẫu trên wafer.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/lithography/373360-a-study-of-photoresist-bake-influence-on-stochastics-for-duv-immersion-lithography/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Photoresist-Bake-Influence-on-DUV-Stochastics-1200x675.jpg",
+    "author": "Admin",
+    "createdAt": "2026-09-15T22:39:57.619808+00:00",
+    "publishedAt": "2026-09-15T17:00:49+00:00"
   }
 ]
