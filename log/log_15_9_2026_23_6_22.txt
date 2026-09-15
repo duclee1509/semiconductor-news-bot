@@ -1,0 +1,50 @@
+Article: https://semiengineering.com/ai-data-centers-have-a-power-hoarding-problem/
+Title: AI Data Centers Have A Stranded Power Problem
+Summary: <p>Redundant feeds protect uptime, but they also strand capacity that could support more hardware.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Screenshot-2026-09-12-at-2.40.28-PM.png
+Author: Bryon Moyer
+Published date: Tue, 15 Sep 2026 07:13:41 +0000
+
+Article: https://semiengineering.com/hardware-software-co-design-in-the-ai-era/
+Title: Hardware-Software Co-Design In The AI Era
+Summary: <p>Even though the benefits are accepted, a combined hardware/software development flow is hampered by a lot of challenges.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_461734658-06-18-24.jpeg
+Author: Brian Bailey
+Published date: Tue, 15 Sep 2026 07:12:38 +0000
+
+Article: https://semiengineering.com/scaling-thermal-analysis-from-transistors-to-data-centers/
+Title: Scaling Thermal Analysis From Transistors To Data Centers
+Summary: <p>Rising power density and chiplet complexity drive thermal considerations earlier in the design process.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Screenshot-2026-09-12-at-3.09.59-PM.png
+Author: Ed Sperling
+Published date: Tue, 15 Sep 2026 07:11:30 +0000
+
+Article: https://semiengineering.com/scaling-ai-infrastructure-with-pcie-switches-and-retimers/
+Title: Scaling AI Infrastructure With PCIe Switches And Retimers
+Summary: <p>Build configurable PCIe subsystems spanning local expansion, shared resource domains, and longer-reach topologies.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Rambus_Scaling-AI-Infra-PCIe-Switches-fig1-Workloads.webp
+Author: Phillip Swart
+Published date: Tue, 15 Sep 2026 07:06:12 +0000
+
+Article: https://semiengineering.com/amba-over-ucie-building-coherent-multi-die-systems/
+Title: AMBA Over UCIe: Building Coherent Multi-Die Systems
+Summary: <p>Transforming established SoC design paradigms into system-level fabrics capable of supporting next-generation AI, HPC, and data center workloads.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Cadence_AMBA-Over-UCIe-fig1.png
+Author: Nagendra Varma
+Published date: Tue, 15 Sep 2026 07:04:57 +0000
+
+Article: https://semiwiki.com/ip/ceva/373504-uwb-without-the-integration-headache-ceva-and-lg-bring-precision-to-more-chips/
+Title: UWB Without the Integration Headache: Ceva and LG Bring Precision to More Chips
+Summary: <p class="isSelectedEnd">Ceva and LG Electronics have joined forces to remove one of the biggest obstacles to ultra-wideband adoption: integrating a complete radio, baseband and software stack into...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/UWB-Without-the-Integration-Headache-Ceva-and-LG-Bring-Precision-to-More-Chips-1200x675.jpg
+Author: Daniel Nenni
+Published date: Tue, 15 Sep 2026 15:00:42 +0000
+
+Article: https://semiwiki.com/ip/rambus/373549-pcie-7-switch-ip-with-time-division-multiplexing-powering-the-next-generation-of-ai-connectivity-2/
+Title: PCIe 7 Switch IP with Time Division Multiplexing: Powering the Next Generation of AI Connectivity
+Summary: <p><em>By Tim Messegee, Senior Director of Solutions Marketing at Rambus</em></p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/PCIe-7-Switch-IP-with-Time-Division-Multiplexing.jpg
+Author: Admin
+Published date: Tue, 15 Sep 2026 13:00:55 +0000
+
+Completed! Added a total of 7 new news items to Firebase.
