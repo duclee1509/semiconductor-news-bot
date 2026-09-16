@@ -1,0 +1,22 @@
+Article: https://semiwiki.com/ip/373258-arm-targets-the-agentic-ai-era-with-new-edge-cloud-and-robotics-platforms/
+Title: Arm targets the agentic AI era with new edge, cloud and robotics platforms
+Summary: <p>Arm is expanding its computing platform for an era in which artificial intelligence does more than respond to individual prompts. The company expects AI agents to operate continuously across pho...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Arm-targets-the-agentic-AI-era-with-new-edge-cloud-and-robotics-platforms-1200x675.jpg
+Author: Daniel Nenni
+Published date: Wed, 16 Sep 2026 15:00:26 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/vsora/373568-rethinking-ai-chips-how-vsora-redesigned-the-hardware-that-runs-ai/
+Title: Rethinking AI Chips: How VSORA Redesigned the Hardware That Runs AI
+Summary: <p>Instead of tweaking existing designs, VSORA built an AI chip from scratch to fix the real bottleneck: moving data fast enough to keep the math circuits busy.</p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/image001-1-1200x518.png
+Author: Lauro Rizzatti
+Published date: Wed, 16 Sep 2026 13:00:11 +0000
+
+Article: https://tuoitre.vn/tu-gan-300-ho-so-27-sinh-vien-duoc-chon-hoc-thiet-ke-chip-cung-ong-lon-my-100260916185550301.htm
+Title: Từ gần 300 hồ sơ, 27 sinh viên được chọn học thiết kế chip cùng 'ông lớn' Mỹ
+Summary: Từ gần 300 hồ sơ ứng tuyển, 27 sinh viên được chọn học chuyên sâu về thiết kế vi mạch trong 13 tuần cùng Synopsys và Trường đại học Khoa học tự nhiên.
+Thumbnail: https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/9/16/8418988097400168283461898809740016828346f0993da5eb0b27cd12da785bd82d49a5-17895593515951140100612-1789562250195908062172-244-155-1029-1654-crop-17895622898511150411897.jpg
+Author: Trọng Nhân
+Published date: Wed, 16 Sep 2026 19:34:00 +0000
+
+Completed! Added a total of 3 new news items to Firebase.

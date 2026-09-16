@@ -3246,5 +3246,47 @@
     "author": "Cadence",
     "createdAt": "2026-09-16T09:00:44.509998+00:00",
     "publishedAt": "2026-09-16T07:03:33+00:00"
+  },
+  {
+    "title_org": "Arm targets the agentic AI era with new edge, cloud and robotics platforms",
+    "title_vietnamese": "Arm hướng tới kỷ nguyên AI tác tử với các nền tảng mới dành cho biên, đám mây và robot",
+    "summary_org": "Arm is expanding its computing platform to support the rise of continuous AI agents across phones, data centers, and robotics. The new edge, cloud, and robotics platforms are designed to help these intelligent systems perceive surroundings, reason about objectives, and operate autonomously.",
+    "summary_vietnamese": "Arm đang mở rộng nền tảng điện toán của mình để hỗ trợ sự trỗi dậy của các AI agent hoạt động liên tục trên điện thoại, trung tâm dữ liệu và robot. Các nền tảng mới dành cho biên, đám mây và robot được thiết kế để giúp các hệ thống thông minh này nhận thức môi trường xung quanh, suy luận về mục tiêu và vận hành một cách tự động.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ip/373258-arm-targets-the-agentic-ai-era-with-new-edge-cloud-and-robotics-platforms/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Arm-targets-the-agentic-AI-era-with-new-edge-cloud-and-robotics-platforms-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-16T15:59:31.947073+00:00",
+    "publishedAt": "2026-09-16T15:00:26+00:00"
+  },
+  {
+    "title_org": "Rethinking AI Chips: How VSORA Redesigned the Hardware That Runs AI",
+    "title_vietnamese": "Tư duy lại về chip AI: VSORA đã thiết kế lại phần cứng chạy AI như thế nào",
+    "summary_org": "VSORA designed a new AI chip completely from scratch rather than modifying existing architectures. Their primary focus was resolving the fundamental bottleneck of moving data quickly enough to maintain high utilization of math circuits. This approach challenges conventional startup narratives in the semiconductor industry.",
+    "summary_vietnamese": "VSORA đã thiết kế một con chip AI hoàn toàn mới từ đầu thay vì sửa đổi các kiến trúc hiện có. Trọng tâm chính của họ là giải quyết nút thắt cổ chai cơ bản trong việc di chuyển dữ liệu đủ nhanh để duy trì hiệu suất cao cho các mạch tính toán. Cách tiếp cận này thách thức những câu chuyện gọi vốn thông thường của các startup trong ngành công nghiệp bán dẫn.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/vsora/373568-rethinking-ai-chips-how-vsora-redesigned-the-hardware-that-runs-ai/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/image001-1-1200x518.png",
+    "author": "Lauro Rizzatti",
+    "createdAt": "2026-09-16T15:59:36.298052+00:00",
+    "publishedAt": "2026-09-16T13:00:11+00:00"
+  },
+  {
+    "title_org": "Từ gần 300 hồ sơ, 27 sinh viên được chọn học thiết kế chip cùng 'ông lớn' Mỹ",
+    "title_vietnamese": "",
+    "summary_org": "Có 27 sinh viên xuất sắc được chọn từ gần 300 hồ sơ để tham gia chương trình đào tạo chuyên sâu về thiết kế vi mạch kéo dài 13 tuần. Chương trình này là sự hợp tác giữa tập đoàn công nghệ lớn của Mỹ Synopsys và Trường Đại học Khoa học tự nhiên nhằm phát triển nguồn nhân lực chất lượng cao cho ngành bán dẫn.",
+    "summary_vietnamese": "",
+    "source": "Báo Tuổi Trẻ",
+    "url": "https://tuoitre.vn/tu-gan-300-ho-so-27-sinh-vien-duoc-chon-hoc-thiet-ke-chip-cung-ong-lon-my-100260916185550301.htm",
+    "category": "VietNam",
+    "isPolicy": false,
+    "thumbnail": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/9/16/8418988097400168283461898809740016828346f0993da5eb0b27cd12da785bd82d49a5-17895593515951140100612-1789562250195908062172-244-155-1029-1654-crop-17895622898511150411897.jpg",
+    "author": "Trọng Nhân",
+    "createdAt": "2026-09-16T15:59:57.107319+00:00",
+    "publishedAt": "2026-09-16T19:34:00+00:00"
   }
 ]
