@@ -1,0 +1,22 @@
+Article: https://semiengineering.com/negative-expansion-materials-resist-warpage/
+Title: Negative Expansion Materials Resist Warpage
+Summary: <p>Molding compounds and underfill can improve thermal stability.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/MPM-Bryon.jpg
+Author: Bryon Moyer
+Published date: Thu, 17 Sep 2026 07:12:21 +0000
+
+Article: https://semiwiki.com/eda/siemens-eda/373604-the-invisible-bottleneck-is-costing-you-time-you-cant-get-back/
+Title: The Invisible Bottleneck Is Costing You Time You Can’t Get Back
+Summary: <p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/invisible-bottle-neck-package-1200x674.png
+Author: Admin
+Published date: Thu, 17 Sep 2026 15:00:37 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/intel/373593-asml-has-high-na-and-chipmakers-cant-say-no/
+Title: ASML Has High-NA and Chipmakers Can’t Say No
+Summary: <p>ASML’s grip on the most advanced corner of chip manufacturing is tightening. The Dutch company, already the sole supplier of extreme ultraviolet lithography systems, is winning broader industry ...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/ASML-Has-High-NA-and-Some-Chipmakers-Cant-Say-No-1200x675.jpg
+Author: Daniel Nenni
+Published date: Thu, 17 Sep 2026 13:00:48 +0000
+
+Completed! Added a total of 3 new news items to Firebase.

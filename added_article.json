@@ -3344,5 +3344,47 @@
     "author": "Chiung Lee",
     "createdAt": "2026-09-17T09:08:19.445069+00:00",
     "publishedAt": "2026-09-17T07:05:40+00:00"
+  },
+  {
+    "title_org": "Negative Expansion Materials Resist Warpage",
+    "title_vietnamese": "Vật liệu giãn nở âm chống cong vênh hiệu quả",
+    "summary_org": "Advanced molding compounds and underfill materials play a crucial role in improving thermal stability in semiconductor packaging. These materials utilize negative expansion properties to effectively resist warpage during manufacturing and operation.",
+    "summary_vietnamese": "Các hợp chất đúc tiên tiến và vật liệu underfill đóng vai trò quan trọng trong việc cải thiện độ ổn định nhiệt trong lĩnh vực đóng gói chất bán dẫn. Những vật liệu này tận dụng đặc tính giãn nở âm để chống cong vênh hiệu quả trong quá trình sản xuất và vận hành.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/negative-expansion-materials-resist-warpage/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/09/MPM-Bryon.jpg",
+    "author": "Bryon Moyer",
+    "createdAt": "2026-09-17T16:06:14.839768+00:00",
+    "publishedAt": "2026-09-17T07:12:21+00:00"
+  },
+  {
+    "title_org": "The Invisible Bottleneck Is Costing You Time You Can’t Get Back",
+    "title_vietnamese": "Nút thắt cổ chai vô hình đang ngốn đi thời gian quý giá không thể lấy lại của bạn",
+    "summary_org": "According to the 2026 Siemens EDA and Wilson Research Group study, verification now consumes nearly half the schedule for every IC and FPGA program. Joel Jorgensen from FlowAccel questions whether all this time is genuinely spent on verification or if another hidden bottleneck is masquerading as it. The article highlights the growing inefficiency in the design cycle that engineers need to address.",
+    "summary_vietnamese": "Theo nghiên cứu năm 2026 của Siemens EDA và Wilson Research Group, công đoạn kiểm tra (verification) hiện chiếm gần một nửa thời gian biểu của mọi dự án IC và FPGA. Joel Jorgensen từ FlowAccel đặt câu hỏi liệu tất cả khoảng thời gian đó thực sự dành cho verification hay có một nút thắt ẩn khác đang trá hình. Bài viết nhấn mạnh sự kém hiệu quả ngày càng tăng trong chu kỳ thiết kế mà các kỹ sư cần phải giải quyết.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/siemens-eda/373604-the-invisible-bottleneck-is-costing-you-time-you-cant-get-back/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/invisible-bottle-neck-package-1200x674.png",
+    "author": "Admin",
+    "createdAt": "2026-09-17T16:06:22.138713+00:00",
+    "publishedAt": "2026-09-17T15:00:37+00:00"
+  },
+  {
+    "title_org": "ASML Has High-NA and Chipmakers Can’t Say No",
+    "title_vietnamese": "ASML nắm giữ công nghệ High-NA và các nhà sản xuất chip không thể chối từ",
+    "summary_org": "ASML is strengthening its monopoly in advanced semiconductor manufacturing by gaining broader industry support for its next-generation High Numerical Aperture (High NA) EUV technology. This advanced system is becoming essential for chipmakers as they attempt to print smaller and denser circuitry on wafers.",
+    "summary_vietnamese": "ASML đang củng cố thế độc quyền trong lĩnh vực sản xuất bán dẫn tiên tiến khi nhận được sự ủng hộ rộng rãi hơn từ ngành công nghệ đối với hệ thống EUV khẩu độ số cao (High NA), công nghệ thế hệ tiếp theo của họ. Hệ thống tiên tiến này đang trở nên thiết yếu đối với các nhà sản xuất chip khi họ tìm cách in các mạch điện nhỏ và dày đặc hơn trên wafer.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/intel/373593-asml-has-high-na-and-chipmakers-cant-say-no/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/ASML-Has-High-NA-and-Some-Chipmakers-Cant-Say-No-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-17T16:07:09.770636+00:00",
+    "publishedAt": "2026-09-17T13:00:48+00:00"
   }
 ]
