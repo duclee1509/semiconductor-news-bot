@@ -3288,5 +3288,61 @@
     "author": "Trọng Nhân",
     "createdAt": "2026-09-16T15:59:57.107319+00:00",
     "publishedAt": "2026-09-16T19:34:00+00:00"
+  },
+  {
+    "title_org": "Why Package Digital Twins Are So Hard To Build",
+    "title_vietnamese": "Vì sao việc xây dựng bản sao số cho khâu đóng gói vi mạch lại vô cùng khó khăn",
+    "summary_org": "Building accurate package digital twins is extremely challenging because simulation models must be precisely synchronized with actual physical manufacturing results. Ensuring this high level of consistency between virtual designs and real-world semiconductor packaging remains a major hurdle for the industry.",
+    "summary_vietnamese": "Việc xây dựng các bản sao số (digital twins) chính xác cho khâu đóng gói vi mạch gặp nhiều thách thức lớn vì các mô hình mô phỏng phải được đồng bộ hóa chính xác với kết quả sản xuất thực tế. Đảm bảo mức độ đồng nhất cao giữa thiết kế ảo và quá trình packaging ngoài đời thực vẫn là rào cản lớn đối với ngành công nghiệp.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/why-package-digital-twins-are-so-hard-to-build/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/09/MPM-Greg.jpg?fit=1430%2C605&ssl=1",
+    "author": "Gregory Haley",
+    "createdAt": "2026-09-17T09:07:19.628055+00:00",
+    "publishedAt": "2026-09-17T07:13:29+00:00"
+  },
+  {
+    "title_org": "The Silicon Heartland Wants To Be America’s Next Chip Powerhouse",
+    "title_vietnamese": "Vùng 'Silicon Heartland' muốn trở thành cường quốc vi mạch tiếp theo của nước Mỹ",
+    "summary_org": "While Intel is the headline name, the success of the Silicon Heartland as a true semiconductor ecosystem depends on materials suppliers, packaging hubs, and quantum startups. Building a robust chip powerhouse in the region requires a collaborative network beyond just a single major manufacturer.",
+    "summary_vietnamese": "Dù Intel là cái tên nổi bật nhất, sự thành công của vùng Silicon Heartland để trở thành một hệ sinh thái bán dẫn thực thụ còn phụ thuộc vào các nhà cung cấp vật liệu, trung tâm packaging và các startup lượng tử. Việc xây dựng một cường quốc chip vững mạnh trong khu vực đòi hỏi một mạng lưới hợp tác toàn diện chứ không chỉ dựa vào một nhà sản xuất lớn đơn lẻ.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/the-silicon-heartland-wants-to-be-americas-next-chip-powerhouse/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_536789212-scaled.jpeg?fit=2560%2C853&ssl=1",
+    "author": "Brendan Heffernan",
+    "createdAt": "2026-09-17T09:08:11.723808+00:00",
+    "publishedAt": "2026-09-17T07:11:08+00:00"
+  },
+  {
+    "title_org": "Beyond Scaling: The Growing Role Of Materials Innovation In Semiconductor Manufacturing",
+    "title_vietnamese": "Vượt ra ngoài định luật Scaling: Vai trò ngày càng tăng của đổi mới vật liệu trong sản xuất bán dẫn",
+    "summary_org": "Expanding computational capabilities and deeper co-development are changing how materials move from lab to fab. This trend highlights the critical need for advanced material innovations to sustain semiconductor manufacturing growth beyond traditional scaling.",
+    "summary_vietnamese": "Năng lực tính toán mở rộng và quá trình đồng phát triển chuyên sâu đang thay đổi cách các loại vật liệu chuyển từ phòng thí nghiệm sang nhà máy (fab). Xu hướng này làm nổi bật nhu cầu cấp thiết về các đổi mới vật liệu tiên tiến nhằm duy trì sự tăng trưởng của ngành sản xuất bán dẫn vượt ra ngoài giới hạn scaling truyền thống.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/beyond-scaling-the-growing-role-of-materials-innovation-in-semiconductor-manufacturing/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_2043350125-08-26-scaled.jpeg?fit=2560%2C1440&ssl=1",
+    "author": "Hideaki Okamoto",
+    "createdAt": "2026-09-17T09:08:15.623339+00:00",
+    "publishedAt": "2026-09-17T07:06:17+00:00"
+  },
+  {
+    "title_org": "AI’s Storage Problem Is a Packaging Problem",
+    "title_vietnamese": "Vấn đề lưu trữ của AI thực chất là vấn đề đóng gói",
+    "summary_org": "The article explores how advanced semiconductor packaging technologies, such as thinner dies, taller stacks, and hybrid bonding, are essential for evolving NAND flash memory to meet the demanding requirements of the AI era. These innovations help overcome physical storage and performance limitations in modern data centers.",
+    "summary_vietnamese": "Bài viết khám phá cách các công nghệ đóng gói chất bán dẫn tiên tiến như khuôn mỏng hơn, chồng tầng cao hơn và liên kết lai (hybrid bonding) đóng vai trò thiết yếu trong việc phát triển bộ nhớ NAND để đáp ứng các yêu cầu khắt khe của kỷ nguyên AI. Những cải tiến này giúp vượt qua các giới hạn về lưu trữ vật lý và hiệu suất trong trung tâm dữ liệu hiện đại.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/ais-storage-problem-is-a-packaging-problem/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_849607826-data-center-08-26-scaled.jpeg?fit=2560%2C1451&ssl=1",
+    "author": "Chiung Lee",
+    "createdAt": "2026-09-17T09:08:19.445069+00:00",
+    "publishedAt": "2026-09-17T07:05:40+00:00"
   }
 ]

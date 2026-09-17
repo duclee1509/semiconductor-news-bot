@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/why-package-digital-twins-are-so-hard-to-build/
+Title: Why Package Digital Twins Are So Hard To Build
+Summary: <p>Models need to be synchronized with what manufacturing actually builds.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/MPM-Greg.jpg?fit=1430%2C605&ssl=1
+Author: Gregory Haley
+Published date: Thu, 17 Sep 2026 07:13:29 +0000
+
+Article: https://semiengineering.com/negative-expansion-materials-resist-warpage/
+Title: Negative Expansion Materials Resist Warpage
+Summary: <p>Molding compounds and underfill can improve thermal stability.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/MPM-Bryon.jpg?fit=953%2C638&ssl=1
+Author: Bryon Moyer
+Published date: Thu, 17 Sep 2026 07:12:21 +0000
+
+Article: https://semiengineering.com/the-silicon-heartland-wants-to-be-americas-next-chip-powerhouse/
+Title: The Silicon Heartland Wants To Be America’s Next Chip Powerhouse
+Summary: <p>Intel may be the marquee name, but materials suppliers, packaging hubs, and quantum startups will determine whether the region becomes a true semiconductor ecosystem.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_536789212-scaled.jpeg?fit=2560%2C853&ssl=1
+Author: Brendan Heffernan
+Published date: Thu, 17 Sep 2026 07:11:08 +0000
+
+Article: https://semiengineering.com/beyond-scaling-the-growing-role-of-materials-innovation-in-semiconductor-manufacturing/
+Title: Beyond Scaling: The Growing Role Of Materials Innovation In Semiconductor Manufacturing
+Summary: <p>Expanding computational capabilities and deeper co-development are changing how materials move from lab to fab.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_2043350125-08-26-scaled.jpeg?fit=2560%2C1440&ssl=1
+Author: Hideaki Okamoto
+Published date: Thu, 17 Sep 2026 07:06:17 +0000
+
+Article: https://semiengineering.com/ais-storage-problem-is-a-packaging-problem/
+Title: AI’s Storage Problem Is a Packaging Problem
+Summary: <p>How thinner dies, taller stacks, and hybrid bonding are carrying NAND into the AI era.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_849607826-data-center-08-26-scaled.jpeg?fit=2560%2C1451&ssl=1
+Author: Chiung Lee
+Published date: Thu, 17 Sep 2026 07:05:40 +0000
+
+Completed! Added a total of 4 new news items to Firebase.
