@@ -3400,5 +3400,33 @@
     "author": "The SE Staff",
     "createdAt": "2026-09-18T08:41:37.130441+00:00",
     "publishedAt": "2026-09-18T07:01:07+00:00"
+  },
+  {
+    "title_org": "TSMC’s CoWoS Capacity to Double by 2028—and Rivals Will Still Win Orders",
+    "title_vietnamese": "Công suất CoWoS của TSMC sẽ tăng gấp đôi vào năm 2028 — và các đối thủ vẫn sẽ giành được đơn hàng",
+    "summary_org": "TSMC reportedly plans to double its Chip-on-Wafer-on-Substrate (CoWoS) capacity from about 130,000 wafers per month at the end of 2026 to 260,000 by 2028. This supply-chain projection aligns with the company's continuous growth strategy to meet surging demand. Despite this massive expansion, industry rivals are still expected to secure significant orders.",
+    "summary_vietnamese": "TSMC được cho là có kế hoạch tăng gấp đôi công suất Chip-on-Wafer-on-Substrate (CoWoS) từ khoảng 130.000 wafer mỗi tháng vào cuối năm 2026 lên 260.000 vào năm 2028. Dự báo từ chuỗi cung ứng này phù hợp với chiến lược tăng trưởng liên tục của công ty nhằm đáp ứng nhu cầu đang bùng nổ. Mặc dù có sự mở rộng quy mô lớn này, các đối thủ trong ngành dự kiến vẫn sẽ giành được các đơn hàng quan trọng.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/tsmc/373574-tsmcs-cowos-capacity-to-double-by-2028-and-rivals-will-still-win-orders/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/TSMCs-CoWoS-Capacity-to-Double-by-2028—and-Rivals-Will-Still-Win-Orders-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-18T15:42:11.835185+00:00",
+    "publishedAt": "2026-09-18T15:00:39+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Charlie Cheng of CEO of TeRAM",
+    "title_vietnamese": "Phỏng vấn CEO Charlie Cheng của TeRAM",
+    "summary_org": "This article features an interview with Charlie Cheng, CEO of TeRAM, who brings four decades of experience in microprocessor architecture and semiconductor memory. Prior to leading TeRAM, he worked on various AI processors, including Meta's MTIA accelerators, and served as CEO of Kilopass.",
+    "summary_vietnamese": "Bài viết này giới thiệu cuộc phỏng vấn với Charlie Cheng, CEO của TeRAM, người có bốn thập kỷ kinh nghiệm trong lĩnh vực kiến trúc vi xử lý và bộ nhớ bán dẫn. Trước khi dẫn dắt TeRAM, ông từng tham gia phát triển nhiều bộ xử lý AI, bao gồm các thế hệ bộ tăng tốc MTIA của Meta, và từng giữ chức CEO của Kilopass.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ip/teram/373367-ceo-interview-with-charlie-cheng-of-ceo-of-teram/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Charlie-Cheng-Headshot.png",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-18T15:42:15.909647+00:00",
+    "publishedAt": "2026-09-18T13:00:54+00:00"
   }
 ]

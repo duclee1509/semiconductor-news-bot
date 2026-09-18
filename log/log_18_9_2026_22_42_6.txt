@@ -1,0 +1,15 @@
+Article: https://semiwiki.com/semiconductor-manufacturers/tsmc/373574-tsmcs-cowos-capacity-to-double-by-2028-and-rivals-will-still-win-orders/
+Title: TSMC’s CoWoS Capacity to Double by 2028—and Rivals Will Still Win Orders
+Summary: <p>TSMC reportedly plans to double its Chip-on-Wafer-on-Substrate capacity from approximately 130,000 300mm-equivalent wafers per month at the end of 2026 to 260,000 by 2028. The estimate is not fo...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/TSMCs-CoWoS-Capacity-to-Double-by-2028—and-Rivals-Will-Still-Win-Orders-1200x675.jpg
+Author: Daniel Nenni
+Published date: Fri, 18 Sep 2026 15:00:39 +0000
+
+Article: https://semiwiki.com/ip/teram/373367-ceo-interview-with-charlie-cheng-of-ceo-of-teram/
+Title: CEO Interview with Charlie Cheng of CEO of TeRAM
+Summary: <p>Charlie Cheng is CEO of <a href="https://teram.com/">TeRAM</a>, with four decades of technology experience focused on microprocessor architecture and semiconductor memory. Before TeRAM, he worke...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Charlie-Cheng-Headshot.png
+Author: Daniel Nenni
+Published date: Fri, 18 Sep 2026 13:00:54 +0000
+
+Completed! Added a total of 2 new news items to Firebase.
