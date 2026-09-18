@@ -3386,5 +3386,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-09-17T16:07:09.770636+00:00",
     "publishedAt": "2026-09-17T13:00:48+00:00"
+  },
+  {
+    "title_org": "Chip Industry Week In Review",
+    "title_vietnamese": "Điểm tin ngành công nghiệp vi mạch trong tuần",
+    "summary_org": "This week's review highlights major memory deals, advancements in 2nm and below technologies, and Huawei's chip offensive. Additionally, it covers global semiconductor capacity plans, infrastructure updates, and funding rounds across the industry.",
+    "summary_vietnamese": "Điểm tin tuần này nổi bật với các thỏa thuận lớn về bộ nhớ, tiến bộ trong công nghệ từ 2nm trở xuống và chiến dịch đẩy mạnh chip của Huawei. Ngoài ra, bản tin cũng đề cập đến các kế hoạch mở rộng năng lực sản xuất bán dẫn toàn cầu, cập nhật hạ tầng và các vòng gọi vốn trong toàn ngành.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-week-in-review-156/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_461734705-wafers-10-3-22.jpeg?fit=1200%2C900&ssl=1",
+    "author": "The SE Staff",
+    "createdAt": "2026-09-18T08:41:37.130441+00:00",
+    "publishedAt": "2026-09-18T07:01:07+00:00"
   }
 ]
