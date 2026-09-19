@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/predicting-thermal-conductivity-in-advanced-beol-interconnect-stacks-peking-university/
+Title: Predicting Thermal Conductivity in Advanced BEOL Interconnect Stacks (Peking University)
+Summary: <p>Researchers at Peking University published a technical paper titled “Predictive Structure to Thermal Conductivity Modeling Framework for BEOL Interconnect Stacks in Advanced Technology Nodes Ena...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/AdobeStock_532528757-scaled.jpeg
+Author: Technical Paper Link
+Published date: Sat, 19 Sep 2026 20:05:04 +0000
+
+Article: https://semiengineering.com/agentic-ai-automates-design-rule-repair-while-preserving-layout-equivalence/
+Title: Agentic AI Automates Design-Rule Repair While Preserving Layout Equivalence (Purdue University)
+Summary: <p>Researchers at Purdue University published a technical paper titled “DRC-Aid: Design-Rule Correction via Agentic Framework utilizing Inference-Time Large Language Models.” Abstract Excerpt: “We ...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1869795320-08-26-black-and-white-scaled.jpeg
+Author: Technical Paper Link
+Published date: Sat, 19 Sep 2026 20:01:40 +0000
+
+Article: https://semiengineering.com/reinforcement-learning-cuts-routing-violations-in-dense-chip-layouts-nyu/
+Title: Reinforcement Learning Cuts Routing Violations in Dense Chip Layouts  (NYU)
+Summary: <p>Researchers at New York University published a technical paper titled “Routing Dense Layouts with History-Aware Offline Reinforcement Learning using LSTM.” Abstract Excerpt: “Detailed routing re...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1661858452-08-26-scaled.jpeg
+Author: Technical Paper Link
+Published date: Sat, 19 Sep 2026 18:54:29 +0000
+
+Article: https://semiengineering.com/chiplet-co-design-framework-reduces-energy-and-design-costs-for-ai-accelerators-university-of-michigan/
+Title: Chiplet Co-Design Framework Reduces Energy and Design Costs for AI Accelerators (University of Michigan)
+Summary: <p>Researchers at the University of Michigan published a technical paper titled “Fengshui: Demystifying Chiplet Ecosystem and Bespoke Neural Network Accelerator Codesign.” Abstract Excerpt: “This p...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1748350067-08-26-turquoise-chip-scaled.jpeg
+Author: Technical Paper Link
+Published date: Sat, 19 Sep 2026 18:44:42 +0000
+
+Article: https://semiengineering.com/open-benchmark-evaluates-ai-thermal-models-for-2-5d-and-3d-ics-uts-tu-munich-shanghaitech/
+Title: Open Benchmark Evaluates AI Thermal Models for 2.5D and 3D ICs (UTS, TU Munich, ShanghaiTech)
+Summary: <p>Researchers at the University of Technology Sydney, ShanghaiTech University, and Technical University of Munich published a technical paper titled “IC-ThermBench: An Open, Progressive Benchmark ...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1748350067-08-26-turquoise-chip-scaled.jpeg
+Author: Technical Paper Link
+Published date: Sat, 19 Sep 2026 18:37:45 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
