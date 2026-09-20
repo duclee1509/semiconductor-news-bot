@@ -3554,5 +3554,19 @@
     "author": "Nam Nguyễn",
     "createdAt": "2026-09-20T15:18:56.673652+00:00",
     "publishedAt": "2026-09-20T14:10:41+00:00"
+  },
+  {
+    "title_org": "The Technical Problem Is Often Not the Business Problem",
+    "title_vietnamese": "Vấn đề kỹ thuật thường không phải là vấn đề kinh doanh",
+    "summary_org": "In semiconductor manufacturing, a rising defect rate often sparks debates over whether to invest in new inspection systems, sensors, or engineering personnel. However, before jumping to technical solutions, it is crucial to properly analyze when and where the issues originated to address the underlying business problem.",
+    "summary_vietnamese": "Trong sản xuất chất bán dẫn, tỷ lệ lỗi gia tăng thường châm ngòi cho các cuộc tranh luận về việc có nên đầu tư vào hệ thống kiểm tra, cảm biến mới hay nhân sự kỹ thuật hay không. Tuy nhiên, trước khi vội vã đưa ra các giải pháp kỹ thuật, điều quan trọng là phải phân tích kỹ lưỡng thời điểm và vị trí phát sinh vấn đề để giải quyết đúng bản chất vấn đề kinh doanh.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/373552-the-technical-problem-is-often-not-the-business-problem/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/image2-1200x675.jpg",
+    "author": "Admin",
+    "createdAt": "2026-09-20T18:26:57.678539+00:00",
+    "publishedAt": "2026-09-20T17:00:57+00:00"
   }
 ]
