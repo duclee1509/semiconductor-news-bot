@@ -1,0 +1,22 @@
+Article: https://semiwiki.com/semiconductor-manufacturers/373540-broadcoms-ai-engine-shifts-into-overdrive/
+Title: Broadcom’s AI Engine Shifts Into Overdrive
+Summary: <p>Broadcom’s fiscal third-quarter 2026 results show how artificial-intelligence infrastructure is shifting from general-purpose acceleration toward customized compute and large-scale networking. T...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/The-XPU-Effect-Broadcom-AI-1200x675.jpg
+Author: Daniel Nenni
+Published date: Sun, 20 Sep 2026 15:00:43 +0000
+
+Article: https://semiwiki.com/ceo-interviews/373657-executive-interview-with-raghu-belur-co-founder-of-enphase-energy/
+Title: Executive Interview with Raghu Belur, Co-Founder of Enphase Energy
+Summary: <div>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Raghu-Belur_bcolor-002-1200x1200.jpg
+Author: Daniel Nenni
+Published date: Sun, 20 Sep 2026 13:00:59 +0000
+
+Article: https://vnexpress.net/viet-nam-nhat-ban-hop-tac-dao-tao-nhan-luc-ban-dan-5122538.html
+Title: Việt Nam - Nhật Bản hợp tác đào tạo nhân lực bán dẫn
+Summary: Thứ trưởng Lê Xuân Định cho rằng Nhật Bản có thế mạnh về công nghệ trong khi Việt Nam có nguồn nhân lực trẻ và quyết tâm phát triển bán dẫn, đây là nền tảng để hai bên mở rộng hợp tác về đào tạo, s...
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/09/20/tt-le-xuan-dinh-1789912446-9269-1789913381.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=4UyFs098xTtNmWfzsl7YvA
+Author: Nam Nguyễn
+Published date: Sun, 20 Sep 2026 14:10:41 +0000
+
+Completed! Added a total of 3 new news items to Firebase.

@@ -3512,5 +3512,47 @@
     "author": "Technical Paper Link",
     "createdAt": "2026-09-19T22:04:14.751859+00:00",
     "publishedAt": "2026-09-19T18:37:45+00:00"
+  },
+  {
+    "title_org": "Broadcom’s AI Engine Shifts Into Overdrive",
+    "title_vietnamese": "Động cơ AI của Broadcom tăng tốc mạnh mẽ",
+    "summary_org": "Broadcom reported a massive surge in its fiscal third-quarter 2026 results, with AI semiconductor revenue reaching $16.7 billion. This growth highlights a broader industry shift from general-purpose acceleration toward customized compute and large-scale networking infrastructure.",
+    "summary_vietnamese": "Broadcom ghi nhận kết quả kinh doanh quý 3 năm tài chính 2026 tăng trưởng mạnh mẽ, với doanh thu chất bán dẫn AI đạt 16,7 tỷ USD. Sự tăng trưởng này làm nổi bật xu hướng chuyển dịch của toàn ngành từ bộ tăng tốc đa năng sang điện toán tùy chỉnh và hạ tầng mạng quy mô lớn.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/373540-broadcoms-ai-engine-shifts-into-overdrive/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/The-XPU-Effect-Broadcom-AI-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-20T15:18:43.771930+00:00",
+    "publishedAt": "2026-09-20T15:00:43+00:00"
+  },
+  {
+    "title_org": "Executive Interview with Raghu Belur, Co-Founder of Enphase Energy",
+    "title_vietnamese": "Phỏng vấn lãnh đạo: Raghu Belur, Đồng sáng lập Enphase Energy",
+    "summary_org": "This article features an executive interview with Raghu Belur, the co-founder and Chief Products Officer of Enphase Energy. He discusses his over 25 years of experience in clean energy and high-technology industries, focusing on the development of integrated energy systems involving solar generation, storage, monitoring, and control.",
+    "summary_vietnamese": "Bài viết này có nội dung phỏng vấn Raghu Belur, đồng sáng lập của Enphase Energy. Ông thảo luận về hơn 25 năm kinh nghiệm trong ngành năng lượng sạch và công nghệ cao, tập trung vào việc phát triển hệ thống năng lượng tích hợp bao gồm phát điện mặt trời, lưu trữ, giám sát và điều khiển.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/373657-executive-interview-with-raghu-belur-co-founder-of-enphase-energy/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Raghu-Belur_bcolor-002-1200x1200.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-20T15:18:48.081458+00:00",
+    "publishedAt": "2026-09-20T13:00:59+00:00"
+  },
+  {
+    "title_org": "Việt Nam - Nhật Bản hợp tác đào tạo nhân lực bán dẫn",
+    "title_vietnamese": "",
+    "summary_org": "Việt Nam và Nhật Bản đang đẩy mạnh hợp tác trong lĩnh vực bán dẫn dựa trên thế mạnh công nghệ của Nhật Bản và nguồn nhân lực trẻ của Việt Nam. Sự kiện này tạo nền tảng vững chắc để mở rộng hợp tác chiến lược về đào tạo nhân lực và sản xuất.",
+    "summary_vietnamese": "",
+    "source": "VnExpress",
+    "url": "https://vnexpress.net/viet-nam-nhat-ban-hop-tac-dao-tao-nhan-luc-ban-dan-5122538.html",
+    "category": "VietNam",
+    "isPolicy": true,
+    "thumbnail": "https://i2-vnexpress.vnecdn.net/2026/09/20/tt-le-xuan-dinh-1789912446-9269-1789913381.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=4UyFs098xTtNmWfzsl7YvA",
+    "author": "Nam Nguyễn",
+    "createdAt": "2026-09-20T15:18:56.673652+00:00",
+    "publishedAt": "2026-09-20T14:10:41+00:00"
   }
 ]
