@@ -1,0 +1,15 @@
+Article: https://semiengineering.com/how-60-ghz-radar-improves-low-power-presence-sensing-in-iot-devices/
+Title: How 60 GHz Radar Improves Low-Power Presence Sensing In IoT Devices
+Summary: <p>Track occupancy and motion continuously without keeping the full sensing and processing chain active.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_276891945-04-26-22-scaled.jpeg?fit=2560%2C1920&ssl=1
+Author: Chris Wengerter
+Published date: Mon, 21 Sep 2026 07:01:47 +0000
+
+Article: https://semiengineering.com/how-robotics-and-intelligent-equipment-control-drive-next-gen-fab-productivity/
+Title: How Robotics And Intelligent Equipment Control Drive Next-Gen Fab Productivity
+Summary: <p>Behind the scenes, advanced equipment control and robotics are enabling higher levels of repeatability, tool uptime, and yield. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Screenshot-2026-09-18-at-3.51.25-PM.png?fit=724%2C590&ssl=1
+Author: Laura Peters
+Published date: Mon, 21 Sep 2026 07:01:36 +0000
+
+Completed! Added a total of 2 new news items to Firebase.

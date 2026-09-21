@@ -3568,5 +3568,33 @@
     "author": "Admin",
     "createdAt": "2026-09-20T18:26:57.678539+00:00",
     "publishedAt": "2026-09-20T17:00:57+00:00"
+  },
+  {
+    "title_org": "How 60 GHz Radar Improves Low-Power Presence Sensing In IoT Devices",
+    "title_vietnamese": "Radar 60 GHz cải thiện khả năng cảm biến hiện diện công suất thấp trong các thiết bị IoT như thế nào",
+    "summary_org": "The article discusses how 60 GHz radar technology enables continuous tracking of occupancy and motion in IoT devices. It achieves this high efficiency without needing to keep the full sensing and processing chain active all the time.",
+    "summary_vietnamese": "Bài viết thảo luận về cách công nghệ radar 60 GHz cho phép theo dõi liên tục sự hiện diện và chuyển động trong các thiết bị IoT. Công nghệ này đạt được hiệu quả cao mà không cần giữ cho toàn bộ chuỗi cảm biến và xử lý hoạt động liên tục.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/how-60-ghz-radar-improves-low-power-presence-sensing-in-iot-devices/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_276891945-04-26-22-scaled.jpeg?fit=2560%2C1920&ssl=1",
+    "author": "Chris Wengerter",
+    "createdAt": "2026-09-21T09:32:07.008562+00:00",
+    "publishedAt": "2026-09-21T07:01:47+00:00"
+  },
+  {
+    "title_org": "How Robotics And Intelligent Equipment Control Drive Next-Gen Fab Productivity",
+    "title_vietnamese": "Robot và hệ thống điều khiển thiết bị thông minh thúc đẩy năng suất nhà máy fab thế hệ mới như thế nào",
+    "summary_org": "Behind the scenes in semiconductor manufacturing, advanced equipment control and robotics are playing a crucial role. These technologies enable higher levels of repeatability, tool uptime, and overall yield in modern fabs.",
+    "summary_vietnamese": "Đằng sau hậu trường sản xuất chất bán dẫn, hệ thống điều khiển thiết bị tiên tiến và công nghệ robot đang đóng vai trò quan trọng. Các công nghệ này giúp nâng cao độ lặp lại, thời gian hoạt động của thiết bị và năng suất tổng thể trong các fab hiện đại.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/how-robotics-and-intelligent-equipment-control-drive-next-gen-fab-productivity/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/09/Screenshot-2026-09-18-at-3.51.25-PM.png?fit=724%2C590&ssl=1",
+    "author": "Laura Peters",
+    "createdAt": "2026-09-21T09:32:12.131188+00:00",
+    "publishedAt": "2026-09-21T07:01:36+00:00"
   }
 ]
