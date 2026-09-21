@@ -3596,5 +3596,61 @@
     "author": "Laura Peters",
     "createdAt": "2026-09-21T09:32:12.131188+00:00",
     "publishedAt": "2026-09-21T07:01:36+00:00"
+  },
+  {
+    "title_org": "Agentic AI Is Reshaping Semiconductor Design",
+    "title_vietnamese": "AI chủ động đang định hình lại thiết kế vi mạch",
+    "summary_org": "Artificial intelligence is rapidly transitioning from an experimental tool to a core component of semiconductor engineering. Industry leaders from ChipAgents and Analog Devices explain that agentic AI will help chipmakers tackle growing design complexity, speed up product development, and enhance overall efficiency.",
+    "summary_vietnamese": "Trí tuệ nhân tạo đang chuyển mình nhanh chóng từ một công nghệ thử nghiệm thành thành phần cốt lõi trong kỹ thuật bán dẫn. Các chuyên gia đầu ngành từ ChipAgents và Analog Devices giải thích rằng AI chủ động sẽ giúp các nhà sản xuất vi mạch giải quyết độ phức tạp ngày càng tăng trong thiết kế, đẩy nhanh quá trình phát triển sản phẩm và nâng cao hiệu quả tổng thể.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/chipagents-ai/373561-agentic-ai-is-reshaping-semiconductor-design/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/ChipAgents-DAC2026-1200x619.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-21T17:43:55.924781+00:00",
+    "publishedAt": "2026-09-21T17:00:10+00:00"
+  },
+  {
+    "title_org": "The Future of CPO May Be a Glass Integration Platform",
+    "title_vietnamese": "Tương lai của CPO có thể là nền tảng tích hợp bằng thủy tinh",
+    "summary_org": "Co-packaged optics is traditionally viewed as a proximity problem, where moving the optical engine closer to the switch ASIC or XPU reduces electrical paths, lowers SerDes power, and increases bandwidth density. However, simply bringing optics closer to compute does not eliminate all integration challenges, pointing towards potential advanced solutions like glass integration platforms.",
+    "summary_vietnamese": "Quang học đóng gói chung (Co-packaged optics) trước đây thường được xem là bài toán khoảng cách, trong đó việc di chuyển động cơ quang học lại gần chip ASIC chuyển mạch hoặc XPU giúp rút ngắn đường dẫn điện, giảm công suất SerDes và tăng mật độ băng thông. Mặc dù vậy, việc đưa quang học lại gần các bộ phận tính toán hơn không thể loại bỏ hoàn toàn các thách thức tích hợp, mở ra hướng đi tiềm năng với các giải pháp tiên tiến như nền tảng tích hợp bằng thủy tinh.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/3dic/373619-the-future-of-cpo-may-be-a-glass-integration-platform/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/CPO_on_a_glass_patfrom-1200x799.jpg",
+    "author": "Moh Kolb",
+    "createdAt": "2026-09-21T17:44:00.325592+00:00",
+    "publishedAt": "2026-09-21T15:00:10+00:00"
+  },
+  {
+    "title_org": "Analog Bits Targets the Power Challenge at the Heart of Next-Generation Chips",
+    "title_vietnamese": "Analog Bits giải quyết bài toán năng lượng cốt lõi trong các con chip thế hệ mới",
+    "summary_org": "Analog Bits is expanding its advanced semiconductor design portfolio with new intellectual property focused on delivering, monitoring, and managing power in complex chips. The company announced that its power-management IP will soon be utilized in an upcoming customer test-chip tapeout.",
+    "summary_vietnamese": "Analog Bits đang mở rộng danh mục thiết kế chất bán dẫn tiên tiến với sở hữu trí tuệ mới tập trung vào việc cung cấp, giám sát và quản lý nguồn điện trong các con chip phức tạp. Công ty thông báo rằng IP quản lý nguồn điện của họ sẽ sớm được đưa vào một đợt tape-out chip thử nghiệm sắp tới của khách hàng.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ip/analog-bits/373744-analog-bits-targets-the-power-challenge-at-the-heart-of-next-generation-chips/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Analog-Bits-Targets-the-Power-Challenge-at-the-Heart-of-Next-Generation-Chips-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-21T17:44:02.923934+00:00",
+    "publishedAt": "2026-09-21T13:00:07+00:00"
+  },
+  {
+    "title_org": "Việt Nam - Nhật Bản tăng cường hợp tác phát triển công nghiệp bán dẫn",
+    "title_vietnamese": "",
+    "summary_org": "Việt Nam và Nhật Bản đẩy mạnh hợp tác trong việc đào tạo nhân lực chất lượng cao, nghiên cứu, chuyển giao công nghệ và phát triển hệ sinh thái công nghiệp bán dẫn. Nội dung này được thảo luận trọng tâm tại Hội thảo Bán dẫn Việt Nam - Nhật Bản lần thứ 2 năm 2026 diễn ra tại Hà Nội, mở ra nhiều cơ hội lớn cho thị trường công nghệ cao hai nước.",
+    "summary_vietnamese": "",
+    "source": "Báo Chính phủ ",
+    "url": "https://baochinhphu.vn/viet-nam-nhat-ban-tang-cuong-hop-tac-phat-trien-cong-nghiep-ban-dan-102260921212150867.htm",
+    "category": "VietNam",
+    "isPolicy": true,
+    "thumbnail": "https://bcp2.cdnchinhphu.vn/zoom/1200_630/334894974524682240/2026/9/21/anh-tap-the-ngay-20-9-1790000328099398651497-0-133-1125-1933-crop-17900003407771653259653.jpg",
+    "author": "Thu Trang",
+    "createdAt": "2026-09-21T17:44:10.097522+00:00",
+    "publishedAt": "2026-09-21T21:38:00+00:00"
   }
 ]

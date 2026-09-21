@@ -1,0 +1,29 @@
+Article: https://semiwiki.com/eda/chipagents-ai/373561-agentic-ai-is-reshaping-semiconductor-design/
+Title: Agentic AI Is Reshaping Semiconductor Design
+Summary: <p class="isSelectedEnd">Artificial intelligence is moving rapidly from an experimental aid to a foundational part of semiconductor engineering. In a recent industry talk, leaders from <a href="htt...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/ChipAgents-DAC2026-1200x619.jpg
+Author: Daniel Nenni
+Published date: Mon, 21 Sep 2026 17:00:10 +0000
+
+Article: https://semiwiki.com/3dic/373619-the-future-of-cpo-may-be-a-glass-integration-platform/
+Title: The Future of CPO May Be a Glass Integration Platform
+Summary: <p>Co-packaged optics is usually described as a proximity problem.</p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/CPO_on_a_glass_patfrom-1200x799.jpg
+Author: Moh Kolb
+Published date: Mon, 21 Sep 2026 15:00:10 +0000
+
+Article: https://semiwiki.com/ip/analog-bits/373744-analog-bits-targets-the-power-challenge-at-the-heart-of-next-generation-chips/
+Title: Analog Bits Targets the Power Challenge at the Heart of Next-Generation Chips
+Summary: <p>Analog Bits is expanding its role in advanced semiconductor design with new intellectual property aimed at one of the industry’s most difficult problems: delivering, monitoring, and managing pow...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Analog-Bits-Targets-the-Power-Challenge-at-the-Heart-of-Next-Generation-Chips-1200x675.jpg
+Author: Daniel Nenni
+Published date: Mon, 21 Sep 2026 13:00:07 +0000
+
+Article: https://baochinhphu.vn/viet-nam-nhat-ban-tang-cuong-hop-tac-phat-trien-cong-nghiep-ban-dan-102260921212150867.htm
+Title: Việt Nam - Nhật Bản tăng cường hợp tác phát triển công nghiệp bán dẫn
+Summary: (Chinhphu.vn) - Việt Nam và Nhật Bản có nhiều dư địa hợp tác trong đào tạo nhân lực, nghiên cứu, chuyển giao công nghệ và phát triển công nghiệp bán dẫn. Đây cũng là những nội dung trọng tâm được t...
+Thumbnail: https://bcp2.cdnchinhphu.vn/zoom/1200_630/334894974524682240/2026/9/21/anh-tap-the-ngay-20-9-1790000328099398651497-0-133-1125-1933-crop-17900003407771653259653.jpg
+Author: Thu Trang
+Published date: Mon, 21 Sep 2026 21:38:00 +0000
+
+Completed! Added a total of 4 new news items to Firebase.
