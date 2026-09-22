@@ -1,0 +1,22 @@
+Article: https://semiengineering.com/from-test-compression-to-hierarchical-connectivity-scaling-soc-test-for-ai-and-hpc-devices/
+Title: From Test Compression To Hierarchical Connectivity: Scaling SoC Test For AI And HPC Devices
+Summary: <p>While compression reduces test data volume, efficient distribution of test data remains equally important. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Synopsys_Test-Compression-Hierarchical-Connectivity-fig1.webp
+Author: Sri Ganta
+Published date: Tue, 22 Sep 2026 07:01:51 +0000
+
+Article: https://semiwiki.com/ip/weebit-nano/373596-weebit-nanos-fy26-esg-performance-technical-progress-and-strategic-importance/
+Title: Weebit Nano’s FY26 ESG Performance: Technical Progress and Strategic Importance
+Summary: <p>Weebit Nano’s FY26 ESG Report shows how sustainability, governance and operational resilience are becoming integrated into the company’s commercialisation of resistive random-access memory (ReRA...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Weebit-Nanos-FY26-ESG-Performance-Technical-Progress-and-Strategic-Importance-1200x675.jpg
+Author: Daniel Nenni
+Published date: Tue, 22 Sep 2026 15:00:41 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/tsmc/371790-comparison-of-tsmc-cowos-s-cowos-r-and-cowos-l/
+Title: Comparison of TSMC CoWoS-S, CoWoS-R, and CoWoS-L
+Summary: <p>Chip-on-Wafer-on-Substrate, commonly called CoWoS, is an advanced packaging platform developed by <a href="https://www.tsmc.com/english/dedicatedFoundry/services/advanced-packaging">TSMC</a>. It...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/TSMC-CoWos-Packaging-Comparison-1200x675.jpg
+Author: Daniel Nenni
+Published date: Tue, 22 Sep 2026 13:00:21 +0000
+
+Completed! Added a total of 0 new news items to Firebase.
