@@ -1,0 +1,8 @@
+Article: https://semiengineering.com/chip-industry-technical-paper-roundup-sept-22/
+Title: Chip Industry Technical Paper Roundup: Sept. 22
+Summary: <p>AI thermal modeling for 2.5D/3D ICs; chiplet and AI accelerator co-design; BEOL thermal conductivity; agentic DRC repair; RL for dense-layout routing;  LLM orchestration for digital EDA; chiplet...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1748350067-08-26-turquoise-chip-scaled.jpeg?fit=2560%2C1440&ssl=1
+Author: Linda Christensen
+Published date: Tue, 22 Sep 2026 07:01:29 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

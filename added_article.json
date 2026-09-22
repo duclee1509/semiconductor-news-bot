@@ -3694,5 +3694,19 @@
     "author": "Technical Paper Link",
     "createdAt": "2026-09-22T02:59:33.202305+00:00",
     "publishedAt": "2026-09-21T22:59:48+00:00"
+  },
+  {
+    "title_org": "Chip Industry Technical Paper Roundup: Sept. 22",
+    "title_vietnamese": "Điểm tin bài báo kỹ thuật ngành công nghiệp vi mạch: Ngày 22 tháng 9",
+    "summary_org": "This article provides a weekly roundup of technical papers focusing on advanced semiconductor technologies. Key topics include AI thermal modeling for 2.5D/3D ICs, chiplet and AI accelerator co-design, agentic DRC repair, and LLM orchestration for digital EDA.",
+    "summary_vietnamese": "Bài viết cung cấp bản tổng hợp hàng tuần về các bài báo kỹ thuật tập trung vào công nghệ bán dẫn tiên tiến. Các chủ đề chính bao gồm mô hình nhiệt AI cho vi mạch 2.5D/3D, đồng thiết kế chiplet và bộ tăng tốc AI, sửa lỗi DRC tự trị, điều phối LLM cho EDA kỹ thuật số.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-22/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1748350067-08-26-turquoise-chip-scaled.jpeg?fit=2560%2C1440&ssl=1",
+    "author": "Linda Christensen",
+    "createdAt": "2026-09-22T08:58:20.633947+00:00",
+    "publishedAt": "2026-09-22T07:01:29+00:00"
   }
 ]
