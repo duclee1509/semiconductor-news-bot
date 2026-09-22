@@ -1,0 +1,57 @@
+Article: https://semiengineering.com/wafer-scale-sub-5nm-channel-monolayer-mos2-transistors-cmu-uf-mit-et-al/
+Title: Wafer-Scale Sub-5nm Channel Monolayer MoS2 Transistors (CMU, UF, MIT et al.)
+Summary: <p>Researchers at Carnegie Mellon University, University of Florida, MIT, Texas A&#38;M University et al. published a technical paper titled “Wafer-scale 2D MoS₂ transistors with sub-5 nm channel l...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_617037143-scaled.jpeg
+Author: Technical Paper Link
+Published date: Tue, 22 Sep 2026 17:51:42 +0000
+
+Article: https://semiengineering.com/designing-multi-kw-power-delivery-for-advanced-3d-chiplet-systems/
+Title: Designing Multi-kW Power Delivery In 3D Heterogeneously Integrated Systems (U. of Minnesota)
+Summary: <p>Researchers at the University of Minnesota published a technical paper titled “Toward Multi-kW Power Delivery Methodologies for Advanced 3D Heterogeneous Integration.” Abstract Excerpt: “Computa...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/06-26-AdobeStock_143980229-scaled.jpeg
+Author: Technical Paper Link
+Published date: Tue, 22 Sep 2026 17:09:41 +0000
+
+Article: https://semiengineering.com/high-intensity-rowhammer-attack-on-gpus-leveraging-non-uniform-hammering-u-of-toronto/
+Title: High-Intensity Rowhammer Attack On GPUs Leveraging Non-uniform Hammering (U. of Toronto)
+Summary: <p>Researchers at the University of Toronto published a technical paper titled “GPUThor: Amplifying Rowhammer Attacks via Non-Uniform Patterns to Exploit ECC-Protected GPUs.” Abstract Excerpt “We p...
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_193815747-lock-mar23-23-scaled.jpeg
+Author: Technical Paper Link
+Published date: Tue, 22 Sep 2026 16:30:25 +0000
+
+Article: https://semiengineering.com/from-test-compression-to-hierarchical-connectivity-scaling-soc-test-for-ai-and-hpc-devices/
+Title: From Test Compression To Hierarchical Connectivity: Scaling SoC Test For AI And HPC Devices
+Summary: <p>While compression reduces test data volume, efficient distribution of test data remains equally important. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Synopsys_Test-Compression-Hierarchical-Connectivity-fig1.webp
+Author: Sri Ganta
+Published date: Tue, 22 Sep 2026 07:01:51 +0000
+
+Article: https://semiwiki.com/artificial-intelligence/373912-beyond-the-accelerator-why-silicon-challengers-must-transition-to-full-system-infrastructure/
+Title: Beyond the Accelerator: Why Silicon Challengers Must Transition to Full-System Infrastructure
+Summary: <p>The recent AI Infra Summit was exceptionally jam-packed, filled to the brim with compelling talks, overlapping tracks, and emerging technologies. Amid the noise of the event, there were many exc...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Image-for-Article-1-SemiWiki-Silicon-to-Systems-1200x627.jpg
+Author: Kalar Rajendiran
+Published date: Tue, 22 Sep 2026 21:00:08 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/373587-the-state-of-the-u-s-semiconductor-manufacturing-workforce-2026-benchmark-report/
+Title: The State of the U.S. Semiconductor Manufacturing Workforce 2026 Benchmark Report
+Summary: <p>America’s semiconductor workforce is entering a decisive growth period, but employment capacity is not yet keeping pace with investment. New fabrication plants, packaging facilities, and supplie...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/The-State-of-the-U.S.-Semiconductor-Manufacturing-Workforce-2026-Benchmark-Report-1200x675.jpg
+Author: Daniel Nenni
+Published date: Tue, 22 Sep 2026 17:00:23 +0000
+
+Article: https://semiwiki.com/ip/weebit-nano/373596-weebit-nanos-fy26-esg-performance-technical-progress-and-strategic-importance/
+Title: Weebit Nano’s FY26 ESG Performance: Technical Progress and Strategic Importance
+Summary: <p>Weebit Nano’s FY26 ESG Report shows how sustainability, governance and operational resilience are becoming integrated into the company’s commercialisation of resistive random-access memory (ReRA...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Weebit-Nanos-FY26-ESG-Performance-Technical-Progress-and-Strategic-Importance-1200x675.jpg
+Author: Daniel Nenni
+Published date: Tue, 22 Sep 2026 15:00:41 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/tsmc/371790-comparison-of-tsmc-cowos-s-cowos-r-and-cowos-l/
+Title: Comparison of TSMC CoWoS-S, CoWoS-R, and CoWoS-L
+Summary: <p>Chip-on-Wafer-on-Substrate, commonly called CoWoS, is an advanced packaging platform developed by <a href="https://www.tsmc.com/english/dedicatedFoundry/services/advanced-packaging">TSMC</a>. It...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/08/TSMC-CoWos-Packaging-Comparison-1200x675.jpg
+Author: Daniel Nenni
+Published date: Tue, 22 Sep 2026 13:00:21 +0000
+
+Completed! Added a total of 8 new news items to Firebase.
