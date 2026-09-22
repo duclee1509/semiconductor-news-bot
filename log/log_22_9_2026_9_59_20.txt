@@ -1,0 +1,22 @@
+Article: https://semiengineering.com/detecting-hardware-trojans-in-synthesized-gate-level-netlists-uw-madison-marist/
+Title: Detecting Hardware Trojans in Synthesized Gate-Level Netlists (UW-Madison, Marist)
+Summary: <p>Researchers at the University of Wisconsin–Madison and Marist University published a technical paper titled “Demystifying Gate-Level Localization of RTL Trojans.” Abstract Excerpt: “In this work...
+Thumbnail: https://semiengineering.com/wp-content/uploads/Security-AdobeStock_328668955-01-29-25-scaled.jpeg
+Author: Technical Paper Link
+Published date: Mon, 21 Sep 2026 23:21:18 +0000
+
+Article: https://semiengineering.com/concurrent-hbm-and-host-memory-access-improves-llm-inference-throughput-georgia-tech-nvidia-stanford/
+Title: Concurrent HBM And Host Memory Access Improves LLM Inference Throughput (Georgia Tech, Nvidia, Stanford)
+Summary: <p>Researchers at Georgia Tech, Nvidia Research, and Stanford University published a technical paper titled “BOOST: Concurrent Access to Host Memory and HBM to Accelerate LLM Inference.” Abstract E...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_536789212-scaled.jpeg
+Author: Technical Paper Link
+Published date: Mon, 21 Sep 2026 23:13:37 +0000
+
+Article: https://semiengineering.com/can-agents-design-better-chips-when-operating-at-a-higher-level-of-abstraction-using-hls-ucla/
+Title: Can Agents Design  Better Chips When Operating At A Higher Level Of Abstraction Using HLS (UCLA)
+Summary: <p>Researchers at UCLA published a technical paper titled “Can Agents Design Better Chips with a Higher Level Abstraction?” Abstract Excerpt: “Large Language Model (LLM) agents are increasingly bei...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1661858452-08-26-scaled.jpeg
+Author: Technical Paper Link
+Published date: Mon, 21 Sep 2026 22:59:48 +0000
+
+Completed! Added a total of 3 new news items to Firebase.

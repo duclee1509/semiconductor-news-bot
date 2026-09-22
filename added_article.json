@@ -3652,5 +3652,47 @@
     "author": "Thu Trang",
     "createdAt": "2026-09-21T17:44:10.097522+00:00",
     "publishedAt": "2026-09-21T21:38:00+00:00"
+  },
+  {
+    "title_org": "Detecting Hardware Trojans in Synthesized Gate-Level Netlists (UW-Madison, Marist)",
+    "title_vietnamese": "Phát hiện mã độc phần cứng (Hardware Trojan) trong Netlist cấp cổng đã tổng hợp (UW-Madison, Marist)",
+    "summary_org": "Researchers from the University of Wisconsin–Madison and Marist University have published a paper titled 'Demystifying Gate-Level Localization of RTL Trojans.' They introduce LoRD, a lightweight heuristic-based approach that detects RTL Trojans by leveraging stable structural and signal-flow patterns post-synthesis, avoiding the need for generic ML feature learning.",
+    "summary_vietnamese": "Các nhà nghiên cứu tại Đại học Wisconsin–Madison và Đại học Marist đã công bố một bài báo kỹ thuật mang tên 'Giải mã nội địa hóa cấp cổng của các Trojan RTL'. Họ đề xuất LoRD, một phương pháp tiếp cận dựa trên heuristic trọng lượng nhẹ, giúp phát hiện các Trojan RTL bằng cách tận dụng các mẫu cấu trúc và luồng tín hiệu ổn định sau khi tổng hợp mà không cần học đặc trưng ML tổng quát.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/detecting-hardware-trojans-in-synthesized-gate-level-netlists-uw-madison-marist/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/Security-AdobeStock_328668955-01-29-25-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-09-22T02:59:24.575086+00:00",
+    "publishedAt": "2026-09-21T23:21:18+00:00"
+  },
+  {
+    "title_org": "Concurrent HBM And Host Memory Access Improves LLM Inference Throughput (Georgia Tech, Nvidia, Stanford)",
+    "title_vietnamese": "Truy cập đồng thời HBM và bộ nhớ máy chủ giúp cải thiện thông lượng suy luận LLM (Georgia Tech, Nvidia, Stanford)",
+    "summary_org": "Researchers from Georgia Tech, Nvidia Research, and Stanford University have introduced BOOST, a novel runtime system. BOOST enables concurrent and proportional access to both HBM and host memory tiers, significantly accelerating Large Language Model (LLM) inference by combining their memory bandwidth.",
+    "summary_vietnamese": "Các nhà nghiên cứu từ Georgia Tech, Nvidia Research và Đại học Stanford đã giới thiệu BOOST, một hệ thống runtime mới. BOOST cho phép truy cập đồng thời và tỷ lệ vào cả các tầng bộ nhớ HBM và bộ nhớ máy chủ, giúp tăng tốc đáng kể quá trình suy luận Mô hình Ngôn ngữ Lớn (LLM) bằng cách kết hợp băng thông bộ nhớ của chúng.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/concurrent-hbm-and-host-memory-access-improves-llm-inference-throughput-georgia-tech-nvidia-stanford/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_536789212-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-09-22T02:59:29.769432+00:00",
+    "publishedAt": "2026-09-21T23:13:37+00:00"
+  },
+  {
+    "title_org": "Can Agents Design  Better Chips When Operating At A Higher Level Of Abstraction Using HLS (UCLA)",
+    "title_vietnamese": "AI Tác Nhân Có Thể Thiết Kế Vi Mạch Tốt Hơn Khi Hoạt Động Ở Mức Trừu Tượng Cao Hơn Bằng Cách Sử Dụng HLS (UCLA)?",
+    "summary_org": "Researchers at UCLA published a paper exploring whether Large Language Model (LLM) agents can design better chips by leveraging higher-level abstractions like HLS instead of operating directly at RTL. The study investigates the potential of improving agent-driven chip design efficiency and performance through elevated abstraction levels.",
+    "summary_vietnamese": "Các nhà nghiên cứu tại UCLA đã công bố một bài báo khám phá liệu các tác nhân Mô hình Ngôn ngữ Lớn (LLM) có thể thiết kế vi mạch tốt hơn bằng cách tận dụng các mức trừu tượng cao hơn như HLS thay vì hoạt động trực tiếp ở cấp độ RTL. Nghiên cứu này khảo sát tiềm năng nâng cao hiệu quả và hiệu suất thiết kế vi mạch do AI điều khiển thông qua các mức trừu tượng cao hơn.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/can-agents-design-better-chips-when-operating-at-a-higher-level-of-abstraction-using-hls-ucla/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1661858452-08-26-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-09-22T02:59:33.202305+00:00",
+    "publishedAt": "2026-09-21T22:59:48+00:00"
   }
 ]
