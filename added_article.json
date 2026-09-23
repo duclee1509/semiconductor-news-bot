@@ -3918,5 +3918,33 @@
     "author": "Lauro Rizzatti",
     "createdAt": "2026-09-23T16:00:19.990797+00:00",
     "publishedAt": "2026-09-23T15:00:50+00:00"
+  },
+  {
+    "title_org": "SEMICON West’s “Bridging design and Manufacturing with AI” Design Session Explores AI as Practical Lever Across Entire Lifecycle",
+    "title_vietnamese": "Phiên thảo luận thiết kế \"Kết nối thiết kế và sản xuất bằng AI\" tại SEMICON West khám phá AI như một đòn bẩy thực tế xuyên suốt vòng đời vi mạch",
+    "summary_org": "The article announces the upcoming 'Bridging Design and Manufacturing with AI' design session at SEMICON West 2026, scheduled for October 13 at the Moscone Center in San Francisco. Organized by the Electronic System Design Alliance, the full-day session will explore artificial intelligence as a practical lever across the entire semiconductor lifecycle.",
+    "summary_vietnamese": "Bài viết thông báo về phiên thảo luận thiết kế \"Kết nối thiết kế và sản xuất bằng AI\" tại sự kiện SEMICON West 2026, diễn ra vào ngày 13 tháng 10 tại Trung tâm Hội nghị Moscone ở San Francisco. Do Liên minh Thiết kế Hệ thống Điện tử tổ chức, phiên họp kéo dài cả ngày này sẽ khám phá trí tuệ nhân tạo như một đòn bẩy thực tế xuyên suốt toàn bộ vòng đời bán dẫn.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-services/esd-alliance/373830-semicon-wests-bridging-design-and-manufacturing-with-ai-design-session-explores-ai-as-practical-lever-across-entire-lifecycle/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Bridging-sign-and-Manufacturing-with-AI.jpg",
+    "author": "Admin",
+    "createdAt": "2026-09-23T19:34:08.162288+00:00",
+    "publishedAt": "2026-09-23T17:00:11+00:00"
+  },
+  {
+    "title_org": "Why ASML Is Racing to Build 110 EUV Machines",
+    "title_vietnamese": "Lý do ASML đang chạy đua sản xuất 110 máy EUV",
+    "summary_org": "ASML is exploring ways to produce over 110 extreme ultraviolet (EUV) lithography machines by 2028, driven by massive investments in artificial intelligence infrastructure. The company plans to manufacture at least 80 EUV systems in 2027 and is currently evaluating further production increases to meet this surging demand.",
+    "summary_vietnamese": "ASML đang nghiên cứu cách sản xuất hơn 110 máy quang khắc cực tím sâu (EUV) vào năm 2028, được thúc đẩy bởi các khoản đầu tư lớn vào cơ sở hạ tầng trí tuệ nhân tạo. Công ty có kế hoạch chế tạo ít nhất 80 hệ thống EUV vào năm 2027 và đang đánh giá khả năng tiếp tục gia tăng sản lượng để đáp ứng nhu cầu bùng nổ này.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/lithography/373646-why-asml-is-racing-to-build-110-euv-machines/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Why-ASML-Is-Racing-to-Build-110-EUV-Machines-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-23T19:34:12.547073+00:00",
+    "publishedAt": "2026-09-23T13:00:20+00:00"
   }
 ]

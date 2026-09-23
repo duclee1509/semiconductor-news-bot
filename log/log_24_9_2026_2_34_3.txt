@@ -1,0 +1,15 @@
+Article: https://semiwiki.com/semiconductor-services/esd-alliance/373830-semicon-wests-bridging-design-and-manufacturing-with-ai-design-session-explores-ai-as-practical-lever-across-entire-lifecycle/
+Title: SEMICON West’s “Bridging design and Manufacturing with AI” Design Session Explores AI as Practical Lever Across Entire Lifecycle
+Summary: <h4><em>By Julie Rogers, Executive Director, <a href="https://www.semi.org/en/communities/esda">Electronic System Design Alliance</a></em></h4>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Bridging-sign-and-Manufacturing-with-AI.jpg
+Author: Admin
+Published date: Wed, 23 Sep 2026 17:00:11 +0000
+
+Article: https://semiwiki.com/lithography/373646-why-asml-is-racing-to-build-110-euv-machines/
+Title: Why ASML Is Racing to Build 110 EUV Machines
+Summary: <p>ASML is exploring how to produce more than 110 extreme ultraviolet lithography machines in 2028, reflecting the extraordinary investment flowing into artificial intelligence infrastructure. The ...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Why-ASML-Is-Racing-to-Build-110-EUV-Machines-1200x675.jpg
+Author: Daniel Nenni
+Published date: Wed, 23 Sep 2026 13:00:20 +0000
+
+Completed! Added a total of 2 new news items to Firebase.
