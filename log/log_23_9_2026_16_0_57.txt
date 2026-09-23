@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/five-signals-from-the-2026-functional-verification-study/
+Title: Five Signals From The 2026 Functional Verification Study
+Summary: <p>Functional verification is no longer only about closing the design. It is increasingly about understanding the system before silicon becomes the first place where all interactions are fully reve...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Screenshot-2026-09-21-at-12.49.40-PM.png
+Author: Siemens EDA
+Published date: Wed, 23 Sep 2026 07:06:49 +0000
+
+Article: https://semiengineering.com/build-secure-socs-from-the-start/
+Title: Build Secure SoCs From The Start
+Summary: <p>Practical guide to hardware security assurance in modern semiconductor design.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_716241307-security-scaled.jpeg?fit=2560%2C1280&ssl=1
+Author: Arteris
+Published date: Wed, 23 Sep 2026 07:01:52 +0000
+
+Article: https://semiengineering.com/multi-agent-ai-systems-must-work-like-an-orchestra-without-a-conductor/
+Title: Multi-Agent AI Systems Must Work Like An Orchestra Without A Conductor
+Summary: <p>A mixture of expert agentic AI systems can focus on their tasks with or without a commanding general, but challenges remain in drawing boundaries between human and AI effort. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_205182431-08-26-Quantum-scaled.jpeg?fit=2560%2C1575&ssl=1
+Author: Liz Allan
+Published date: Wed, 23 Sep 2026 07:01:47 +0000
+
+Article: https://semiengineering.com/building-a-connected-contextual-data-backbone-for-ai-driven-semiconductor-design/
+Title: Building A Connected, Contextual Data Backbone For AI-Driven Semiconductor Design
+Summary: <p>Why design teams must organize before they optimize and how to utilize a purpose-built foundation for AI-ready data management across the chip design lifecycle. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1661858452-08-26-scaled.jpeg?fit=2560%2C1280&ssl=1
+Author: Keysight
+Published date: Wed, 23 Sep 2026 07:01:44 +0000
+
+Article: https://semiengineering.com/make-your-interface-work-for-your-ai-soc-a-10-step-program-verification-with-simulation/
+Title: Make Your Interface Work For Your AI  SoC—A 10 Step Program: Verification With Simulation
+Summary: <p>Best practices for reducing integration risk, shortening verification schedules, and improving productivity when deploying third-party interface IP in AI and heterogeneous SoC architectures.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2025/10/AdobeStock_621801039-10-7-25-scaled.jpeg?fit=2560%2C1435&ssl=1
+Author: Synopsys
+Published date: Wed, 23 Sep 2026 07:01:33 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
