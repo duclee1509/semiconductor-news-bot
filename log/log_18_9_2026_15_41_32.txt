@@ -1,8 +1,0 @@
-Article: https://semiengineering.com/chip-industry-week-in-review-156/
-Title: Chip Industry Week In Review
-Summary: <p>Major memory deal; AI Infra Summit news; U.S. chip capacity plans; 2nm &#038; below advances; Huawei's chip offensive; RoT solution for data centers and AI SoCs; Chinese equipment makers gain sh...
-Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_461734705-wafers-10-3-22.jpeg?fit=1200%2C900&ssl=1
-Author: The SE Staff
-Published date: Fri, 18 Sep 2026 07:01:07 +0000
-
-Completed! Added a total of 1 new news items to Firebase.

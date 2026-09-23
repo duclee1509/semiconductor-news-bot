@@ -3946,5 +3946,33 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-09-23T19:34:12.547073+00:00",
     "publishedAt": "2026-09-23T13:00:20+00:00"
+  },
+  {
+    "title_org": "The Intelligence Revolution: TSMC’s OIP Ecosystem Forges the Path to Trillion-Transistor AI Systems",
+    "title_vietnamese": "Cuộc cách mạng trí tuệ: Hệ sinh thái OIP của TSMC mở đường cho các hệ thống AI nghìn tỷ bóng bán dẫn",
+    "summary_org": "At the 2026 OIP Ecosystem Forum, TSMC highlighted the transition to the 'Intelligence Revolution,' focusing on scaling towards trillion-transistor AI systems. Ahead of the event, an exclusive briefing with Aveek Sarkar, Director of the Ecosystem and Alliance Management Division at TSMC, provided deeper insights into these advanced ecosystem strategies.",
+    "summary_vietnamese": "Tại Diễn đàn Hệ sinh thái OIP 2026, TSMC đã nhấn mạnh sự chuyển dịch sang 'Cuộc cách mạng trí tuệ', tập trung mở rộng quy mô hướng tới các hệ thống AI nghìn tỷ bóng bán dẫn. Trước sự kiện này, buổi trao đổi độc quyền với ông Aveek Sarkar, Giám đốc Bộ phận Quản lý Hệ sinh thái và Liên minh tại TSMC, đã mang lại cái nhìn sâu sắc hơn về các chiến lược hệ sinh thái tiên tiến này.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/artificial-intelligence/373920-the-intelligence-revolution-tsmcs-oip-ecosystem-forges-the-path-to-trillion-transistor-ai-systems/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Broadest-Portfolio-of-Silicon-Validated-IP-1200x750.jpg",
+    "author": "Kalar Rajendiran",
+    "createdAt": "2026-09-23T22:38:12.047925+00:00",
+    "publishedAt": "2026-09-23T21:00:19+00:00"
+  },
+  {
+    "title_org": "Cơn khát nhân lực ngành chip tại Mỹ",
+    "title_vietnamese": "",
+    "summary_org": "Trong bối cảnh chạy đua sản xuất chip để đáp ứng nhu cầu AI bùng nổ, ngành công nghiệp bán dẫn tại Mỹ đang đối mặt với nguy cơ phải giảm tốc. Thách thức lớn nhất hiện nay là tình trạng thiếu hụt nghiêm trọng nguồn nhân lực chất lượng cao.",
+    "summary_vietnamese": "",
+    "source": "VnExpress",
+    "url": "https://vnexpress.net/con-khat-nhan-luc-nganh-chip-tai-my-5123092.html",
+    "category": "VietNam",
+    "isPolicy": false,
+    "thumbnail": "https://i2-vnexpress.vnecdn.net/2026/09/22/4ezrctk8yypbygdoere4cc192080jp-9346-2923-1790018516.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=qa-Qz5GWfjW__Oe7JUsqyA",
+    "author": "Thu Thảo",
+    "createdAt": "2026-09-23T22:38:27.347467+00:00",
+    "publishedAt": "2026-09-23T22:00:00+00:00"
   }
 ]

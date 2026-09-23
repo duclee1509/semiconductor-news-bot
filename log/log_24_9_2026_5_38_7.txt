@@ -1,0 +1,15 @@
+Article: https://semiwiki.com/artificial-intelligence/373920-the-intelligence-revolution-tsmcs-oip-ecosystem-forges-the-path-to-trillion-transistor-ai-systems/
+Title: The Intelligence Revolution: TSMC’s OIP Ecosystem Forges the Path to Trillion-Transistor AI Systems
+Summary: <p>At the 2026 OIP Ecosystem Forum, the industry narrative shifted from incremental scaling to what TSMC defines as the &#8220;Intelligence Revolution.&#8221; I had a briefing with <strong>Aveek Sa...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Broadest-Portfolio-of-Silicon-Validated-IP-1200x750.jpg
+Author: Kalar Rajendiran
+Published date: Wed, 23 Sep 2026 21:00:19 +0000
+
+Article: https://vnexpress.net/con-khat-nhan-luc-nganh-chip-tai-my-5123092.html
+Title: Cơn khát nhân lực ngành chip tại Mỹ
+Summary: Trong cuộc chạy đua sản xuất chip nhằm đáp ứng nhu cầu AI, Mỹ vấp phải thách thức lớn có thể buộc họ giảm tốc - thiếu nhân lực.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/09/22/4ezrctk8yypbygdoere4cc192080jp-9346-2923-1790018516.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=qa-Qz5GWfjW__Oe7JUsqyA
+Author: Thu Thảo
+Published date: Wed, 23 Sep 2026 22:00:00 +0000
+
+Completed! Added a total of 2 new news items to Firebase.
