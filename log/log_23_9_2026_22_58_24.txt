@@ -1,0 +1,22 @@
+Article: https://spectrum.ieee.org/ultrafast-lasers-europe
+Title: EU Tech Push Boosts Ultrafast Laser Startups
+Summary: <img src="https://spectrum.ieee.org/media-library/a-middle-aged-man-in-a-cleanroom-suit-posing-next-to-a-robotic-arm-with-a-laser-attachment.jpg?id=67811594&amp;width=1245&amp;height=700&amp;coordi...
+Thumbnail: https://spectrum.ieee.org/media-library/a-middle-aged-man-in-a-cleanroom-suit-posing-next-to-a-robotic-arm-with-a-laser-attachment.jpg?id=67811594&width=1200&height=600&coordinates=0%2C304%2C0%2C946
+Author: Rachel Berkowitz
+Published date: Wed, 23 Sep 2026 13:00:04 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/vsora/373731-silicon-valley-a-la-francaise-one-year-on/
+Title: Silicon Valley, à la Française – One Year On
+Summary: <h6><em>One Year Later — September 2026</em></h6>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/image003-1.jpg
+Author: Lauro Rizzatti
+Published date: Wed, 23 Sep 2026 15:00:50 +0000
+
+Article: https://semiwiki.com/lithography/373646-why-asml-is-racing-to-build-110-euv-machines/
+Title: Why ASML Is Racing to Build 110 EUV Machines
+Summary: <p>ASML is exploring how to produce more than 110 extreme ultraviolet lithography machines in 2028, reflecting the extraordinary investment flowing into artificial intelligence infrastructure. The ...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Why-ASML-Is-Racing-to-Build-110-EUV-Machines-1200x675.jpg
+Author: Daniel Nenni
+Published date: Wed, 23 Sep 2026 13:00:20 +0000
+
+Completed! Added a total of 2 new news items to Firebase.

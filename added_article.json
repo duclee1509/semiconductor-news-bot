@@ -3890,5 +3890,33 @@
     "author": "Synopsys",
     "createdAt": "2026-09-23T09:01:18.548142+00:00",
     "publishedAt": "2026-09-23T07:01:33+00:00"
+  },
+  {
+    "title_org": "EU Tech Push Boosts Ultrafast Laser Startups",
+    "title_vietnamese": "Sự thúc đẩy công nghệ của EU tạo lực đẩy cho các startup laser siêu nhanh",
+    "summary_org": "European startups specializing in ultrafast lasers are experiencing a surge in growth and funding, driven by the EU's push for technological sovereignty and upcoming initiatives like Chips Act 2.0. Companies like Litlit, RayVen Laser, and Menhir Photonics are scaling up production facilities to meet rising demands in advanced chip manufacturing, 3D packaging, and telecom infrastructure.",
+    "summary_vietnamese": "Các startup châu Âu chuyên về laser siêu nhanh đang chứng kiến sự bùng nổ về tăng trưởng và nguồn vốn, nhờ vào nỗ lực thúc đẩy tự chủ công nghệ của EU và các sáng kiến sắp tới như Chips Act 2.0. Các công ty như Litlit, RayVen Laser và Menhir Photonics đang mở rộng quy mô cơ sở sản xuất để đáp ứng nhu cầu ngày càng tăng trong lĩnh vực sản xuất chip tiên tiến, advanced packaging và cơ sở hạ tầng viễn thông.",
+    "source": "IEEE Spectrum - Semiconductors",
+    "url": "https://spectrum.ieee.org/ultrafast-lasers-europe",
+    "category": "International",
+    "isPolicy": true,
+    "thumbnail": "https://spectrum.ieee.org/media-library/a-middle-aged-man-in-a-cleanroom-suit-posing-next-to-a-robotic-arm-with-a-laser-attachment.jpg?id=67811594&width=1200&height=600&coordinates=0%2C304%2C0%2C946",
+    "author": "Rachel Berkowitz",
+    "createdAt": "2026-09-23T15:58:54.995274+00:00",
+    "publishedAt": "2026-09-23T13:00:04+00:00"
+  },
+  {
+    "title_org": "Silicon Valley, à la Française – One Year On",
+    "title_vietnamese": "Thung lũng Silicon theo phong cách Pháp – Một năm nhìn lại",
+    "summary_org": "One year after its initial publication, VSORA has proven its bold architecture as a quiet outsider making significant strides. In January 2026, the company welcomed former Altera CEO and long-time Intel veteran Sandra Rivera, validating its growth trajectory and industry thesis.",
+    "summary_vietnamese": "Một năm sau khi bài viết được đăng tải lần đầu, VSORA đã chứng minh kiến trúc táo bạo của mình dù là một cái tên lặng lẽ vươn lên. Vào tháng 1 năm 2026, công ty đã chào đón cựu CEO Altera và người có thâm niên lâu năm tại Intel là Sandra Rivera, qua đó củng cố thêm quỹ đạo tăng trưởng và nhận định về tiềm năng của hãng.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/vsora/373731-silicon-valley-a-la-francaise-one-year-on/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/image003-1.jpg",
+    "author": "Lauro Rizzatti",
+    "createdAt": "2026-09-23T16:00:19.990797+00:00",
+    "publishedAt": "2026-09-23T15:00:50+00:00"
   }
 ]
