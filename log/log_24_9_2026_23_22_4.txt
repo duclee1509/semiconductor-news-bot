@@ -1,0 +1,15 @@
+Article: https://semiwiki.com/eda/siemens-eda/373816-from-custom-silicon-to-ai-systems-why-cross-layer-engineering-matters/
+Title: From Custom Silicon to AI Systems: Why Cross-Layer Engineering Matters
+Summary: <p>The central argument of Ankur Gupta’s AI Infra Summit keynote is simple but consequential: the next leap in AI infrastructure will not come from improving chips, servers, cooling systems, or dat...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/From-Custom-Silicon-to-AI-Systems-Why-Cross-Layer-Engineering-Matters-1200x574.jpg
+Author: Daniel Nenni
+Published date: Thu, 24 Sep 2026 15:00:30 +0000
+
+Article: https://semiwiki.com/ip/silicon-creations/373637-silicon-creations-15-years-of-learning-designing-and-growing-together/
+Title: Silicon Creations: 15 Years of Learning, Designing and Growing Together
+Summary: <p>When I interviewed with Silicon Creations 15 years ago, I met directly with the company’s two founders, Jeff Galloway and Randy Caplan. I joined in 2011 as a circuit designer, and the three of u...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Silicon-Creations-CC-interview-901x1200.png
+Author: Daniel Nenni
+Published date: Thu, 24 Sep 2026 13:00:14 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

@@ -4044,5 +4044,19 @@
     "author": "Fahad Usmani",
     "createdAt": "2026-09-24T08:57:25.370399+00:00",
     "publishedAt": "2026-09-24T07:02:21+00:00"
+  },
+  {
+    "title_org": "From Custom Silicon to AI Systems: Why Cross-Layer Engineering Matters",
+    "title_vietnamese": "Từ Vi mạch Tùy chỉnh đến Hệ thống AI: Lý do Kỹ thuật Đa tầng đóng vai trò Then chốt",
+    "summary_org": "Ankur Gupta's keynote at the AI Infra Summit emphasizes that the next major breakthrough in AI infrastructure relies on optimizing the interconnectivity between chips, servers, cooling systems, and data centers rather than improving them in isolation. Siemens refers to this holistic approach as the journey from custom silicon to comprehensive AI systems through cross-layer engineering.",
+    "summary_vietnamese": "Bài phát biểu của Ankur Gupta tại hội nghị AI Infra Summit nhấn mạnh rằng bước đột phá lớn tiếp theo trong hạ tầng AI phụ thuộc vào việc tối ưu hóa khả năng kết nối giữa chip, máy chủ, hệ thống làm mát và trung tâm dữ liệu thay vì cải tiến chúng một cách riêng lẻ. Siemens gọi cách tiếp cận toàn diện này là hành trình từ vi mạch tùy chỉnh đến hệ thống AI tổng thể thông qua kỹ thuật đa tầng.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/siemens-eda/373816-from-custom-silicon-to-ai-systems-why-cross-layer-engineering-matters/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/From-Custom-Silicon-to-AI-Systems-Why-Cross-Layer-Engineering-Matters-1200x574.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-24T16:22:35.554924+00:00",
+    "publishedAt": "2026-09-24T15:00:30+00:00"
   }
 ]
