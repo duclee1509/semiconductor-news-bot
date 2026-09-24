@@ -4058,5 +4058,47 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-09-24T16:22:35.554924+00:00",
     "publishedAt": "2026-09-24T15:00:30+00:00"
+  },
+  {
+    "title_org": "Tokens Per Watt Over Peak Performance: Retrofitting Heterogeneous Silicon for Production Inference",
+    "title_vietnamese": "Hiệu suất trên mỗi Watt quan trọng hơn Hiệu suất đỉnh: Tái trang bị Silicon dị thể cho suy luận thương mại",
+    "summary_org": "This article is Part 2 of an editorial series exploring the changing economics of AI inference. It discusses the necessity of focusing on energy efficiency, specifically tokens per watt, and the retrofitting of heterogeneous silicon for production inference workloads.",
+    "summary_vietnamese": "Bài viết này là Phần 2 trong chuỗi bài xã luận khám phá sự thay đổi về kinh tế học của suy luận AI. Nội dung thảo luận về sự cần thiết phải tập trung vào hiệu quả sử dụng năng lượng, cụ thể là tokens trên mỗi watt, và việc tái trang bị silicon dị thể cho các tác vụ suy luận thương mại.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/artificial-intelligence/373916-tokens-per-watt-over-peak-performance-retrofitting-heterogeneous-silicon-for-production-inference/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Image-for-Article-2-SemiWiki-Tokens-per-Watt-or-per-Dollar-1200x633.jpg",
+    "author": "Kalar Rajendiran",
+    "createdAt": "2026-09-24T22:57:30.753518+00:00",
+    "publishedAt": "2026-09-24T21:00:51+00:00"
+  },
+  {
+    "title_org": "S2C Prodigy Complete Prototyping Solutions—and Why They Matter",
+    "title_vietnamese": "Giải pháp tạo mẫu hoàn chỉnh S2C Prodigy và tầm quan trọng của chúng",
+    "summary_org": "Modern SoC and ASIC designs have grown extraordinarily complex, incorporating billions of logic gates, processors, and high-speed interfaces. Verifying these massive systems entirely through traditional methods is extremely difficult, making advanced prototyping solutions essential. S2C Prodigy complete prototyping solutions provide critical capabilities to address these modern verification challenges.",
+    "summary_vietnamese": "Các thiết kế SoC và ASIC hiện đại đã trở nên cực kỳ phức tạp, tích hợp hàng tỷ cổng logic, bộ xử lý và giao diện tốc độ cao. Việc xác minh các hệ thống lớn này hoàn toàn bằng phương pháp truyền thống là vô cùng khó khăn, khiến các giải pháp tạo mẫu tiên tiến trở nên thiết yếu. Các giải pháp tạo mẫu hoàn chỉnh S2C Prodigy cung cấp các khả năng quan trọng để giải quyết những thách thức xác minh hiện đại này.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/prototyping/s2c-eda/373633-s2c-prodigy-complete-prototyping-solutions-and-why-they-matter/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/S2C-Prodigy-Complete-Prototyping-Solutions—and-Why-They-Matter-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-24T22:57:37.381201+00:00",
+    "publishedAt": "2026-09-24T17:00:06+00:00"
+  },
+  {
+    "title_org": "Silicon Creations: 15 Years of Learning, Designing and Growing Together",
+    "title_vietnamese": "Silicon Creations: 15 năm cùng nhau học hỏi, thiết kế và phát triển",
+    "summary_org": "Silicon Creations is celebrating 15 years of operation since its early days as a three-person team founded by Jeff Galloway and Randy Caplan. Since joining in 2011, the author has witnessed the company expand to nearly 200 employees across multiple locations, now serving approximately 600 customers.",
+    "summary_vietnamese": "Silicon Creations đang kỷ niệm 15 năm hoạt động kể từ những ngày đầu chỉ là một đội ngũ ba người do Jeff Galloway và Randy Caplan sáng lập. Kể từ khi gia nhập vào năm 2011, tác giả đã chứng kiến công ty mở rộng quy mô lên gần 200 nhân viên tại nhiều địa điểm và hiện đang phục vụ khoảng 600 khách hàng.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ip/silicon-creations/373637-silicon-creations-15-years-of-learning-designing-and-growing-together/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Silicon-Creations-CC-interview-901x1200.png",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-24T22:57:39.903981+00:00",
+    "publishedAt": "2026-09-24T13:00:14+00:00"
   }
 ]

@@ -1,0 +1,22 @@
+Article: https://semiwiki.com/artificial-intelligence/373916-tokens-per-watt-over-peak-performance-retrofitting-heterogeneous-silicon-for-production-inference/
+Title: Tokens Per Watt Over Peak Performance: Retrofitting Heterogeneous Silicon for Production Inference
+Summary: <p>👉 <em>This is Part 2 of an editorial series on the evolving economics of AI inference. If you missed Part 1, where I broke down the shift toward full-system integration, the lessons from the AI ...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Image-for-Article-2-SemiWiki-Tokens-per-Watt-or-per-Dollar-1200x633.jpg
+Author: Kalar Rajendiran
+Published date: Thu, 24 Sep 2026 21:00:51 +0000
+
+Article: https://semiwiki.com/prototyping/s2c-eda/373633-s2c-prodigy-complete-prototyping-solutions-and-why-they-matter/
+Title: S2C Prodigy Complete Prototyping Solutions—and Why They Matter
+Summary: <p class="isSelectedEnd">Modern system-on-chip (SoC) and application-specific integrated circuit (ASIC) designs are extraordinarily complex. They may combine processors, accelerators, memory contro...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/S2C-Prodigy-Complete-Prototyping-Solutions—and-Why-They-Matter-1200x675.jpg
+Author: Daniel Nenni
+Published date: Thu, 24 Sep 2026 17:00:06 +0000
+
+Article: https://semiwiki.com/ip/silicon-creations/373637-silicon-creations-15-years-of-learning-designing-and-growing-together/
+Title: Silicon Creations: 15 Years of Learning, Designing and Growing Together
+Summary: <p>When I interviewed with Silicon Creations 15 years ago, I met directly with the company’s two founders, Jeff Galloway and Randy Caplan. I joined in 2011 as a circuit designer, and the three of u...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Silicon-Creations-CC-interview-901x1200.png
+Author: Daniel Nenni
+Published date: Thu, 24 Sep 2026 13:00:14 +0000
+
+Completed! Added a total of 3 new news items to Firebase.
