@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/a-network-on-chip-noc-for-multi-die-devices/
+Title: A Network-on-Chip (NoC) For Multi-Die Devices
+Summary: <p>Transporting the native packetized traffic of the NoC directly across die boundaries using a stable, invariant interface.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Arteris_NoC-for-Multi-Die-Devices-fig1-scaled.webp?fit=2560%2C1273&ssl=1
+Author: Ashley Stevens
+Published date: Thu, 24 Sep 2026 07:07:06 +0000
+
+Article: https://semiengineering.com/managing-3d-ic-design-and-ip/
+Title: Managing 3D-IC Design And IP
+Summary: <p>Design data management, traceability, and revision control are critical for multi-chiplet heterogeneous integration.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Siemens_Managing-3D-IC-Design-and-IP-fig1.webp?fit=1919%2C1082&ssl=1
+Author: Keith Felton
+Published date: Thu, 24 Sep 2026 07:05:05 +0000
+
+Article: https://semiengineering.com/when-ai-agents-cross-chip-design-silos/
+Title: When AI Agents Cross Chip Design Silos
+Summary: <p>Specialization and orchestration are becoming more important as the role of AI agents in chip design widens, but coordination, control, and trust remain challenging</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/wafer-06-26-AdobeStock_414995950-scaled.jpeg?fit=2560%2C1440&ssl=1
+Author: Ed Sperling
+Published date: Thu, 24 Sep 2026 07:03:42 +0000
+
+Article: https://semiengineering.com/edas-future-is-evidence-driven-automation/
+Title: EDA’s Future Is Evidence-Driven Automation
+Summary: <p>AI may accelerate semiconductor design, but users still need formal proof, semantic continuity, and auditable workflows to trust automation. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1661858452-08-26-scaled.jpeg?fit=2560%2C1280&ssl=1
+Author: Ann Steffora Mutschler
+Published date: Thu, 24 Sep 2026 07:02:50 +0000
+
+Article: https://semiengineering.com/ai-driven-device-modeling-for-next-generation-quantum-applications/
+Title: AI-Driven Device Modeling For Next Generation Quantum Applications
+Summary: <p>Extracting advanced compact models and overcoming their shortcomings using a hybrid ANN approach at cryogenic temperatures.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Keysight_AI-Device-Modeling-Next-Gen-Quantum-fig2.webp?fit=778%2C534&ssl=1
+Author: Fahad Usmani
+Published date: Thu, 24 Sep 2026 07:02:21 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
