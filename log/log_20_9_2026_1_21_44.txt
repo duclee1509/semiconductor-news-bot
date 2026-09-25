@@ -1,8 +1,0 @@
-Article: https://vnexpress.net/trung-quoc-dat-buoc-tien-ve-chip-3-nm-5122223.html
-Title: Trung Quốc đạt bước tiến về chip 3 nm
-Summary: Các nhà nghiên cứu Trung Quốc đạt bước tiến ban đầu về kiến trúc quan trọng cho chip dưới 3 nanomet sử dụng công nghệ quang khắc DUV thế hệ cũ.
-Thumbnail: https://i2-vnexpress.vnecdn.net/2026/09/19/b241f12836e347f3aba3511ed2ebfb-5163-8268-1789798227.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=cZdbkGvGDQLFBEGaENP0JA
-Author: Nam Nguyễn
-Published date: Sat, 19 Sep 2026 17:00:00 +0000
-
-Completed! Added a total of 1 new news items to Firebase.

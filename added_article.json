@@ -4114,5 +4114,47 @@
     "author": "The SE Staff",
     "createdAt": "2026-09-25T09:18:31.162287+00:00",
     "publishedAt": "2026-09-25T07:01:42+00:00"
+  },
+  {
+    "title_org": "Designing chips for the AI era: what TSMC’s roadmap means",
+    "title_vietnamese": "Thiết kế vi mạch cho kỷ nguyên AI: Lộ trình của TSMC mang ý nghĩa gì",
+    "summary_org": "The article discusses the historical context of TSMC's Open Innovation Platform (OIP) and introduces how artificial intelligence is driving new requirements for semiconductor design and manufacturing roadmaps. It highlights leadership roles within TSMC's Design and Technology Platform in facilitating advanced EDA and IP collaboration.",
+    "summary_vietnamese": "Bài viết thảo luận về bối cảnh lịch sử của Nền tảng Đổi mới Mở (OIP) tại TSMC và giới thiệu cách trí tuệ nhân tạo đang thúc đẩy các yêu cầu mới đối với thiết kế vi mạch cũng như lộ trình sản xuất. Bài viết cũng nhấn mạnh vai trò lãnh đạo trong Nền tảng Thiết kế và Công nghệ của TSMC nhằm thúc đẩy sự hợp tác tiên tiến về EDA và IP.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/tsmc/373986-designing-chips-for-the-ai-era-what-tsmcs-roadmap-means/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/TSMC-LC-Lu-OIP-Event-1200x800.jpeg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-25T16:22:28.782104+00:00",
+    "publishedAt": "2026-09-25T15:00:12+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Sunghyun Park of Rebellions",
+    "title_vietnamese": "Phỏng vấn CEO Sunghyun Park của Rebellions",
+    "summary_org": "Dr. Sunghyun Park brings a unique background in semiconductor design and finance, having worked at Intel, Samsung, SpaceX, and Morgan Stanley. This interview explores his journey and leadership as the CEO of Rebellions.",
+    "summary_vietnamese": "Tiến sĩ Sunghyun Park sở hữu nền tảng độc đáo về thiết kế vi mạch và tài chính, từng làm việc tại Intel, Samsung, SpaceX và Morgan Stanley. Bài phỏng vấn này khám phá hành trình sự nghiệp và vai trò lãnh đạo của ông với tư cách là CEO của Rebellions.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/373808-ceo-interview-with-sunghyun-park-of-rebellions/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/PSH_02-800x1200.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-25T16:22:32.976675+00:00",
+    "publishedAt": "2026-09-25T13:00:30+00:00"
+  },
+  {
+    "title_org": "Singapore đặt tham vọng trở thành cường quốc ngành công nghiệp bán dẫn toàn cầu",
+    "title_vietnamese": "",
+    "summary_org": "Singapore đang đặt tham vọng lớn để trở thành cường quốc trong ngành công nghiệp bán dẫn toàn cầu. Mặc dù diện tích khiêm tốn và thiếu tài nguyên, quốc gia này hiện chiếm khoảng 1/10 sản lượng chip và 1/5 tổng thiết bị sản xuất bán dẫn trên toàn thế giới, đóng vai trò trọng yếu trong chuỗi cung ứng vi mạch.",
+    "summary_vietnamese": "",
+    "source": "Báo Tuổi Trẻ",
+    "url": "https://tuoitre.vn/singapore-dat-tham-vong-tro-thanh-cuong-quoc-nganh-cong-nghiep-ban-dan-toan-cau-100260925162435135.htm",
+    "category": "VietNam",
+    "isPolicy": false,
+    "thumbnail": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/9/25/ban-dan-1790327825801890737422-685-442-1353-1719-crop-17903293500511621015502.jpg",
+    "author": "Ngọc Hiển",
+    "createdAt": "2026-09-25T16:22:46.445815+00:00",
+    "publishedAt": "2026-09-25T16:40:00+00:00"
   }
 ]

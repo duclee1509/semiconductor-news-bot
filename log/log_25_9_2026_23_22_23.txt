@@ -1,0 +1,22 @@
+Article: https://semiwiki.com/semiconductor-manufacturers/tsmc/373986-designing-chips-for-the-ai-era-what-tsmcs-roadmap-means/
+Title: Designing chips for the AI era: what TSMC’s roadmap means
+Summary: <p>About twenty years ago I worked with Cliff Hou, LC Lu, and the TSMC PDK team on reference flows with emerging EDA and IP companies. This was the precursor to the OIP. Having a person with LC Lu&...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/TSMC-LC-Lu-OIP-Event-1200x800.jpeg
+Author: Daniel Nenni
+Published date: Fri, 25 Sep 2026 15:00:12 +0000
+
+Article: https://semiwiki.com/ceo-interviews/373808-ceo-interview-with-sunghyun-park-of-rebellions/
+Title: CEO Interview with Sunghyun Park of Rebellions
+Summary: <p>Dr. Sunghyun Park earned his B.S. from KAIST and his Ph.D. from MIT&#8217;s CSAIL (Computer Science and Artificial Intelligence Laboratory). He built his career across Intel, Samsung Research, a...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/PSH_02-800x1200.jpg
+Author: Daniel Nenni
+Published date: Fri, 25 Sep 2026 13:00:30 +0000
+
+Article: https://tuoitre.vn/singapore-dat-tham-vong-tro-thanh-cuong-quoc-nganh-cong-nghiep-ban-dan-toan-cau-100260925162435135.htm
+Title: Singapore đặt tham vọng trở thành cường quốc ngành công nghiệp bán dẫn toàn cầu
+Summary: Một quốc gia không có tài nguyên khoáng sản, diện tích khiêm tốn, song Singapore từ lâu đã đóng vai trò quan trọng trong chuỗi cung ứng vi mạch toàn cầu khi chiếm khoảng 1/10 sản lượng chip và cung...
+Thumbnail: https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/9/25/ban-dan-1790327825801890737422-685-442-1353-1719-crop-17903293500511621015502.jpg
+Author: Ngọc Hiển
+Published date: Fri, 25 Sep 2026 16:40:00 +0000
+
+Completed! Added a total of 3 new news items to Firebase.
