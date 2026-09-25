@@ -1,0 +1,8 @@
+Article: https://semiengineering.com/comparing-a7-cfet-and-a10-nanosheet-fets-from-parasitics-to-chip-reliability-tum-unimore-applied-materials/
+Title: Comparing A7 CFET and A10 Nanosheet FETs From Parasitics to Chip Reliability (TUM, UNIMORE, Applied Materials)
+Summary: <p>Researchers at the TU Munich, University of Modena and Reggio Emilia, and Applied Materials published a technical paper titled “System-Technology Co-Evaluation of A7 CFET and A10 NSFET Technolog...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_617037143-scaled.jpeg
+Author: Technical Paper Link
+Published date: Fri, 25 Sep 2026 22:29:43 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

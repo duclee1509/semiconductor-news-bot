@@ -4156,5 +4156,19 @@
     "author": "Ngọc Hiển",
     "createdAt": "2026-09-25T16:22:46.445815+00:00",
     "publishedAt": "2026-09-25T16:40:00+00:00"
+  },
+  {
+    "title_org": "Comparing A7 CFET and A10 Nanosheet FETs From Parasitics to Chip Reliability (TUM, UNIMORE, Applied Materials)",
+    "title_vietnamese": "So sánh A7 CFET và A10 Nanosheet FET từ điện trở/điện dung ký sinh đến độ tin cậy của chip (TUM, UNIMORE, Applied Materials)",
+    "summary_org": "Researchers from TU Munich, UNIMORE, and Applied Materials published a technical paper introducing a physics-based, thermal- and aging-aware system-technology co-evaluation (STCO) flow. This methodology is used to assess parasitic RCs and evaluate A7 CFET compared to A10 Nanosheet FET technologies, covering aspects from cell parasitics to overall chip reliability.",
+    "summary_vietnamese": "Các nhà nghiên cứu từ Đại học Kỹ thuật Munich (TU Munich), UNIMORE và Applied Materials đã công bố một bài báo kỹ thuật giới thiệu quy trình đồng đánh giá hệ thống - công nghệ (STCO) dựa trên vật lý, tính đến hiệu ứng nhiệt độ và lão hóa. Phương pháp này được sử dụng để đánh giá điện trở và điện dung (RC) ký sinh, đồng thời so sánh công nghệ A7 CFET với A10 Nanosheet FET từ mức độ ký sinh của cell đến độ tin cậy tổng thể của chip.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/comparing-a7-cfet-and-a10-nanosheet-fets-from-parasitics-to-chip-reliability-tum-unimore-applied-materials/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_617037143-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-09-25T23:01:48.059164+00:00",
+    "publishedAt": "2026-09-25T22:29:43+00:00"
   }
 ]
