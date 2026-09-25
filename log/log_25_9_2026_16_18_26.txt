@@ -1,0 +1,8 @@
+Article: https://semiengineering.com/chip-industry-week-in-review-157/
+Title: Chip Industry Week In Review
+Summary: <p>AI agents move deeper into chip design; China doubles down on AI compute and memory; chip supply chains tighten for equipment and critical materials; TSMC partners accelerate; ICs head to space;...
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_461734705-wafers-10-3-22.jpeg?fit=1200%2C900&ssl=1
+Author: The SE Staff
+Published date: Fri, 25 Sep 2026 07:01:42 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

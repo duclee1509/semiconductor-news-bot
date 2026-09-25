@@ -4100,5 +4100,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-09-24T22:57:39.903981+00:00",
     "publishedAt": "2026-09-24T13:00:14+00:00"
+  },
+  {
+    "title_org": "Chip Industry Week In Review",
+    "title_vietnamese": "Điểm tin tuần ngành công nghiệp vi mạch",
+    "summary_org": "The weekly review highlights significant advancements in AI agents for chip design, China's aggressive push into AI compute and memory, and tightening supply chains for semiconductor equipment and critical materials. Key developments also cover TSMC partnerships, space-bound ICs, optics, neural super resolution, auto PQC, and workforce training initiatives.",
+    "summary_vietnamese": "Bản điểm tin tuần nổi bật những tiến bộ đáng kể trong việc ứng dụng AI agents vào thiết kế chip, chiến lược đẩy mạnh năng lực tính toán và bộ nhớ AI của Trung Quốc, cùng với chuỗi cung ứng thiết bị và vật liệu cốt lõi ngày càng thắt chặt. Các sự phát triển quan trọng khác bao gồm quan hệ đối tác của TSMC, vi mạch dùng cho không gian, quang học, neural super resolution, auto PQC và các sáng kiến đào tạo nhân lực.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-week-in-review-157/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_461734705-wafers-10-3-22.jpeg?fit=1200%2C900&ssl=1",
+    "author": "The SE Staff",
+    "createdAt": "2026-09-25T09:18:31.162287+00:00",
+    "publishedAt": "2026-09-25T07:01:42+00:00"
   }
 ]
