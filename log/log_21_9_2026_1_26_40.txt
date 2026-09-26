@@ -1,8 +1,0 @@
-Article: https://semiwiki.com/semiconductor-manufacturers/373552-the-technical-problem-is-often-not-the-business-problem/
-Title: The Technical Problem Is Often Not the Business Problem
-Summary: <p><em>By Prof. Dr. S. Filo Ambrosini</em></p>
-Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/image2-1200x675.jpg
-Author: Admin
-Published date: Sun, 20 Sep 2026 17:00:57 +0000
-
-Completed! Added a total of 1 new news items to Firebase.

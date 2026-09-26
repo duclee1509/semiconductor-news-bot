@@ -1,0 +1,8 @@
+Article: https://vnexpress.net/cong-nghe-mang-carbon-long-giup-san-xuat-chip-3d-phuc-tap-5124343.html
+Title: Công nghệ màng carbon lỏng giúp sản xuất chip 3D phức tạp
+Summary: Công ty ASM International phát triển loại màng carbon tự chảy có thể lấp đầy những khoảng trống trong chip 3D giúp giảm chi phí sản xuất và nguy cơ lỗi chip.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/09/24/VNECarbon-1790242545-8063-1790242622.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=ffEIb3GJcCzg9rWsLWiKhw
+Author: VnExpress
+Published date: Sat, 26 Sep 2026 17:00:00 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
