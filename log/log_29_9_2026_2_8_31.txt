@@ -1,0 +1,29 @@
+Article: https://semiengineering.com/copper-grain-structure-influences-stress-around-scaled-tsvs-purdue-ucla/
+Title: Impact of Cu Microstructure On The TSV-Induced Residual Stress Within Silicon (Purdue, UCLA)
+Summary: <p>Researchers at Purdue University and the UCLA published a technical paper titled “Experimental Evidence for the Impact of Copper Microstructure on Residual Stress of Through Silicon Via.” Abstra...
+Thumbnail: https://semiengineering.com/wp-content/uploads/iStock-1351473349-11-29-2023.jpeg
+Author: Technical Paper Link
+Published date: Mon, 28 Sep 2026 18:02:09 +0000
+
+Article: https://semiwiki.com/artificial-intelligence/373932-llm-assisted-schematic-test-report-analysis-and-root-cause-investigation/
+Title: LLM-assisted schematic test-report analysis and root-cause investigation
+Summary: <h4><em>By Piyush Bag</em></h4>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/schematic-report-workflow-white-1-1200x675.jpg
+Author: Admin
+Published date: Mon, 28 Sep 2026 17:00:09 +0000
+
+Article: https://semiwiki.com/eda/374078-from-frontend-to-the-frontiers-of-silicon-with-moores-lab-ai/
+Title: From Frontend to the Frontiers of Silicon with Moores Lab AI
+Summary: <div>Alex Navarro is a Principal Software Engineer at Moores Lab AI, where he was the company&#8217;s first engineering hire. He spent about ten years in frontend development before moving into sem...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Alex.png
+Author: Daniel Nenni
+Published date: Mon, 28 Sep 2026 15:00:45 +0000
+
+Article: https://semiwiki.com/artificial-intelligence/374114-synopsys-announces-agentengineer-solutions-and-autopilot-platform-for-autonomous-engineering/
+Title: Synopsys Announces AgentEngineer Solutions and Autopilot Platform for Autonomous Engineering
+Summary: <p>Synopsys today announced its AgentEngineer<sup>TM</sup> solutions portfolio and Autopilot<sup>TM</sup> Platform, advancing a fundamental paradigm shift in electronic design automation (EDA): mov...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/updated-from-ai-assisants-to-autonomous-engineering-1200x647.jpg
+Author: Kalar Rajendiran
+Published date: Mon, 28 Sep 2026 13:00:18 +0000
+
+Completed! Added a total of 3 new news items to Firebase.

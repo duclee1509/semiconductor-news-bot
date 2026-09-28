@@ -4282,5 +4282,47 @@
     "author": "Gregory Haley",
     "createdAt": "2026-09-28T10:27:13.930800+00:00",
     "publishedAt": "2026-09-28T07:01:09+00:00"
+  },
+  {
+    "title_org": "Impact of Cu Microstructure On The TSV-Induced Residual Stress Within Silicon (Purdue, UCLA)",
+    "title_vietnamese": "Tác động của cấu trúc vi mô đồng đối với ứng suất dư do TSV gây ra trong silicon (Purdue, UCLA)",
+    "summary_org": "Researchers from Purdue University and UCLA published a study experimentally quantifying how copper microstructure impacts residual stress within silicon. The research focuses on a 3-μm-diameter TSV array annealed at 400 °C to understand stress variations around scaled TSVs.",
+    "summary_vietnamese": "Các nhà nghiên cứu từ Đại học Purdue và UCLA đã công bố một nghiên cứu định lượng thực nghiệm về cách cấu trúc vi mô của đồng tác động đến ứng suất dư bên trong silicon. Nghiên cứu tập trung vào một mảng TSV đường kính 3 μm được ủ ở nhiệt độ 400 °C nhằm hiểu rõ hơn về sự biến đổi ứng suất xung quanh các TSV thu nhỏ.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/copper-grain-structure-influences-stress-around-scaled-tsvs-purdue-ucla/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/iStock-1351473349-11-29-2023.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-09-28T19:09:05.882798+00:00",
+    "publishedAt": "2026-09-28T18:02:09+00:00"
+  },
+  {
+    "title_org": "From Frontend to the Frontiers of Silicon with Moores Lab AI",
+    "title_vietnamese": "Từ Lập trình Frontend đến Ranh giới của Công nghệ Silicon cùng Moores Lab AI",
+    "summary_org": "Alex Navarro, the first engineering hire at Moores Lab AI, transitioned from a decade in frontend development to the semiconductor industry. He has played a crucial role in scaling the company from an early prototype into a comprehensive ecosystem of agentic products.",
+    "summary_vietnamese": "Alex Navarro, kỹ sư phần mềm đầu tiên tại Moores Lab AI, đã chuyển hướng từ một thập kỷ làm phát triển frontend sang ngành bán dẫn. Ông đã đóng vai trò quan trọng trong việc phát triển công ty từ một nguyên mẫu ban đầu thành một hệ sinh thái toàn diện các sản phẩm tác nhân (agentic products).",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/374078-from-frontend-to-the-frontiers-of-silicon-with-moores-lab-ai/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Alex.png",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-28T19:09:40.655999+00:00",
+    "publishedAt": "2026-09-28T15:00:45+00:00"
+  },
+  {
+    "title_org": "Synopsys Announces AgentEngineer Solutions and Autopilot Platform for Autonomous Engineering",
+    "title_vietnamese": "Synopsys Công bố Giải pháp AgentEngineer và Nền tảng Autopilot dành cho Kỹ thuật Tự trị",
+    "summary_org": "Synopsys has announced its AgentEngineer solutions portfolio and Autopilot Platform, marking a shift in electronic design automation (EDA) from AI copilots to autonomous engineering agents. This development aims to revolutionize the chip design process through advanced AI automation capabilities.",
+    "summary_vietnamese": "Synopsys vừa công bố danh mục giải pháp AgentEngineer và nền tảng Autopilot, đánh dấu bước chuyển dịch trong lĩnh vực tự động hóa thiết kế điện tử (EDA) từ các trợ lý AI sang các tác nhân kỹ thuật tự trị. Sự phát triển này nhằm cách mạng hóa quy trình thiết kế chip thông qua các khả năng tự động hóa AI tiên tiến.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/artificial-intelligence/374114-synopsys-announces-agentengineer-solutions-and-autopilot-platform-for-autonomous-engineering/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/updated-from-ai-assisants-to-autonomous-engineering-1200x647.jpg",
+    "author": "Kalar Rajendiran",
+    "createdAt": "2026-09-28T19:10:14.431005+00:00",
+    "publishedAt": "2026-09-28T13:00:18+00:00"
   }
 ]
