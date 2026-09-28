@@ -4254,5 +4254,33 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-09-27T22:46:23.545489+00:00",
     "publishedAt": "2026-09-27T17:00:46+00:00"
+  },
+  {
+    "title_org": "Intuition and AI",
+    "title_vietnamese": "Trực giác và Trí tuệ nhân tạo",
+    "summary_org": "The article questions whether AI can truly be creative by exploring the elusive definition of creativity itself. It delves into the fundamental nature of intuition and how it relates to machine intelligence.",
+    "summary_vietnamese": "Bài viết đặt câu hỏi liệu AI có thực sự sáng tạo hay không thông qua việc khám phá định nghĩa khó nắm bắt của sự sáng tạo. Nó đi sâu vào bản chất cơ bản của trực giác và cách nó liên quan đến trí tuệ máy móc.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/intuition-and-ai/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2018/10/AI.jpg?fit=792%2C519&ssl=1",
+    "author": "Brian Bailey",
+    "createdAt": "2026-09-28T10:27:08.189753+00:00",
+    "publishedAt": "2026-09-28T07:01:56+00:00"
+  },
+  {
+    "title_org": "One Substrate No Longer Rules Them All",
+    "title_vietnamese": "Một loại substrate duy nhất không còn thống trị tất cả",
+    "summary_org": "Advanced semiconductor packages are undergoing significant transformations with larger package sizes, finer routing, and integrated embedded functions. These technological advancements are driving the development of application-specific substrates tailored for particular use cases. Consequently, the traditional one-size-fits-all approach to substrate design is no longer viable in the industry.",
+    "summary_vietnamese": "Các gói đóng gói vi mạch tiên tiến đang trải qua những biến đổi lớn với kích thước package lớn hơn, đường dẫn mạch (routing) tinh vi hơn và tích hợp các chức năng nhúng. Những tiến bộ công nghệ này đang thúc đẩy việc phát triển các loại substrate chuyên dụng cho từng ứng dụng cụ thể. Do đó, phương pháp thiết kế substrate dùng chung truyền thống không còn phù hợp trong ngành công nghiệp nữa.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/one-substrate-no-longer-rules-them-all/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_517438105-04-16-24.jpeg?fit=1200%2C800&ssl=1",
+    "author": "Gregory Haley",
+    "createdAt": "2026-09-28T10:27:13.930800+00:00",
+    "publishedAt": "2026-09-28T07:01:09+00:00"
   }
 ]
