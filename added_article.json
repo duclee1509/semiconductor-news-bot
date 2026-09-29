@@ -4394,5 +4394,61 @@
     "author": "Brendan Heffernan",
     "createdAt": "2026-09-29T10:22:04.739635+00:00",
     "publishedAt": "2026-09-29T07:01:00+00:00"
+  },
+  {
+    "title_org": "TSMC OIP: Chip Industry Growth Blows Past Forecast",
+    "title_vietnamese": "TSMC OIP: Sự tăng trưởng của ngành công nghiệp chip vượt xa dự báo",
+    "summary_org": "The article discusses how the chip industry's growth has vastly exceeded previous aggressive forecasts, making a prior $1 trillion prediction by 2030 look significantly understated. It highlights the driving factors behind this unprecedented expansion within the semiconductor ecosystem as presented at the TSMC OIP event.",
+    "summary_vietnamese": "Bài viết thảo luận về việc sự tăng trưởng của ngành công nghiệp chip đã vượt xa các dự báo trước đó, khiến cho dự đoán trước đây về mốc 1 nghìn tỷ USD vào năm 2030 trở nên quá thấp. Nội dung cũng làm nổi bật các yếu tố thúc đẩy đợt mở rộng chưa từng có này trong hệ sinh thái bán dẫn như đã trình bày tại sự kiện TSMC OIP.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/tsmc-oip-chip-industry-growth-blows-past-forecast/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-3.33.30-PM.png?fit=614%2C676&ssl=1",
+    "author": "Barry Pangrle",
+    "createdAt": "2026-09-29T17:30:32.617325+00:00",
+    "publishedAt": "2026-09-29T07:01:50+00:00"
+  },
+  {
+    "title_org": "Managing Power, Performance and Reliability in the Chiplet Era",
+    "title_vietnamese": "Quản lý công suất, hiệu năng và độ tin cậy trong kỷ nguyên Chiplet",
+    "summary_org": "Next-generation AI accelerators and high-performance processors rely heavily on advanced packaging and chiplet architectures to achieve massive performance gains. However, integrating multiple dies, HBM, and advanced interconnects into a single 2.5D or 3D package introduces significant design challenges in power, performance, and reliability.",
+    "summary_vietnamese": "Các bộ tăng tốc AI thế hệ mới và bộ xử lý hiệu năng cao phụ thuộc rất nhiều vào đóng gói tiên tiến và kiến trúc chiplet để đạt được mức tăng hiệu năng vượt trội. Tuy nhiên, việc tích hợp nhiều die, HBM và các kết nối tiên tiến vào một gói 2.5D hoặc 3D duy nhất đặt ra những thách thức lớn về thiết kế đối với công suất, hiệu năng và độ tin cậy.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/3dic/374001-managing-power-performance-and-reliability-in-the-chiplet-era/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Test-Drivers-proteanTecs-Chiplet-Webinar.png",
+    "author": "Kalar Rajendiran",
+    "createdAt": "2026-09-29T17:30:43.445819+00:00",
+    "publishedAt": "2026-09-29T17:00:16+00:00"
+  },
+  {
+    "title_org": "Siemens and TSMC push AI deeper into chip design",
+    "title_vietnamese": "Siemens và TSMC đẩy mạnh ứng dụng AI sâu hơn vào thiết kế vi mạch",
+    "summary_org": "Siemens and TSMC are expanding their partnership to integrate AI deeper into semiconductor design tools. Their collaboration focuses on an AI agent designed to automatically detect and resolve design rule violations, alongside supporting advanced chip packaging and new manufacturing processes.",
+    "summary_vietnamese": "Siemens và TSMC đang mở rộng quan hệ hợp tác nhằm tích hợp AI sâu hơn vào các công cụ thiết kế bán dẫn. Sự hợp tác này tập trung vào một tác nhân AI được thiết kế để tự động phát hiện và xử lý các lỗi vi phạm quy tắc thiết kế, đồng thời hỗ trợ công nghệ đóng gói chip tiên tiến và các quy trình chế tạo mới.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/siemens-eda/374000-siemens-and-tsmc-push-ai-deeper-into-chip-design/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Siemens-and-TSMC-push-AI-deeper-into-chip-design-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-29T17:30:46.226559+00:00",
+    "publishedAt": "2026-09-29T15:00:50+00:00"
+  },
+  {
+    "title_org": "Agentic AI Can Reach GDS. What Must It Prove Before Engineers Trust It for Tapeout?",
+    "title_vietnamese": "AI chủ động (Agentic AI) có thể tiến tới GDS. Nó phải chứng minh điều gì trước khi các kỹ sư tin tưởng giao phó cho Tape-out?",
+    "summary_org": "Agentic AI is advancing semiconductor engineering by integrating broad workflows from specification to physical verification and PPA optimization. As companies like Agentrys showcase end-to-end architectures, the critical question remains what evidence engineers need before trusting AI for final tape-out. This transition moves AI from simple task automation to comprehensive flow management in EDA.",
+    "summary_vietnamese": "AI chủ động (Agentic AI) đang thúc đẩy ngành kỹ thuật bán dẫn tiến xa hơn bằng cách tích hợp các quy trình làm việc toàn diện từ đặc tả đến xác thực vật lý và tối ưu hóa PPA. Khi các công ty như Agentrys giới thiệu kiến trúc đầu cuối, câu hỏi quan trọng là các kỹ sư cần những bằng chứng gì trước khi tin tưởng giao phó cho AI trong giai đoạn tape-out cuối cùng. Sự chuyển dịch này đưa AI từ tự động hóa tác vụ đơn giản lên quản lý quy trình toàn diện trong lĩnh vực EDA.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/agentrys/373853-agentic-ai-can-reach-gds-what-must-it-prove-before-engineers-trust-it-for-tapeout/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/AgentiC_AI_SemiWIKI_sept21.jpg",
+    "author": "Moh Kolb",
+    "createdAt": "2026-09-29T17:30:56.838529+00:00",
+    "publishedAt": "2026-09-29T13:00:51+00:00"
   }
 ]
