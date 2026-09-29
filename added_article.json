@@ -4450,5 +4450,33 @@
     "author": "Moh Kolb",
     "createdAt": "2026-09-29T17:30:56.838529+00:00",
     "publishedAt": "2026-09-29T13:00:51+00:00"
+  },
+  {
+    "title_org": "Why Advanced Chip Packaging Is Becoming a Design Problem",
+    "title_vietnamese": "Vì sao đóng gói chip tiên tiến đang trở thành một bài toán thiết kế",
+    "summary_org": "As chipmakers integrate more computing power into a single system, the challenge shifts from speeding up individual chips to connecting multiple chips, memory stacks, and power supplies in a compact package. This growing complexity requires advanced design approaches to handle multi-die architectures, as highlighted in recent industry discussions.",
+    "summary_vietnamese": "Khi các nhà sản xuất tích hợp nhiều năng lượng tính toán hơn vào một hệ thống duy nhất, thách thức chuyển từ việc tăng tốc độ từng con chip riêng lẻ sang việc kết nối nhiều chip, các stack bộ nhớ và nguồn điện trong một gói nhỏ gọn. Sự phức tạp ngày càng tăng này đòi hỏi các phương pháp thiết kế tiên tiến để xử lý kiến trúc multi-die, như được nhấn mạnh trong các cuộc thảo luận gần đây của ngành.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/tsmc/374150-why-advanced-chip-packaging-is-becoming-a-design-problem/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Why-Advanced-Chip-Packaging-Is-Becoming-a-Design-Problem-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-29T23:22:55.623547+00:00",
+    "publishedAt": "2026-09-29T21:00:52+00:00"
+  },
+  {
+    "title_org": "Pollen Metrology: From a Decade-Long Bet to a Proven AI Platform for Semiconductor Manufacturing",
+    "title_vietnamese": "Pollen Metrology: Từ canh bạc thập kỷ đến nền tảng AI đã được kiểm chứng cho sản xuất bán dẫn",
+    "summary_org": "This article discusses an interview with Johann Foucher, the founder and CEO of French company Pollen Metrology. It highlights the company's decade-long journey and evolution into a proven artificial intelligence platform designed to transform semiconductor manufacturing.",
+    "summary_vietnamese": "Bài viết này thảo luận về cuộc phỏng vấn với Johann Foucher, nhà sáng lập kiêm CEO của công ty Pháp Pollen Metrology. Nội dung nêu bật hành trình một thập kỷ của công ty và sự phát triển thành một nền tảng trí tuệ nhân tạo đã được kiểm chứng, nhằm chuyển đổi quy trình sản xuất bán dẫn từ bên trong.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/lithography/373841-pollen-metrology-from-a-decade-long-bet-to-a-proven-ai-platform-for-semiconductor-manufacturing/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/image001-2-1200x653.png",
+    "author": "Lauro Rizzatti",
+    "createdAt": "2026-09-29T23:22:59.728359+00:00",
+    "publishedAt": "2026-09-29T19:00:01+00:00"
   }
 ]
