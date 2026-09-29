@@ -4324,5 +4324,33 @@
     "author": "Kalar Rajendiran",
     "createdAt": "2026-09-28T19:10:14.431005+00:00",
     "publishedAt": "2026-09-28T13:00:18+00:00"
+  },
+  {
+    "title_org": "TSMC OIP Ecosystem Forum 2026: Opening Remarks",
+    "title_vietnamese": "Diễn đàn hệ sinh thái TSMC OIP 2026: Phát biểu khai mạc",
+    "summary_org": "The 2026 TSMC Open Innovation Platform (OIP) Ecosystem Forum took place on September 23, 2026, in Santa Clara, California. The event highlighted the significant advancements achieved by TSMC's extensive semiconductor ecosystem. Artificial intelligence emerged as the primary focus of the conference, with participants sharing remarkable progress and results.",
+    "summary_vietnamese": "Diễn đàn hệ sinh thái Nền tảng Đổi mới Mở (OIP) của TSMC năm 2026 đã diễn ra vào ngày 23 tháng 9 năm 2026 tại Santa Clara, California. Sự kiện nhấn mạnh những tiến bộ đáng kể đạt được từ hệ sinh thái bán dẫn rộng lớn của TSMC. Trí tuệ nhân tạo (AI) trở thành tâm điểm chính của hội nghị, với việc các bên tham gia chia sẻ nhiều kết quả và tiến  bộ ấn tượng.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/tsmc/374143-tsmc-oip-ecosystem-forum-2026-opening-remarks/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/TSMC-OIP-Ecosystem-Forum-2026-Opening-Remarks-1200x562.png",
+    "author": "Mike Gianfagna",
+    "createdAt": "2026-09-29T00:08:26.702128+00:00",
+    "publishedAt": "2026-09-28T21:00:02+00:00"
+  },
+  {
+    "title_org": "LLM-assisted schematic test-report analysis and root-cause investigation",
+    "title_vietnamese": "Phân tích báo cáo kiểm tra sơ đồ mạch và điều tra nguyên nhân gốc rễ có sự hỗ trợ của LLM",
+    "summary_org": "This article discusses the design lifecycle of network hardware in data centers during the AI era. It explores how Large Language Models (LLMs) can assist in schematic test-report analysis and root-cause investigation to improve hardware reliability and efficiency.",
+    "summary_vietnamese": "Bài viết bàn về vòng đời thiết kế phần cứng mạng trong các trung tâm dữ liệu dưới kỷ nguyên AI. Nội dung khám phá cách các Mô hình Ngôn ngữ lớn (LLM) hỗ trợ phân tích báo cáo kiểm tra sơ đồ mạch và điều tra nguyên nhân gốc rễ nhằm nâng cao độ tin cậy và hiệu suất phần cứng.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/artificial-intelligence/373932-llm-assisted-schematic-test-report-analysis-and-root-cause-investigation/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/schematic-report-workflow-white-1-1200x675.jpg",
+    "author": "Admin",
+    "createdAt": "2026-09-29T00:08:30.850490+00:00",
+    "publishedAt": "2026-09-28T17:00:09+00:00"
   }
 ]

@@ -1,0 +1,15 @@
+Article: https://semiwiki.com/semiconductor-manufacturers/tsmc/374143-tsmc-oip-ecosystem-forum-2026-opening-remarks/
+Title: TSMC OIP Ecosystem Forum 2026: Opening Remarks
+Summary: <p style="font-weight: 400;">The 2026 TSMC Open Innovation Platform (OIP) Ecosystem Forum was held on September 23, 2026, in Santa Clara, CA. This is the event where TSMC showcases the substantial ...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/TSMC-OIP-Ecosystem-Forum-2026-Opening-Remarks-1200x562.png
+Author: Mike Gianfagna
+Published date: Mon, 28 Sep 2026 21:00:02 +0000
+
+Article: https://semiwiki.com/artificial-intelligence/373932-llm-assisted-schematic-test-report-analysis-and-root-cause-investigation/
+Title: LLM-assisted schematic test-report analysis and root-cause investigation
+Summary: <p><em>By Piyush Bag</em></p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/schematic-report-workflow-white-1-1200x675.jpg
+Author: Admin
+Published date: Mon, 28 Sep 2026 17:00:09 +0000
+
+Completed! Added a total of 2 new news items to Firebase.
