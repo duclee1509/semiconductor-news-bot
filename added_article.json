@@ -4352,5 +4352,47 @@
     "author": "Admin",
     "createdAt": "2026-09-29T00:08:30.850490+00:00",
     "publishedAt": "2026-09-28T17:00:09+00:00"
+  },
+  {
+    "title_org": "Why Verification Needs a Thread, Not More Fragments",
+    "title_vietnamese": "Tại sao xác minh chip cần một chuỗi liên kết thay vì những mảnh rời rạc",
+    "summary_org": "This article discusses the critical importance of maintaining traceability at scale in semiconductor verification. It emphasizes the need for a unified thread to connect various verification processes rather than dealing with fragmented data.",
+    "summary_vietnamese": "Bài viết này thảo luận về tầm quan trọng cốt yếu của việc duy trì khả năng truy xuất nguồn gốc ở quy mô lớn trong quá trình xác minh bán dẫn. Nó nhấn mạnh sự cần thiết phải có một chuỗi liên kết thống nhất để kết nối các quy trình xác minh khác nhau thay vì xử lý dữ liệu bị phân mảnh.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/why-verification-needs-a-thread-not-more-fragments/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/09/siemens2.png?fit=498%2C356&ssl=1",
+    "author": "Jake Wiltgen",
+    "createdAt": "2026-09-29T10:21:53.950458+00:00",
+    "publishedAt": "2026-09-29T07:01:46+00:00"
+  },
+  {
+    "title_org": "Chip Industry Technical Paper Roundup: Sept. 29",
+    "title_vietnamese": "Điểm tin bài báo kỹ thuật ngành công nghiệp chip: Ngày 29 tháng 9",
+    "summary_org": "This article summarizes recent technical papers covering advanced semiconductor technologies such as CFETs, NSFETs, 2D materials, and 3D heterogeneous integration power delivery. It also highlights research on manufacturing reliability, hardware security like GPU Rowhammer attacks, and AI-driven hardware design methodologies for LLM inference.",
+    "summary_vietnamese": "Bài viết này tóm tắt các tài liệu kỹ thuật gần đây về công nghệ bán dẫn tiên tiến như CFET, NSFET, vật liệu 2D và cấp nguồn tích hợp dị thể 3D. Đồng thời, bài viết cũng nổi bật các nghiên cứu về độ tin cậy sản xuất, bảo mật phần cứng như tấn công Rowhammer trên GPU, và phương pháp thiết kế phần cứng điều khiển bằng AI cho suy luận LLM.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-29/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_425433235-wafer-05-21-scaled.jpeg?fit=2560%2C1440&ssl=1",
+    "author": "Linda Christensen",
+    "createdAt": "2026-09-29T10:22:01.191981+00:00",
+    "publishedAt": "2026-09-29T07:01:34+00:00"
+  },
+  {
+    "title_org": "Moore’s Law AI: Applying Agentic AI Across Chip Design",
+    "title_vietnamese": "AI Định luật Moore: Ứng dụng Agentic AI trong thiết kế vi mạch",
+    "summary_org": "Moores Lab AI is leveraging specialized domain expertise to accelerate the complex semiconductor design process. By applying Agentic AI across various stages of chip design, the company aims to overcome traditional bottlenecks in EDA workflows.",
+    "summary_vietnamese": "Moores Lab AI đang tận dụng chuyên môn sâu trong ngành để đẩy nhanh quá trình thiết kế vi mạch phức tạp. Bằng cách áp dụng Agentic AI qua các giai đoạn thiết kế chip, công ty đặt mục tiêu khắc phục các nút thắt truyền thống trong quy trình làm việc EDA.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/moores-law-ai-applying-agentic-ai-across-chip-design/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1661858452-08-26-scaled.jpeg?fit=2560%2C1280&ssl=1",
+    "author": "Brendan Heffernan",
+    "createdAt": "2026-09-29T10:22:04.739635+00:00",
+    "publishedAt": "2026-09-29T07:01:00+00:00"
   }
 ]

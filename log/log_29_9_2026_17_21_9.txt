@@ -1,0 +1,29 @@
+Article: https://semiengineering.com/tsmc-oip-chip-industry-growth-blows-past-forecast/
+Title: TSMC OIP: Chip Industry Growth Blows Past Forecast
+Summary: <p>Aggressive prediction of $1T by 2030 was $700B too low. Here's why. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-3.33.30-PM.png?fit=614%2C676&ssl=1
+Author: Barry Pangrle
+Published date: Tue, 29 Sep 2026 07:01:50 +0000
+
+Article: https://semiengineering.com/why-verification-needs-a-thread-not-more-fragments/
+Title: Why Verification Needs a Thread, Not More Fragments
+Summary: <p>Why traceability at scale is so critical.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/siemens2.png?fit=498%2C356&ssl=1
+Author: Jake Wiltgen
+Published date: Tue, 29 Sep 2026 07:01:46 +0000
+
+Article: https://semiengineering.com/chip-industry-technical-paper-roundup-sept-29/
+Title: Chip Industry Technical Paper Roundup: Sept. 29
+Summary: <p>A7 CFET vs. A10 NSFETs; wafer-scale sub-5nm MoS₂ transistors; multi-kW power delivery for 3D HI; copper microstructure and TSV residual stress; Rowhammer attacks on GPUs; gate-level RTL Trojan l...
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_425433235-wafer-05-21-scaled.jpeg?fit=2560%2C1440&ssl=1
+Author: Linda Christensen
+Published date: Tue, 29 Sep 2026 07:01:34 +0000
+
+Article: https://semiengineering.com/moores-law-ai-applying-agentic-ai-across-chip-design/
+Title: Moore’s Law AI: Applying Agentic AI Across Chip Design
+Summary: <p>Moores Lab AI bets on domain expertise to speed the design process.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1661858452-08-26-scaled.jpeg?fit=2560%2C1280&ssl=1
+Author: Brendan Heffernan
+Published date: Tue, 29 Sep 2026 07:01:00 +0000
+
+Completed! Added a total of 3 new news items to Firebase.
