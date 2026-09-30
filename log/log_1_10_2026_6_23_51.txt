@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/semiconductor-manufacturers/tsmc/374145-tsmc-oip-ecosystem-forum-2026-broadcoms-view-of-asics-and-ecosystems/
+Title: TSMC OIP Ecosystem Forum 2026: Broadcom’s View of ASICs and Ecosystems
+Summary: <p style="font-weight: 400;">I spent a significant part of my career in the ASIC business. This segment of semiconductors has always been challenging, difficult and invigorating. There is something...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/TSMC-OIP-Ecosystem-Forum-2026-Broadcoms-View-of-ASICs-and-Ecosystems.png
+Author: Mike Gianfagna
+Published date: Wed, 30 Sep 2026 19:00:19 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
