@@ -4562,5 +4562,47 @@
     "author": "Đức Thiện",
     "createdAt": "2026-09-30T10:14:49.662127+00:00",
     "publishedAt": "2026-09-30T14:12:00+00:00"
+  },
+  {
+    "title_org": "The Pivotal Moments That Gave Rise to Silicon Valley",
+    "title_vietnamese": "Những khoảnh khắc bước ngoặt tạo nên Thung lũng Silicon",
+    "summary_org": "This article explores the lesser-known decisions, breakthroughs, and the remarkable role of Robert Noyce that shaped the modern semiconductor industry. It revisits the foundational events that led to the birth of Silicon Valley, moving beyond the standard historical narrative.",
+    "summary_vietnamese": "Bài viết khám phá những quyết định ít được biết đến, các bước đột phá và vai trò đáng chú ý của Robert Noyce trong việc định hình ngành công nghiệp bán dẫn hiện đại. Bài viết nhìn lại những sự kiện nền tảng dẫn đến sự ra đời của Thung lũng Silicon, vượt ra ngoài khuôn khổ tường thuật lịch sử thông thường.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/374246-the-pivotal-moments-that-gave-rise-to-silicon-valley/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/IMAGE-1-Robert-Noyce-with-microscope.jpg",
+    "author": "Admin",
+    "createdAt": "2026-09-30T17:29:14.947673+00:00",
+    "publishedAt": "2026-09-30T17:00:52+00:00"
+  },
+  {
+    "title_org": "SiFive and AMD Bring ROCm to RISC-V Datacenter Servers—and Why It Matters",
+    "title_vietnamese": "SiFive và AMD đưa ROCm lên máy chủ trung tâm dữ liệu RISC-V — Và ý nghĩa quan trọng",
+    "summary_org": "SiFive and AMD demonstrated an AI workload combining the RISC-V processor architecture and AMD's ROCm GPU software platform. At the AI Infra Summit on September 15, 2026, they showcased ROCm 10.0 running on SiFive's BigSky datacenter development server powered by SiFive P870-D CPUs.",
+    "summary_vietnamese": "SiFive và AMD đã trình diễn một khối lượng công việc AI kết hợp kiến trúc bộ xử lý RISC-V và nền tảng phần mềm GPU ROCm của AMD. Tại Hội nghị Thượng đỉnh Hạ tầng AI vào ngày 15 tháng 9 năm 2026, họ đã giới thiệu ROCm 10.0 chạy trên máy chủ phát triển trung tâm dữ liệu BigSky của SiFive được trang bị CPU SiFive P870-D.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ip/sifive/374137-sifive-and-amd-bring-rocm-to-risc-v-datacenter-servers-and-why-it-matters/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/BigSky-2U-Full-Rack-Render-1200x670.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-09-30T17:29:19.253411+00:00",
+    "publishedAt": "2026-09-30T15:00:40+00:00"
+  },
+  {
+    "title_org": "Quantum Equivalence Checking. Innovation in Verification",
+    "title_vietnamese": "Kiểm tra sự tương đương lượng tử: Đổi mới trong công nghệ kiểm chứng",
+    "summary_org": "This article explores the potential relevance of quantum computing to EDA, specifically discussing how it might one day accelerate the fundamental SAT algorithm. Industry experts Paul Cunningham and Raúl Camposano share their insights on this technological innovation in verification.",
+    "summary_vietnamese": "Bài viết này khám phá tiềm năng ứng dụng của điện toán lượng tử trong lĩnh vực EDA, cụ thể là thảo luận về cách công nghệ này có thể đẩy nhanh thuật toán cơ bản SAT trong tương lai. Các chuyên gia trong ngành như Paul Cunningham và Raúl Camposano chia sẻ góc nhìn của họ về sự đổi mới công nghệ này trong khâu kiểm chứng.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/372999-quantum-equivalence-checking-innovation-in-verification/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Innovation-New.jpeg",
+    "author": "Bernard Murphy",
+    "createdAt": "2026-09-30T17:29:22.113156+00:00",
+    "publishedAt": "2026-09-30T13:00:50+00:00"
   }
 ]
