@@ -4702,5 +4702,47 @@
     "author": "media.chinhphu.vn",
     "createdAt": "2026-10-01T10:40:42.155653+00:00",
     "publishedAt": "2026-10-01T14:57:00+00:00"
+  },
+  {
+    "title_org": "TSMC’s AI Design Kit: Bringing Agentic AI Into Chip Design",
+    "title_vietnamese": "Bộ công cụ thiết kế AI của TSMC: Đưa AI tự trị vào thiết kế vi mạch",
+    "summary_org": "TSMC is introducing an AI Design Kit (ADK) to integrate its semiconductor manufacturing expertise with artificial intelligence tools. This foundation helps AI agents optimize chip designs for performance, power, and area targets while reducing manual intervention.",
+    "summary_vietnamese": "TSMC đang giới thiệu Bộ công cụ thiết kế AI (ADK) nhằm tích hợp chuyên môn sản xuất bán dẫn của mình với các công cụ trí tuệ nhân tạo. Nền tảng này giúp các tác nhân AI tối ưu hóa thiết kế vi mạch nhằm đạt các mục tiêu về hiệu năng, công suất và diện tích (PPA) với ít sự can thiệp thủ công hơn.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/tsmc/374098-tsmcs-ai-design-kit-bringing-agentic-ai-into-chip-design/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/TSMCs-AI-Design-Kit-Bringing-Agentic-AI-Into-Chip-Design-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-01T17:54:26.046671+00:00",
+    "publishedAt": "2026-10-01T17:00:24+00:00"
+  },
+  {
+    "title_org": "OpenAI and Synopsys Announce GPT-Synopsys: Why AI-Powered Chip Design Matters",
+    "title_vietnamese": "OpenAI và Synopsys công bố GPT-Synopsys: Lý do thiết kế vi mạch tích hợp AI đóng vai trò quan trọng",
+    "summary_org": "OpenAI and Synopsys have announced a multiyear partnership to develop GPT-Synopsys, a specialized AI model for semiconductor design. This collaboration combines OpenAI's frontier models with Synopsys' EDA software and engineering expertise to assist engineers in chip design.",
+    "summary_vietnamese": "OpenAI và Synopsys đã công bố quan hệ đối tác nhiều năm để phát triển GPT-Synopsys, một mô hình trí tuệ nhân tạo chuyên biệt dành cho thiết kế chất bán dẫn. Sự hợp tác này kết hợp các mô hình tiên tiến của OpenAI với phần mềm EDA và chuyên môn kỹ thuật của Synopsys nhằm hỗ trợ các kỹ sư trong việc thiết kế vi mạch.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/synopsys/374301-openai-and-synopsys-announce-gpt-synopsys-why-ai-powered-chip-design-matters/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Synopsys-OpenAI.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-01T17:54:30.246871+00:00",
+    "publishedAt": "2026-10-01T15:00:57+00:00"
+  },
+  {
+    "title_org": "Why the energy sector must plan for post-quantum cyber security now",
+    "title_vietnamese": "Tại sao ngành năng lượng phải lên kế hoạch cho an ninh mạng hậu lượng tử ngay từ bây giờ",
+    "summary_org": "In a recent article, Ali El Kaafarani emphasizes that energy companies must upgrade their cybersecurity systems to prepare for the post-quantum era. Because power infrastructure has a long operational lifespan and replacing its security takes years, equipment bought today will likely face future quantum threats.",
+    "summary_vietnamese": "Trong một bài viết gần đây, Ali El Kaafarani nhấn mạnh rằng các công ty năng lượng phải nâng cấp hệ thống an ninh mạng để chuẩn bị cho kỷ nguyên hậu lượng tử. Do cơ sở hạ tầng điện có vòng đời vận hành kéo dài và việc thay thế các lớp bảo mật mất nhiều năm, thiết bị được mua ngày nay rất có thể sẽ phải đối mặt với các mốie đe dọa lượng tử trong tương lai.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/security/pqshield/373971-why-the-energy-sector-must-plan-for-post-quantum-cyber-security-now/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Why-ASML-Is-Racing-to-Build-110-EUV-Machines-1-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-01T17:54:32.940339+00:00",
+    "publishedAt": "2026-10-01T13:00:08+00:00"
   }
 ]

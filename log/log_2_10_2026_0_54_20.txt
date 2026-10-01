@@ -1,0 +1,22 @@
+Article: https://semiwiki.com/semiconductor-manufacturers/tsmc/374098-tsmcs-ai-design-kit-bringing-agentic-ai-into-chip-design/
+Title: TSMC’s AI Design Kit: Bringing Agentic AI Into Chip Design
+Summary: <p>TSMC is introducing an AI Design Kit, or ADK, to help artificial intelligence tools make better use of its semiconductor manufacturing knowledge. The idea is to give AI agents that run chip-desi...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/TSMCs-AI-Design-Kit-Bringing-Agentic-AI-Into-Chip-Design-1200x675.jpg
+Author: Daniel Nenni
+Published date: Thu, 01 Oct 2026 17:00:24 +0000
+
+Article: https://semiwiki.com/eda/synopsys/374301-openai-and-synopsys-announce-gpt-synopsys-why-ai-powered-chip-design-matters/
+Title: OpenAI and Synopsys Announce GPT-Synopsys: Why AI-Powered Chip Design Matters
+Summary: <p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Synopsys-OpenAI.jpg
+Author: Daniel Nenni
+Published date: Thu, 01 Oct 2026 15:00:57 +0000
+
+Article: https://semiwiki.com/security/pqshield/373971-why-the-energy-sector-must-plan-for-post-quantum-cyber-security-now/
+Title: Why the energy sector must plan for post-quantum cyber security now
+Summary: <p>In a September 2026 World Economic Forum article, Ali El Kaafarani argues that energy companies should begin preparing their systems for post-quantum cryptography now. The reason is practical: p...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Why-ASML-Is-Racing-to-Build-110-EUV-Machines-1-1200x675.jpg
+Author: Daniel Nenni
+Published date: Thu, 01 Oct 2026 13:00:08 +0000
+
+Completed! Added a total of 3 new news items to Firebase.
