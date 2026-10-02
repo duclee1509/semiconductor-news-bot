@@ -4814,5 +4814,47 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-10-02T17:19:25.349688+00:00",
     "publishedAt": "2026-10-02T13:00:13+00:00"
+  },
+  {
+    "title_org": "Tracing Hardware Design From Physical Devices to RTL (Infineon, TU Munich)",
+    "title_vietnamese": "Truy vết thiết kế phần cứng từ linh kiện vật lý đến cấp độ RTL (Infineon, TU Munich)",
+    "summary_org": "Researchers from Infineon Technologies and the Technical University of Munich have published a technical paper exploring the foundational principles of hardware engineering models. The paper emphasizes that abstraction is the defining characteristic of hardware engineering, though it inherently omits certain physical details.",
+    "summary_vietnamese": "Các nhà nghiên cứu từ Infineon Technologies và Đại học Kỹ thuật Munich đã công bố một bài báo kỹ thuật khám phá các nguyên tắc nền tảng của mô hình kỹ thuật phần cứng. Bài báo nhấn mạnh rằng tính trừu tượng là đặc điểm xác định của kỹ thuật phần cứng, mặc dù nó vốn dĩ bỏ qua một số chi tiết vật lý nhất định.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/tracing-hardware-design-from-physical-devices-to-rtl-infineon-tu-munich/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/06/AdobeStock_183702829-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-10-02T23:31:10.396084+00:00",
+    "publishedAt": "2026-10-02T22:46:46+00:00"
+  },
+  {
+    "title_org": "HBF for High-Throughput LLM Serving (UC Berkeley, FuriosaAI)",
+    "title_vietnamese": "HBF phục vụ LLM thông lượng cao (UC Berkeley, FuriosaAI)",
+    "summary_org": "Researchers from UC Berkeley and FuriosaAI published a paper on 'High Bandwidth Flash' to address memory and bandwidth bottlenecks in Large Language Model (LLM) serving. As models grow larger and contexts become longer, utilizing HBF helps improve serving performance for demanding workloads like agentic AI.",
+    "summary_vietnamese": "Các nhà nghiên cứu từ UC Berkeley và FuriosaAI đã công bố một bài báo nghiên cứu về 'High Bandwidth Flash' nhằm giải quyết các nút cổ chai về bộ nhớ và băng thông trong việc phục vụ Large Language Model (LLM). Khi các mô hình ngày càng lớn và ngữ cảnh ngày càng dài, việc ứng dụng HBF giúp cải thiện hiệu suất phục vụ cho các khối lượng công việc đòi hỏi khắt khe như AI tác nhân (agentic AI).",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/hbf-for-high-throughput-llm-serving-uc-berkeley-furiosaai/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/06/AdobeStock_532528757-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-10-02T23:31:15.642430+00:00",
+    "publishedAt": "2026-10-02T20:15:40+00:00"
+  },
+  {
+    "title_org": "Formal Automotive Security Analysis Of CAN XL  (Georgia Tech, QCRI, Purdue)",
+    "title_vietnamese": "Phân tích bảo mật chính thức về CAN XL (Georgia Tech, QCRI, Purdue)",
+    "summary_org": "Researchers from Georgia Tech, QCRI, and Purdue University published a technical paper titled 'A Formal Security Analysis of CAN XL.' The study examines security vulnerabilities in the next-generation Controller Area Network (CAN XL) as modern vehicles integrate advanced components like cameras, LiDARs, and AI. This research highlights critical security challenges that need to be addressed in upcoming automotive communication architectures.",
+    "summary_vietnamese": "Các nhà nghiên cứu từ Georgia Tech, QCRI và Đại học Purdue đã công bố một bài báo kỹ thuật mang tên 'Phân tích bảo mật chính thức về CAN XL'. Nghiên cứu này kiểm tra các lỗ hổng bảo mật trong mạng lưới giao tiếp vùng điều khiển thế hệ mới (CAN XL) khi các phương tiện hiện đại tích hợp thêm các linh kiện tiên tiến như camera, LiDAR và AI. Nghiên cứu này nhấn mạnh những thách thức bảo mật quan trọng cần được giải quyết trong các kiến trúc truyền thông ô tô sắp tới.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/formal-analysis-uncovers-security-flaws-in-can-xl-georgia-tech-qcri-purdue/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_58591465-Car-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-10-02T23:31:19.384965+00:00",
+    "publishedAt": "2026-10-02T19:05:52+00:00"
   }
 ]

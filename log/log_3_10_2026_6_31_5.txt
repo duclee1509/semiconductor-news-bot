@@ -1,0 +1,22 @@
+Article: https://semiengineering.com/tracing-hardware-design-from-physical-devices-to-rtl-infineon-tu-munich/
+Title: Tracing Hardware Design From Physical Devices to RTL (Infineon, TU Munich)
+Summary: <p>Researchers at Infineon Technologies and Technical University of Munich published a technical paper titled “From Physical Devices to RTL Models: Abstraction and Validation in Hardware Engineerin...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/AdobeStock_183702829-scaled.jpeg
+Author: Technical Paper Link
+Published date: Fri, 02 Oct 2026 22:46:46 +0000
+
+Article: https://semiengineering.com/hbf-for-high-throughput-llm-serving-uc-berkeley-furiosaai/
+Title: HBF for High-Throughput LLM Serving (UC Berkeley, FuriosaAI)
+Summary: <p>Researchers at the UC Berkeley and FuriosaAI published a technical paper titled “Characterizing High Bandwidth Flash for LLM Serving.” Abstract “Large language model (LLM) serving requires subst...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/AdobeStock_532528757-scaled.jpeg
+Author: Technical Paper Link
+Published date: Fri, 02 Oct 2026 20:15:40 +0000
+
+Article: https://semiengineering.com/formal-analysis-uncovers-security-flaws-in-can-xl-georgia-tech-qcri-purdue/
+Title: Formal Automotive Security Analysis Of CAN XL  (Georgia Tech, QCRI, Purdue)
+Summary: <p>Researchers at Georgia Institute of Technology, Qatar Computing Research Institute, and Purdue University published a technical paper titled “A Formal Security Analysis of CAN XL.” Abstract: &#8...
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_58591465-Car-scaled.jpeg
+Author: Technical Paper Link
+Published date: Fri, 02 Oct 2026 19:05:52 +0000
+
+Completed! Added a total of 3 new news items to Firebase.
