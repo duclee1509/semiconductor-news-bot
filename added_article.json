@@ -4772,5 +4772,47 @@
     "author": "The SE Staff",
     "createdAt": "2026-10-02T10:15:52.197240+00:00",
     "publishedAt": "2026-10-02T07:01:31+00:00"
+  },
+  {
+    "title_org": "CEO Interview Greene Tweed",
+    "title_vietnamese": "Phỏng vấn CEO Greene Tweed",
+    "summary_org": "Magen Buterbaugh took over as President and CEO of Greene Tweed in January 2023. She brings extensive experience in leading and scaling chemicals and materials-based businesses, ranging from startups to multibillion-dollar enterprises. Her background includes driving innovative R&D platforms within the industry.",
+    "summary_vietnamese": "Magen Buterbaugh đảm nhận chức vụ Chủ tịch kiêm CEO của Greene Tweed vào tháng 1 năm 2023. Bà mang đến bề dày kinh nghiệm trong việc lãnh đạo và mở rộng quy mô các doanh nghiệp chuyên về hóa chất và vật liệu, từ các công ty khởi nghiệp đến các tập đoàn đa quốc gia trị giá hàng tỷ đô la. Nền tảng của bà bao gồm việc thúc đẩy các nền tảng R&D đổi mới trong ngành.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/374203-ceo-interview-greene-tweed/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Greene-Tweed-1.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-02T17:19:18.388856+00:00",
+    "publishedAt": "2026-10-02T17:00:12+00:00"
+  },
+  {
+    "title_org": "TSMC OIP Ecosystem Forum 2026: Spotlight on Emerging Technologies",
+    "title_vietnamese": "Diễn đàn hệ sinh thái TSMC OIP 2026: Tiêu điểm vào các công nghệ mới nổi",
+    "summary_org": "The TSMC OIP Ecosystem Forum showcased significant accomplishments and collaborative achievements across TSMC's extensive partner ecosystem. Attendees had the opportunity to explore an exhibition area featuring the companies driving these technological advancements and learn more about their work.",
+    "summary_vietnamese": "Diễn đàn Hệ sinh thái TSMC OIP đã trưng bày nhiều thành tựu quan trọng và kết quả hợp tác trong hệ sinh thái đối tác rộng lớn của TSMC. Người tham dự có cơ hội khám phá khu vực triển lãm quy tụ các công ty đang thúc đẩy những tiến bộ công nghệ này và tìm hiểu thêm về các dự án của họ.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/tsmc/374276-tsmc-oip-ecosystem-forum-2026-spotlight-on-emerging-technologies/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/TSMC-OIP-2026-Emerging-Technologies-Alley-1200x900.png",
+    "author": "Mike Gianfagna",
+    "createdAt": "2026-10-02T17:19:22.340491+00:00",
+    "publishedAt": "2026-10-02T15:00:55+00:00"
+  },
+  {
+    "title_org": "Intel Foundry: AI performance now depends on the whole system",
+    "title_vietnamese": "Intel Foundry: Hiệu năng AI giờ đây phụ thuộc vào toàn bộ hệ thống",
+    "summary_org": "For decades, semiconductor performance relied primarily on advancing silicon circuitry, but the rise of artificial intelligence is exposing the limits of this approach. Modern AI models require massive data movement, continuous power, and advanced cooling solutions. Consequently, a fast processor alone is no longer sufficient to deliver peak performance without holistic system optimization.",
+    "summary_vietnamese": "Trong nhiều thập kỷ, hiệu năng chất bán dẫn chủ yếu phụ thuộc vào việc cải tiến vi mạch trên silicon, nhưng sự trỗi dậy của trí tuệ nhân tạo đang phơi bày giới hạn của phương pháp này. Các mô hình AI hiện đại đòi hỏi khả năng di chuyển dữ liệu khổng lồ, nguồn điện liên tục và các giải pháp làm mát tiên tiến. Do đó, một bộ xử lý nhanh đơn thuần là chưa đủ để mang lại hiệu suất tối đa nếu thiếu đi sự tối ưu hóa toàn diện cho toàn bộ hệ thống.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/intel/374240-intel-foundry-ai-performance-now-depends-on-the-whole-system/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/AI-performance-now-depends-on-the-whole-system-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-02T17:19:25.349688+00:00",
+    "publishedAt": "2026-10-02T13:00:13+00:00"
   }
 ]
