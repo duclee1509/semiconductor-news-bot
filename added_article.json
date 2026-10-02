@@ -4744,5 +4744,33 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-10-01T17:54:32.940339+00:00",
     "publishedAt": "2026-10-01T13:00:08+00:00"
+  },
+  {
+    "title_org": "The Proof Economy",
+    "title_vietnamese": "Nền kinh tế của sự minh chứng",
+    "summary_org": "As artificial intelligence makes the creation of content and data abundant, the ability to prove authenticity and origin becomes the new scarcity. In the semiconductor and tech ecosystem, verifying the integrity of designs and systems is increasingly critical.",
+    "summary_vietnamese": "Khi trí tuệ nhân tạo khiến việc tạo ra nội dung và dữ liệu trở nên phong phú, khả năng chứng minh tính xác thực và nguồn gốc trở thành sự khan hiếm mới. Trong hệ sinh thái bán dẫn và công nghệ, việc xác minh tính toàn vẹn của các thiết kế và hệ thống ngày càng trở nên quan trọng.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/the-proof-economy/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/10/Axiomise_The-Proof-Economy-fig2.webp?fit=451%2C254&ssl=1",
+    "author": "Jesse Allen",
+    "createdAt": "2026-10-02T10:15:46.702552+00:00",
+    "publishedAt": "2026-10-02T07:01:52+00:00"
+  },
+  {
+    "title_org": "Chip Industry Week In Review",
+    "title_vietnamese": "Điểm tin ngành công nghiệp bán dẫn trong tuần",
+    "summary_org": "The weekly review highlights advancements in CFET scaling beyond 10 angstroms, physical AI funding, and new power and packaging investments driven by AI data centers. It also covers emerging threats like Spectre-v2 attacks on JIT compilers, progress in photonics and quantum hardware, and a critical workforce shortage of 88,000 engineers.",
+    "summary_vietnamese": "Bản tin tuần điểm lại những tiến bộ trong công nghệ thu nhỏ CFET vượt mốc 10 angstrom, các thương vụ đầu tư và M&A vào AI dạng vật lý, cùng các khoản đầu tư mới cho nguồn điện và Packaging do trung tâm dữ liệu AI thúc đẩy. Ngoài ra, bản tin cũng đề cập đến các mốiε đe dọa bảo mật mới như tấn công Spectre-v2 nhắm vào trình biên dịch JIT, sự phát triển của quang tử và phần cứng lượng tử, cùng nhu cầu cấp thiết về 88.000 kỹ sư.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-week-in-review-158/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/10/261001-Infineon-BKK-Opening-29-scaled.jpg?fit=2560%2C1707&ssl=1",
+    "author": "The SE Staff",
+    "createdAt": "2026-10-02T10:15:52.197240+00:00",
+    "publishedAt": "2026-10-02T07:01:31+00:00"
   }
 ]
