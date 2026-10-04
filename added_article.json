@@ -4870,5 +4870,33 @@
     "author": "Lê Tuyết",
     "createdAt": "2026-10-03T09:36:52.396752+00:00",
     "publishedAt": "2026-10-03T04:05:55+00:00"
+  },
+  {
+    "title_org": "AI-EDA Agents Can Prove Their Value",
+    "title_vietnamese": "Các tác nhân AI-EDA có thể chứng minh giá trị thực tế của mình",
+    "summary_org": "AI is entering semiconductor engineering through various approaches, ranging from broad agentic design environments to targeted solutions for specific bottlenecks like timing closure. Before EDA becomes fully AI-native, these focused agents have a crucial window to demonstrate measurable engineering value within existing design flows.",
+    "summary_vietnamese": "Trí tuệ nhân tạo đang thâm nhập vào kỹ thuật bán dẫn thông qua nhiều hướng tiếp cận khác nhau, từ các môi trường thiết kế tự động mang tính tổng thể cho đến các giải pháp tập trung vào những điểm nghẽn cụ thể như đóng băng thời gian (timing closure). Trước khi EDA trở thành AI-native (tích hợp AI bản địa), các tác nhân chuyên biệt này có một khoảng thời gian quan trọng để chứng minh giá trị kỹ thuật có thể đo lường được trong các luồng thiết kế hiện có.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/374287-ai-eda-agents-can-prove-their-value/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Ai_EDA_AGENT_VALUE_SEMIWIKI_SEPT30-1200x599.jpg",
+    "author": "Moh Kolb",
+    "createdAt": "2026-10-04T16:20:34.811394+00:00",
+    "publishedAt": "2026-10-04T15:00:46+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Joel Jorgensen of FlowAccel",
+    "title_vietnamese": "Phỏng vấn CEO Joel Jorgensen của FlowAccel",
+    "summary_org": "Joel Jorgensen founded FlowAccel to help silicon systems engineering leaders meet roadmap commitments and scale their development organizations. Drawing on his 25-year tenure at Intel, including 15 years in analog design and non-volatile memory architecture, he brings deep industry expertise to his new venture. The interview highlights his background and mission in the semiconductor services sector.",
+    "summary_vietnamese": "Joel Jorgensen thành lập FlowAccel nhằm giúp các nhà lãnh đạo kỹ thuật hệ thống vi mạch hoàn thành các cam kết lộ trình và mở rộng quy mô tổ chức phát triển. Dựa trên 25 năm làm việc tại Intel, bao gồm 15 năm thiết kế analog và kiến trúc bộ nhớ không bay hơi, ông mang bề dày kinh nghiệm chuyên môn vào doanh nghiệp mới của mình. Bài phỏng vấn nhấn mạnh nền tảng sự nghiệp và sứ mệnh của ông trong lĩnh vực dịch vụ bán dẫn.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-services/flow-accel/374063-ceo-interview-with-joel-jorgensen-of-flowaccel/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Joel-Jorgensen.png",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-04T16:20:38.806818+00:00",
+    "publishedAt": "2026-10-04T13:00:50+00:00"
   }
 ]

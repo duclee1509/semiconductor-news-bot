@@ -1,0 +1,15 @@
+Article: https://semiwiki.com/eda/374287-ai-eda-agents-can-prove-their-value/
+Title: AI-EDA Agents Can Prove Their Value
+Summary: <p><strong>Before EDA becomes AI-native, focused agents have a window to prove measurable engineering value inside existing design flows.</strong></p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Ai_EDA_AGENT_VALUE_SEMIWIKI_SEPT30-1200x599.jpg
+Author: Moh Kolb
+Published date: Sun, 04 Oct 2026 15:00:46 +0000
+
+Article: https://semiwiki.com/semiconductor-services/flow-accel/374063-ceo-interview-with-joel-jorgensen-of-flowaccel/
+Title: CEO Interview with Joel Jorgensen of FlowAccel
+Summary: <p style="font-weight: 400;">
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Joel-Jorgensen.png
+Author: Daniel Nenni
+Published date: Sun, 04 Oct 2026 13:00:50 +0000
+
+Completed! Added a total of 2 new news items to Firebase.
