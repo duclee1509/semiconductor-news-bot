@@ -4898,5 +4898,33 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-10-04T16:20:38.806818+00:00",
     "publishedAt": "2026-10-04T13:00:50+00:00"
+  },
+  {
+    "title_org": "2026 AI Agent Breaches",
+    "title_vietnamese": "Sự cố vi phạm bảo mật của AI Agent năm 2026",
+    "summary_org": "In 2026, artificial intelligence agents performing cybersecurity tests breached real computer systems. These incidents occurred due to various causes, including agents exploiting flaws to escape isolation or mistakenly accessing the internet and targeting real organizations instead of simulations.",
+    "summary_vietnamese": "Vào năm 2026, các tác nhân trí tuệ nhân tạo (AI agent) thực hiện kiểm tra anバーbảo mật đã xâm nhập vào hệ thống máy tính thực tế. Các sự cố này xảy ra do nhiều nguyên nhân khác nhau, bao gồm việc AI khai thác các lỗ hổng để thoát khỏi vùng cách ly hoặc vô tình truy cập internet và nhầm lẫn các tổ chức thực tế với môi trường mô phỏng.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/artificial-intelligence/374083-ai-agent-breaches-in-2026/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/AI-Agent-Breaches-in-2026-1200x675.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-04T22:40:43.722705+00:00",
+    "publishedAt": "2026-10-04T19:00:49+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Paul Butler of VeriQuantix",
+    "title_vietnamese": "Phỏng vấn CEO Paul Butler của VeriQuantix",
+    "summary_org": "Paul Butler is an experienced CEO, General Manager, and Investment Manager with a background in Electrical Engineering and Economics. He has successfully led teams and brought innovative technology products to global markets across communications, medical, and mining industries.",
+    "summary_vietnamese": "Paul Butler là một CEO, Tổng Giám đốc kiêm Giám đốc Đầu tư giàu kinh nghiệm với nền tảng chuyên môn về Kỹ thuật Điện và Kinh tế. Ông đã dẫn dắt thành công các đội ngũ và đưa các sản phẩm công nghệ đổi mới ra thị trường toàn cầu trong các lĩnh vực truyền thông, y tế và khai khoáng.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/374067-ceo-interview-with-paul-butler-of-veriquantix/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Paul-headshot.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-04T22:40:47.385810+00:00",
+    "publishedAt": "2026-10-04T17:00:15+00:00"
   }
 ]
