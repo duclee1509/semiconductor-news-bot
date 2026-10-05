@@ -4926,5 +4926,33 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-10-04T22:40:47.385810+00:00",
     "publishedAt": "2026-10-04T17:00:15+00:00"
+  },
+  {
+    "title_org": "The Agentic AI Super Cycle",
+    "title_vietnamese": "Siêu chu kỳ AI tự hành",
+    "summary_org": "AI represents the greatest technological revolution of our era and is projected to expand exponentially throughout the 2030s. This ongoing evolution is driving a new super cycle centered around advanced AI capabilities.",
+    "summary_vietnamese": "AI đại diện cho cuộc cách mạng công nghệ lớn nhất trong thời đại của chúng ta và được dự báo sẽ phát triển theo cấp số nhân suốt những năm 2030. Sự tiến hóa liên tục này đang thúc đẩy một siêu chu kỳ mới tập trung vào các năng lực AI tiên tiến.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/the-agentic-ai-supercycle/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/10/Picture1.jpg",
+    "author": "Geoff Tate",
+    "createdAt": "2026-10-05T11:07:00.427917+00:00",
+    "publishedAt": "2026-10-05T07:01:51+00:00"
+  },
+  {
+    "title_org": "Extreme Environments Push Chips To Their Breaking Point",
+    "title_vietnamese": "Môi trường khắc nghiệt đẩy giới hạn của vi mạch đến bờ vực",
+    "summary_org": "Extreme operating environments such as orbital data centers, defense systems, and quantum computing are placing unprecedented demands on modern semiconductors. Consequently, these challenges are driving the need for advanced simulation, testing, and laboratory tools to ensure chip reliability.",
+    "summary_vietnamese": "Các môi trường hoạt động khắc nghiệt như trung tâm dữ liệu trên quỹ đạo, hệ thống quốc phòng và điện toán lượng tử đang đặt ra những yêu cầu chưa từng có đối với chất bán dẫn hiện đại. Do đó, những thách thức này thúc đẩy nhu cầu về các công cụ mô phỏng, thử nghiệm và phòng thí nghiệm tiên tiến để đảm bảo độ tin cậy của vi mạch.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/extreme-environments-push-chips-to-their-breaking-point/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/10/extreme1.jpg?fit=1203%2C748&ssl=1",
+    "author": "Liz Allan",
+    "createdAt": "2026-10-05T11:07:05.758950+00:00",
+    "publishedAt": "2026-10-05T07:01:21+00:00"
   }
 ]

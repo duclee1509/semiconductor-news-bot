@@ -1,0 +1,15 @@
+Article: https://semiengineering.com/the-agentic-ai-supercycle/
+Title: The Agentic AI Super Cycle
+Summary: <p>AI is the biggest revolution of our lives, and it will grow exponentially into the 2030s.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/10/Picture1.jpg
+Author: Geoff Tate
+Published date: Mon, 05 Oct 2026 07:01:51 +0000
+
+Article: https://semiengineering.com/extreme-environments-push-chips-to-their-breaking-point/
+Title: Extreme Environments Push Chips To Their Breaking Point
+Summary: <p>Orbital data centers, defense systems, quantum computing, particle physics, and advanced manufacturing are raising the bar for simulation, test, and lab tools.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/10/extreme1.jpg?fit=1203%2C748&ssl=1
+Author: Liz Allan
+Published date: Mon, 05 Oct 2026 07:01:21 +0000
+
+Completed! Added a total of 2 new news items to Firebase.
