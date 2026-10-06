@@ -4996,5 +4996,33 @@
     "author": "Technical Paper Link",
     "createdAt": "2026-10-06T04:30:51.846492+00:00",
     "publishedAt": "2026-10-05T16:16:28+00:00"
+  },
+  {
+    "title_org": "Chip Industry Technical Paper Roundup: Oct. 6",
+    "title_vietnamese": "Tổng hợp tài liệu kỹ thuật ngành công nghiệp chip: Ngày 6 tháng 10",
+    "summary_org": "This article summarizes key technical papers covering innovations such as low-contact-resistance WSe2 transistors, backside clock meshes for 2nm GAAFETs, and row-parallel processing in DRAM. It also highlights advancements in high-throughput LLM serving, formal security analysis for CAN XL, and validation methodologies from physical devices to RTL.",
+    "summary_vietnamese": "Bài viết này tổng hợp các tài liệu kỹ thuật quan trọng về các đổi mới như transistor WSe₂ điện trở tiếp xúc thấp, mạng lưới xung nhịp mặt sau cho GAAFET 2nm, và xử lý song song theo hàng trong DRAM. Ngoài ra, bài viết cũng nổi bật các tiến bộ trong phục vụ LLM thông lượng cao, phân tích bảo mật hình thức cho CAN XL, và các phương pháp xác thực từ thiết bị vật lý đến RTL.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-6/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_1017253461-March-26-2025.jpeg?fit=1200%2C608&ssl=1",
+    "author": "Linda Christensen",
+    "createdAt": "2026-10-06T14:40:55.945123+00:00",
+    "publishedAt": "2026-10-06T07:01:55+00:00"
+  },
+  {
+    "title_org": "Advancing The CFET-Based Device Roadmap: Novel Integration Modules And Standard Cell Configurations",
+    "title_vietnamese": "Thúc đẩy lộ trình thiết bị dựa trên CFET: Các mô-đun tích hợp mới và cấu hình ô chuẩn",
+    "summary_org": "This article, part 2 of the series, explores scalable sCFET standard cell architectures including split-gate devices, a 5T+1 CFET SRAM bit cell, and enhanced back-end-of-line (BEOL) routability. It discusses novel integration modules and standard cell configurations to advance the CFET-based device roadmap.",
+    "summary_vietnamese": "Bài viết này, phần 2 của loạt bài, khám phá các kiến trúc ô chuẩn sCFET có khả năng mở rộng, bao gồm thiết bị cổng chia (split-gate), ô nhớ bit 5T+1 CFET SRAM và khả năng định路 BEOL được cải thiện. Nội dung thảo luận về các mô-đun tích hợp mới và cấu hình ô chuẩn nhằm thúc đẩy lộ trình thiết bị dựa trên công nghệ CFET.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/advancing-the-cfet-based-device-roadmap-novel-integration-modules-and-standard-cell-configurations-2/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/10/imec_Advancing-CFET-device-roadmap-part2-fig2-CFET-architectures.webp?fit=1401%2C691&ssl=1",
+    "author": "Geert Hellings",
+    "createdAt": "2026-10-06T14:41:01.368002+00:00",
+    "publishedAt": "2026-10-06T07:01:13+00:00"
   }
 ]

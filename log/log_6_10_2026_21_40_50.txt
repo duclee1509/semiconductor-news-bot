@@ -1,0 +1,15 @@
+Article: https://semiengineering.com/chip-industry-technical-paper-roundup-oct-6/
+Title: Chip Industry Technical Paper Roundup: Oct. 6
+Summary: <p>Low-contact-resistance WSe₂ transistors; backside clock meshes for 2nm GAAFETs; row-parallel processing in DRAM; HBF for high-throughput LLM serving; formal security analysis of CAN XL; abstract...
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_1017253461-March-26-2025.jpeg?fit=1200%2C608&ssl=1
+Author: Linda Christensen
+Published date: Tue, 06 Oct 2026 07:01:55 +0000
+
+Article: https://semiengineering.com/advancing-the-cfet-based-device-roadmap-novel-integration-modules-and-standard-cell-configurations-2/
+Title: Advancing The CFET-Based Device Roadmap: Novel Integration Modules And Standard Cell Configurations
+Summary: <p>Part 2: Towards scalable sCFET standard cell architectures: split-gate devices, a 5T+1 CFET SRAM bit cell, and improved back-end-of-line routability.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/10/imec_Advancing-CFET-device-roadmap-part2-fig2-CFET-architectures.webp?fit=1401%2C691&ssl=1
+Author: Geert Hellings
+Published date: Tue, 06 Oct 2026 07:01:13 +0000
+
+Completed! Added a total of 2 new news items to Firebase.
