@@ -1,0 +1,36 @@
+Article: https://semiwiki.com/eda/siemens-eda/374270-beyond-the-die-verifying-the-connected-chip/
+Title: Beyond the Die: Verifying the Connected Chip
+Summary: <p>One of the standout presentations at the <a href="https://www.tsmc.com/static/english/campaign/oip2026/index.html">2026 TSMC OIP Forum</a> highlighted a collaboration between Siemens EDA, Marvel...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Efficient-Scalable-Methodology-for-Reliability-and-ESD-Verification-of-Complex-3D-IC-CoWoS-Systems-1.jpg
+Author: Daniel Nenni
+Published date: Tue, 06 Oct 2026 17:00:42 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/vsora/374232-built-to-deliver-the-answer-not-to-train-the-model/
+Title: Built to Deliver the Answer, Not to Train the Model
+Summary: <p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/VSORA_SemiWiki-Post_Sep-28-2026-Week.jpg
+Author: Lauro Rizzatti
+Published date: Tue, 06 Oct 2026 15:00:36 +0000
+
+Article: https://semiwiki.com/eda/lubis-eda/374372-from-faster-proofs-to-trusted-silicon-with-lubis-eda/
+Title: From Faster Proofs to Trusted Silicon with LUBIS EDA
+Summary: <p>LUBIS EDA is introducing FormalOS, a platform designed to make formal verification more systematic, scalable and predictable. Built on the company’s five-stage methodology, it combines structure...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/LUBIS_FormalOS-in-the-Verification-Flow.png
+Author: Daniel Nenni
+Published date: Tue, 06 Oct 2026 13:00:57 +0000
+
+Article: https://semiwiki.com/eda/374292-siemens-cto-update-on-calibre-at-dac-2026/
+Title: Siemens CTO update on Calibre at DAC 2026
+Summary: <p>At DAC 2026 I had the opportunity to speak with Juan Rey, CTO Siemens EDA about the Calibre product used for IC physical verification, circuit verification, 3D IC and DFM optimization. Juan has ...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Juan-Rey.jpg
+Author: Daniel Payne
+Published date: Mon, 05 Oct 2026 17:00:22 +0000
+
+Article: https://semiwiki.com/eda/synopsys/373937-from-simulation-to-deployment-why-physical-ai-matters/
+Title: From Simulation to Deployment: Why Physical AI Matters
+Summary: <p>Artificial intelligence is moving beyond the screen. The attached presentation describes a shift from systems that generate text, images, and code to systems that can perceive their surroundings...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/AI-is-Leaving-the-Screen-Synopsys-Nvidia-SemiWiki.jpg
+Author: Daniel Nenni
+Published date: Mon, 05 Oct 2026 15:00:13 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
