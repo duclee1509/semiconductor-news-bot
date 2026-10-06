@@ -1,0 +1,22 @@
+Article: https://semiengineering.com/backside-clock-meshes-cut-skew-and-power-in-2nm-nanosheets-ucsc/
+Title: Backside Clock Meshes Cut Skew and Power in 2nm Nanosheets (UCSC)
+Summary: <p>Researchers at the University of California, Santa Cruz published a technical paper titled “Design Space Exploration of Backside Clock Meshes for 2 nm GAAFET BSPDN Technology.” Abstract Excerpt:...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1748350067-08-26-tgreen-scaled.jpeg
+Author: Technical Paper Link
+Published date: Mon, 05 Oct 2026 18:07:21 +0000
+
+Article: https://semiengineering.com/reducing-contact-resistance-pushes-2d-transistors-toward-advanced-cmos-hust-polyu-ucsb-nus/
+Title: Reducing Contact Resistance Pushes 2D Transistors Toward Advanced CMOS (HUST, PolyU, UCSB, NUS)
+Summary: <p>Researchers at Huazhong University of Science and Technology, Hong Kong Polytechnic University, University of California, Santa Barbara, and National University of Singapore published a technica...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/01/AdobeStock_338899292-Jan-1-2026-scaled.jpeg
+Author: Technical Paper Link
+Published date: Mon, 05 Oct 2026 17:25:40 +0000
+
+Article: https://semiengineering.com/row-parallel-dram-computing-cuts-data-reorganization-overhead-syracuse-fau-tu-dresden/
+Title: Row-Parallel DRAM Computing Cuts Data-Reorganization Overhead (Syracuse, FAU, TU Dresden)
+Summary: <p>Researchers at Syracuse University, Friedrich-Alexander-Universität Erlangen-Nürnberg, and TU Dresden published a technical paper titled “RAPID: Row-Parallel Arithmetic Processing in DRAM.” Abst...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_1887001471-02-27-2026-scaled.jpeg
+Author: Technical Paper Link
+Published date: Mon, 05 Oct 2026 16:16:28 +0000
+
+Completed! Added a total of 3 new news items to Firebase.

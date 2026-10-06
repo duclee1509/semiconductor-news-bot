@@ -4954,5 +4954,47 @@
     "author": "Liz Allan",
     "createdAt": "2026-10-05T11:07:05.758950+00:00",
     "publishedAt": "2026-10-05T07:01:21+00:00"
+  },
+  {
+    "title_org": "Backside Clock Meshes Cut Skew and Power in 2nm Nanosheets (UCSC)",
+    "title_vietnamese": "Lưới xung nhịp mặt sau giúp giảm độ lệch và công suất trong cấu trúc Nanosheet 2nm (UCSC)",
+    "summary_org": "Researchers at the University of California, Santa Cruz published a paper exploring the design space of backside clock meshes for 2nm GAAFET BSPDN technology. The study demonstrates how utilizing backside routing for clock meshes helps minimize skew and reduce power consumption while saving scarce premium metal layers.",
+    "summary_vietnamese": "Các nhà nghiên cứu tại Đại học California, Santa Cruz đã công bố một bài báo nghiên cứu không gian thiết kế lưới xung nhịp mặt sau cho công nghệ GAAFET BSPDN 2nm. Nghiên cứu chứng minh rằng việc tận dụng định tuyến mặt sau cho lưới xung nhịp giúp giảm thiểu độ lệch, tiết kiệm điện năng và bảo tồn các lớp kim loại cao cấp vốn rất khan hiếm.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/backside-clock-meshes-cut-skew-and-power-in-2nm-nanosheets-ucsc/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1748350067-08-26-tgreen-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-10-06T04:30:43.258313+00:00",
+    "publishedAt": "2026-10-05T18:07:21+00:00"
+  },
+  {
+    "title_org": "Reducing Contact Resistance Pushes 2D Transistors Toward Advanced CMOS (HUST, PolyU, UCSB, NUS)",
+    "title_vietnamese": "Giảm điện trở tiếp xúc đưa transistor 2D tiến gần hơn tới công nghệ CMOS tiên tiến (HUST, PolyU, UCSB, NUS)",
+    "summary_org": "Researchers from multiple prestigious universities published a study on achieving low contact resistance and high current density in ballistic p-type transistors using oxygen-doped WSe2 monolayers. This breakthrough addresses a critical challenge in developing high-performance p-type monolayer transistors for advanced CMOS technology. The advancement paves the way for integrating 2D materials into next-generation semiconductor devices.",
+    "summary_vietnamese": "Các nhà nghiên cứu từ nhiều trường đại học danh tiếng đã công bố một nghiên cứu về việc đạt được điện trở tiếp xúc thấp và mật độ dòng điện cao trong các transistor loại p đạn đạo sử dụng lớp đơn WSe2 pha tạp oxy. Bước đột phá này giải quyết một thách thức quan trọng trong việc phát triển transistor lớp đơn loại p hiệu suất cao cho công nghệ CMOS tiên tiến. Sự tiến bộ này mở đường cho việc tích hợp vật liệu 2D vào các thiết bị bán dẫn thế hệ tiếp theo.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/reducing-contact-resistance-pushes-2d-transistors-toward-advanced-cmos-hust-polyu-ucsb-nus/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/01/AdobeStock_338899292-Jan-1-2026-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-10-06T04:30:48.414653+00:00",
+    "publishedAt": "2026-10-05T17:25:40+00:00"
+  },
+  {
+    "title_org": "Row-Parallel DRAM Computing Cuts Data-Reorganization Overhead (Syracuse, FAU, TU Dresden)",
+    "title_vietnamese": "Điện toán DRAM song song theo hàng giúp giảm chi phí tái tổ chức dữ liệu (Syracuse, FAU, TU Dresden)",
+    "summary_org": "Researchers from Syracuse University, FAU, and TU Dresden have introduced RAPID, a novel Row-Parallel Arithmetic Processing in DRAM architecture. This approach addresses the limitation of existing PUM architectures by reducing the high overhead associated with column-oriented, bit-serial data reorganization.",
+    "summary_vietnamese": "Các nhà nghiên cứu từ Đại học Syracuse, FAU và TU Dresden đã giới thiệu RAPID, một kiến trúc Xử lý số học song song theo hàng mới trong DRAM. Phương pháp này giải quyết hạn chế của các kiến trúc PUM hiện có bằng cách giảm chi phí vận hành tốn kém liên quan đến việc tái tổ chức dữ liệu dạng chuỗi bit theo cột.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/row-parallel-dram-computing-cuts-data-reorganization-overhead-syracuse-fau-tu-dresden/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_1887001471-02-27-2026-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-10-06T04:30:51.846492+00:00",
+    "publishedAt": "2026-10-05T16:16:28+00:00"
   }
 ]

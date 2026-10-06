@@ -118,5 +118,29 @@
     "thumbnail": null,
     "author": null,
     "published_date": "Fri, 02 Oct 2026 10:00:03 +0000"
+  },
+  {
+    "article_url": "https://semiwiki.com/eda/374292-siemens-cto-update-on-calibre-at-dac-2026/",
+    "title": "Siemens CTO update on Calibre at DAC 2026",
+    "summary": "<p>At DAC 2026 I had the opportunity to speak with Juan Rey, CTO Siemens EDA about the Calibre product used for IC physical verification, circuit verification, 3D IC and DFM optimization. Juan has ...",
+    "thumbnail": null,
+    "author": null,
+    "published_date": "Mon, 05 Oct 2026 17:00:22 +0000"
+  },
+  {
+    "article_url": "https://semiwiki.com/eda/synopsys/373937-from-simulation-to-deployment-why-physical-ai-matters/",
+    "title": "From Simulation to Deployment: Why Physical AI Matters",
+    "summary": "<p>Artificial intelligence is moving beyond the screen. The attached presentation describes a shift from systems that generate text, images, and code to systems that can perceive their surroundings...",
+    "thumbnail": null,
+    "author": null,
+    "published_date": "Mon, 05 Oct 2026 15:00:13 +0000"
+  },
+  {
+    "article_url": "https://semiwiki.com/ip/imagination-technologies/373826-significant-performance-gains-reinforce-imaginations-gpu-first-strategy/",
+    "title": "Significant Performance Gains Reinforce Imagination’s GPU-First Strategy",
+    "summary": "<p><a href=\"https://www.imaginationtech.com/\">Imagination Technologies</a>’ first performance figures for its <a href=\"https://www.imaginationtech.com/products/e-series/\">E-Series GPU IP</a> turn i...",
+    "thumbnail": null,
+    "author": null,
+    "published_date": "Mon, 05 Oct 2026 13:00:50 +0000"
   }
 ]
