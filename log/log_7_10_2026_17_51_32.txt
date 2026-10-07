@@ -1,0 +1,15 @@
+Article: https://semiengineering.com/thermal-complexity-grows-with-ai-chips-and-photonics/
+Title: Thermal Complexity Grows With AI Chips And Photonics
+Summary: <p>Increasing power density makes heat, stress, and aging harder to predict, and more critical to address earlier in the design flow.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Screenshot-2026-09-12-at-3.09.59-PM.png?fit=1216%2C998&ssl=1
+Author: Ed Sperling
+Published date: Wed, 07 Oct 2026 07:01:34 +0000
+
+Article: https://semiengineering.com/blog-review-oct-7-3/
+Title: Blog Review: Oct. 7
+Summary: <p>CFETs and buried power rails; agentic AI for EDA; 6G architecture decisions; chiplet connectivity.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1748350067-08-26-tgreen-scaled.jpeg?fit=2560%2C1280&ssl=1
+Author: Jesse Allen
+Published date: Wed, 07 Oct 2026 07:01:12 +0000
+
+Completed! Added a total of 2 new news items to Firebase.

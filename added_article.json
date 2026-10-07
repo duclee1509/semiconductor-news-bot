@@ -5164,5 +5164,33 @@
     "author": "Thu Thảo",
     "createdAt": "2026-10-07T03:57:32.701091+00:00",
     "publishedAt": "2026-10-06T23:09:37+00:00"
+  },
+  {
+    "title_org": "Thermal Complexity Grows With AI Chips And Photonics",
+    "title_vietnamese": "Độ phức tạp nhiệt gia tăng cùng chip AI và quang tử",
+    "summary_org": "Increasing power density in modern semiconductor designs leads to severe heat, stress, and aging challenges that are harder to predict. Addressing these thermal complexities has become critical and must be integrated earlier in the design flow to ensure chip reliability.",
+    "summary_vietnamese": "Mật độ công suất ngày càng tăng trong các thiết kế bán dẫn hiện đại dẫn đến các thách thức nghiêm trọng về nhiệt, ứng suất và lão hóa, vốn rất khó dự đoán. Việc giải quyết các độ phức tạp về nhiệt này đã trở nên cấp thiết và phải được tích hợp sớm hơn trong quy trình thiết kế để đảm bảo độ tin cậy của chip.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/thermal-complexity-grows-with-ai-chips-and-photonics/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/09/Screenshot-2026-09-12-at-3.09.59-PM.png?fit=1216%2C998&ssl=1",
+    "author": "Ed Sperling",
+    "createdAt": "2026-10-07T10:51:37.241510+00:00",
+    "publishedAt": "2026-10-07T07:01:34+00:00"
+  },
+  {
+    "title_org": "Blog Review: Oct. 7",
+    "title_vietnamese": "Điểm tin Blog: Ngày 7 tháng 10",
+    "summary_org": "This blog review covers key advancements in semiconductor technology, including CFETs, buried power rails, and agentic AI for EDA tools. It also discusses emerging 6G architecture decisions and advanced chiplet connectivity solutions.",
+    "summary_vietnamese": "Bài tổng hợp blog này đề cập đến các tiến bộ quan trọng trong công nghệ bán dẫn, bao gồm cấu trúc CFET, thanh nguồn chìm (buried power rails) và AI tự chủ (agentic AI) cho công cụ EDA. Nội dung cũng thảo luận về các quyết định kiến trúc 6G mới nổi và giải pháp kết nối chiplet tiên tiến.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/blog-review-oct-7-3/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1748350067-08-26-tgreen-scaled.jpeg?fit=2560%2C1280&ssl=1",
+    "author": "Jesse Allen",
+    "createdAt": "2026-10-07T10:51:42.197246+00:00",
+    "publishedAt": "2026-10-07T07:01:12+00:00"
   }
 ]
