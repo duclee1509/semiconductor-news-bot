@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/ultra-compact-photonic-bends-reduce-loss-while-meeting-foundry-rules-georgia-tech/
+Title: Ultra-Compact Photonic Bends Reduce Loss While Meeting Foundry Rules (Georgia Tech)
+Summary: <p>Researchers at Georgia Institute of Technology published a technical paper titled “Low-loss ultra-compact photonic bends with enhanced fabrication tolerance for commercial foundry processes.” Ab...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/wafer-06-26-AdobeStock_414995950-scaled.jpeg
+Author: Technical Paper Link
+Published date: Tue, 06 Oct 2026 21:45:13 +0000
+
+Article: https://semiengineering.com/monolithic-3d-memristor-tft-stack-for-programmable-neuromorphic-computing-snu-yonsei/
+Title: Monolithic 3D Memristor-TFT Stack For Programmable Neuromorphic Computing (SNU, Yonsei)
+Summary: <p>Researchers at Seoul National University and Yonsei University published a technical paper titled “Monolithic three-dimensionally integrated memristor-thin-film transistor for electrically progr...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/06-26-AdobeStock_143980229-scaled.jpeg
+Author: Technical Paper Link
+Published date: Tue, 06 Oct 2026 21:29:31 +0000
+
+Article: https://semiengineering.com/programmable-memory-controller-eases-adoption-of-new-dram-techniques-eth-zurich-cispa-nyu/
+Title: Programmable Memory Controller Eases Adoption of New DRAM Techniques (ETH Zürich, CISPA, NYU)
+Summary: <p>Researchers at ETH Zürich, CISPA, and New York University published a technical paper titled “Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface and Memory Co...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_596228503-wafer-scaled.jpeg
+Author: Technical Paper Link
+Published date: Tue, 06 Oct 2026 20:58:05 +0000
+
+Article: https://vnexpress.net/chung-khoan-my-lap-ky-luc-moi-5129255.html
+Title: Chứng khoán Mỹ lập kỷ lục mới
+Summary: Chỉ số S&P 500 và Nasdaq Composite đóng cửa ở mức cao kỷ lục nhờ giá dầu thô ổn định và lợi suất trái phiếu chính phủ Mỹ hạ nhiệt.
+Thumbnail: https://vcdn1-kinhdoanh.vnecdn.net/2026/10/07/image1775694812623-1791329899-8065-1791329909.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=-eDTKkKeXK7lGoU8tU13cg
+Author: Hà Thu
+Published date: Tue, 06 Oct 2026 23:48:17 +0000
+
+Article: https://vnexpress.net/trung-quoc-co-the-da-mua-343-may-quang-khac-duv-5129240.html
+Title: Trung Quốc có thể đã mua 343 máy quang khắc DUV
+Summary: Các công ty Trung Quốc được ước tính đã mua 343 máy quang khắc cực tím sâu (DUV), thiết bị đóng vai trò quan trọng trong sản xuất chip, dù bị kiểm soát.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/10/06/semiconductors1770282993445917-7478-4186-1791305043.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=AcoPINLzgtF-vl8S1TH4qw
+Author: Thu Thảo
+Published date: Tue, 06 Oct 2026 23:09:37 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
