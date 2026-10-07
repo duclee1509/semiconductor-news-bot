@@ -1,0 +1,29 @@
+Article: https://spectrum.ieee.org/anderon-quantum-fab
+Title: The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing
+Summary: <img src="https://spectrum.ieee.org/media-library/several-people-dressed-in-clean-suits-while-working-in-a-semiconductor-manufacturing-lab.jpg?id=68054174&amp;width=980" /><br /><br /><p>The U.S. D...
+Thumbnail: https://spectrum.ieee.org/media-library/several-people-dressed-in-clean-suits-while-working-in-a-semiconductor-manufacturing-lab.jpg?id=68054174&width=1200&height=600&coordinates=0%2C211%2C0%2C39
+Author: Knvul Sheikh
+Published date: Wed, 07 Oct 2026 13:09:13 +0000
+
+Article: https://semiwiki.com/artificial-intelligence/374386-from-blueprint-to-production-how-rambus-brings-commercial-grade-caliptra-security-to-ai-socs/
+Title: From Blueprint to Production: How Rambus Brings Commercial-Grade Caliptra Security to AI SoCs
+Summary: <p>Semiconductor designers today face a critical hurdle: how to smoothly transition from an open-source hardware blueprint to a commercially hardened, production-ready silicon implementation. As se...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/CryptoManager-Interfaces-for-Platform-Level-Security-Orchestration.png
+Author: Kalar Rajendiran
+Published date: Wed, 07 Oct 2026 17:00:03 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/374282-from-cloud-to-silicon-ic-link-and-tsmc-open-the-door/
+Title: From Cloud to Silicon: IC-Link and TSMC Open the Door
+Summary: <p>Access to advanced semiconductor technology involves much more than choosing a process node. Design teams also need computing capacity, compatible tools, secure technology access, and experience...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/From-Cloud-to-Silicon-IC-Link-and-TSMC-Open-the-Door.jpg
+Author: Daniel Nenni
+Published date: Wed, 07 Oct 2026 15:00:23 +0000
+
+Article: https://semiwiki.com/artificial-intelligence/373809-wilson-survey-signals-need-for-new-understanding-of-verification-success/
+Title: Wilson Survey Signals Need for New Understanding of Verification Success
+Summary: <p>Siemens has again sponsored a Wilson-led survey on the state of (functional) verification in the industry, and this time Harry Foster (Chief Scientist, Verification at Siemens) has condensed his...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/Siemens-Wilson-first-silicon-success.png
+Author: Bernard Murphy
+Published date: Wed, 07 Oct 2026 13:00:08 +0000
+
+Completed! Added a total of 4 new news items to Firebase.

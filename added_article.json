@@ -5192,5 +5192,61 @@
     "author": "Jesse Allen",
     "createdAt": "2026-10-07T10:51:42.197246+00:00",
     "publishedAt": "2026-10-07T07:01:12+00:00"
+  },
+  {
+    "title_org": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+    "title_vietnamese": "Mỹ rót 1 tỷ USD đầu tư vào sản xuất chip lượng tử",
+    "summary_org": "The U.S. Department of Commerce has finalized a $1 billion CHIPS Act award for Anderon, an IBM-established quantum foundry. This funding aims to scale up automated 300-millimeter quantum wafer production, potentially positioning Anderon as the TSMC of the quantum computing industry by offering foundry services to external hardware developers.",
+    "summary_vietnamese": "Bộ Thương mại Mỹ đã hoàn tất gói tài trợ trị giá 1 tỷ USD theo Đạo luật CHIPS cho Anderon, một xưởng đúc (foundry) chip lượng tử do IBM thành lập. Khoản tài trợ này nhằm mở rộng quy mô sản xuất wafer lượng tử 300mm tự động, qua đó đưa Anderon trở thành 'TSMC của ngành công nghiệp điện toán lượng tử' bằng cách cung cấp dịch vụ gia công cho các nhà phát triển phần cứng bên ngoài.",
+    "source": "IEEE Spectrum - Semiconductors",
+    "url": "https://spectrum.ieee.org/anderon-quantum-fab",
+    "category": "International",
+    "isPolicy": true,
+    "thumbnail": "https://spectrum.ieee.org/media-library/several-people-dressed-in-clean-suits-while-working-in-a-semiconductor-manufacturing-lab.jpg?id=68054174&width=1200&height=600&coordinates=0%2C211%2C0%2C39",
+    "author": "Knvul Sheikh",
+    "createdAt": "2026-10-07T18:20:07.388385+00:00",
+    "publishedAt": "2026-10-07T13:09:13+00:00"
+  },
+  {
+    "title_org": "From Blueprint to Production: How Rambus Brings Commercial-Grade Caliptra Security to AI SoCs",
+    "title_vietnamese": "Từ bản vẽ đến sản xuất: Rambus đưa bảo mật Caliptra cấp độ thương mại vào SoC AI như thế nào",
+    "summary_org": "Semiconductor designers face the critical challenge of transitioning open-source hardware blueprints into commercially hardened, production-ready silicon for the AI era. This article explores how Rambus successfully integrates commercial-grade Caliptra security into AI SoCs to safeguard essential hardware foundations.",
+    "summary_vietnamese": "Các nhà thiết kế chất bán dẫn đang đối mặt với thử thách lớn trong việc chuyển đổi các bản vẽ phần cứng mã nguồn mở thành các giải pháp silicon sẵn sàng thương mại hóa cho kỷ nguyên AI. Bài viết khám phá cách Rambus tích hợp thành công tính năng bảo mật Caliptra cấp độ thương mại vào các SoC AI nhằm bảo vệ các nền tảng phần cứng cốt lõi.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/artificial-intelligence/374386-from-blueprint-to-production-how-rambus-brings-commercial-grade-caliptra-security-to-ai-socs/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/CryptoManager-Interfaces-for-Platform-Level-Security-Orchestration.png",
+    "author": "Kalar Rajendiran",
+    "createdAt": "2026-10-07T18:20:13.021503+00:00",
+    "publishedAt": "2026-10-07T17:00:03+00:00"
+  },
+  {
+    "title_org": "From Cloud to Silicon: IC-Link and TSMC Open the Door",
+    "title_vietnamese": "Từ Đám mây đến Silicon: IC-Link và TSMC Mở ra Cánh cửa Mới",
+    "summary_org": "Access to advanced semiconductor technology requires computing capacity, compatible tools, and secure access alongside process nodes. The expanded collaboration between imec's IC-Link and TSMC addresses these complex demands to simplify development. This partnership helps design teams navigate sophisticated semiconductor manufacturing requirements more efficiently.",
+    "summary_vietnamese": "Việc tiếp cận công nghệ bán dẫn tiên tiến đòi hỏi năng lực tính toán, các công cụ tương thích và quyền truy cập bảo mật bên cạnh việc lựa chọn nút tiến trình. Sự hợp tác mở rộng giữa IC-Link của imec và TSMC giải quyết những nhu cầu phức tạp này nhằm đơn giản hóa quá trình phát triển. Quan hệ đối tác này giúp các nhóm thiết kế điều hướng các yêu cầu sản xuất bán dẫn phức tạp một cách hiệu quả hơn.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/374282-from-cloud-to-silicon-ic-link-and-tsmc-open-the-door/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/From-Cloud-to-Silicon-IC-Link-and-TSMC-Open-the-Door.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-07T18:20:23.376691+00:00",
+    "publishedAt": "2026-10-07T15:00:23+00:00"
+  },
+  {
+    "title_org": "Wilson Survey Signals Need for New Understanding of Verification Success",
+    "title_vietnamese": "Khảo sát Wilson báo hiệu nhu cầu nhận thức mới về sự thành công trong kiểm tra vi mạch",
+    "summary_org": "Siemens sponsored the latest Wilson-led survey on functional verification in the semiconductor industry, with Harry Foster highlighting major takeaways. The report reveals intriguing findings, notably an apparent revolutionary shift in first-silicon success trends.",
+    "summary_vietnamese": "Siemens đã tài trợ cho cuộc khảo sát mới nhất do Wilson dẫn dắt về kiểm tra chức năng trong ngành công nghiệp bán dẫn, trong đó Harry Foster nêu bật những điểm chính rút ra. Báo cáo tiết lộ những phát hiện thú vị, đáng chú ý là sự thay đổi mang tính cách mạng rõ rệt trong xu hướng thành công của silicon nguyên mẫu đầu tiên.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/artificial-intelligence/373809-wilson-survey-signals-need-for-new-understanding-of-verification-success/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Siemens-Wilson-first-silicon-success.png",
+    "author": "Bernard Murphy",
+    "createdAt": "2026-10-07T18:20:31.243493+00:00",
+    "publishedAt": "2026-10-07T13:00:08+00:00"
   }
 ]
