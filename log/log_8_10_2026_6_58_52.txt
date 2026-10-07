@@ -1,0 +1,8 @@
+Article: https://semiengineering.com/hyper-na-euv-the-next-extension-beyond-high-na-lithography-carl-zeiss-asml/
+Title: Hyper-NA EUV: The Next Extension Beyond High NA Lithography (Carl Zeiss, ASML)
+Summary: <p>Researchers at Carl Zeiss SMT and ASML published a technical paper titled “Hyper-NA: a system with a numerical aperture of at least 0.75.” Abstract Summary: The researchers examine Hyper-NA EUV ...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_790988626-wafer-scaled.jpeg
+Author: Technical Paper Link
+Published date: Wed, 07 Oct 2026 19:47:59 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

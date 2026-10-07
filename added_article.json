@@ -5248,5 +5248,19 @@
     "author": "Bernard Murphy",
     "createdAt": "2026-10-07T18:20:31.243493+00:00",
     "publishedAt": "2026-10-07T13:00:08+00:00"
+  },
+  {
+    "title_org": "Hyper-NA EUV: The Next Extension Beyond High NA Lithography (Carl Zeiss, ASML)",
+    "title_vietnamese": "Hyper-NA EUV: Bước tiến tiếp theo vượt ra ngoài công nghệ quang khắc High-NA (Carl Zeiss, ASML)",
+    "summary_org": "Researchers at Carl Zeiss SMT and ASML published a technical paper exploring Hyper-NA EUV lithography with a numerical aperture of at least 0.75. The study examines this technology as a future path beyond current 0.55-NA High-NA systems, focusing on optical architecture, resolution potential, and reticle 3D effects.",
+    "summary_vietnamese": "Các nhà nghiên cứu tại Carl Zeiss SMT và ASML đã công bố một bài báo kỹ thuật khám phá công nghệ quang khắc Hyper-NA EUV với khẩu độ số (numerical aperture) ít nhất là 0.75. Nghiên cứu này xem xét công nghệ như một hướng đi trong tương lai vượt ra ngoài các hệ thống High-NA 0.55-NA hiện tại, tập trung vào kiến trúc quang học, tiềm năng độ phân giải và hiệu ứng 3D của mặt nạ (reticle).",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/hyper-na-euv-the-next-extension-beyond-high-na-lithography-carl-zeiss-asml/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_790988626-wafer-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-10-07T23:59:04.403598+00:00",
+    "publishedAt": "2026-10-07T19:47:59+00:00"
   }
 ]
