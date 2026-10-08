@@ -1,0 +1,15 @@
+Article: https://semiwiki.com/ip/imagination-technologies/374484-webinar-the-convergence-of-edge-accelerators/
+Title: WEBINAR: The Convergence of Edge Accelerators
+Summary: <p><a href="https://register.gotowebinar.com/register/5884447051989143645?source=SemiWiki"></a></p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/1.png
+Author: Daniel Nenni
+Published date: Thu, 08 Oct 2026 15:00:08 +0000
+
+Article: https://semiwiki.com/eda/siemens-eda/374257-the-silent-killer-of-analog-reliability-why-spice-misses-floating-net/
+Title: The silent killer of analog reliability: Why SPICE misses floating net
+Summary: <h6 style="font-weight: 400;"><em><strong>By Bhanu Pandey</strong></em></h6>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/87450-fig1-top-level-odo-schematic.jpg
+Author: Admin
+Published date: Thu, 08 Oct 2026 13:00:35 +0000
+
+Completed! Added a total of 2 new news items to Firebase.

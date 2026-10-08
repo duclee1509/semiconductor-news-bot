@@ -5262,5 +5262,33 @@
     "author": "Technical Paper Link",
     "createdAt": "2026-10-07T23:59:04.403598+00:00",
     "publishedAt": "2026-10-07T19:47:59+00:00"
+  },
+  {
+    "title_org": "WEBINAR: The Convergence of Edge Accelerators",
+    "title_vietnamese": "HỘI THẢO TRỰC TUYẾN: Sự hội tụ của các bộ tăng tốc biên",
+    "summary_org": "The rapid growth of AI at the edge is forcing SoC architects to rethink traditional processor designs. Dedicated NPUs deliver impressive performance for today's models, but evolving AI workloads, increasing system complexity and growing pressure on power and silicon budgets are exposing the limitations of fixed-function accelerators.",
+    "summary_vietnamese": "Sự phát triển nhanh chóng của AI ở biên đang buộc các kiến trúc sư SoC phải suy nghĩ lại về các thiết kế vi xử lý truyền thống. Các NPU chuyên dụng mang lại hiệu suất ấn tượng cho các mô hình ngày nay, nhưng khối lượng công việc AI không ngừng phát triển, độ phức tạp của hệ thống gia tăng và áp lực ngày càng lớn về ngân sách năng lượng lẫn silicon đang phơi bày những hạn chế của bộ tăng tốc chức năng cố định.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ip/imagination-technologies/374484-webinar-the-convergence-of-edge-accelerators/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/1.png",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-08T15:08:59.920479+00:00",
+    "publishedAt": "2026-10-08T15:00:08+00:00"
+  },
+  {
+    "title_org": "The silent killer of analog reliability: Why SPICE misses floating net",
+    "title_vietnamese": "Sát thủ thầm lặng của độ tin cậy mạch analog: Tại sao SPICE bỏ sót mạng thả nổi",
+    "summary_org": "The semiconductor industry faces a historic low in first-silicon success rates, with nearly 68% of designs requiring multiple spins due to verification challenges. This article explores how traditional SPICE simulators often fail to detect floating nets, which serve as a critical reliability risk in analog designs.",
+    "summary_vietnamese": "Ngành công nghiệp bán dẫn đang chứng kiến tỷ lệ thành công ở mẫu silicon đầu tiên giảm xuống mức thấp kỷ lục, với gần 68% thiết kế phải chạy lại nhiều lần do các thách thức về kiểm chứng. Bài viết này khám phá lý do tại sao các trình mô phỏng SPICE truyền thống thường không phát hiện được các mạng thả nổi (floating net), vốn là rủi ro độ tin cậy nghiêm trọng trong thiết kế analog.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/siemens-eda/374257-the-silent-killer-of-analog-reliability-why-spice-misses-floating-net/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/87450-fig1-top-level-odo-schematic.jpg",
+    "author": "Admin",
+    "createdAt": "2026-10-08T15:09:04.217653+00:00",
+    "publishedAt": "2026-10-08T13:00:35+00:00"
   }
 ]
