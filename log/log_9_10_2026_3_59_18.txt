@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/semiconductor-manufacturers/intel/374308-data-center-energy-trends-force-a-rethink-of-chip-power-delivery/
+Title: Data Center Energy Trends Force a Rethink of Chip Power Delivery
+Summary: <p>Intel Foundry published a two article series on chip power delivery that are worth reading. Here is a quick summary:</p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Data-Center-Energy-Trends-Force-a-Rethink-of-Chip-Power-Delivery.png
+Author: Daniel Nenni
+Published date: Thu, 08 Oct 2026 17:00:53 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

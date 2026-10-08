@@ -5290,5 +5290,19 @@
     "author": "Admin",
     "createdAt": "2026-10-08T15:09:04.217653+00:00",
     "publishedAt": "2026-10-08T13:00:35+00:00"
+  },
+  {
+    "title_org": "Data Center Energy Trends Force a Rethink of Chip Power Delivery",
+    "title_vietnamese": "Xu hướng năng lượng trung tâm dữ liệu buộc phải thay đổi cách cung cấp nguồn cho chip",
+    "summary_org": "Intel Foundry published a two-part article series highlighting how artificial intelligence is transforming semiconductor power delivery requirements. As transistors become faster and packaging denser, innovative power delivery engineering is increasingly vital for future chip performance in data centers.",
+    "summary_vietnamese": "Intel Foundry đã xuất bản một loạt bài viết gồm hai phần nhấn mạnh cách trí tuệ nhân tạo đang thay đổi các yêu cầu về cung cấp nguồn cho chất bán dẫn. Khi các transistor trở nên nhanh hơn và đóng gói dày đặc hơn, kỹ thuật cung cấp nguồn cải tiến ngày càng đóng vai trò quan trọng đối với hiệu năng chip trong tương lai tại các trung tâm dữ liệu.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/intel/374308-data-center-energy-trends-force-a-rethink-of-chip-power-delivery/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Data-Center-Energy-Trends-Force-a-Rethink-of-Chip-Power-Delivery.png",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-08T20:59:22.891439+00:00",
+    "publishedAt": "2026-10-08T17:00:53+00:00"
   }
 ]
