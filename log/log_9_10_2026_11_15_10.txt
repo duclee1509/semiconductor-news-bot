@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/finding-critical-defects-before-they-become-costly-failures-process-control-for-hybrid-bonding-and-advanced-packaging/
+Title: Finding Critical Defects Before They Become Costly Failures: Process Control For Hybrid Bonding And Advanced Packaging
+Summary: <p>How complementary inspection and metrology techniques can detect smaller defects and distinguish among a wide range of defect types within a unified workflow.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/10/Onto_Process-Control-for-Hybrid-Bonding-fig1.webp
+Author: Yong Gao
+Published date: Thu, 08 Oct 2026 07:06:04 +0000
+
+Article: https://semiengineering.com/demonstrating-plasma-as-a-viable-alternative-to-koh-for-lcp-metallization-applications/
+Title: Demonstrating Plasma As A Viable Alternative To KOH For LCP Metallization Applications
+Summary: <p>How optimized plasma processing can achieve effective surface roughening and activation.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/10/Nordson_Plasma-for-LCP-Metallization-fig12.webp
+Author: Kobe Zhang
+Published date: Thu, 08 Oct 2026 07:05:11 +0000
+
+Article: https://semiengineering.com/closing-the-visibility-gap/
+Title: Closing The Visibility Gap
+Summary: <p>More measurements don’t eliminate blind spots when each view captures only part of the device.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_490561109-wafers-05-21-2024.jpeg
+Author: Gregory Haley
+Published date: Thu, 08 Oct 2026 07:04:49 +0000
+
+Article: https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/
+Title: From Silicon To Systems: Redefining Competitive Advantage, Part 3
+Summary: <p>The next generation of industry leaders may look very different from the last. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_2043350125-08-26-scaled.jpeg?fit=2560%2C1440&ssl=1
+Author: Don Ong
+Published date: Thu, 08 Oct 2026 07:03:41 +0000
+
+Article: https://semiengineering.com/shift-left-complicates-fab-data-management/
+Title: Shift Left Complicates Fab Data Management
+Summary: <p>Streaming sensor data creates new challenges for advanced process control.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1100471013-08-26-scaled.jpeg
+Author: Anne Meixner and Laura Peters
+Published date: Thu, 08 Oct 2026 07:02:25 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
