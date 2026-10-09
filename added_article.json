@@ -5402,5 +5402,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-10-09T14:54:44.172661+00:00",
     "publishedAt": "2026-10-09T13:00:18+00:00"
+  },
+  {
+    "title_org": "TSMC 2026 OIP Ecosystem Forum Summary",
+    "title_vietnamese": "Tóm tắt Diễn đàn Hệ sinh thái OIP 2026 của TSMC",
+    "summary_org": "TSMC's 2026 Open Innovation Platform Forum highlighted artificial intelligence as the primary driver transforming semiconductor design. The event emphasized that achieving faster chips demands holistic advancements across logic, memory, advanced packaging, interconnects, power delivery, and design methodologies. TSMC positioned its partner ecosystem as central to tackling these complex system-level challenges.",
+    "summary_vietnamese": "Diễn đàn Hệ sinh thái Nền tảng Đổi mới Mở (OIP) 2026 của TSMC nhấn mạnh trí tuệ nhân tạo là động lực chính định hình lại thiết kế bán dẫn. Sự kiện nhấn mạnh rằng để tạo ra các con chip nhanh hơn, cần phải có sự tiến bộ toàn diện trên toàn bộ hệ thống bao gồm logic, memory, packaging, interconnects, power delivery và các phương pháp thiết kế. TSMC đặt hệ sinh thái đối tác của mình làm trọng tâm để giải quyết những thách thức phức tạp ở cấp độ hệ thống này.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/tsmc/374104-tsmc-2026-oip-ecosystem-forum-summary/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/TSMC-Ecosystem-Forum-Summary.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-09T20:30:05.644259+00:00",
+    "publishedAt": "2026-10-09T15:00:13+00:00"
   }
 ]

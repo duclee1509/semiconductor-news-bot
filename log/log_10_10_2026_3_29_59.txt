@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/semiconductor-manufacturers/tsmc/374104-tsmc-2026-oip-ecosystem-forum-summary/
+Title: TSMC 2026 OIP Ecosystem Forum Summary
+Summary: <p>TSMC’s 2026 Open Innovation Platform Forum presented artificial intelligence as the force reshaping semiconductor design. Its central argument is that faster chips will require progress across t...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/TSMC-Ecosystem-Forum-Summary.jpg
+Author: Daniel Nenni
+Published date: Fri, 09 Oct 2026 15:00:13 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
