@@ -5374,5 +5374,33 @@
     "author": "Anne Meixner and Laura Peters",
     "createdAt": "2026-10-09T04:15:30.807338+00:00",
     "publishedAt": "2026-10-08T07:02:25+00:00"
+  },
+  {
+    "title_org": "Chip Industry Week In Review",
+    "title_vietnamese": "Điểm tin tuần ngành công nghiệp vi mạch",
+    "summary_org": "This weekly review highlights major semiconductor developments, including a $2B foundry pact, financial updates from TSMC and Samsung, advancements in hyper-NA EUV and nanoimprint technologies, and rising scrutiny over AI chips. It also covers a massive $10T data center buildout, SiC investments, chip smuggling issues, and progress in power electronics, quantum hardware, and advanced packaging.",
+    "summary_vietnamese": "Bản tin tổng hợp tuần này điểm lại các sự kiện nổi bật trong ngành bán dẫn, bao gồm thỏa thuận foundry trị giá 2 tỷ USD, kết quả tài chính của TSMC và Samsung, bước tiến về công nghệ hyper-NA EUV và nanoimprint, cùng sự săm soi gay gắt hơn đối với chip AI. Bản tin cũng đề cập đến kế hoạch xây dựng trung tâm dữ liệu 10 nghìn tỷ USD, khoản đầu tư vào SiC, nạn buôn lậu chip, và những tiến bộ trong linh kiện điện tử công suất, phần cứng lượng tử.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-week-in-review-159/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_617037143-scaled.jpeg",
+    "author": "The SE Staff",
+    "createdAt": "2026-10-09T14:54:38.533940+00:00",
+    "publishedAt": "2026-10-09T07:01:17+00:00"
+  },
+  {
+    "title_org": "CASPA CEO Summit and Why it Matters",
+    "title_vietnamese": "Hội nghị thượng đỉnh CEO CASPA và tầm quan trọng của sự kiện",
+    "summary_org": "The author expresses excitement about attending the CASPA CEO Summit and moderating a panel discussion with three prominent AI startup CEOs. They also invite attendees to join the upcoming banquet event.",
+    "summary_vietnamese": "Tác giả bày tỏ sự hào hứng khi tham gia Hội nghị thượng đỉnh CEO CASPA và đóng vai trò điều phối một phiên thảo luận với CEO của ba startup AI nổi bật. Họ cũng gửi lời mời khách tham dự buổi tiệc chiêu đãi sắp diễn ra.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/events/374362-caspa-ceo-summit-and-why-it-matters/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/400x400-block.png",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-09T14:54:44.172661+00:00",
+    "publishedAt": "2026-10-09T13:00:18+00:00"
   }
 ]
