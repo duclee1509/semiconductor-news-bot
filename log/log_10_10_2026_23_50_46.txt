@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/lithography/374764-hyper-na-euv-the-next-frontier-in-chipmaking-could-arrive-in-2036/
+Title: Hyper-NA EUV: The Next Frontier in Chipmaking Could Arrive in 2036
+Summary: <p>EUV has long been an interesting story. We have written 200+ articles on EUV and they just keep on coming. Thankfully the premier lithography conference is right here in Silicon Valley. SPIE beg...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Hyper-NA-The-Next-Frontier-in-Chipmaking-and-When-It-Could-Arrive.jpg
+Author: Daniel Nenni
+Published date: Sat, 10 Oct 2026 12:00:54 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
