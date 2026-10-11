@@ -5444,5 +5444,47 @@
     "author": "Châu Tuấn",
     "createdAt": "2026-10-11T10:31:37.578177+00:00",
     "publishedAt": "2026-10-11T15:10:00+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Alex Higginbottom of Zenithon",
+    "title_vietnamese": "Phỏng vấn CEO Alex Higginbottom của Zenithon",
+    "summary_org": "Alex Higginbottom is the co-founder and CEO of Zenithon, a company established in July 2025 to develop the world's first models for extreme physics. With a background in deeptech commercialization and fusion research, he left his PhD studies after one year to launch the startup.",
+    "summary_vietnamese": "Alex Higginbottom là đồng sáng lập kiêm CEO của Zenithon, công ty được thành lập vào tháng 7 năm 2025 nhằm xây dựng các mô hình thế giới đầu tiên dành cho vật lý cực trị. Với nền tảng về thương mại hóa công nghệ sâu (deeptech) và nghiên cứu nhiệt hạch, ông đã rời bỏ chương trình nghiên cứu sinh tiến sĩ sau một năm để khởi nghiệp.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/374398-ceo-interview-with-alex-higginbottom-of-zenithon/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/zenithon-6-scaled.jpeg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-11T17:14:32.452000+00:00",
+    "publishedAt": "2026-10-11T17:00:22+00:00"
+  },
+  {
+    "title_org": "From 25 Million Pixels to a Six-Ounce Product: Engineering Visor for Manufacturing",
+    "title_vietnamese": "Từ 25 triệu điểm ảnh đến sản phẩm 170 gram: Kỹ thuật chế tạo kính hiển thị thông minh cho sản xuất",
+    "summary_org": "Integrating approximately 25 million pixels into a lightweight, six-ounce wearable device is fundamentally an engineering challenge involving optical systems, compute power, and energy management rather than just a display issue. Dr. Moh Kolbehdari explores the complex multidisciplinary engineering required to bring advanced visor technology to manufacturing environments.",
+    "summary_vietnamese": "Việc tích hợp khoảng 25 triệu điểm ảnh vào một thiết bị đeo nhẹ khoảng 170 gram về cơ bản là một thử thách kỹ thuật liên quan đến hệ thống quang học, năng lực tính toán và quản lý năng lượng hơn là chỉ là vấn đề hiển thị. Tác giả Tiến sĩ Moh Kolbehdari khám phá các kỹ thuật đa ngành phức tạp cần thiết để mang công nghệ kính hiển thị tiên tiến vào môi trường sản xuất.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/374425-from-25-million-pixels-to-a-six-ounce-product-engineering-visor-for-manufacturing/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/From_25_million_Pixels_to_six_Ounce_product_Visors_semiwiki_sept30.jpg",
+    "author": "Moh Kolb",
+    "createdAt": "2026-10-11T17:14:36.511288+00:00",
+    "publishedAt": "2026-10-11T15:00:14+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Lieuwke de Jong of Sweet Atoms",
+    "title_vietnamese": "Phỏng vấn CEO Lieuwke de Jong của Sweet Atoms",
+    "summary_org": "This article features a CEO interview with Lieuwke de Jong, a globally experienced executive operating at the intersection of industry, government, and innovation. His extensive career spans sectors such as defense, aerospace, energy, life sciences, and advanced materials, connecting stakeholders across various fields.",
+    "summary_vietnamese": "Bài viết này giới thiệu cuộc phỏng vấn với Lieuwke de Jong, một nhà điều hành có kinh nghiệm toàn cầu hoạt động tại giao điểm giữa công nghiệp, chính phủ và đổi mới sáng tạo. Sự nghiệp của ông trải dài qua các lĩnh vực như quốc phòng, hàng không vũ trụ, năng lượng, khoa học đời sống và vật liệu tiên tiến, kết nối các bên liên quan trên nhiều lĩnh vực.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/374595-ceo-interview-with-lieuwke-de-jong-of-sweet-atoms/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Lieuwke-de-Jong.jpeg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-11T17:14:39.164090+00:00",
+    "publishedAt": "2026-10-11T13:00:11+00:00"
   }
 ]
