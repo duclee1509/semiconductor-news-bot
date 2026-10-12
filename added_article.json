@@ -5514,5 +5514,61 @@
     "author": "Jesse Allen",
     "createdAt": "2026-10-12T11:48:48.401052+00:00",
     "publishedAt": "2026-10-12T07:01:27+00:00"
+  },
+  {
+    "title_org": "CTO Interview with Dr. Zakir Syed of ClockEdge",
+    "title_vietnamese": "Phỏng vấn CTO Dr. Zakir Syed của ClockEdge",
+    "summary_org": "This article features an interview with Dr. Zakir Syed, Co-founder and CTO of ClockEdge, discussing his over 30 years of experience in electronic design automation (EDA) and semiconductor verification. He shares insights into the development of specialized simulation technology for advanced semiconductor clock networks.",
+    "summary_vietnamese": "Bài viết này là cuộc phỏng vấn với Tiến sĩ Zakir Syed, Đồng sáng lập kiêm Giám đốc Công nghệ (CTO) của ClockEdge, thảo luận về hơn 30 năm kinh nghiệm của ông trong lĩnh vực tự động hóa thiết kế điện tử (EDA) và kiểm tra vi mạch bán dẫn. Ông chia sẻ những góc nhìn chuyên sâu về việc phát triển công nghệ mô phỏng chuyên specialized dành cho các mạng lưới xung nhịp bán dẫn tiên tiến.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/clockedge/374633-cto-interview-with-dr-zakir-syed-of-clockedge/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Photo-Zakir-960x1200.png",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-12T20:48:35.007958+00:00",
+    "publishedAt": "2026-10-12T19:00:28+00:00"
+  },
+  {
+    "title_org": "Chips&Media targets AI memory bottlenecks with new compression IP",
+    "title_vietnamese": "Chips&Media giải quyết bài toán nghẽn cổ chai bộ nhớ AI bằng IP nén mới",
+    "summary_org": "Chips&Media has introduced a new Feature Map Compression IP designed to overcome data movement bottlenecks in artificial intelligence hardware. This technology marks the South Korean semiconductor IP supplier's strategic expansion beyond traditional video applications.",
+    "summary_vietnamese": "Chips&Media đã giới thiệu một IP nén Feature Map mới được thiết kế để khắc phục tình trạng nghẽn cổ chai trong việc truyền tải dữ liệu trên phần cứng trí tuệ nhân tạo. Công nghệ này đánh dấu bước mở rộng chiến lược của nhà cung cấp IP bán dẫn Hàn Quốc này vượt ra ngoài các ứng dụng video truyền thống.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ip/chipsmedia/374498-chipsmedia-targets-ai-memory-bottlenecks-with-new-compression-ip/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/ChipsMedia-targets-AI-memory-bottlenecks-with-new-compression-IP.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-12T20:48:38.841749+00:00",
+    "publishedAt": "2026-10-12T17:00:08+00:00"
+  },
+  {
+    "title_org": "Overcoming the Edge AI Power Wall with Low-Voltage Foundation IP",
+    "title_vietnamese": "Vượt qua rào cản năng lượng của Edge AI bằng IP nền tảng điện áp thấp",
+    "summary_org": "As AI workloads shift to endpoint hardware, edge AI devices struggle to meet real-time inference demands within strict power and thermal limits. With traditional silicon scaling slowing down, engineering teams are increasingly turning to innovative solutions like low-voltage foundation IP to overcome this power wall.",
+    "summary_vietnamese": "Khi khối lượng công việc AI chuyển dịch sang phần cứng đầu cuối, các thiết bị edge AI gặp khó khăn trong việc đáp ứng nhu cầu suy luận thời gian thực trong giới hạn nghiêm ngặt về năng lượng và nhiệt. Do việc thu nhỏ silicon truyền thống đang chậm lại, các kỹ sư đang ngày càng chuyển sang các giải pháp đổi mới như IP nền tảng điện áp thấp để vượt qua rào cản năng lượng này.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/artificial-intelligence/374757-overcoming-the-edge-ai-power-wall-with-low-voltage-foundation-ip/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Voltage-Regions-and-Impact-of-Voltage-Scaling.png",
+    "author": "Kalar Rajendiran",
+    "createdAt": "2026-10-12T20:48:41.772921+00:00",
+    "publishedAt": "2026-10-12T15:00:42+00:00"
+  },
+  {
+    "title_org": "Keysight Advances its Design Software with Agentic AI",
+    "title_vietnamese": "Keysight tích hợp Trí tuệ nhân tạo tác tử (Agentic AI) vào phần mềm thiết kế vi mạch",
+    "summary_org": "Keysight Technologies has updated its Advanced Design System (ADS) 2027 software to support integration with custom AI agents and large language models. This new capability allows radio frequency engineers to leverage AI for generating and optimizing complex circuits. The advancement marks a significant step in bringing modern AI automation to RF engineering workflows.",
+    "summary_vietnamese": "Keysight Technologies đã cập nhật phần mềm Advanced Design System (ADS) 2027 để hỗ trợ tích hợp các AI agents và mô hình ngôn ngữ lớn tùy chỉnh. Tính năng mới này cho phép các kỹ sư tần số vô tuyến tận dụng AI để tạo và tối ưu hóa các mạch điện phức tạp. Sự tiến bộ này đánh dấu một bước tiến quan trọng trong việc đưa tự động hóa AI hiện đại vào quy trình làm việc kỹ thuật RF.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/374576-keysight-advances-its-design-software-with-agentic-ai/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/AI-Orchestrates-RF-Circuit-Design.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-12T20:48:44.654758+00:00",
+    "publishedAt": "2026-10-12T13:00:01+00:00"
   }
 ]

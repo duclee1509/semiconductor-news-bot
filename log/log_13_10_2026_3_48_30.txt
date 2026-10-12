@@ -1,0 +1,29 @@
+Article: https://semiwiki.com/eda/clockedge/374633-cto-interview-with-dr-zakir-syed-of-clockedge/
+Title: CTO Interview with Dr. Zakir Syed of ClockEdge
+Summary: <p><strong>Dr. Zakir Syed</strong> is Co-founder and Chief Technology Officer of ClockEdge, where he has played a central role in developing specialized simulation technology for advanced semicondu...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Photo-Zakir-960x1200.png
+Author: Daniel Nenni
+Published date: Mon, 12 Oct 2026 19:00:28 +0000
+
+Article: https://semiwiki.com/ip/chipsmedia/374498-chipsmedia-targets-ai-memory-bottlenecks-with-new-compression-ip/
+Title: Chips&Media targets AI memory bottlenecks with new compression IP
+Summary: <p>Chips&#38;Media has announced a data compression technology aimed at one of the constraints in artificial intelligence hardware: moving data fast enough to keep processors busy. The South Korean...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/ChipsMedia-targets-AI-memory-bottlenecks-with-new-compression-IP.jpg
+Author: Daniel Nenni
+Published date: Mon, 12 Oct 2026 17:00:08 +0000
+
+Article: https://semiwiki.com/artificial-intelligence/374757-overcoming-the-edge-ai-power-wall-with-low-voltage-foundation-ip/
+Title: Overcoming the Edge AI Power Wall with Low-Voltage Foundation IP
+Summary: <p>As artificial intelligence (AI) workloads migrate to endpoint hardware, edge AI devices face immense pressure to deliver real-time inference within highly restrictive power and thermal envelopes...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Voltage-Regions-and-Impact-of-Voltage-Scaling.png
+Author: Kalar Rajendiran
+Published date: Mon, 12 Oct 2026 15:00:42 +0000
+
+Article: https://semiwiki.com/eda/374576-keysight-advances-its-design-software-with-agentic-ai/
+Title: Keysight Advances its Design Software with Agentic AI
+Summary: <p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/AI-Orchestrates-RF-Circuit-Design.jpg
+Author: Daniel Nenni
+Published date: Mon, 12 Oct 2026 13:00:01 +0000
+
+Completed! Added a total of 4 new news items to Firebase.
