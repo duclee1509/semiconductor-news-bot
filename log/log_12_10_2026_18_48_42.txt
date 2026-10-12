@@ -1,0 +1,8 @@
+Article: https://semiengineering.com/startup-funding-q3-2026/
+Title: Startup Funding: Q3 2026
+Summary: <p>80 startups raised $8.5B in Q3, with big hauls by companies tackling data movement and memory.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_125364811-startup-funding-03-23-23-scaled.jpeg?fit=2560%2C1707&ssl=1
+Author: Jesse Allen
+Published date: Mon, 12 Oct 2026 07:01:27 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
