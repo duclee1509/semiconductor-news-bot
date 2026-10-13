@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/agentic-ai-automates-rtl-waveform-analysis-and-debugging-columbia-google/
+Title: Agentic AI Automates RTL Waveform Analysis And Debugging (Columbia, Google)
+Summary: <p>Researchers at Columbia University, Google DeepMind, and Google published a technical paper titled “Back to the Future: Rethinking EDA Infrastructure for Agentic Systems in Chip Design Verificat...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/wafer-06-26-AdobeStock_414995950-scaled.jpeg
+Author: Technical Paper Link
+Published date: Tue, 13 Oct 2026 20:20:40 +0000
+
+Article: https://spectrum.ieee.org/semiconductor-research
+Title: U.S. Chip Firms Bet Big on R&D
+Summary: <img src="https://spectrum.ieee.org/media-library/a-worker-in-a-clean-suit-using-a-front-opening-unified-pod-for-semiconductor-wafers.jpg?id=68417267&amp;width=1245&amp;height=700&amp;coordinates=0...
+Thumbnail: https://spectrum.ieee.org/media-library/a-worker-in-a-clean-suit-using-a-front-opening-unified-pod-for-semiconductor-wafers.jpg?id=68417267&width=1200&height=600&coordinates=0%2C326%2C0%2C299
+Author: Lucas Laursen
+Published date: Tue, 13 Oct 2026 11:00:05 +0000
+
+Article: https://semiwiki.com/ceo-interviews/374784-interview-with-erich-hong-vp-of-engineering-at-mixel-a-silvaco-company/
+Title: Interview with Eric Hong, VP of Engineering at Mixel, a Silvaco Company
+Summary: <p>Eric Hong is Vice President of Engineering at Mixel, a Silvaco company, where he leads the development of analog and mixed-signal IP, including high-speed PHY and SerDes solutions. Prior to Mixe...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/my-pic.jpg
+Author: Daniel Nenni
+Published date: Tue, 13 Oct 2026 19:00:52 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/teradyne/374603-teradyne-unveils-magnum-e2-for-the-next-wave-of-ai-memory/
+Title: Teradyne Unveils Magnum E2 for the Next Wave of AI Memory
+Summary: <p>Teradyne has announced Magnum E2, a memory test system designed to address the increasingly demanding interfaces used in artificial intelligence and high performance computing. The platform targ...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/High-speed-memory-testing-for-AI.jpg
+Author: Daniel Nenni
+Published date: Tue, 13 Oct 2026 17:00:56 +0000
+
+Article: https://vnexpress.net/ngua-o-nganh-ban-dan-thach-thuc-the-doc-ton-cua-nvidia-5131419.html
+Title: 'Ngựa ô' ngành bán dẫn thách thức thế độc tôn của Nvidia
+Summary: Cerebras Systems đang được ví như "cơn ác mộng của Nvidia" với sản phẩm chủ lực là dòng chip lớn bằng chiếc đĩa có tốc độ xử lý siêu nhanh.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/10/12/VNEChip-1791799934-6053-1791800174.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=16gvRBTTFC2QvLoqjXuzWw
+Author: VnExpress
+Published date: Tue, 13 Oct 2026 07:00:00 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
