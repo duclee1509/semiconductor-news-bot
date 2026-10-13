@@ -5612,5 +5612,61 @@
     "author": "Technical Paper Link",
     "createdAt": "2026-10-13T05:08:57.138163+00:00",
     "publishedAt": "2026-10-12T22:25:06+00:00"
+  },
+  {
+    "title_org": "Chip Industry Technical Paper Roundup: Oct. 13",
+    "title_vietnamese": "Điểm tin tài liệu kỹ thuật ngành công nghiệp chip: Ngày 13 tháng 10",
+    "summary_org": "This article provides a weekly roundup of key technical papers focusing on semiconductor innovations. Topics range from M3D neuromorphic computing and 2D semiconductors to hyper-NA EUV lithography and AI accelerator security. These research papers highlight cutting-edge advancements in materials, lithography, and hardware design for future chip manufacturing.",
+    "summary_vietnamese": "Bài viết này tổng hợp hàng tuần các tài liệu kỹ thuật quan trọng tập trung vào các đổi mới trong lĩnh vực bán dẫn. Các chủ đề bao gồm điện toán thần kinh M3D và chất bán dẫn 2D đến quang khắc hyper-NA EUV và bảo mật bộ tăng tốc AI. Các tài liệu nghiên cứu này làm nổi bật những tiến bộ tiên tiến về vật liệu, quang khắc và thiết kế phần cứng cho sản xuất chip trong tương lai.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-13-2/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_1017253461-March-26-2025.jpeg?fit=1200%2C608&ssl=1",
+    "author": "Linda Christensen",
+    "createdAt": "2026-10-13T15:32:31.989931+00:00",
+    "publishedAt": "2026-10-13T07:01:36+00:00"
+  },
+  {
+    "title_org": "VSORA’s Sandra Rivera on the Inference Era: Demand Is Real, But Not Everyone Survives",
+    "title_vietnamese": "Sandra Rivera của VSORA bàn về kỷ̉ nguyên suy luận (Inference): Nhu cầu là thật, nhưng không phải ai cũng sống sót",
+    "summary_org": "Sandra Rivera, Chair of VSORA and former Intel executive, discussed the current state of the AI inference market in a recent Bloomberg interview. She emphasized that while demand for AI is genuine, the intense market competition means not all industry players will survive.",
+    "summary_vietnamese": "Sandra Rivera, Chủ tịch VSORA và cựu lãnh đạo Intel, đã thảo luận về tình hình hiện tại của thị trường AI inference trong một cuộc phỏng vấn gần đây với Bloomberg. Bà nhấn mạnh rằng mặc dù nhu cầu về AI là có thật, nhưng sự cạnh tranh khốc liệt trên thị trường đồng nghĩa với việc không phải mọi doanh nghiệp đều có thể sống sót.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/vsora/374585-vsoras-sandra-rivera-on-the-inference-era-demand-is-real-but-not-everyone-survives/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Sandra-Rivera-SemiWiki.jpg",
+    "author": "Lauro Rizzatti",
+    "createdAt": "2026-10-13T15:34:08.054810+00:00",
+    "publishedAt": "2026-10-13T15:00:49+00:00"
+  },
+  {
+    "title_org": "Intel’s Open Software Blueprint: Why Production AI Needs More Than GPUs",
+    "title_vietnamese": "Bản thiết kế phần mềm mở của Intel: Vì sao AI trong sản xuất cần nhiều hơn thế hệ GPU",
+    "summary_org": "Intel argues that enterprise AI requires an integrated ecosystem where open software acts as the crucial connective tissue linking CPUs, GPUs, data, and business applications. According to company executives, the true value of a model relies heavily on the surrounding system rather than hardware accelerators alone.",
+    "summary_vietnamese": "Intel lập luận rằng AI doanh nghiệp đòi hỏi một hệ sinh thái tích hợp, trong đó phần mềm mở đóng vai trò là chất kết nối quan trọng liên kết CPU, GPU, dữ liệu và các ứng dụng kinh doanh. Theo các giám đốc điều hành của công ty, giá trị thực sự của một mô hình phụ thuộc phần lớn vào hệ thống xung quanh chứ không chỉ riêng các bộ gia tốc phần cứng.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/intel/374536-intels-open-software-blueprint-why-production-ai-needs-more-than-gpus/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Open-software-unites-chips-and-AI.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-13T15:35:27.814313+00:00",
+    "publishedAt": "2026-10-13T13:00:25+00:00"
+  },
+  {
+    "title_org": "Xuất khẩu bán dẫn của Việt Nam tăng gần 32% mỗi năm",
+    "title_vietnamese": "",
+    "summary_org": "Xuất khẩu bán dẫn của Việt Nam ghi nhận mức tăng trưởng bình quân ấn tượng đạt 31,8% mỗi năm trong giai đoạn từ 2006 đến 2025. Số liệu này dựa trên báo cáo nghiên cứu từ tổ chức Frost & Sullivan, phản ánh sự phát triển mạnh mẽ của ngành công nghiệp vi mạch bán dẫn trong nước.",
+    "summary_vietnamese": "",
+    "source": "VnExpress",
+    "url": "https://vnexpress.net/xuat-khau-ban-dan-cua-viet-nam-tang-gan-32-moi-nam-5131644.html",
+    "category": "VietNam",
+    "isPolicy": false,
+    "thumbnail": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/13/ipv-png-1791869307-8223-1791869961.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=Sig-AraiDONeD0Z8nD4q6A",
+    "author": "Viễn Thông",
+    "createdAt": "2026-10-13T15:36:54.759444+00:00",
+    "publishedAt": "2026-10-13T08:58:19+00:00"
   }
 ]
