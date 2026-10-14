@@ -5878,5 +5878,47 @@
     "author": "Ngọc An",
     "createdAt": "2026-10-14T16:23:21.448199+00:00",
     "publishedAt": "2026-10-14T16:28:00+00:00"
+  },
+  {
+    "title_org": "Simulations Pinpoint Leakage Pathway In GAAFETs (Sandia, Luxembourg)",
+    "title_vietnamese": "Mô phỏng xác định chính xác đường rò rỉ dòng điện trong GAAFET (Sandia, Luxembourg)",
+    "summary_org": "Researchers from Sandia National Laboratories and the Luxembourg Institute of Science and Technology published a paper on using predictive first-principles simulations to reveal new leakage paths in Gate-All-Around Field-Effect Transistors (GAAFETs). This research addresses critical challenges in advanced semiconductor nodes as GAAFETs succeed FinFETs for continued scaling.",
+    "summary_vietnamese": "Các nhà nghiên cứu từ Phòng thí nghiệm Quốc gia Sandia và Viện Khoa học và Công nghệ Luxembourg đã công bố một bài báo về việc sử dụng mô phỏng nguyên lý đầu tiên mang tính dự đoán để làm rõ các đường rò rỉ mới trong Transistor hiệu ứng trường cổng toàn diện (GAAFET). Nghiên cứu này giải quyết các thách thức quan trọng ở các nút bán dẫn tiên tiến khi GAAFET kế nhiệm FinFET để tiếp tục thu nhỏ kích thước.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/simulations-pinpoint-leakage-pathway-in-gaafets-sandia-luxembourg/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-10.44.39-AM.png",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-10-14T22:56:49.016420+00:00",
+    "publishedAt": "2026-10-14T17:44:17+00:00"
+  },
+  {
+    "title_org": "CTO Interview with Sirish Munipalli of Moores Lab AI",
+    "title_vietnamese": "Phỏng vấn CTO Sirish Munipalli của Moores Lab AI",
+    "summary_org": "Sirish Munipalli, Co-Founder and CTO of Moores Lab AI, discusses the development of agentic AI for chip design verification, highlighting the company's SpecAgent(tm) platform. With about 15 years of experience in complex silicon design and verification, including FPGA prototyping at Intel, he shares insights into modern hardware validation.",
+    "summary_vietnamese": "Sirish Munipalli, Đồng sáng lập kiêm Giám đốc Công nghệ (CTO) của Moores Lab AI, thảo luận về việc phát triển AI tác tử (agentic AI) cho xác thực thiết kế chip, nổi bật với nền tảng SpecAgent(tm) của công ty. Với khoảng 15 năm kinh nghiệm thiết kế và xác thực chip bán dẫn phức tạp, bao gồm cả việc tạo mẫu FPGA tại Intel, ông chia sẻ những góc nhìn sâu sắc về công nghệ xác thực phần cứng hiện đại.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/moores-lab-ai/374851-cto-interview-with-sirish-munipalli-of-moores-lab-ai/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Sirish-Headshot_small-800x1200.png",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-14T22:56:58.020370+00:00",
+    "publishedAt": "2026-10-14T19:00:50+00:00"
+  },
+  {
+    "title_org": "What DARPA Taught Me About Building Trust into Silicon",
+    "title_vietnamese": "Bài học từ DARPA về cách xây dựng lòng tin vào linh kiện bán dẫn",
+    "summary_org": "This article reflects on the author's PhD research funded by DARPA's Automatic Implementation of Secure Silicon (AISS) program. It highlights the unique approach to chip design reviews that emphasize building trust and security directly into silicon. The piece explores the foundational lessons learned about securing hardware from the ground up.",
+    "summary_vietnamese": "Bài viết này phản ánh về nghiên cứu bậc tiến sĩ của tác giả do chương trình Automatic Implementation of Secure Silicon (AISS) của DARPA tài trợ. Nội dung nhấn mạnh cách tiếp cận độc đáo trong việc đánh giá thiết kế chip, trong đó đặt trọng tâm vào việc xây dựng lòng tin và tính bảo mật ngay từ trong silicon. Bài viết khám phá những bài học nền tảng rút ra về việc bảo mật phần cứng từ gốc.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/374529-what-darpa-taught-me-about-building-trust-into-silicon/",
+    "category": "International",
+    "isPolicy": true,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/semiwiki-fig1-pass-tradeoff-scaled.jpg",
+    "author": "Admin",
+    "createdAt": "2026-10-14T22:57:02.447884+00:00",
+    "publishedAt": "2026-10-14T17:00:34+00:00"
   }
 ]
