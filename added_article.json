@@ -5822,5 +5822,61 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-10-14T09:14:34.725587+00:00",
     "publishedAt": "2026-10-13T19:00:52+00:00"
+  },
+  {
+    "title_org": "Characterization of HBM Power Consumption (ETH Zurich, NYU)",
+    "title_vietnamese": "Đặc trưng hóa mức tiêu thụ điện năng của HBM (ETH Zurich, NYU)",
+    "summary_org": "Researchers from ETH Zurich and New York University have published a technical paper providing the first comprehensive experimental characterization and modeling of power consumption using real HBM2 DRAM chips. Their extensive work yields valuable empirical data to understand how modern High Bandwidth Memory consumes power under various conditions.",
+    "summary_vietnamese": "Các nhà nghiên cứu từ ETH Zurich và Đại học New York đã công bố một bài báo kỹ thuật cung cấp nghiên cứu thực nghiệm và mô hình hóa toàn diện đầu tiên về mức tiêu thụ điện năng sử dụng các chip HBM2 DRAM thực tế. Công trình nghiên cứu quy mô lớn này mang lại dữ liệu thực nghiệm giá trị để hiểu rõ cách thức mà bộ nhớ băng thông cao hiện đại tiêu thụ năng lượng dưới các điều kiện khác nhau.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/characterization-of-hbm-power-consumption-eth-zurich-nyu/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/Gray-yellow-chip-iStock-1197471629-07-26-20.jpg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-10-14T16:22:53.983819+00:00",
+    "publishedAt": "2026-10-14T15:27:00+00:00"
+  },
+  {
+    "title_org": "Delivering Silicon Systems Through AI Disruption, Part 1: Writing the Score",
+    "title_vietnamese": "Cung cấp hệ thống silicon qua sự gián đoạn của AI, Phần 1: Viết bản phổ",
+    "summary_org": "The article explores how artificial intelligence is disrupting semiconductor workflows and whether it helps engineering teams meet their tape-out schedules. It uses the metaphor of an orchestral score to represent designed workflows that need to harmonize efficiently.",
+    "summary_vietnamese": "Bài viết khám phá cách trí tuệ nhân tạo đang làm gián đoạn quy trình làm việc trong ngành bán dẫn và liệu nó có giúp các kỹ sư đáp ứng lịch trình tape-out hay không. Tác giả sử dụng phép ẩn dụ về bản phổ dàn nhạc để đại diện cho các quy trình thiết kế cần được phối hợp nhịp nhàng.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-services/flow-accel/374405-delivering-silicon-systems-through-ai-disruption-part-1-writing-the-score/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Writing-the-Score-SemiWiki.jpg",
+    "author": "Joel Jorgensen",
+    "createdAt": "2026-10-14T16:23:00.239172+00:00",
+    "publishedAt": "2026-10-14T15:00:10+00:00"
+  },
+  {
+    "title_org": "A Migration Feasibility Study Can Turn an Uncertain Re-Design into a Measurable Engineering Project",
+    "title_vietnamese": "Nghiên cứu tính khả thi về di dời IP có thể biến việc tái thiết kế đầy rủi ro thành một dự án kỹ thuật có thể đo lường",
+    "summary_org": "Moving semiconductor IP to a new process technology is often treated as a complex redesign problem. However, for analog and mixed-signal designs, a migration feasibility study leverages the valuable engineering knowledge already embedded in the existing physical layout instead of starting from scratch.",
+    "summary_vietnamese": "Việc chuyển đổi IP bán dẫn sang công nghệ quy trình mới thường được coi là một bài toán thiết kế lại phức tạp. Mặc dù vậy, đối với các thiết kế tương tự và hỗn hợp, một nghiên cứu tính khả thi về di dời giúp tận dụng tối đa kiến thức kỹ thuật có sẵn trong bố trí vật lý thay vì phải bắt đầu lại từ đầu.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-services/in2fab/374736-migration-feasibility-study/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/A-Migration-Feasibility-Study-Can-Turn-an-Uncertain-Re-Design-into-a-Measurable-Engineering-Project.png",
+    "author": "Mike Gianfagna",
+    "createdAt": "2026-10-14T16:23:03.184441+00:00",
+    "publishedAt": "2026-10-14T13:00:02+00:00"
+  },
+  {
+    "title_org": "Apple, Intel và Meta muốn mở rộng sản xuất công nghệ cao, phát triển công nghiệp bán dẫn",
+    "title_vietnamese": "",
+    "summary_org": "Phó thủ tướng thường trực Phạm Gia Túc đã tiếp Đại sứ Mỹ cùng các tập đoàn công nghệ lớn như Apple, Intel và Meta. Cuộc họp tập trung thảo luận về định hướng mở rộng sản xuất công nghệ cao và phát triển chuỗi cung ứng ngành bán dẫn tại thị trường Việt Nam.",
+    "summary_vietnamese": "",
+    "source": "Báo Tuổi Trẻ",
+    "url": "https://tuoitre.vn/apple-intel-va-meta-muon-mo-rong-san-xuat-cong-nghe-cao-phat-trien-cong-nghiep-ban-dan-100261014161411471.htm",
+    "category": "VietNam",
+    "isPolicy": true,
+    "thumbnail": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/10/14/base64-1791957230248190063650-17919684718901274789995-174-0-1221-2000-crop-179196902011654133741.png",
+    "author": "Ngọc An",
+    "createdAt": "2026-10-14T16:23:21.448199+00:00",
+    "publishedAt": "2026-10-14T16:28:00+00:00"
   }
 ]
