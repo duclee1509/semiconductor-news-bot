@@ -1,0 +1,43 @@
+Article: https://semiengineering.com/how-to-define-cpu-and-software-stack-performance-for-agentic-ai/
+Title: How To Define CPU And Software Stack Performance For Agentic AI
+Summary: <p>Measuring the performance demands of agentic AI; assessing CPU bottlenecks, SW stack efficiency, and system-level tradeoffs.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/10/Screenshot-2026-10-13-at-10.29.28-AM.png?fit=1738%2C1146&ssl=1
+Author: Arm
+Published date: Wed, 14 Oct 2026 07:04:19 +0000
+
+Article: https://semiengineering.com/generative-ai-on-a-general-purpose-neural-processor-gpnpu/
+Title: Generative AI On A General-Purpose Neural Processor (GPNPU)
+Summary: <p>A single processor architecture that unifies scalar, vector, and matrix execution in one ISA and one C++ programming model.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/10/Screenshot-2026-10-13-at-12.21.05-PM.png?fit=1468%2C660&ssl=1
+Author: Quadric.io
+Published date: Wed, 14 Oct 2026 07:03:02 +0000
+
+Article: https://semiengineering.com/simplify-electronic-photonic-design-workflows/
+Title: Simplify Electronic-Photonic Design Workflows: eBook
+Summary: <p>The natural evolution of EDA, extending proven design methodologies to include photonic devices, circuits, and systems. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/01/AdobeStock_322890385-01-01-26-scaled.jpeg?fit=2560%2C1350&ssl=1
+Author: Synopsys
+Published date: Wed, 14 Oct 2026 07:02:41 +0000
+
+Article: https://semiengineering.com/accelerating-advanced-ic-package-design-a-methodology-for-early-and-iterative-optimization-of-chiplet-integration/
+Title: Accelerating Advanced IC Package Design: A Methodology for Early and Iterative Optimization of Chiplet Integration
+Summary: <p>Optimizing chiplet integration, power integrity, and performance through early-stage IC package design and analysis.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/10/Screenshot-2026-10-13-at-12.08.49-PM.png?fit=2186%2C1048&ssl=1
+Author: Cadence
+Published date: Wed, 14 Oct 2026 07:02:00 +0000
+
+Article: https://semiengineering.com/why-heat-is-becoming-a-bigger-chip-design-issue/
+Title: Why Heat Is Becoming A Bigger Chip Design Issue
+Summary: <p>Increasing complexity requires thermal, electrical, and mechanical effects to be analyzed together.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/09/Screenshot-2026-09-12-at-3.09.59-PM.png?fit=1216%2C998&ssl=1
+Author: Ed Sperling
+Published date: Wed, 14 Oct 2026 07:01:20 +0000
+
+Article: https://semiwiki.com/ip/mixel/374784-interview-with-erich-hong-vp-of-engineering-at-mixel-a-silvaco-company/
+Title: Interview with Eric Hong, VP of Engineering at Mixel, a Silvaco Company
+Summary: <p>Eric Hong is Vice President of Engineering at Mixel, a Silvaco company, where he leads the development of analog and mixed-signal IP, including high-speed PHY and SerDes solutions. Prior to Mixe...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Eric-Hongs-Microchip-Superhero-Moment.jpg
+Author: Daniel Nenni
+Published date: Tue, 13 Oct 2026 19:00:52 +0000
+
+Completed! Added a total of 6 new news items to Firebase.
