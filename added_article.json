@@ -5920,5 +5920,61 @@
     "author": "Admin",
     "createdAt": "2026-10-14T22:57:02.447884+00:00",
     "publishedAt": "2026-10-14T17:00:34+00:00"
+  },
+  {
+    "title_org": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
+    "title_vietnamese": "Vượt ngoài thông số kỹ thuật: Yếu tố nào thực sự quyết định tầm với của PCIe Retimer?",
+    "summary_org": "The article explores the multiple interacting factors that determine the reach of PCIe retimers in high-speed transmission. It highlights that channel quality, silicon design, controller intelligence, and the transmission medium all play critical roles beyond standard specifications.",
+    "summary_vietnamese": "Bài viết khám phá các yếu tố tương tác đa chiều quyết định tầm với của PCIe retimer trong truyền dẫn tốc độ cao. Nội dung nhấn mạnh rằng chất lượng kênh truyền, thiết kế silicon, độ thông minh của controller và môi trường truyền dẫn đều đóng vai trò cốt lõi vượt ra ngoài các thông số kỹ thuật tiêu chuẩn.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/06/06-26-AdobeStock_143980229-scaled.jpeg",
+    "author": "Paul Karazuba",
+    "createdAt": "2026-10-15T08:46:52.015118+00:00",
+    "publishedAt": "2026-10-15T07:07:45+00:00"
+  },
+  {
+    "title_org": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion",
+    "title_vietnamese": "Tăng cường kết nối nút tiên tiến thông qua chèn lỗ via tự động",
+    "summary_org": "This article discusses how automated short-resilient via insertion techniques can significantly enhance the reliability and performance of advanced-node semiconductor interconnects. By optimizing via placement, designers can mitigate manufacturing defects and improve overall chip durability.",
+    "summary_vietnamese": "Bài viết thảo luận về cách các kỹ thuật chèn lỗ via tự động chống đoản mạch có thể nâng cao đáng kể độ tin cậy và hiệu suất của các kết nối bán dẫn ở nút tiên tiến. Bằng cách tối ưu hóa việc bố trí lỗ via, các nhà thiết kế có thể giảm thiểu các lỗi sản xuất và cải thiện độ bền tổng thể của chip.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/strengthening-advanced-node-interconnects-through-automated-via-insertion/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/10/Siemens_Auto-Via-Insertion-fig1-dense-layout.jpg",
+    "author": "Shehab Ashraf",
+    "createdAt": "2026-10-15T08:47:02.087524+00:00",
+    "publishedAt": "2026-10-15T07:06:02+00:00"
+  },
+  {
+    "title_org": "AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity",
+    "title_vietnamese": "AMBA C2C: Tiến bước với nền tảng AMBA hội tụ cho kết nối Chip-to-Chip",
+    "summary_org": "The article discusses the expansion of chiplet connectivity across AXI and CHI protocols, utilizing scalable protocol subsets, interoperability, and flexible transport support. AMBA C2C provides a unified foundation to enhance data communication for advanced semiconductor packaging and heterogeneous integration.",
+    "summary_vietnamese": "Bài viết thảo luận về việc mở rộng kết nối chiplet trên các giao thức AXI và CHI, tận dụng các tập lệnh con có khả năng mở rộng, tính tương tác và hỗ trợ truyền tải linh hoạt. AMBA C2C cung cấp một nền tảng hợp nhất để nâng cao khả năng truyền thông dữ liệu cho việc đóng gói bán dẫn tiên tiến và tích hợp dị thể.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/amba-c2c-moving-forward-with-a-converged-amba-foundation-for-c2c-connectivity/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/10/Arm_AMBA-C2C-converged-foundation-fig1.png?fit=1682%2C520&ssl=1",
+    "author": "Francisco Socal",
+    "createdAt": "2026-10-15T08:47:17.941394+00:00",
+    "publishedAt": "2026-10-15T07:02:37+00:00"
+  },
+  {
+    "title_org": "Why Open-Weight AI Matters",
+    "title_vietnamese": "Lý do AI trọng số mở đóng vai trò quan trọng",
+    "summary_org": "Proprietary models currently maintain an advantage in performance, but open-weight AI models provide significantly greater flexibility for deployment. This adaptability makes them increasingly crucial in the evolving semiconductor and AI landscape.",
+    "summary_vietnamese": "Các mô hình độc quyền hiện vẫn duy trì lợi thế về hiệu năng, nhưng các mô hình AI trọng số mở mang lại tính linh hoạt cao hơn đáng kể cho việc triển khai. Khả năng thích ứng này khiến chúng ngày càng trở nên quan trọng trong bối cảnh công nghệ bán dẫn và AI đang không ngừng phát triển.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/why-open-weight-ai-matters/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_1104488381-03-26-2025-scaled.jpeg?fit=2560%2C1600&ssl=1",
+    "author": "Ann Mutschler",
+    "createdAt": "2026-10-15T08:47:29.251851+00:00",
+    "publishedAt": "2026-10-15T07:02:13+00:00"
   }
 ]
