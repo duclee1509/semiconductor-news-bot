@@ -6032,5 +6032,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-10-15T16:11:48.663374+00:00",
     "publishedAt": "2026-10-15T13:00:07+00:00"
+  },
+  {
+    "title_org": "Design the Right Chip: Why Prototyping Has to Be Easy",
+    "title_vietnamese": "Thiết kế đúng loại vi mạch: Tại sao việc tạo mẫu phải trở nên dễ dàng",
+    "summary_org": "The article highlights that most mainstream verification methodologies focus on implementing a given specification correctly rather than ensuring whether the right chip is being designed in the first place. It emphasizes the critical need for making semiconductor prototyping easy to bridge this gap in the design process.",
+    "summary_vietnamese": "Bài viết nhấn mạnh rằng hầu hết các phương pháp xác thực chủ đạo hiện nay chỉ tập trung vào việc hiện thực hóa một thông số kỹ thuật cho trước một cách chính xác, chứ không đảm bảo liệu từ đầu chúng ta có đang thiết kế đúng loại vi mạch hay không. Điều này nhấn mạnh nhu cầu cấp thiết về việc đơn giản hóa quá trình tạo mẫu vi mạch (prototyping) để thu hẹp khoảng cách trong quy trình thiết kế.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/prototyping/s2c-eda/374637-design-the-right-chip-why-prototyping-has-to-be-easy/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/pic.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-15T22:51:35.420419+00:00",
+    "publishedAt": "2026-10-15T17:00:53+00:00"
   }
 ]
