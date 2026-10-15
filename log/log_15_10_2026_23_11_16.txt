@@ -1,0 +1,29 @@
+Article: https://semiengineering.com/building-ai-infrastructure-for-greater-choice-and-flexibility/
+Title: Building AI Infrastructure For Greater Choice And Flexibility
+Summary: <p>Open interfaces and interoperability allow designers to choose technologies based on the needs of the system.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/10/Cadence_Building-AI-Infra-Choice-Flexibility-fig1.webp?fit=963%2C432&ssl=1
+Author: Mayank Bhatnagar
+Published date: Thu, 15 Oct 2026 07:03:05 +0000
+
+Article: https://spectrum.ieee.org/monazite-rare-earth
+Title: Can a Radioactive Ore Break China’s Grip on Rare Earths?
+Summary: <img src="https://spectrum.ieee.org/media-library/a-single-earth-moving-vehicle-drives-on-a-terraced-area-in-a-surface-mine.jpg?id=68422625&amp;width=1245&amp;height=700&amp;coordinates=0%2C156%2C0...
+Thumbnail: https://spectrum.ieee.org/media-library/image.jpg?id=68422625&width=1200&height=600&coordinates=0%2C312%2C0%2C313
+Author: Glenn Zorpette
+Published date: Thu, 15 Oct 2026 14:53:02 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/374900-why-semiconductor-ai-starts-with-data-not-algorithms/
+Title: Why Semiconductor AI Starts with Data, Not Algorithms
+Summary: <p><em>The next gains from AI in semiconductors will come less from models and more from making fab and test data reliable, connected and tied to engineering decisions.</em></p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Fig1_context.jpg
+Author: Admin
+Published date: Thu, 15 Oct 2026 15:00:29 +0000
+
+Article: https://semiwiki.com/eda/synopsys/374743-why-ai-security-starts-at-the-chip-level/
+Title: Why AI Security Starts at the Chip Level
+Summary: <p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Luminous-Shield-Over-an-AI-Chip.jpg
+Author: Daniel Nenni
+Published date: Thu, 15 Oct 2026 13:00:07 +0000
+
+Completed! Added a total of 4 new news items to Firebase.

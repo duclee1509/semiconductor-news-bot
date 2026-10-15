@@ -5976,5 +5976,61 @@
     "author": "Ann Mutschler",
     "createdAt": "2026-10-15T08:47:29.251851+00:00",
     "publishedAt": "2026-10-15T07:02:13+00:00"
+  },
+  {
+    "title_org": "Building AI Infrastructure For Greater Choice And Flexibility",
+    "title_vietnamese": "Xây dựng cơ sở hạ tầng AI nhằm gia tăng sự lựa chọn và tính linh hoạt",
+    "summary_org": "Open interfaces and interoperability enable system designers to select the most suitable technologies based on specific system requirements. This approach emphasizes flexibility and customizability in building modern AI infrastructure.",
+    "summary_vietnamese": "Các giao diện mở và tính khả tương tác cho phép nhà thiết kế hệ thống lựa chọn công nghệ phù hợp nhất dựa trên các yêu cầu cụ thể của hệ thống. Tiếp cận này nhấn mạnh tính linh hoạt và khả năng tùy chỉnh trong việc xây dựng cơ sở hạ tầng AI hiện đại.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/building-ai-infrastructure-for-greater-choice-and-flexibility/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/10/Cadence_Building-AI-Infra-Choice-Flexibility-fig1.webp?fit=963%2C432&ssl=1",
+    "author": "Mayank Bhatnagar",
+    "createdAt": "2026-10-15T16:11:26.269817+00:00",
+    "publishedAt": "2026-10-15T07:03:05+00:00"
+  },
+  {
+    "title_org": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
+    "title_vietnamese": "Liệu quặng phóng xạ có thể phá vỡ thế độc quyền đất hiếm của Trung Quốc?",
+    "summary_org": "Global efforts to break China's rare earth dominance are increasingly focusing on monazite, a radioactive ore containing critical elements like neodymium, praseodymium, and dysprosium. However, processing monazite presents significant challenges, particularly regarding the handling and disposal of toxic radioactive byproducts like thorium, as well as regulatory hurdles and speculative practices within the industry.",
+    "summary_vietnamese": "Các nỗ lực toàn cầu nhằm phá vỡ thế độc quyền đất hiếm của Trung Quốc đang ngày càng tập trung vào monazite, một loại quặng phóng xạ chứa các nguyên tố quan trọng như neodymium, praseodymium và dysprosium. Mặc dù vậy, việc chế biến monazite vấp phải nhiều thách thức lớn, đặc biệt là khâu xử lý và lưu trữ các sản phẩm phụ phóng xạ độc hại như thorium, cùng với các rào cản pháp lý và vấn nạn đầu cơ trong ngành.",
+    "source": "IEEE Spectrum - Semiconductors",
+    "url": "https://spectrum.ieee.org/monazite-rare-earth",
+    "category": "International",
+    "isPolicy": true,
+    "thumbnail": "https://spectrum.ieee.org/media-library/image.jpg?id=68422625&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
+    "author": "Glenn Zorpette",
+    "createdAt": "2026-10-15T16:11:34.318820+00:00",
+    "publishedAt": "2026-10-15T14:53:02+00:00"
+  },
+  {
+    "title_org": "Why Semiconductor AI Starts with Data, Not Algorithms",
+    "title_vietnamese": "Tại sao AI trong ngành bán dẫn bắt đầu từ dữ liệu chứ không phải thuật toán",
+    "summary_org": "The article emphasizes that future AI gains in semiconductor manufacturing will stem less from advanced models and more from making fab and test data reliable, connected, and linked to engineering decisions. Semiconductor manufacturers are constantly pressured to adopt new AI models, but the foundation must start with data quality.",
+    "summary_vietnamese": "Bài viết nhấn mạnh rằng những bước tiến tiếp theo của AI trong sản xuất bán dẫn sẽ ít đến từ các mô hình tiên tiến mà chủ yếu đến từ việc làm cho dữ liệu fab và kiểm thử trở nên đáng tin cậy, được kết nối và gắn liền với các quyết định kỹ thuật. Các nhà sản xuất bán dẫn liên tục chịu áp lực áp dụng các mô hình AI mới, nhưng nền tảng phải bắt đầu từ chất lượng dữ liệu.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/374900-why-semiconductor-ai-starts-with-data-not-algorithms/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Fig1_context.jpg",
+    "author": "Admin",
+    "createdAt": "2026-10-15T16:11:41.466586+00:00",
+    "publishedAt": "2026-10-15T15:00:29+00:00"
+  },
+  {
+    "title_org": "Why AI Security Starts at the Chip Level",
+    "title_vietnamese": "Tại sao bảo mật AI bắt đầu từ cấp độ vi mạch",
+    "summary_org": "Artificial intelligence is increasingly integrated into critical infrastructure, handling sensitive data and relying on complex hardware. A white paper by Synopsys highlights the growing need to address security challenges starting from the very foundation at the chip level.",
+    "summary_vietnamese": "Trí tuệ nhân tạo ngày càng được tích hợp sâu vào hạ tầng trọng yếu, xử lý dữ liệu nhạy cảm và phụ thuộc vào phần cứng phức tạp. Một tài liệu trắng từ Synopsys nhấn mạnh nhu cầu cấp bách trong việc giải quyết các thách thức bảo mật ngay từ nền tảng phần cứng ở cấp độ vi mạch.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/synopsys/374743-why-ai-security-starts-at-the-chip-level/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Luminous-Shield-Over-an-AI-Chip.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-15T16:11:48.663374+00:00",
+    "publishedAt": "2026-10-15T13:00:07+00:00"
   }
 ]
