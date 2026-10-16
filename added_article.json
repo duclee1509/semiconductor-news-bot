@@ -6046,5 +6046,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-10-15T22:51:35.420419+00:00",
     "publishedAt": "2026-10-15T17:00:53+00:00"
+  },
+  {
+    "title_org": "Chip Industry Week In Review",
+    "title_vietnamese": "Điểm tin ngành công nghiệp vi mạch trong tuần",
+    "summary_org": "This week's review highlights accelerating fab expansions, China's advancements in memory and EUV technologies, and major funding rounds for optical and 3D-compute startups. Key industry events included SEMICON West and OCP, alongside new developments in 3D SiP, quantum hardware, and 300mm fab spending.",
+    "summary_vietnamese": "Điểm tin tuần này nổi bật với việc tăng tốc mở rộng các nhà máy fab, những tiến bộ của Trung Quốc trong công nghệ nhớ và EUV, cùng các vòng gọi vốn lớn cho các startup về quang học và điện toán 3D. Các sự kiện lớn trong ngành bao gồm SEMICON West và OCP, bên cạnh những phát triển mới về 3D SiP, phần cứng lượng tử và chi tiêu cho fab 300mm.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-week-in-review-160/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_461734658-06-18-24.jpeg?fit=1200%2C747&ssl=1",
+    "author": "The SE Staff",
+    "createdAt": "2026-10-16T08:42:09.393109+00:00",
+    "publishedAt": "2026-10-16T07:01:05+00:00"
   }
 ]
