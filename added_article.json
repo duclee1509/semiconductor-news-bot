@@ -6060,5 +6060,33 @@
     "author": "The SE Staff",
     "createdAt": "2026-10-16T08:42:09.393109+00:00",
     "publishedAt": "2026-10-16T07:01:05+00:00"
+  },
+  {
+    "title_org": "TSMC’s AI Expansion Signals a Broader Shift in Computing",
+    "title_vietnamese": "Việc mở rộng AI của TSMC báo hiệu sự chuyển dịch rộng lớn hơn trong điện toán",
+    "summary_org": "TSMC reports that the artificial intelligence boom is extending beyond traditional accelerator chips into the broader computing infrastructure required for advanced AI systems. During a recent investor call, CEO Dr. C.C. Wei highlighted strong market demand, ongoing supply constraints, and ambitious manufacturing expansion plans to support this growth.",
+    "summary_vietnamese": "TSMC báo cáo rằng sự bùng nổ trí tuệ nhân tạo đang lan rộng vượt ra ngoài các chip tăng tốc truyền thống để hướng tới hạ tầng điện toán rộng lớn hơn, vốn cần thiết cho các hệ thống AI tiên tiến. Trong buổi họp báo cáo nhà đầu tư gần đây, CEO C.C. Wei đã nhấn mạnh nhu cầu thị trường mạnh mẽ, tình trạng thiếu hụt nguồn cung kéo dài và các kế hoạch mở rộng sản xuất đầy tham vọng nhằm hỗ trợ sự tăng trưởng này.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/tsmc/374950-tsmcs-ai-expansion-signals-a-broader-shift-in-computing/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/TSMCs-AI-expansion.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-16T15:58:07.748425+00:00",
+    "publishedAt": "2026-10-16T15:00:31+00:00"
+  },
+  {
+    "title_org": "Terafab’s Single Roof: Why Packaging, Not Lithography, Decides High Volume",
+    "title_vietnamese": "Dưới một mái nhà của Terafab: Lý do đóng gói (Packaging), chứ không phải quang khắc (Lithography), quyết định sản lượng lớn",
+    "summary_org": "Terafab is a massive multi-billion-dollar project aiming to revolutionize semiconductor manufacturing through large-scale facilities in Texas. The article highlights that advanced packaging, rather than traditional lithography, is the critical factor determining high-volume production under a single roof.",
+    "summary_vietnamese": "Terafab là một dự án trị giá hàng tỷ đô la đầy tham vọng nhằm cách mạng hóa việc sản xuất chất bán dẫn thông qua các cơ sở quy mô lớn tại Texas. Bài viết nhấn mạnh rằng advanced packaging (đóng gói tiên tiến), chứ không phải quang khắc truyền thống, mới là yếu tố quyết định sản lượng lớn dưới một mái nhà.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/374838-terafabs-single-roof-why-packaging-not-lithography-decides-high-volume/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Single-Roof-Connected-Silicon.jpg",
+    "author": "Admin",
+    "createdAt": "2026-10-16T15:58:23.699204+00:00",
+    "publishedAt": "2026-10-16T13:00:13+00:00"
   }
 ]
