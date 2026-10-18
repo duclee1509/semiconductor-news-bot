@@ -1,8 +1,0 @@
-Article: https://semiwiki.com/events/374512-dac-2027-opens-call-for-contributions-as-ai-reshapes-chip-design/
-Title: DAC 2027 Opens Call for Contributions as AI Reshapes Chip Design
-Summary: <p>
-Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/DAC-2027-AI-reshapes-chip-design.jpg
-Author: Daniel Nenni
-Published date: Sun, 11 Oct 2026 19:00:56 +0000
-
-Completed! Added a total of 1 new news items to Firebase.
