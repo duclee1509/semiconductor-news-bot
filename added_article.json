@@ -6088,5 +6088,33 @@
     "author": "Admin",
     "createdAt": "2026-10-16T15:58:23.699204+00:00",
     "publishedAt": "2026-10-16T13:00:13+00:00"
+  },
+  {
+    "title_org": "Maskless EUV Lithography: An Alternative to E-Beam",
+    "title_vietnamese": "Quang khắc EUV không cần mặt nạ: Giải pháp thay thế cho chùm tia điện tử (E-Beam)",
+    "summary_org": "Semiconductor manufacturing relies heavily on lithography to transfer intricate circuit patterns onto silicon wafers. Conventional extreme-ultraviolet (EUV) lithography uses a custom photomask to define each layer, but maskless EUV is emerging as a potential alternative to traditional e-beam technology.",
+    "summary_vietnamese": "Sản xuất chất bán dẫn phụ thuộc rất nhiều vào công nghệ quang khắc để chuyển các mẫu mạch phức tạp lên các tấm wafer silicon. Quang khắc cực tím cực đoan (EUV) truyền thống sử dụng một photomask tùy chỉnh để định nghĩa từng lớp, nhưng EUV không cần mặt nạ đang nổi lên như một giải pháp thay thế tiềm năng cho công nghệ e-beam truyền thống.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/lithography/373583-maskless-euv-lithography-an-alternative-to-e-beam/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Maskless-EUV-Lithography-An-Alternative-to-E-Beam.jpg",
+    "author": "Admin",
+    "createdAt": "2026-10-18T15:16:34.750897+00:00",
+    "publishedAt": "2026-10-18T15:00:21+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Dr. Raj Talluri of Kulicke & Soffa",
+    "title_vietnamese": "Phỏng vấn CEO: Tiến sĩ Raj Talluri của Kulicke & Soffa",
+    "summary_org": "This article features a CEO interview with Dr. Raj Talluri of Kulicke & Soffa (K&S). Dr. Talluri took on the role of President and CEO of K&S in September 2026, following his previous leadership position at Enovix Corporation.",
+    "summary_vietnamese": "Bài viết này là cuộc phỏng vấn với Tiến sĩ Raj Talluri, CEO của Kulicke & Soffa (K&S). Tiến sĩ Talluri đảm nhận vai trò Chủ tịch kiêm CEO của K&S vào tháng 9 năm 2026, sau khi giữ chức vụ lãnh đạo tại Enovix Corporation.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/373948-ceo-interview-with-dr-raj-talluri-of-kulicke-soffa/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Connecting-the-Future-of-Chips.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-18T15:16:39.247747+00:00",
+    "publishedAt": "2026-10-18T13:00:13+00:00"
   }
 ]
