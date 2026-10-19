@@ -6298,5 +6298,33 @@
     "author": "Thiên Điểu",
     "createdAt": "2026-10-19T18:15:31.728384+00:00",
     "publishedAt": "2026-10-19T20:00:00+00:00"
+  },
+  {
+    "title_org": "Sir Arthur C. Clarke Deserves a Nobel Prize",
+    "title_vietnamese": "Sir Arthur C. Clarke xứng đáng nhận giải Nobel",
+    "summary_org": "Inspired by the Silicon Catalyst 2023 Semiconductor Industry Forum themed around AI, the author argues that Sir Arthur C. Clarke deserves a posthumous Nobel Prize. The visionary work behind '2001: A Space Odyssey,' released in 1968, laid foundational conceptual parallels to today's technological advancements.",
+    "summary_vietnamese": "Lấy cảm hứng từ Diễn đàn Công nghiệp Bán dẫn Silicon Catalyst 2023 với chủ đề về AI, tác giả lập luận rằng Sir Arthur C. Clarke xứng đáng được truy tặng giải Nobel. Tác phẩm tầm nhìn '2001: A Space Odyssey' phát hành năm 1968 đã đặt nền móng cho những điểm tương đồng về mặt khái niệm với những tiến bộ công nghệ ngày nay.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-services/silicon-catalyst/375130-sir-arthur-c-clarke-deserves-a-nobel-prize/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Silicon-Catalyst-Forum-Nov-2026-III.png",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-19T23:16:06.872368+00:00",
+    "publishedAt": "2026-10-19T23:00:56+00:00"
+  },
+  {
+    "title_org": "Moving Beyond AI-Assisted Design – Agentrys Shows the Way with Agentic Loop Engineering",
+    "title_vietnamese": "Vượt xa thiết kế hỗ trợ bởi AI – Agentrys dẫn đầu với kỹ thuật vòng lặp tác tử (Agentic Loop Engineering)",
+    "summary_org": "At Hot Chips 2026, OpenAI presented Jalapeño, an inference ASIC developed with AI in the design loop, demonstrating significant block-level efficiency and area gains over human baselines. This highlights a broader industry shift toward advanced automation, which companies like Agentrys are further driving through agentic loop engineering in the EDA workflow.",
+    "summary_vietnamese": "Tại hội nghị Hot Chips 2026, OpenAI đã giới thiệu Jalapeño, một ASIC suy luận được phát triển với AI tham gia vào vòng lặp thiết kế, đạt được những cải tiến đáng kể về hiệu suất và diện tích so với phương pháp thủ công của con người. Điều này làm nổi bật xu hướng chuyển dịch mạnh mẽ của ngành công nghệ sang tự động hóa tiên tiến, điều mà các công ty như Agentrys đang thúc đẩy hơn nữa thông qua kỹ thuật vòng lặp tác tử trong quy trình EDA.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/agentrys/375112-agentrys-shows-the-way-with-agentic-loop-engineering/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Agentic-Loops-Autonomous-Chip-Design.jpg",
+    "author": "Mike Gianfagna",
+    "createdAt": "2026-10-19T23:16:15.193057+00:00",
+    "publishedAt": "2026-10-19T19:00:27+00:00"
   }
 ]
