@@ -6172,5 +6172,47 @@
     "author": "Technical Paper Link",
     "createdAt": "2026-10-19T02:57:40.409252+00:00",
     "publishedAt": "2026-10-18T22:10:59+00:00"
+  },
+  {
+    "title_org": "Breaking The Memory Bottleneck In AI And HPC SoCs",
+    "title_vietnamese": "Phá vỡ nút thắt cổ chai bộ nhớ trong SoC AI và HPC",
+    "summary_org": "This article discusses the optimization of embedded memory IP for advanced manufacturing technologies like RibbonFET and PowerVia. It focuses on overcoming the memory bottleneck in AI and High-Performance Computing (HPC) SoCs to improve overall system performance.",
+    "summary_vietnamese": "Bài viết thảo luận về việc tối ưu hóa IP bộ nhớ nhúng cho các công nghệ chế tạo tiên tiến như RibbonFET và PowerVia. Nội dung tập trung vào việc vượt qua nút thắt cổ chai bộ nhớ trong các SoC AI và Điện hiệu năng cao (HPC) nhằm cải thiện hiệu suất toàn hệ thống.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/breaking-the-memory-bottleneck-in-ai-and-hpc-socs/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2017/05/semi_fb_thumb.jpg?fit=250%2C250&ssl=1",
+    "author": "Synopsys",
+    "createdAt": "2026-10-19T09:31:46.977673+00:00",
+    "publishedAt": "2026-10-19T07:03:19+00:00"
+  },
+  {
+    "title_org": "Why Physical AI Is So Hard To Engineer",
+    "title_vietnamese": "Tại sao Trí tuệ nhân tạo vật lý lại khó thiết kế đến vậy",
+    "summary_org": "Integrating sensors, compute, and actuators into autonomous systems introduces complex new challenges for chip design. This convergence of hardware and physical environments pushes traditional semiconductor engineering to its limits.",
+    "summary_vietnamese": "Việc tích hợp cảm biến, bộ xử lý tính toán và cơ cấu chấp hành vào các hệ thống tự động đặt ra những thách thức phức tạp mới cho thiết kế chip. Sự hội tụ giữa phần cứng và môi trường vật lý này đang đẩy ngành kỹ thuật bán dẫn truyền thống đến giới hạn của nó.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/why-physical-ai-is-so-hard-to-engineer/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-2.23.22-PM.png?fit=608%2C524&ssl=1",
+    "author": "Brian Bailey",
+    "createdAt": "2026-10-19T09:31:56.617972+00:00",
+    "publishedAt": "2026-10-19T07:01:53+00:00"
+  },
+  {
+    "title_org": "Shift-Left DE-Via",
+    "title_vietnamese": "Chuyển dịch sớm DE-Via: Chèn Via kháng ngắn mạch, nhận thức Calibre cho thiết kế vật lý sẵn sàng signoff",
+    "summary_org": "The article introduces Shift-Left DE-Via, a methodology focused on Calibre-aware and short-resilient via insertion. This technique aims to achieve signoff-ready physical design in semiconductor manufacturing, improving efficiency early in the design flow.",
+    "summary_vietnamese": "Bài viết giới thiệu Shift-Left DE-Via, một phương pháp tập trung vào việc chèn via có khả năng kháng ngắn mạch và tích hợp nhận thức Calibre. Kỹ thuật này nhằm đạt được thiết kế vật lý sẵn sàng signoff trong chế tạo bán dẫn, nâng cao hiệu quả ngay từ giai đoạn đầu của luồng thiết kế.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/shift-left-de-via/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2017/05/semi_fb_thumb.jpg?fit=250%2C250&ssl=1",
+    "author": "Siemens EDA",
+    "createdAt": "2026-10-19T09:32:00.950415+00:00",
+    "publishedAt": "2026-10-19T07:01:16+00:00"
   }
 ]
