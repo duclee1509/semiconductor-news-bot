@@ -1,0 +1,22 @@
+Article: https://semiengineering.com/nanoelectromechanical-switches-target-more-efficient-embedded-dram-uc-berkeley-samsung-intel/
+Title: Nanoelectromechanical Switches Target More Efficient Embedded DRAM (UC Berkeley, Samsung, Intel)
+Summary: <p>Researchers at the UC Berkeley, Samsung Electronics, and Intel published “Nanoelectromechanically Gated Gain Cell eDRAM.” Abstract Excerpt: “The memory wall and the slowdown of static random acc...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/AdobeStock_532528757-scaled.jpeg
+Author: Technical Paper Link
+Published date: Sun, 18 Oct 2026 23:28:31 +0000
+
+Article: https://semiengineering.com/a-composable-thermal-solver-for-heterogeneous-2-5d-3d-ic-packages-cadence-notre-dame/
+Title: A Composable Thermal Solver For Heterogeneous 2.5D/3D-IC Packages (Cadence, Notre Dame)
+Summary: <p>Researchers at Cadence Design Systems and the University of Notre Dame published “A Composable AI-Accelerated Iterative Solver for 3D-IC Thermal Modeling.&#8221; Abstract: “Accurate thermal anal...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1661858452-08-26-scaled.jpeg
+Author: Technical Paper Link
+Published date: Sun, 18 Oct 2026 22:51:32 +0000
+
+Article: https://semiengineering.com/thermal-side-channels-create-new-security-risks-for-autonomous-vehicles-missouri-st/
+Title: Thermal Side Channels Create New Security Risks For Autonomous Vehicles (Missouri S&T)
+Summary: <p>Researchers at Missouri University of Science and Technology published “Can Autonomous Vehicles Keep Their Cool? A Survey of Thermal Side-Channel and Perception Attacks.” Abstract excerpt: “This...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/car-06-26-AdobeStock_190004580-scaled.jpeg
+Author: Technical Paper Link
+Published date: Sun, 18 Oct 2026 22:10:59 +0000
+
+Completed! Added a total of 3 new news items to Firebase.

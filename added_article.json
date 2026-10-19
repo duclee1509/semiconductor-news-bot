@@ -6130,5 +6130,47 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-10-18T18:25:24.169032+00:00",
     "publishedAt": "2026-10-18T17:00:15+00:00"
+  },
+  {
+    "title_org": "Nanoelectromechanical Switches Target More Efficient Embedded DRAM (UC Berkeley, Samsung, Intel)",
+    "title_vietnamese": "Công tắc cơ điện tử nano hướng tới bộ nhớ eDRAM nhúng hiệu quả hơn (UC Berkeley, Samsung, Intel)",
+    "summary_org": "Researchers from UC Berkeley, Samsung, and Intel have published a study on Nanoelectromechanically Gated Gain Cell eDRAM. This research addresses the memory wall and SRAM scaling limitations by exploring gain-cell embedded dynamic random access memory to improve density and energy efficiency, despite retention challenges.",
+    "summary_vietnamese": "Các nhà nghiên cứu từ UC Berkeley, Samsung và Intel đã công bố nghiên cứu về eDRAM ô khuếch đại cổng cơ điện tử nano (Nanoelectromechanically Gated Gain Cell eDRAM). Nghiên cứu này giải quyết vấn đề “bức tường bộ nhớ” và giới hạn mở rộng của SRAM bằng cách khám phá bộ nhớ DRAM nhúng ô khuếch đại nhằm cải thiện mật độ và hiệu quả năng lượng, dẫu vẫn còn những thách thức về thời gian lưu giữ dữ liệu.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/nanoelectromechanical-switches-target-more-efficient-embedded-dram-uc-berkeley-samsung-intel/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/06/AdobeStock_532528757-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-10-19T02:57:27.206063+00:00",
+    "publishedAt": "2026-10-18T23:28:31+00:00"
+  },
+  {
+    "title_org": "A Composable Thermal Solver For Heterogeneous 2.5D/3D-IC Packages (Cadence, Notre Dame)",
+    "title_vietnamese": "Giải pháp mô phỏng nhiệt cấu thành cho các gói vi mạch dị thể 2.5D/3D (Cadence, Notre Dame)",
+    "summary_org": "Researchers from Cadence Design Systems and the University of Notre Dame have published a study on an AI-accelerated iterative solver for 3D-IC thermal modeling. This research addresses the high computational cost of traditional full-package FEM simulations and the limitations of monolithic AI surrogates in analyzing heterogeneous 2.5D/3D-IC packages.",
+    "summary_vietnamese": "Các nhà nghiên cứu tại Cadence Design Systems và Đại học Notre Dame đã công bố một nghiên cứu về phương pháp giải lặp tốc độ cao bằng AI dành cho mô hình hóa nhiệt 3D-IC. Nghiên cứu này giải quyết chi phí tính toán lớn của các mô phỏng FEM toàn gói truyền thống và những hạn chế của các mô hình AI nguyên khối khi phân tích các gói vi mạch dị thể 2.5D/3D-IC.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/a-composable-thermal-solver-for-heterogeneous-2-5d-3d-ic-packages-cadence-notre-dame/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1661858452-08-26-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-10-19T02:57:33.228321+00:00",
+    "publishedAt": "2026-10-18T22:51:32+00:00"
+  },
+  {
+    "title_org": "Thermal Side Channels Create New Security Risks For Autonomous Vehicles (Missouri S&T)",
+    "title_vietnamese": "Kênh phụ nhiệt tạo ra rủi ro bảo mật mới cho xe tự hành (Đại học Khoa học và Công nghệ Missouri)",
+    "summary_org": "Researchers at Missouri University of Science and Technology published a comprehensive survey on thermal side-channel and perception attacks in autonomous vehicles. The study systematizes thirteen representative works, analyzing threats such as thermal perception integrity, telemetry leakage, and model-information extraction. This research highlights emerging security vulnerabilities related to thermal behaviors in modern automated transportation systems.",
+    "summary_vietnamese": "Các nhà nghiên cứu tại Đại học Khoa học và Công nghệ Missouri đã công bố một khảo sát toàn diện về các cuộc tấn công nhận thức và kênh phụ nhiệt trên xe tự hành. Nghiên cứu hệ thống hóa mười ba công trình tiêu biểu, phân tích các mối تهديد như tính toàn vẹn nhận thức nhiệt, rò rỉ dữ liệu từ xa và trích xuất thông tin mô hình. Công trình này làm nổi bật các lỗ hổng bảo mật mới nổi liên quan đến hành vi nhiệt trong các hệ thống giao thông tự động hiện đại.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/thermal-side-channels-create-new-security-risks-for-autonomous-vehicles-missouri-st/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/06/car-06-26-AdobeStock_190004580-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-10-19T02:57:40.409252+00:00",
+    "publishedAt": "2026-10-18T22:10:59+00:00"
   }
 ]
