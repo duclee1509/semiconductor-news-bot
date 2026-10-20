@@ -6326,5 +6326,19 @@
     "author": "Mike Gianfagna",
     "createdAt": "2026-10-19T23:16:15.193057+00:00",
     "publishedAt": "2026-10-19T19:00:27+00:00"
+  },
+  {
+    "title_org": "Chip Industry Technical Paper Roundup: Oct. 20",
+    "title_vietnamese": "Điểm tin bài báo kỹ thuật ngành công nghiệp chip: Ngày 20 tháng 10",
+    "summary_org": "This technical paper roundup highlights recent research in semiconductor engineering, covering topics such as HBM power consumption, GAAFET leakage, agentic AI for heterogeneous design and RTL verification, and nanoelectromechanical eDRAM. It also explores advanced thermal modeling for 3D-ICs and security concerns like thermal side-channel attacks in autonomous vehicles.",
+    "summary_vietnamese": "Bản tổng hợp bài báo kỹ thuật này làm nổi bật các nghiên cứu gần đây trong lĩnh vực kỹ thuật bán dẫn, bao gồm tiêu thụ điện năng của HBM, dòng rò GAAFET, AI tác nhân (agentic AI) cho thiết kế dị thể và xác minh RTL, cùng với eDRAM nanođiện cơ. Bài viết cũng khám phá mô hình nhiệt tiên tiến cho 3D-IC và các mối lo ngại về bảo mật như tấn công kênh bên nhiệt trên xe tự hành.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-14-2/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_322557739-01-29-25-scaled.jpeg?fit=2560%2C1350&ssl=1",
+    "author": "Linda Christensen",
+    "createdAt": "2026-10-20T09:04:53.312764+00:00",
+    "publishedAt": "2026-10-20T07:01:46+00:00"
   }
 ]

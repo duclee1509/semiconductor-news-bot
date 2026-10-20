@@ -1,0 +1,8 @@
+Article: https://semiengineering.com/chip-industry-technical-paper-roundup-oct-14-2/
+Title: Chip Industry Technical Paper Roundup: Oct. 20
+Summary: <p>HBM power consumption; GAAFET leakage pathways; agentic AI for heterogeneous system design; nanoelectromechanical gain-cell eDRAM; AI-accelerated 3D-IC thermal modeling; agentic AI for RTL verif...
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_322557739-01-29-25-scaled.jpeg?fit=2560%2C1350&ssl=1
+Author: Linda Christensen
+Published date: Tue, 20 Oct 2026 07:01:46 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
