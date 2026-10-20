@@ -6340,5 +6340,47 @@
     "author": "Linda Christensen",
     "createdAt": "2026-10-20T09:04:53.312764+00:00",
     "publishedAt": "2026-10-20T07:01:46+00:00"
+  },
+  {
+    "title_org": "Community Colleges Put New Workers Into Semiconductor Jobs Fast",
+    "title_vietnamese": "Các trường cao đẳng cộng đồng đào tạo nhân lực ngành bán dẫn cấp tốc",
+    "summary_org": "The U.S. semiconductor industry is facing a severe workforce shortage, with a projected deficit of over 120,000 workers by 2030 despite a booming manufacturing sector driven by the CHIPS Act. To bridge this gap, community colleges near major hubs are stepping up with affordable, rapid training programs—such as short certificates and bootcamps—to prepare technicians for fabs and attract career-switchers from diverse backgrounds.",
+    "summary_vietnamese": "Ngành công nghiệp bán dẫn tại Mỹ đang đối mặt với tình trạng thiếu hụt trầm trọng lực lượng lao động, với mức thâm hụt dự kiến lên tới hơn 120.000 nhân sự vào năm 2030 mặc dù lĩnh vực sản xuất đang bùng nổ nhờ Đạo luật CHIPS. Để thu hẹp khoảng cách này, các trường cao đẳng cộng đồng gần các trung tâm lớn đang đẩy mạnh các chương trình đào tạo cấp tốc với chi phí hợp lý nhằm chuẩn bị đội ngũ kỹ thuật viên cho các nhà máy fab và thu hút những người muốn chuyển đổi nghề nghiệp từ các nền tảng đa dạng.",
+    "source": "IEEE Spectrum - Semiconductors",
+    "url": "https://spectrum.ieee.org/community-college-semiconductors",
+    "category": "International",
+    "isPolicy": true,
+    "thumbnail": "https://spectrum.ieee.org/media-library/college-students-in-clean-room-suits-and-gloves-working-in-a-lab.jpg?id=68452869&width=1200&height=600&coordinates=0%2C248%2C0%2C377",
+    "author": "Katherine Bourzac",
+    "createdAt": "2026-10-20T16:15:17.543634+00:00",
+    "publishedAt": "2026-10-20T13:00:02+00:00"
+  },
+  {
+    "title_org": "Who Gets to Move the Recipe? How Autonomous Agents Earn Decision Authority in the Fab",
+    "title_vietnamese": "Ai được quyền thay đổi công thức chế tạo? Cách các tác nhân tự động giành quyền ra quyết định trong nhà máy fab",
+    "summary_org": "This article discusses the integration of agentic AI in semiconductor manufacturing, drawing parallels with strict human-governed protocols for modifying production recipes in a fab. It explores how autonomous agents can eventually earn decision-making authority in these highly regulated environments.",
+    "summary_vietnamese": "Bài viết thảo luận về việc tích hợp trí tuệ nhân tạo tác nhân (agentic AI) trong sản xuất bán dẫn, đồng thời đưa ra sự so sánh với các quy trình kiểm soát nghiêm ngặt của con người trong việc sửa đổi công thức sản xuất tại các nhà máy fab. Nội dung khám phá cách các tác nhân tự động cuối cùng có thể giành được quyền ra quyết định trong những môi trường được quản lý chặt chẽ này.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/375060-who-gets-to-move-the-recipe-how-autonomous-agents-earn-decision-authority-in-the-fab/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/featured_who-gets-to-move-the-recipe.png",
+    "author": "Admin",
+    "createdAt": "2026-10-20T16:15:49.890349+00:00",
+    "publishedAt": "2026-10-20T15:00:53+00:00"
+  },
+  {
+    "title_org": "Smoothing the Quantum Path: ASML and Xanadu Target Photon Loss",
+    "title_vietnamese": "Làm phẳng con đường lượng tử: ASML và Xanadu phối hợp giải quyết vấn đề tổn thất photon",
+    "summary_org": "ASML and Xanadu have announced a collaboration to tackle photon loss, a major engineering challenge in photonic quantum computing. The partnership will explore advanced lithography processes to improve patterning control and minimize loss mechanisms in Xanadu's quantum hardware.",
+    "summary_vietnamese": "ASML và Xanadu đã công bố hợp tác nhằm giải quyết vấn đề tổn thất photon, một thách thức kỹ thuật lớn trong điện toán lượng tử quang học. Quan hệ đối tác này sẽ nghiên cứu các quy trình lithography tiên tiến nhằm cải thiện khả năng kiểm soát họa tiết và giảm thiểu các cơ chế tổn thất trong phần cứng lượng tử của Xanadu.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/lithography/373533-smoothing-the-quantum-path-asml-and-xanadu-target-photon-loss/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/ASML-and-Xanadu-Target-Photon-Loss.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-20T16:16:39.666234+00:00",
+    "publishedAt": "2026-10-20T13:00:04+00:00"
   }
 ]

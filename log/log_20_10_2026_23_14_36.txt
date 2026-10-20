@@ -1,0 +1,22 @@
+Article: https://spectrum.ieee.org/community-college-semiconductors
+Title: Community Colleges Put New Workers Into Semiconductor Jobs Fast
+Summary: <img src="https://spectrum.ieee.org/media-library/college-students-in-clean-room-suits-and-gloves-working-in-a-lab.jpg?id=68452869&amp;width=1200&amp;height=400&amp;coordinates=0%2C729%2C0%2C730" /...
+Thumbnail: https://spectrum.ieee.org/media-library/college-students-in-clean-room-suits-and-gloves-working-in-a-lab.jpg?id=68452869&width=1200&height=600&coordinates=0%2C248%2C0%2C377
+Author: Katherine Bourzac
+Published date: Tue, 20 Oct 2026 13:00:02 +0000
+
+Article: https://semiwiki.com/eda/375060-who-gets-to-move-the-recipe-how-autonomous-agents-earn-decision-authority-in-the-fab/
+Title: Who Gets to Move the Recipe? How Autonomous Agents Earn Decision Authority in the Fab
+Summary: <p><em><strong>by Ajay Kumar Govindaram</strong></em></p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/featured_who-gets-to-move-the-recipe.png
+Author: Admin
+Published date: Tue, 20 Oct 2026 15:00:53 +0000
+
+Article: https://semiwiki.com/lithography/373533-smoothing-the-quantum-path-asml-and-xanadu-target-photon-loss/
+Title: Smoothing the Quantum Path: ASML and Xanadu Target Photon Loss
+Summary: <p>ASML’s decision to collaborate with Xanadu targets one of photonic quantum computing’s most unforgiving engineering constraints: photon loss. The companies will investigate advanced lithography ...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/ASML-and-Xanadu-Target-Photon-Loss.jpg
+Author: Daniel Nenni
+Published date: Tue, 20 Oct 2026 13:00:04 +0000
+
+Completed! Added a total of 3 new news items to Firebase.
