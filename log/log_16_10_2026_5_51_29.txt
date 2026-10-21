@@ -1,8 +1,0 @@
-Article: https://semiwiki.com/prototyping/s2c-eda/374637-design-the-right-chip-why-prototyping-has-to-be-easy/
-Title: Design the Right Chip: Why Prototyping Has to Be Easy
-Summary: <p><strong>Design the right chip. Design the chip right.</strong></p>
-Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/pic.jpg
-Author: Daniel Nenni
-Published date: Thu, 15 Oct 2026 17:00:53 +0000
-
-Completed! Added a total of 1 new news items to Firebase.

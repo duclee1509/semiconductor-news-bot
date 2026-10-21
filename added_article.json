@@ -6480,5 +6480,33 @@
     "author": "Synopsys",
     "createdAt": "2026-10-21T09:04:33.632369+00:00",
     "publishedAt": "2026-10-21T07:01:07+00:00"
+  },
+  {
+    "title_org": "Why America’s Semiconductor Manufacturing Capacity Matters",
+    "title_vietnamese": "Tại sao năng lực sản xuất chất bán dẫn của Mỹ lại quan trọng",
+    "summary_org": "America's semiconductor future depends on its capability to transform scientific research into large-scale chip manufacturing. The recent investments by Intel Foundry highlight this critical challenge, addressing whether the U.S. can maintain its technological edge and sustain domestic semiconductor production.",
+    "summary_vietnamese": "Tương lai ngành bán dẫn của Mỹ phụ thuộc vào năng lực chuyển hóa các nghiên cứu khoa học thành hoạt động sản xuất chip quy mô lớn. Các khoản đầu tư gần đây của Intel Foundry nhấn mạnh thách thức cốt lõi này, giải quyết vấn đề liệu Mỹ có thể duy trì lợi thế công nghệ và duy trì sản xuất bán dẫn trong nước hay không.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/375206-why-americas-semiconductor-manufacturing-capacity-matters/",
+    "category": "International",
+    "isPolicy": true,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Building-Americas-chip-future.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-21T16:29:47.196063+00:00",
+    "publishedAt": "2026-10-21T15:00:07+00:00"
+  },
+  {
+    "title_org": "Arteris FlexGen Opens Up Multi-Die Traffic Management for Non-Coherent Networks",
+    "title_vietnamese": "Arteris FlexGen Mở Rộng Quản Lý Lưu Lượng Đa Die Cho Các Mạng Không Nhất Quán (Non-Coherent Networks)",
+    "summary_org": "Arteris has introduced FlexGen to extend multi-die traffic management capabilities to non-coherent networks. This development builds upon their previous multi-die support for coherent NoCs, addressing the growing need for efficient traffic management in advanced multi-chiplet architectures used by hyperscalers and OEMs.",
+    "summary_vietnamese": "Arteris vừa ra mắt FlexGen nhằm mở rộng khả năng quản lý lưu lượng đa die sang các mạng không nhất quán (non-coherent networks). Sự phát triển này nối tiếp hỗ trợ đa die trước đó của họ cho các NoC nhất quán, đáp ứng nhu cầu ngày càng tăng về quản lý lưu lượng hiệu quả trong các kiến trúc đa chiplet tiên tiến được sử dụng bởi các nhà cung cấp hạ tầng quy mô lớn và các nhà sản xuất thiết bị gốc (OEM).",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ip/arteris/374391-arteris-flexgen-opens-up-multi-die-traffic-management-for-non-coherent-networks/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/MultiDie-FlexGen.png",
+    "author": "Bernard Murphy",
+    "createdAt": "2026-10-21T16:29:51.210293+00:00",
+    "publishedAt": "2026-10-21T13:00:05+00:00"
   }
 ]

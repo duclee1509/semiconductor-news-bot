@@ -1,0 +1,15 @@
+Article: https://semiwiki.com/semiconductor-manufacturers/375206-why-americas-semiconductor-manufacturing-capacity-matters/
+Title: Why America’s Semiconductor Manufacturing Capacity Matters
+Summary: <p>America’s semiconductor future will be shaped by its ability to turn scientific discoveries into chips manufactured at scale. That is why the investments outlined in Intel Foundry’s recent edito...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Building-Americas-chip-future.jpg
+Author: Daniel Nenni
+Published date: Wed, 21 Oct 2026 15:00:07 +0000
+
+Article: https://semiwiki.com/ip/arteris/374391-arteris-flexgen-opens-up-multi-die-traffic-management-for-non-coherent-networks/
+Title: Arteris FlexGen Opens Up Multi-Die Traffic Management for Non-Coherent Networks
+Summary: <p>Last year I wrote about Arteris’ introduction of <a href="https://semiwiki.com/ip/arteris/357036-arteris-expands-their-multi-die-support/">multi-die support for coherent NoCs</a>. This is a very...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/MultiDie-FlexGen.png
+Author: Bernard Murphy
+Published date: Wed, 21 Oct 2026 13:00:05 +0000
+
+Completed! Added a total of 2 new news items to Firebase.
