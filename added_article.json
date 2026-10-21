@@ -6508,5 +6508,19 @@
     "author": "Bernard Murphy",
     "createdAt": "2026-10-21T16:29:51.210293+00:00",
     "publishedAt": "2026-10-21T13:00:05+00:00"
+  },
+  {
+    "title_org": "Beyond the Post-Mortem: How yieldHUB Live Turns the Test Floor Into an Open Window",
+    "title_vietnamese": "Vượt qua sự cố hậu kỳ: yieldHUB Live biến sàn kiểm tra vi mạch thành một cửa sổ mở",
+    "summary_org": "At SEMICON West 2026, yieldHUB leadership discussed how their yieldHUB Live platform transforms the semiconductor test floor from a traditional blind spot into a real-time command center. This innovative approach moves beyond traditional post-mortem analysis to provide immediate, actionable visibility during the testing process.",
+    "summary_vietnamese": "Tại sự kiện SEMICON West 2026, ban lãnh đạo yieldHUB đã thảo luận về cách nền tảng yieldHUB Live biến sàn kiểm tra vi mạch từ một điểm mù truyền thống thành trung tâm điều khiển thời gian thực. Giải pháp đổi mới này vượt ra ngoài phương pháp phân tích hậu kỳ truyền thống để cung cấp khả năng hiển thị tức thì và hữu ích ngay trong quá trình kiểm tra.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/yieldhub/375137-beyond-the-post-mortem-how-yieldhub-live-turns-the-test-floor-into-an-open-window/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Live-visibility-on-the-semiconductor-test-floor-1.jpg",
+    "author": "Lauro Rizzatti",
+    "createdAt": "2026-10-21T22:59:01.814273+00:00",
+    "publishedAt": "2026-10-21T17:00:16+00:00"
   }
 ]
