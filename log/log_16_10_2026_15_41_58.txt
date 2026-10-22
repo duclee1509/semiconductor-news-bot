@@ -1,8 +1,0 @@
-Article: https://semiengineering.com/chip-industry-week-in-review-160/
-Title: Chip Industry Week In Review
-Summary: <p>Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startup...
-Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_461734658-06-18-24.jpeg?fit=1200%2C747&ssl=1
-Author: The SE Staff
-Published date: Fri, 16 Oct 2026 07:01:05 +0000
-
-Completed! Added a total of 1 new news items to Firebase.
