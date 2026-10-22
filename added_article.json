@@ -6606,5 +6606,33 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-10-22T16:31:29.199135+00:00",
     "publishedAt": "2026-10-22T13:00:37+00:00"
+  },
+  {
+    "title_org": "From Sequential R&D to Trusted Co-Innovation: The EPIC Model for Semiconductor Innovation",
+    "title_vietnamese": "Từ R&D tuần tự đến Đồng đổi mới tin cậy: Mô hình EPIC cho sự đổi mới ngành bán dẫn",
+    "summary_org": "The semiconductor industry has traditionally relied on collaboration between developers, equipment suppliers, and manufacturers. However, as artificial intelligence reshapes computing, traditional working methods are no longer sufficient. Future innovation will require a more integrated approach, such as the proposed EPIC model for trusted co-innovation.",
+    "summary_vietnamese": "Ngành công nghiệp bán dẫn từ trước đến nay phụ thuộc vào sự hợp tác giữa các nhà phát triển công nghệ, nhà cung cấp thiết bị và nhà sản xuất. Tuy nhiên, khi trí tuệ nhân tạo (AI) đang định hình lại lĩnh vực điện toán, các phương pháp làm việc truyền thống không còn đủ đáp ứng. Làn sóng đổi mới tiếp theo sẽ đòi hỏi một cách tiếp cận tích hợp hơn, chẳng hạn như mô hình EPIC được đề xuất nhằm thúc đẩy đồng đổi mới một cách đáng tin cậy.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/applied-materials/375053-from-sequential-rd-to-trusted-co-innovation-the-epic-model-for-semiconductor-innovation/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Gary-Dickerson-on-the-Stage-scaled.jpg",
+    "author": "Kalar Rajendiran",
+    "createdAt": "2026-10-22T22:56:03.914775+00:00",
+    "publishedAt": "2026-10-22T17:00:59+00:00"
+  },
+  {
+    "title_org": "SEMICON West’s Autonomous Fab Vision Needs a Decision-Escalation Design",
+    "title_vietnamese": "Tầm nhìn nhà máy tự động hóa của SEMICON West cần một thiết kế leo thang quyết định",
+    "summary_org": "SEMICON West 2026's smart-manufacturing agenda focused heavily on digital twins, agentic AI, physical AI, and autonomous fab operations. The event highlighted the industry's progression toward fully automated facilities, including automation sessions and planned equipment demonstrations by PDF Solutions.",
+    "summary_vietnamese": "Chương trình nghị sản xuất thông minh tại SEMICON West 2026 tập trung mạnh mẽ vào bản sao số (digital twins), AI tác tử (agentic AI), AI vật lý và các hoạt động vận hành fab tự động. Sự kiện này nhấn mạnh bước tiến của ngành hướng tới các cơ sở hoàn toàn tự động, bao gồm các phiên thảo luận về tự động hóa và các buổi trình diễn thiết bị theo kế hoạch từ PDF Solutions.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/375039-semicon-wests-autonomous-fab-vision-needs-a-decision-escalation-design/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Human-approval-in-an-AI-cleanroom.jpg",
+    "author": "Admin",
+    "createdAt": "2026-10-22T22:56:08.122814+00:00",
+    "publishedAt": "2026-10-22T15:00:59+00:00"
   }
 ]
