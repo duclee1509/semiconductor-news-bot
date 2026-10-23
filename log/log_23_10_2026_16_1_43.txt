@@ -1,0 +1,15 @@
+Article: https://semiengineering.com/chip-industry-week-in-review-161/
+Title: Chip Industry Week In Review
+Summary: <p>CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers;...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-4.15.33-PM.png?fit=645%2C408&ssl=1
+Author: The SE Staff
+Published date: Fri, 23 Oct 2026 07:01:23 +0000
+
+Article: https://semiwiki.com/semiconductor-services/semiconductor-intelligence/375321-strong-electronics-growth-2026/
+Title: Strong Electronics Growth 2026
+Summary: <p>Growth in electronics production has been accelerating in 2026. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing an acceler...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/AI-fuels-2026-electronics-production-boom.jpg
+Author: Bill Jewell
+Published date: Thu, 22 Oct 2026 16:00:55 +0000
+
+Completed! Added a total of 2 new news items to Firebase.

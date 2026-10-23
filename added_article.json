@@ -6648,5 +6648,33 @@
     "author": "Trọng Nhân",
     "createdAt": "2026-10-23T03:04:44.965565+00:00",
     "publishedAt": "2026-10-23T09:50:00+00:00"
+  },
+  {
+    "title_org": "Chip Industry Week In Review",
+    "title_vietnamese": "Điểm tin ngành công nghiệp vi mạch trong tuần",
+    "summary_org": "This week's highlights include a $389M CHIPS Act allocation for advanced materials and vertical GaN, Micron's new memory roadmap, and Nvidia expanding its supply chain capacity alongside massive orders from China. Additionally, Tenstorrent secured $1.5B in funding, while developments continued in AI data center power, Intel's Arizona fab, and Chinese NAND fabrication facilities.",
+    "summary_vietnamese": "Điểm nhấn trong tuần này bao gồm gói tài trợ 389 triệu USD từ Đạo luật CHIPS dành cho vật liệu tiên tiến và công nghệ GaN chiều đứng, lộ trình bộ nhớ mới của Micron, và việc Nvidia mở rộng năng lực chuỗi cung ứng cùng các đơn hàng lớn từ Trung Quốc. Ngoài ra, Tenstorrent đã huy động thành công 1,5 tỷ USD, trong khi các tiến bộ về nguồn điện cho trung tâm dữ liệu AI, nhà máy fab của Intel tại Arizona và các cơ sở sản xuất NAND tại Trung Quốc tiếp tục được thúc đẩy.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-week-in-review-161/",
+    "category": "International",
+    "isPolicy": true,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-4.15.33-PM.png?fit=645%2C408&ssl=1",
+    "author": "The SE Staff",
+    "createdAt": "2026-10-23T09:01:53.156243+00:00",
+    "publishedAt": "2026-10-23T07:01:23+00:00"
+  },
+  {
+    "title_org": "Strong Electronics Growth 2026",
+    "title_vietnamese": "Sự tăng trưởng mạnh mẽ của ngành điện tử năm 2026",
+    "summary_org": "Electronics production growth has been accelerating throughout 2026, with the U.S. recording an 8.1% three-month-average increase in August. Meanwhile, Japan and the EU 27 demonstrated even stronger growth momentum compared to the previous year, continuing a positive trend that began in late 2025.",
+    "summary_vietnamese": "Tăng trưởng sản xuất thiết bị điện tử đang tăng tốc trong suốt năm 2026, với mức tăng trung bình ba tháng tại Mỹ đạt 8,1% vào tháng 8. Trong khi đó, Nhật Bản và 27 quốc gia Liên minh Châu Âu (EU 27) cho thấy đà tăng trưởng mạnh mẽ hơn nhiều so với cùng kỳ năm trước, tiếp nối xu hướng tích cực bắt đầu từ cuối năm 2025.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-services/semiconductor-intelligence/375321-strong-electronics-growth-2026/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/AI-fuels-2026-electronics-production-boom.jpg",
+    "author": "Bill Jewell",
+    "createdAt": "2026-10-23T09:01:58.592113+00:00",
+    "publishedAt": "2026-10-22T16:00:55+00:00"
   }
 ]
