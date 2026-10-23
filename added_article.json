@@ -6676,5 +6676,61 @@
     "author": "Bill Jewell",
     "createdAt": "2026-10-23T09:01:58.592113+00:00",
     "publishedAt": "2026-10-22T16:00:55+00:00"
+  },
+  {
+    "title_org": "From Chip Lab to Center Stage",
+    "title_vietnamese": "Từ phòng thí nghiệm vi mạch đến ánh hào quang sân khấu",
+    "summary_org": "Preethi Ashwath, an analog integrated circuit designer at Analog Devices and an IEEE member, has transitioned from working behind the scenes to representing her company at major tech events like CES. She specializes in designing ESD protection structures for consumer hearables and wearables while actively contributing to the broader engineering community through IEEE volunteering and technical talks.",
+    "summary_vietnamese": "Preethi Ashwath, một nhà thiết kế mạch tích hợp tương tự tại Analog Devices và là thành viên IEEE, đã chuyển từ việc làm việc hậu trường sang đại diện cho công ty tại các sự kiện công nghệ lớn như CES. Cô chuyên thiết kế các cấu trúc bảo vệ ESD cho các thiết bị đeo tai và thiết bị đeo thông minh tiêu dùng, đồng thời tích cực đóng góp cho cộng đồng kỹ thuật thông qua các hoạt động tình nguyện của IEEE và các bài thuyết trình kỹ thuật.",
+    "source": "IEEE Spectrum - Semiconductors",
+    "url": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://spectrum.ieee.org/media-library/smiling-portrait-of-a-young-south-asian-woman-seated-in-front-of-her-work-computer.jpg?id=68453070&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
+    "author": "Joanna Goodrich",
+    "createdAt": "2026-10-23T22:50:55.043912+00:00",
+    "publishedAt": "2026-10-23T18:00:03+00:00"
+  },
+  {
+    "title_org": "Inside the Silicon: Analog Bits N2P2 Test Chip",
+    "title_vietnamese": "Khám phá bên trong vi mạch: Chip thử nghiệm N2P2 của Analog Bits",
+    "summary_org": "The article discusses the collaboration between TSMC's advanced process technology and Analog Bits' analog and mixed-signal expertise. Together, they developed the N2P2 test chip to help designers meet demanding performance, power, and thermal limits through advanced IP solutions like local power regulation and supply monitoring.",
+    "summary_vietnamese": "Bài viết thảo luận về sự hợp tác giữa công nghệ tiến trình tiên tiến của TSMC và chuyên môn về mạch tương tự và tín hiệu hỗn hợp của Analog Bits. Cùng nhau, họ đã phát triển chip thử nghiệm N2P2 để giúp các nhà thiết kế đáp ứng các giới hạn khắt khe về hiệu năng, công suất và nhiệt độ thông qua các giải pháp IP tiên tiến như điều chỉnh nguồn cục bộ và giám sát nguồn cấp.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ip/analog-bits/375172-inside-the-silicon-analog-bits-n2p2-test-chip/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Crimson-Chip-Precision.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-23T22:50:59.568816+00:00",
+    "publishedAt": "2026-10-23T16:00:51+00:00"
+  },
+  {
+    "title_org": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro",
+    "title_vietnamese": "HỘI THẢO TRỰC TUYẾN: Tiết kiệm 25% chi phí bản quyền EDA với Stratos AI Nitro",
+    "summary_org": "Expensive EDA licenses and fragmented license management systems often lead to idle seats, checkout failures, and stalled chip design jobs, wasting valuable budgets. This webinar introduces Stratos AI Nitro, a solution designed to optimize tool usage and cut EDA license costs by up to 25% by bridging the gap between license activity and job queues.",
+    "summary_vietnamese": "Chi phí bản quyền EDA đắt đỏ và các hệ thống quản lý phân mảnh thường dẫn đến tình trạng lãng phí ghế trống, lỗi thanh toán và đình trệ công việc thiết kế chip. Hội thảo trực tuyến này giới thiệu Stratos AI Nitro, một giải pháp được thiết kế nhằm tối ưu hóa việc sử dụng công cụ và cắt giảm tới 25% chi phí bản quyền EDA bằng cách thu hẹp khoảng cách giữa hoạt động cấp phép và hàng đợi công việc.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-services/375289-webinar-cut-down-eda-license-cost-by-25-with-stratos-ai-nitro/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Smarter-EDA-Queues-with-Stratos-AI.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-23T22:51:02.466139+00:00",
+    "publishedAt": "2026-10-23T15:00:37+00:00"
+  },
+  {
+    "title_org": "The Wafer Is the New Battleground: Soitec CPO René Jonker on Building AI from the Substrate Up",
+    "title_vietnamese": "Tấm Wafer là chiến trường mới: CPO René Jonker của Soitec chia sẻ về việc xây dựng AI từ chất nền",
+    "summary_org": "At SEMICON West 2026, Soitec Chief Product Officer René Jonker discusses how AI performance relies heavily on the foundational wafer substrate rather than just the chip itself. While engineers usually focus on process nodes, dataflow, and HBM stacks, the conversation shifts to the critical role of advanced wafers in driving future AI capabilities.",
+    "summary_vietnamese": "Tại sự kiện SEMICON West 2026, Giám đốc Sản phẩm (CPO) của Soitec - René Jonker - thảo luận về việc hiệu năng AI phụ thuộc lớn vào lớp chất nền wafer nền tảng thay vì chỉ là bản thân con chip. Trong khi các kỹ sư thường tập trung vào nút tiến trình, luồng dữ liệu và các stack HBM, bài phỏng vấn nhấn mạnh vai trò cốt lõi của các tấm wafer tiên tiến trong việc thúc đẩy năng lực AI tương lai.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/soitec/375182-the-wafer-is-the-new-battleground-soitec-cpo-rene-jonker-on-building-ai-from-the-substrate-up/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Electric-blue-Soitec-wafer-cover.jpg",
+    "author": "Lauro Rizzatti",
+    "createdAt": "2026-10-23T22:51:05.103945+00:00",
+    "publishedAt": "2026-10-23T14:00:46+00:00"
   }
 ]
