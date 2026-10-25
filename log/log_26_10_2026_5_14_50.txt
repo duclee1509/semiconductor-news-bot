@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/pt-w-alloy-shows-potential-for-thinner-high-na-euv-mask-absorbers-chinese-academy-of-sciences-et-al/
+Title: Pt-W Alloy Shows Potential For Thinner High-NA EUV Mask Absorbers (Chinese Academy of Sciences et al.)
+Summary: <p>Researchers at Chinese Academy of Sciences, Jilin University, State Key Laboratory of Advanced Manufacturing for Optical Systems, and University of Chinese Academy of Sciences published a techni...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_617037593-02-27-2026-scaled.jpeg
+Author: Technical Paper Link
+Published date: Sun, 25 Oct 2026 21:17:41 +0000
+
+Article: https://semiengineering.com/dry-deposited-resist-shows-different-tone-behavior-under-euv-and-e-beam-exposure-ku-leuven-kunsan-vub-imec/
+Title: Dry-Deposited Resist Shows Different Tone Behavior Under EUV And E-Beam Exposure (KU Leuven, Kunsan, VUB, Imec)
+Summary: <p>Researchers at KU Leuven, Kunsan National University, Vrije Universiteit Brussel, imec, et al. published “Irradiation-Source-Dependent Tone Conversion in Dry-Deposited Halogenated Amorphous Zeol...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/01/AdobeStock_338899292-Jan-1-2026-scaled.jpeg
+Author: Technical Paper Link
+Published date: Sun, 25 Oct 2026 21:08:26 +0000
+
+Article: https://semiengineering.com/silicon-photonic-modulator-reaches-200-gb-s-pam4-with-reduced-dsp-science-tokyo-yokohama-aist-petra/
+Title: Silicon Photonic Modulator Reaches 200 Gb/s PAM4 With Reduced DSP (Science Tokyo, Yokohama, AIST, PETRA)
+Summary: <p>Researchers from Institute of Science Tokyo, Yokohama National University, AIST, and Photonics Electronics Technology Research Association (PETRA) published a technical paper titled “Reduced-DSP...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/AdobeStock_532528757-scaled.jpeg
+Author: Technical Paper Link
+Published date: Sun, 25 Oct 2026 20:49:45 +0000
+
+Article: https://semiengineering.com/security-aware-layer-mapping-reduces-fault-vulnerability-in-3d-compute-in-memory-asu-u-of-maryland/
+Title: Security-Aware Layer Mapping Reduces Fault Vulnerability In 3D Compute-In-Memory (ASU, U. of Maryland)
+Summary: <p>Researchers at Arizona State University and University of Maryland published “SEAL: Multitenant Security-Aware Layer Mapping for Heterogeneous 3-D CiM Accelerators.” Abstract: &#8220;Heterogeneo...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1748350067-08-26-tgreen-scaled.jpeg
+Author: Technical Paper Link
+Published date: Sun, 25 Oct 2026 20:30:42 +0000
+
+Article: https://semiengineering.com/neural-networks-speed-3nm-nanosheet-spice-simulation-tu-munich/
+Title: Neural Networks Speed 3nm Nanosheet SPICE Simulation (TU Munich)
+Summary: <p>Researchers at Technical University of Munich published “NN-Based Transistor Modeling for Ultra-Fast SPICE Simulation and Standard Cell Library Characterization.” Abstract: “Neural network (NN)-...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/06-26-AdobeStock_143980229-scaled.jpeg
+Author: Technical Paper Link
+Published date: Sun, 25 Oct 2026 20:14:26 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
