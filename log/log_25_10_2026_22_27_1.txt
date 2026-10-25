@@ -1,0 +1,22 @@
+Article: https://semiwiki.com/ceo-interviews/374846-executive-interview-with-victor-lopez-of-raiderchip/
+Title: Executive Interview with Victor Lopez of RaiderChip
+Summary: <p dir="ltr"> </p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Generative-AI-at-the-Edge.jpg
+Author: Daniel Nenni
+Published date: Sun, 25 Oct 2026 15:00:28 +0000
+
+Article: https://semiwiki.com/ceo-interviews/373751-ceo-interview-with-vincent-cobee-of-iten/
+Title: CEO Interview with Vincent Cobée of ITEN
+Summary: <p>Vincent Cobée is a global industrial executive with more than 30 years of leadership experience, most of it spent in the highly demanding automotive industry, where he built a successful track r...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Small-batteries-big-possibilities-1.jpg
+Author: Daniel Nenni
+Published date: Sun, 25 Oct 2026 14:00:38 +0000
+
+Article: https://semiwiki.com/ceo-interviews/374432-ceo-interview-with-lisa-spelman-of-cornelis/
+Title: CEO Interview with Lisa Spelman of Cornelis
+Summary: <p>Lisa Spelman is CEO of <a href="https://www.cornelis.com/?utm_source=chatgpt.com">Cornelis</a>, where she leads the company’s efforts to advance high-performance networking for AI and HPC infras...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Lisa-Spelman_-The-network-as-compute.jpg
+Author: Daniel Nenni
+Published date: Sun, 25 Oct 2026 13:00:07 +0000
+
+Completed! Added a total of 3 new news items to Firebase.

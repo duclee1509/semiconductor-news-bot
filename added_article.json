@@ -6732,5 +6732,47 @@
     "author": "Lauro Rizzatti",
     "createdAt": "2026-10-23T22:51:05.103945+00:00",
     "publishedAt": "2026-10-23T14:00:46+00:00"
+  },
+  {
+    "title_org": "Executive Interview with Victor Lopez of RaiderChip",
+    "title_vietnamese": "Phỏng vấn lãnh đạo: Victor Lopez từ RaiderChip",
+    "summary_org": "Victor Lopez, Co-Founder and CTO at RaiderChip, shares insights from his 20-year career in FPGA and ASIC design. He discusses his experience leading the development of semiconductor IP and custom hardware solutions for industries like defense, aerospace, automotive, and professional video.",
+    "summary_vietnamese": "Victor Lopez, Đồng sáng lập kiêm Giám đốc Công nghệ (CTO) tại RaiderChip, chia sẻ những góc nhìn từ sự nghiệp hơn 20 năm trong lĩnh vực thiết kế FPGA và ASIC. Ông thảo luận về kinh nghiệm dẫn dắt việc phát triển các IP bán dẫn và giải pháp phần cứng tùy chỉnh cho các ngành công nghiệp như quốc phòng, hàng không vũ trụ, ô tô và video chuyên nghiệp.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/374846-executive-interview-with-victor-lopez-of-raiderchip/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Generative-AI-at-the-Edge.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-25T15:27:06.286928+00:00",
+    "publishedAt": "2026-10-25T15:00:28+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Vincent Cobée of ITEN",
+    "title_vietnamese": "Phỏng vấn CEO Vincent Cobée của ITEN",
+    "summary_org": "This article features an interview with Vincent Cobée, a global industrial executive with over 30 years of leadership experience primarily in the automotive sector. He is known for leading international organizations, driving business transformations, and introducing innovative technologies.",
+    "summary_vietnamese": "Bài viết này giới thiệu cuộc phỏng vấn với Vincent Cobée, một nhà điều hành công nghiệp toàn cầu có hơn 30 năm kinh nghiệm lãnh đạo chủ yếu trong ngành ô tô. Ông nổi tiếng với việc dẫn dắt các tổ chức quốc tế quy mô lớn, thúc đẩy chuyển đổi kinh doanh và giới thiệu các công nghệ đổi mới.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/373751-ceo-interview-with-vincent-cobee-of-iten/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Small-batteries-big-possibilities-1.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-25T15:27:11.239923+00:00",
+    "publishedAt": "2026-10-25T14:00:38+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Lisa Spelman of Cornelis",
+    "title_vietnamese": "Phỏng vấn CEO Lisa Spelman của Cornelis",
+    "summary_org": "Lisa Spelman is the CEO of Cornelis, leading the company's initiatives in high-performance networking for AI and HPC infrastructure. She brings over 20 years of extensive experience in AI, cloud, enterprise infrastructure, and data center operations.",
+    "summary_vietnamese": "Lisa Spelman là Giám đốc điều hành (CEO) của Cornelis, dẫn dắt các sáng kiến của công ty về mạng hiệu năng cao dành cho cơ sở hạ tầng AI và HPC. Bà mang đến hơn 20 năm kinh nghiệm phong phú trong lĩnh vực AI, điện toán đám mây, cơ sở hạ tầng doanh nghiệp và vận hành trung tâm dữ liệu.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/374432-ceo-interview-with-lisa-spelman-of-cornelis/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Lisa-Spelman_-The-network-as-compute.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-25T15:27:14.027113+00:00",
+    "publishedAt": "2026-10-25T13:00:07+00:00"
   }
 ]
