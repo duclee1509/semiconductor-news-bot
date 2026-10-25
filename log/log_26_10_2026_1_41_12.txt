@@ -1,0 +1,22 @@
+Article: https://semiwiki.com/ceo-interviews/374522-ceo-interview-with-eric-tsai-of-mivium/
+Title: CEO Interview with Eric Tsai of Mivium
+Summary: <p>Eric Tsai is Co-Founder and CEO of Mivium, Inc., a US-based materials technology company in Fremont, California developing submicron gallium nitride powder and related wide bandgap materials. He...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Eric-Tsai-on-the-GaN-starting-material.jpg
+Author: Daniel Nenni
+Published date: Sun, 25 Oct 2026 18:00:01 +0000
+
+Article: https://semiwiki.com/ceo-interviews/375036-ceo-interview-with-dr-gleb-tsipursky-of-disaster-avoidance-experts/
+Title: CEO Interview with Dr. Gleb Tsipursky of Disaster Avoidance Experts
+Summary: <p>Gleb Tsipursky, PhD, is the CEO and co-founder of <a href="https://disasteravoidanceexperts.com/about/">Disaster Avoidance Experts</a>, a consulting and training firm focused on helping organiza...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Human-Centered-AI-Adoption-at-Work.jpg
+Author: Daniel Nenni
+Published date: Sun, 25 Oct 2026 17:00:53 +0000
+
+Article: https://semiwiki.com/ceo-interviews/374969-aj-cooper-is-the-co-founder-and-ceo-of-itera/
+Title: AJ Cooper is the Co-Founder and CEO of Itera
+Summary: <div></div>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/AJ-Cooper_-Rewired-in-minutes.jpg
+Author: Daniel Nenni
+Published date: Sun, 25 Oct 2026 16:00:53 +0000
+
+Completed! Added a total of 3 new news items to Firebase.
