@@ -1,0 +1,22 @@
+Article: https://semiwiki.com/semiconductor-services/accellera/375280-accelleras-fsl-1-0-gives-functional-safety-data-a-common-language/
+Title: Accellera’s FSL 1.0 Gives Functional Safety Data a Common Language
+Summary: <p>Accellera Systems Initiative has approved Functional Safety Language Standard 1.0 for release, addressing a persistent challenge in semiconductor development: moving safety information reliably ...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Interconnected-functional-safety-across-IP-and-systems.jpg
+Author: Daniel Nenni
+Published date: Mon, 26 Oct 2026 17:00:32 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/tsmc/371610-inside-the-package-powering-modern-ai/
+Title: Inside the Package Powering Modern AI
+Summary: <p>TSMC’s CoWoS-S is critical to the artificial intelligence era because it solves the central systems problem facing modern accelerators: computing capability is growing faster than conventional p...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/07/TSMC-CoWoS-is-Critical-to-AI-Chips.jpg
+Author: Daniel Nenni
+Published date: Mon, 26 Oct 2026 15:00:03 +0000
+
+Article: https://semiwiki.com/semiconductor-services/375275-semicon-west-2026-after-the-toast-the-hard-questions/
+Title: SEMICON West 2026: After the Toast, the Hard Questions
+Summary: <p>Champagne is an unusual opening act for a semiconductor conference. At SEMICON West 2026, October 13 to 15, at the Moscone Center in San Francisco, it served a purpose. The toast marked an indus...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Global-Semiconductor-Market-2026.jpg
+Author: Lauro Rizzatti
+Published date: Mon, 26 Oct 2026 13:00:04 +0000
+
+Completed! Added a total of 3 new news items to Firebase.

@@ -6956,5 +6956,47 @@
     "author": "Technical Paper Link",
     "createdAt": "2026-10-26T09:36:39.668641+00:00",
     "publishedAt": "2026-10-26T07:01:24+00:00"
+  },
+  {
+    "title_org": "Accellera’s FSL 1.0 Gives Functional Safety Data a Common Language",
+    "title_vietnamese": "Chuẩn FSL 1.0 của Accellera mang lại ngôn ngữ chung cho dữ liệu an toàn chức năng",
+    "summary_org": "Accellera Systems Initiative has officially approved the Functional Safety Language Standard 1.0 to resolve challenges in transferring semiconductor safety data between different tools, engineering teams, and companies. Announced on October 21, this new standard establishes a unified language and data exchange format for the industry.",
+    "summary_vietnamese": "Accellera Systems Initiative đã chính thức phê duyệt Tiêu chuẩn Ngôn ngữ An toàn Chức năng 1.0 nhằm giải quyết các thách thức trong việc truyền tải dữ liệu an toàn bán dẫn giữa các công cụ, đội ngũ kỹ sư và công ty khác nhau. Được công bố vào ngày 21 tháng 10, tiêu chuẩn này thiết lập một ngôn ngữ chung và định dạng trao đổi dữ liệu cho toàn ngành.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-services/accellera/375280-accelleras-fsl-1-0-gives-functional-safety-data-a-common-language/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Interconnected-functional-safety-across-IP-and-systems.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-26T18:07:24.875239+00:00",
+    "publishedAt": "2026-10-26T17:00:32+00:00"
+  },
+  {
+    "title_org": "Inside the Package Powering Modern AI",
+    "title_vietnamese": "Khám phá công nghệ đóng gói đằng sau kỷ nguyên AI hiện đại",
+    "summary_org": "TSMC’s CoWoS-S technology is essential for modern AI accelerators by overcoming critical bottlenecks in data transmission, power delivery, and connectivity. As computing power outpaces traditional packaging capabilities, this silicon interposer-based solution bridges the gap.",
+    "summary_vietnamese": "Công nghệ CoWoS-S của TSMC đóng vai trò cốt lõi đối với các bộ tăng tốc AI hiện đại bằng cách giải quyết những điểm nghẽn quan trọng về truyền tải dữ liệu, cấp nguồn và khả năng kết nối. Khi năng lực tính toán phát triển vượt xa khả năng đóng gói truyền thống, giải pháp dựa trên silicon interposer này đã thu hẹp khoảng cách đó.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/tsmc/371610-inside-the-package-powering-modern-ai/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/07/TSMC-CoWoS-is-Critical-to-AI-Chips.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-26T18:07:37.867690+00:00",
+    "publishedAt": "2026-10-26T15:00:03+00:00"
+  },
+  {
+    "title_org": "SEMICON West 2026: After the Toast, the Hard Questions",
+    "title_vietnamese": "SEMICON West 2026: Sau màn nâng ly là những câu hỏi hóc búa",
+    "summary_org": "SEMICON West 2026 opened with a celebratory toast at the Moscone Center in San Francisco to mark the semiconductor industry crossing the $1 trillion annual revenue milestone nearly four years ahead of projections. However, as WSTS data highlights, this remarkable achievement is immediately followed by critical questions and challenges facing the market.",
+    "summary_vietnamese": "SEMICON West 2026 đã khai mạc bằng màn nâng ly chúc mừng tại Trung tâm Moscone ở San Francisco để đánh dấu cột mốc ngành công nghiệp bán dẫn vượt mốc doanh thu 1 nghìn tỷ USD hàng năm, sớm hơn gần 4 năm so với dự kiến. Tuy nhiên, theo dữ liệu từ WSTS, thành tựu đáng chú ý này ngay lập tức đi kèm với những câu hỏi và thách thức nan giải mà thị trường phải đối mặt.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-services/375275-semicon-west-2026-after-the-toast-the-hard-questions/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Global-Semiconductor-Market-2026.jpg",
+    "author": "Lauro Rizzatti",
+    "createdAt": "2026-10-26T18:07:47.958950+00:00",
+    "publishedAt": "2026-10-26T13:00:04+00:00"
   }
 ]
