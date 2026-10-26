@@ -1,19 +1,5 @@
 [
   {
-    "title_org": "What Are DDR5 DIMM Chipsets? The Complete Guide To RCDs, PMICs, SPD Hubs, And More",
-    "title_vietnamese": "Chipset DDR5 DIMM là gì? Hướng dẫn toàn diện về RCD, PMIC, SPD Hub và nhiều hơn nữa",
-    "summary_org": "This article explores how DDR5 DIMM chipsets work and why they are crucial for advancing memory technology. It covers key components like RCDs, PMICs, and SPD hubs, alongside emerging module architectures that extend memory bandwidth.",
-    "summary_vietnamese": "Bài viết này khám phá cách hoạt động của các chipset DDR5 DIMM và tầm quan trọng của chúng đối với sự phát triển của công nghệ bộ nhớ. Nội dung bao gồm các thành phần chính như RCD, PMIC và SPD hub, bên cạnh các kiến trúc mô-đun mới giúp mở rộng băng thông bộ nhớ.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/what-are-ddr5-dimm-chipsets-the-complete-guide-to-rcds-pmics-spd-hubs-and-more/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/06/Blue-circuit-board-06-22-26-AdobeStock_443617467-scaled.jpeg",
-    "author": "Rambus",
-    "createdAt": "2026-08-12T18:05:03.524960+00:00",
-    "publishedAt": "2026-08-12T07:02:43+00:00"
-  },
-  {
     "title_org": "Blog Review: Aug. 12",
     "title_vietnamese": "Điểm lại Blog: Ngày 12 tháng 8",
     "summary_org": "This article provides a summary of engineering blog posts covering early multiphysics, high-speed M-PHY, and STCO for 3D-ICs. It also highlights discussions on electronic design automation (EDA) requirements for AI and workload optimization techniques.",
@@ -6998,5 +6984,19 @@
     "author": "Lauro Rizzatti",
     "createdAt": "2026-10-26T18:07:47.958950+00:00",
     "publishedAt": "2026-10-26T13:00:04+00:00"
+  },
+  {
+    "title_org": "Chip đạt tốc độ 200 Gb/giây nhờ ánh sáng tốc độ chậm",
+    "title_vietnamese": "",
+    "summary_org": "Các nhà nghiên cứu tại Nhật Bản đã phát triển thành công chip truyền dữ liệu Reduced-DSP 200G/λ đạt tốc độ 200 Gb/giây. Công nghệ này ứng dụng ánh sáng chuyển động chậm kết hợp với bộ cân bằng điện nhằm tối ưu hóa và gia tăng tốc độ truyền tải dữ liệu.",
+    "summary_vietnamese": "",
+    "source": "VnExpress",
+    "url": "https://vnexpress.net/chip-dat-toc-do-200-gb-giay-nho-anh-sang-toc-do-cham-5136598.html",
+    "category": "VietNam",
+    "isPolicy": false,
+    "thumbnail": "https://i2-vnexpress.vnecdn.net/2026/10/25/759664178184181044013227964009-9535-8608-1792904753.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=zcRmT5XmA__PqYJ2PZKhJg",
+    "author": "Bảo Lâm",
+    "createdAt": "2026-10-26T23:31:48.285371+00:00",
+    "publishedAt": "2026-10-26T22:00:00+00:00"
   }
 ]

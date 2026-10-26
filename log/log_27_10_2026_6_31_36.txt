@@ -1,0 +1,8 @@
+Article: https://vnexpress.net/chip-dat-toc-do-200-gb-giay-nho-anh-sang-toc-do-cham-5136598.html
+Title: Chip đạt tốc độ 200 Gb/giây nhờ ánh sáng tốc độ chậm
+Summary: Reduced-DSP 200G/λ do Nhật Bản phát triển, dùng ánh sáng chuyển động chậm và bộ cân bằng điện giúp tăng tốc độ truyền dữ liệu.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/10/25/759664178184181044013227964009-9535-8608-1792904753.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=zcRmT5XmA__PqYJ2PZKhJg
+Author: Bảo Lâm
+Published date: Mon, 26 Oct 2026 22:00:00 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
