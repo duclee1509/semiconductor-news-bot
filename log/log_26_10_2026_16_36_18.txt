@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/vertical-dram-stacking-expands-thermal-design-space-beyond-hbm-imec/
+Title: Vertical DRAM Stacking Expands Thermal Design Space Beyond HBM-on-GPU (imec)
+Summary: <p>Researchers at imec published “Beyond HBM-on-GPU: Thermal Design Envelope for 3D Volumetric DRAM-on-GPU Integration.” Summary: Researchers evaluated a 3D memory architecture that rotates DRAM di...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1661858452-08-26-scaled.jpeg?fit=2560%2C1280&ssl=1
+Author: Technical Paper Link
+Published date: Mon, 26 Oct 2026 07:02:36 +0000
+
+Article: https://semiengineering.com/large-format-masks-move-from-aspiration-to-industry-roadmap/
+Title: Large-Format Masks Move From Aspiration To Industry Roadmap
+Summary: <p>Expert panel sees a compelling productivity case, but the entire photomask ecosystem must be ready together.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/10/eBeam_Large-Format-Masks-Roadmap-fig1-panel.webp?fit=2048%2C1073&ssl=1
+Author: Jan Willis
+Published date: Mon, 26 Oct 2026 07:02:08 +0000
+
+Article: https://semiengineering.com/testing-silicon-photonics-at-scale/
+Title: Testing Silicon Photonics At Scale
+Summary: <p>New test requirements include fiber alignment, coupling efficiency, polarization management, and optical instrumentation.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/10/SEMI_Testing-Silicon-Photonics-at-Scale-fig1.webp?fit=1428%2C747&ssl=1
+Author: Clemens Leichtle
+Published date: Mon, 26 Oct 2026 07:01:58 +0000
+
+Article: https://semiengineering.com/bringing-down-test-costs-for-co-packaged-optics/
+Title: Bringing Down Test Costs For Co-Packaged Optics
+Summary: <p>Pinpointing failures, ensuring known-good optical engines, and controlling test costs become increasingly critical as photonics moves into advanced packages.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/10/Screenshot-2026-10-05-at-4.58.48-PM.png?fit=512%2C646&ssl=1
+Author: Laura Peters
+Published date: Mon, 26 Oct 2026 07:01:57 +0000
+
+Article: https://semiengineering.com/self-heating-and-parasitics-challenge-multi-tier-cfet-scaling-tu-munich-iit-kanpur/
+Title: Self-Heating And Parasitics Challenge Multi-Tier CFET Scaling (TU Munich, IIT Kanpur)
+Summary: <p>Researchers at the Technical University of Munich and Indian Institute of Technology Kanpur published “Self-Heating and Parasitic Effects in Multi-Tier CFET Design.” Abstract Excerpt: &#8220;We ...
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_621001046-11-7-24.jpeg?fit=1200%2C721&ssl=1
+Author: Technical Paper Link
+Published date: Mon, 26 Oct 2026 07:01:24 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
