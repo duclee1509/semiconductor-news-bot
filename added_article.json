@@ -1,19 +1,5 @@
 [
   {
-    "title_org": "Blog Review: Aug. 12",
-    "title_vietnamese": "Điểm lại Blog: Ngày 12 tháng 8",
-    "summary_org": "This article provides a summary of engineering blog posts covering early multiphysics, high-speed M-PHY, and STCO for 3D-ICs. It also highlights discussions on electronic design automation (EDA) requirements for AI and workload optimization techniques.",
-    "summary_vietnamese": "Bài viết này tổng hợp các bài đăng blog kỹ thuật bao gồm đa vật lý sơ khai, M-PHY tốc độ cao và STCO cho mạch tích hợp 3D (3D-ICs). Bài viết cũng làm nổi bật các thảo luận về yêu cầu tự động hóa thiết kế điện tử (EDA) cho trí tuệ nhân tạo và các kỹ thuật tối ưu hóa khối lượng công việc.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/blog-review-aug-12-3/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_1104488381-03-26-2025-scaled.jpeg?fit=2560%2C1600&ssl=1",
-    "author": "Jesse Allen",
-    "createdAt": "2026-08-12T18:05:06.513854+00:00",
-    "publishedAt": "2026-08-12T07:01:47+00:00"
-  },
-  {
     "title_org": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
     "title_vietnamese": "Xác định nguyên nhân gốc rễ của lỗi thiết bị điện tử bằng ứng dụng mô phỏng",
     "summary_org": "Researchers at the Technical University of Denmark (DTU) are utilizing simulation apps to uncover and mitigate corrosion-induced electronic failures caused by humidity. By partnering with industry and employing COMSOL Multiphysics, they develop models that help engineers design more robust, climate-resistant high-voltage electronics.",
@@ -6998,5 +6984,19 @@
     "author": "Bảo Lâm",
     "createdAt": "2026-10-26T23:31:48.285371+00:00",
     "publishedAt": "2026-10-26T22:00:00+00:00"
+  },
+  {
+    "title_org": "Chip Industry Technical Paper Roundup: Oct. 27",
+    "title_vietnamese": "Tổng hợp tài liệu kỹ thuật ngành chip: Ngày 27 tháng 10",
+    "summary_org": "This technical roundup covers advanced semiconductor research highlights, including 3D DRAM-on-GPU thermal design, multi-tier CFET self-heating, 200G/λ silicon photonics, and dry-deposited EUV resists. It also features innovations in neural-network-based SPICE modeling for 3nm nodes, security-aware 3D CiM mapping, and Pt-W absorbers for high-NA EUV masks.",
+    "summary_vietnamese": "Bản tổng hợp kỹ thuật này đề cập đến các điểm nổi bật trong nghiên cứu bán dẫn tiên tiến, bao gồm thiết kế tản nhiệt 3D DRAM-on-GPU, hiện tượng tự làm nóng của CFET đa tầng, quang tử silicon 200G/λ và chất cản quang EUV lắng đọng khô. Nội dung cũng giới thiệu các đổi mới trong mô hình hóa SPICE dựa trên mạng thần kinh cho tiến trình 3nm, sơ đồ 3D CiM nhận thức bảo mật và các lớp hấp thụ Pt-W cho mặt nạ EUV high-NA.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-27/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1748350067-08-26-tgreen-scaled.jpeg?fit=2560%2C1280&ssl=1",
+    "author": "Linda Christensen",
+    "createdAt": "2026-10-27T09:32:26.890524+00:00",
+    "publishedAt": "2026-10-27T07:01:16+00:00"
   }
 ]

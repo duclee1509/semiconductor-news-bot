@@ -1,0 +1,8 @@
+Article: https://semiengineering.com/chip-industry-technical-paper-roundup-oct-27/
+Title: Chip Industry Technical Paper Roundup: Oct. 27
+Summary: <p>3D DRAM-on-GPU thermal design; multi-tier CFET self-heating and parasitics; 200G/λ silicon photonics; dry-deposited EUV and e-beam resists; neural-network-based SPICE modeling for 3nm; security-...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1748350067-08-26-tgreen-scaled.jpeg?fit=2560%2C1280&ssl=1
+Author: Linda Christensen
+Published date: Tue, 27 Oct 2026 07:01:16 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
