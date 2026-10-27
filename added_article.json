@@ -1,19 +1,5 @@
 [
   {
-    "title_org": "Boost Front-End SoC Design With Defacto’s AI-Powered Tool",
-    "title_vietnamese": "Tăng tốc thiết kế SoC Front-End bằng công cụ tích hợp AI của Defacto",
-    "summary_org": "Defacto's CEO Chouki Aktouf and product manager Valentin Boyer recently hosted a webinar demonstrating how their AI-powered tool addresses the challenges of front-end SoC design. The solution aims to reduce manual work and improve alignment among RTL, IPs, and design collaterals. This innovation helps engineers balance speed and accuracy more effectively.",
-    "summary_vietnamese": "CEO Chouki Aktouf và quản lý sản phẩm Valentin Boyer của Defacto gần đây đã tổ chức một hội thảo trực tuyến, trình bày cách công cụ tích hợp AI của họ giải quyết các thách thức trong thiết kế SoC front-end. Giải pháp này nhằm giảm bớt công việc thủ công và cải thiện tính đồng bộ giữa RTL, IP và các tài liệu thiết kế. Đổi mới này giúp các kỹ sư cân bằng hiệu quả giữa tốc độ và độ chính xác.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/eda/defacto-technologies/372101-boost-front-end-soc-design-with-defactos-ai-powered-tool/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Picture-AI-webinar-blog.jpg",
-    "author": "Admin",
-    "createdAt": "2026-08-12T18:05:20.062100+00:00",
-    "publishedAt": "2026-08-12T13:00:56+00:00"
-  },
-  {
     "title_org": "Việt Nam mong muốn cùng các đối tác phát triển hệ sinh thái bán dẫn có sức cạnh tranh toàn cầu",
     "title_vietnamese": "",
     "summary_org": "Sáng 30/7 tại Trụ sở Chính phủ, Phó Thủ tướng Hồ Quốc Dũng đã tiếp bà Linda Tan, Chủ tịch Hiệp hội bán dẫn Đông Nam Á (SEMI SEA) cùng các thành viên. Trong buổi tiếp, Việt Nam bày tỏ mong muốn cùng các đối tác phát triển hệ sinh thái bán dẫn có sức cạnh tranh toàn cầu.",
@@ -6998,5 +6984,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-10-27T17:19:56.266924+00:00",
     "publishedAt": "2026-10-27T13:00:09+00:00"
+  },
+  {
+    "title_org": "Analog Superposition Increases Effective PCM Storage Density (IBM Research Europe)",
+    "title_vietnamese": "Kỹ thuật chồng chất tương tự giúp tăng mật độ lưu trữ hiệu quả của bộ nhớ PCM (IBM Research Europe)",
+    "summary_org": "Researchers at IBM Research Europe demonstrated an analog phase-change memory architecture that stores multiple AI vectors in superposition. This approach increases effective storage density while maintaining a tunable accuracy tradeoff, with prototype tests showing inference accuracy close to full-precision software.",
+    "summary_vietnamese": "Các nhà nghiên cứu tại IBM Research Europe đã giới thiệu một kiến trúc bộ nhớ thay đổi pha tương tự (analog phase-change memory), cho phép lưu trữ nhiều vector AI ở dạng chồng chất. Phương pháp này giúp tăng mật độ lưu trữ hiệu quả trong khi vẫn duy trì sự đánh đổi độ chính xác có thể điều chỉnh, với các thử nghiệm trên phần cứng mẫu cho thấy độ chính xác suy luận gần bằng phần mềm có độ chính xác toàn phần.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/analog-superposition-increases-effective-pcm-storage-density-ibm-research-europe/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1661858452-08-26-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-10-27T23:26:01.655329+00:00",
+    "publishedAt": "2026-10-27T20:37:31+00:00"
   }
 ]

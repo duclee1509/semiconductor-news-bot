@@ -1,0 +1,8 @@
+Article: https://semiengineering.com/analog-superposition-increases-effective-pcm-storage-density-ibm-research-europe/
+Title: Analog Superposition Increases Effective PCM Storage Density (IBM Research Europe)
+Summary: <p>Researchers at IBM Research Europe published “Superposed analog memory for vector storage in neural networks.” Summary: Researchers demonstrated an analog phase-change memory architecture that s...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1661858452-08-26-scaled.jpeg
+Author: Technical Paper Link
+Published date: Tue, 27 Oct 2026 20:37:31 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
