@@ -1,0 +1,22 @@
+Article: https://semiengineering.com/the-imec-report-scaling-optical-interconnects-for-the-ai-era/
+Title: The imec Report: Scaling Optical Interconnects For The AI Era
+Summary: <p>Unprecedented demand for bandwidth calls for bringing optics closer to silicon through a fundamental rethinking of the optical interconnect roadmap.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/10/imec_scaling-optical-interconnect-AI-fig2.webp
+Author: Imene Jadli
+Published date: Tue, 27 Oct 2026 07:01:34 +0000
+
+Article: https://semiwiki.com/eda/synopsys/375201-why-synopsys-role-in-amds-instinct-mi455x-matters-for-ai-infrastructure/
+Title: Why Synopsys’ Role in AMD’s Instinct MI455X Matters for AI Infrastructure
+Summary: <p>Synopsys’ collaboration with AMD on the Instinct MI455X GPU highlights a shift in how advanced AI processors are developed. Increasing performance depends on coordinating compute dies, memory in...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Conceptual-Multi-Die-AI-GPU-Design.jpg
+Author: Daniel Nenni
+Published date: Tue, 27 Oct 2026 15:00:14 +0000
+
+Article: https://semiwiki.com/prototyping/s2c-eda/375383-s2c-showcases-ai-assisted-risc-v-verification-and-fpga-prototyping-at-risc-v-summit-china/
+Title: S2C Targets Faster RISC-V Bring-Up With Prototyping and AI
+Summary: <p>S2C showcased FPGA prototyping and AI-assisted debugging at the sixth RISC-V Summit China, outlining how developers can validate complex processor designs and begin software development before f...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/S2C-advances-RISC-V-FPGA-development.jpg
+Author: Daniel Nenni
+Published date: Tue, 27 Oct 2026 13:00:09 +0000
+
+Completed! Added a total of 3 new news items to Firebase.

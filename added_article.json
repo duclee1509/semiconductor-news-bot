@@ -1,47 +1,5 @@
 [
   {
-    "title_org": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
-    "title_vietnamese": "Xác định nguyên nhân gốc rễ của lỗi thiết bị điện tử bằng ứng dụng mô phỏng",
-    "summary_org": "Researchers at the Technical University of Denmark (DTU) are utilizing simulation apps to uncover and mitigate corrosion-induced electronic failures caused by humidity. By partnering with industry and employing COMSOL Multiphysics, they develop models that help engineers design more robust, climate-resistant high-voltage electronics.",
-    "summary_vietnamese": "Các nhà nghiên cứu tại Đại học Kỹ thuật Đan Mạch (DTU) đang sử dụng các ứng dụng mô phỏng để phát hiện và giảm thiểu các lỗi thiết bị điện tử do ăn mòn gây ra bởi độ ẩm. Bằng cách hợp tác với ngành công nghiệp và sử dụng phần mềm COMSOL Multiphysics, họ phát triển các mô hình giúp kỹ sư thiết kế các thiết bị điện tử cao áp bền vững và chống chịu thời tiết tốt hơn.",
-    "source": "IEEE Spectrum - Semiconductors",
-    "url": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTgyNjE0MzQzOX0.N7fHdky-KEYicEarB5Y-YGrry7baoW61oxUszI23GV4/image.png?width=210",
-    "author": "Joseph Carew",
-    "createdAt": "2026-08-12T18:05:08.249922+00:00",
-    "publishedAt": "2026-08-03T11:38:22+00:00"
-  },
-  {
-    "title_org": "Exotic Quasiparticles Promise Next-Gen Interconnects",
-    "title_vietnamese": "Các chuẩn hạt kỳ lạ hứa hẹn tạo ra mạch kết nối thế hệ tiếp theo",
-    "summary_org": "Researchers have found that topological materials containing exotic quasiparticles could enable next-generation microchip interconnects that become better conductors as they get thinner. In a new study, scientists synthesized niobium arsenide nanowires which showed lower resistivity at smaller diameters due to enhanced surface conduction. Although challenges like toxicity and manufacturing compatibility remain, this proof-of-principle work highlights the potential of Weyl semimetals for future electronics.",
-    "summary_vietnamese": "Các nhà nghiên cứu phát hiện ra rằng vật liệu topo chứa các chuẩn hạt kỳ lạ có thể tạo ra các mạch kết nối vi mạch thế hệ mới có khả năng dẫn điện tốt hơn khi chúng mỏng đi. Trong một nghiên cứu mới, các nhà khoa học đã tổng hợp các dây nano niobi arsenide cho thấy điện trở suất thấp hơn ở các đường kính nhỏ hơn nhờ sự dẫn điện bề mặt được cải thiện. Mặc dù vẫn còn những thách thức như độc tính và khả năng tương thích sản xuất, công trình mang tính minh chứng nguyên lý này vẫn làm nổi bật tiềm năng của kim loại bán dẫn Weyl đối với ngành điện tử tương lai.",
-    "source": "IEEE Spectrum - Semiconductors",
-    "url": "https://spectrum.ieee.org/topological-material-nanowire-interconnect",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://spectrum.ieee.org/media-library/image.jpg?id=67534512&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
-    "author": "Charles Q. Choi",
-    "createdAt": "2026-08-12T18:05:10.246877+00:00",
-    "publishedAt": "2026-07-27T11:00:01+00:00"
-  },
-  {
-    "title_org": "Comparing Intel EMIB and Intel Foveros",
-    "title_vietnamese": "So sánh Intel EMIB và Intel Foveros",
-    "summary_org": "Intel EMIB and Intel Foveros are advanced semiconductor-packaging technologies used to integrate multiple chiplets into a single processor package. Both technologies enable heterogeneous integration, allowing manufacturers to use the most suitable process technology for different functions.",
-    "summary_vietnamese": "Intel EMIB và Intel Foveros là các công nghệ đóng gói bán dẫn tiên tiến được sử dụng để tích hợp nhiều die chip vào một gói bộ vi xử lý duy nhất. Cả hai công nghệ này đều hỗ trợ tích hợp dị thể, cho phép các nhà sản xuất sử dụng công nghệ xử lý phù hợp nhất cho từng chức năng khác nhau.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/semiconductor-manufacturers/intel/372086-comparing-intel-emib-and-intel-foveros/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Comparing-Intel-EMIB-and-Intel-Foveros-SemiWiki-1200x675.jpg",
-    "author": "Daniel Nenni",
-    "createdAt": "2026-08-12T18:05:14.813605+00:00",
-    "publishedAt": "2026-08-12T17:00:56+00:00"
-  },
-  {
     "title_org": "Boost Front-End SoC Design With Defacto’s AI-Powered Tool",
     "title_vietnamese": "Tăng tốc thiết kế SoC Front-End bằng công cụ tích hợp AI của Defacto",
     "summary_org": "Defacto's CEO Chouki Aktouf and product manager Valentin Boyer recently hosted a webinar demonstrating how their AI-powered tool addresses the challenges of front-end SoC design. The solution aims to reduce manual work and improve alignment among RTL, IPs, and design collaterals. This innovation helps engineers balance speed and accuracy more effectively.",
@@ -6998,5 +6956,47 @@
     "author": "Linda Christensen",
     "createdAt": "2026-10-27T09:32:26.890524+00:00",
     "publishedAt": "2026-10-27T07:01:16+00:00"
+  },
+  {
+    "title_org": "The imec Report: Scaling Optical Interconnects For The AI Era",
+    "title_vietnamese": "Báo cáo của imec: Mở rộng quy mô kết nối quang học cho kỷ nguyên AI",
+    "summary_org": "The unprecedented demand for bandwidth in the AI era requires a fundamental rethinking of the optical interconnect roadmap. To meet these needs, the industry must bring optics closer to silicon through advanced packaging and integration techniques.",
+    "summary_vietnamese": "Nhu cầu băng thông chưa từng có trong kỷ nguyên AI đòi hỏi phải suy nghĩ lại một cách toàn diện về lộ trình kết nối quang học. Để đáp ứng các nhu cầu này, ngành công nghiệp phải đưa công nghệ quang học lại gần hơn với silicon thông qua các kỹ thuật đóng gói và tích hợp tiên tiến.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/the-imec-report-scaling-optical-interconnects-for-the-ai-era/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/10/imec_scaling-optical-interconnect-AI-fig2.webp",
+    "author": "Imene Jadli",
+    "createdAt": "2026-10-27T17:19:27.780235+00:00",
+    "publishedAt": "2026-10-27T07:01:34+00:00"
+  },
+  {
+    "title_org": "Why Synopsys’ Role in AMD’s Instinct MI455X Matters for AI Infrastructure",
+    "title_vietnamese": "Tại sao vai trò của Synopsys trong dòng chip AMD Instinct MI455X lại quan trọng đối với cơ sở hạ tầng AI",
+    "summary_org": "Synopsys' collaboration with AMD on the Instinct MI455X GPU emphasizes the growing complexity of advanced AI processor development, which requires coordinating compute dies, memory interfaces, and packaging. AMD utilized Synopsys' design and verification solutions to tackle these multi-faceted engineering challenges, showcasing the critical role of EDA tools in modern AI infrastructure.",
+    "summary_vietnamese": "Sự hợp tác giữa Synopsys và AMD trong dòng GPU Instinct MI455X nhấn mạnh độ phức tạp ngày càng tăng của việc phát triển bộ xử lý AI tiên tiến, đòi hỏi sự phối hợp giữa các die tính toán, giao diện bộ nhớ và công nghệ packaging. AMD đã tận dụng các giải pháp thiết kế và kiểm tra của Synopsys để giải quyết những thách thức kỹ thuật đa diện này, cho thấy vai trò quan trọng của các công cụ EDA trong cơ sở hạ tầng AI hiện đại.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/synopsys/375201-why-synopsys-role-in-amds-instinct-mi455x-matters-for-ai-infrastructure/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Conceptual-Multi-Die-AI-GPU-Design.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-27T17:19:42.654798+00:00",
+    "publishedAt": "2026-10-27T15:00:14+00:00"
+  },
+  {
+    "title_org": "S2C Targets Faster RISC-V Bring-Up With Prototyping and AI",
+    "title_vietnamese": "S2C hướng tới tăng tốc quá trình khởi động RISC-V bằng công nghệ tạo mẫu và AI",
+    "summary_org": "S2C showcased FPGA prototyping and AI-assisted debugging at the sixth RISC-V Summit China. The company demonstrated how developers can validate complex processor designs and start software development before first silicon by running substantial RISC-V systems on FPGA hardware.",
+    "summary_vietnamese": "S2C đã giới thiệu công nghệ tạo mẫu FPGA và gỡ lỗi hỗ trợ bởi AI tại hội nghị RISC-V Summit China lần thứ sáu. Công ty đã trình diễn cách các nhà phát triển có thể xác thực các thiết kế bộ vi xử lý phức tạp và bắt đầu phát triển phần mềm trước khi có silicon đầu tiên bằng cách chạy các hệ thống RISC-V lớn trên phần cứng FPGA.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/prototyping/s2c-eda/375383-s2c-showcases-ai-assisted-risc-v-verification-and-fpga-prototyping-at-risc-v-summit-china/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/S2C-advances-RISC-V-FPGA-development.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-27T17:19:56.266924+00:00",
+    "publishedAt": "2026-10-27T13:00:09+00:00"
   }
 ]
