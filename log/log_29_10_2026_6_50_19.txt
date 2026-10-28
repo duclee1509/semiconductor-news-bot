@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/ip/375410-cevas-next-generation-neupro-brings-a-unified-ai-platform-from-sensors-to-infrastructure/
+Title: Ceva’s Next-Generation NeuPro Brings a Unified AI Platform from Sensors to Infrastructure
+Summary: <p>Ceva is expanding the reach of its neural processing technology with a next-generation NeuPro portfolio designed to serve everything from always-on sensors to AI infrastructure. The announcement...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/NeuPro_-Sensors-to-AI-infrastructure.jpg
+Author: Daniel Nenni
+Published date: Wed, 28 Oct 2026 11:00:37 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

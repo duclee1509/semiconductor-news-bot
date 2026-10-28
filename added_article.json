@@ -1,19 +1,5 @@
 [
   {
-    "title_org": "Micron Advanced Memory Portfolio Positioned for AI Infrastructure Expansion",
-    "title_vietnamese": "Danh mục bộ nhớ tiên tiến của Micron sẵn sàng cho việc mở rộng cơ sở hạ tầng AI",
-    "summary_org": "Micron Technology has positioned itself as a key supplier in the AI compute ecosystem through its leadership in advanced DRAM, High Bandwidth Memory (HBM), and NAND flash technologies. The company is strategically addressing the rapidly growing demand from hyperscale data centers and AI accelerator platforms.",
-    "summary_vietnamese": "Micron Technology đã khẳng định vị thế là nhà cung cấp quan trọng trong hệ sinh thái điện toán AI nhờ sự dẫn đầu về công nghệ DRAM tiên tiến, High Bandwidth Memory (HBM) và flash NAND. Công ty đang đáp ứng chiến lược nhu cầu phát triển nhanh chóng từ các trung tâm dữ liệu siêu quy mô và nền tảng tăng tốc AI.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/semiconductor-manufacturers/369794-micron-advanced-memory-portfolio-positioned-for-ai-infrastructure-expansion/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/06/Micron-Advanced-Memory-Portfolio-Positioned-for-AI-Infrastructure-Expansion-2-1200x600.jpg",
-    "author": "Daniel Nenni",
-    "createdAt": "2026-08-13T01:20:47.969127+00:00",
-    "publishedAt": "2026-08-12T21:00:55+00:00"
-  },
-  {
     "title_org": "The 1-Megawatt Rack Debate",
     "title_vietnamese": "Cuộc tranh luận về rack máy chủ 1-Megawatt",
     "summary_org": "The article discusses the ongoing debate in the semiconductor and data center industries regarding whether to cram more compute power into each rack or to fundamentally rethink the system architecture. It highlights the challenges of handling extreme power densities, such as reaching the 1-megawatt threshold per rack.",
@@ -6998,5 +6984,19 @@
     "author": "Admin",
     "createdAt": "2026-10-28T17:49:19.355000+00:00",
     "publishedAt": "2026-10-28T13:00:56+00:00"
+  },
+  {
+    "title_org": "Ceva’s Next-Generation NeuPro Brings a Unified AI Platform from Sensors to Infrastructure",
+    "title_vietnamese": "NeuPro thế hệ mới của Ceva mang đến nền tảng AI thống nhất từ cảm biến đến cơ sở hạ tầng",
+    "summary_org": "Ceva has introduced its next-generation NeuPro portfolio, featuring four NPU families built on a common architecture and unified software stack. This comprehensive platform is designed to scale across a wide range of applications, from always-on sensors to massive AI infrastructure, providing semiconductor developers with a consistent design experience.",
+    "summary_vietnamese": "Ceva đã giới thiệu danh mục NeuPro thế hệ mới, bao gồm bốn dòng NPU được xây dựng trên một kiến trúc chung và ngăn xếp phần mềm thống nhất. Nền tảng toàn diện này được thiết kế để mở rộng quy mô trên nhiều ứng dụng khác nhau, từ cảm biến luôn bật đến cơ sở hạ tầng AI lớn, mang lại cho các nhà phát triển chất bán dẫn trải nghiệm thiết kế nhất quán.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ip/375410-cevas-next-generation-neupro-brings-a-unified-ai-platform-from-sensors-to-infrastructure/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/NeuPro_-Sensors-to-AI-infrastructure.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-28T23:50:23.579088+00:00",
+    "publishedAt": "2026-10-28T11:00:37+00:00"
   }
 ]
