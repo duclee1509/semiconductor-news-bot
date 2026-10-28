@@ -1,0 +1,43 @@
+Article: https://semiengineering.com/introducing-build-a-chip-bench-from-workload-specification-to-gds/
+Title: Introducing Build-A-Chip-Bench: From Workload Specification to GDS
+Summary: <p>Evaluate AI agents from workload specification through GDS layout, using open-source tools and an open-source PDK to assess their ability to complete the chip-design workflow. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/06-26-AdobeStock_143980229-scaled.jpeg?fit=2560%2C1398&ssl=1
+Author: ChipAgents
+Published date: Wed, 28 Oct 2026 07:03:44 +0000
+
+Article: https://semiengineering.com/foundations-of-power-management-in-the-age-of-ai/
+Title: Foundations of Power Management in the Age of AI
+Summary: <p>Make every layer of your hardware PDN-aware and reach your maximum compute density.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/06-26-AdobeStock_143980229-scaled.jpeg?fit=2560%2C1398&ssl=1
+Author: Movellus
+Published date: Wed, 28 Oct 2026 07:03:10 +0000
+
+Article: https://semiengineering.com/using-ai-for-analog-design/
+Title: Using AI for Analog Design
+Summary: <p>The growing role of AI in analog and mixed-signal design, where complexity is rising, schedules are tightening, and the cost of mistakes is higher than ever.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_1887001471-02-27-2026-scaled.jpeg?fit=2560%2C1280&ssl=1
+Author: Cadence
+Published date: Wed, 28 Oct 2026 07:02:07 +0000
+
+Article: https://semiengineering.com/foundation-ip-for-the-ai-era-why-execution-saves-you-millions-on-hpc-and-edge-ai-socs/
+Title: Foundation IP For The AI Era: Why Execution Saves You Millions On HPC And Edge AI SoCs
+Summary: <p>How a single, integrated Foundation IP platform reduces re-spin risk and integration delays and helps lower TCO. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_1104488381-03-26-2025-scaled.jpeg?fit=2560%2C1600&ssl=1
+Author: Synopsys
+Published date: Wed, 28 Oct 2026 07:01:06 +0000
+
+Article: https://semiengineering.com/planning-your-ai-design-journey-in-rf-eda/
+Title: Planning Your AI Design Journey In RF EDA
+Summary: <p>Agentic solutions for RF design.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1661858452-08-26-scaled.jpeg?fit=2560%2C1280&ssl=1
+Author: Keysight
+Published date: Wed, 28 Oct 2026 07:01:05 +0000
+
+Article: https://baochinhphu.vn/viet-nam-mong-muon-cung-cac-doi-tac-phat-trien-he-sinh-thai-ban-dan-co-suc-canh-tranh-toan-cau-10226073012320554.htm
+Title: Việt Nam mong muốn cùng các đối tác phát triển hệ sinh thái bán dẫn có sức cạnh tranh toàn cầu
+Summary: (Chinhphu.vn) - Sáng 30/7, tại Trụ sở Chính phủ, Phó Thủ tướng Hồ Quốc Dũng đã tiếp bà Linda Tan, Chủ tịch Hiệp hội bán dẫn Đông Nam Á (SEMI SEA) cùng các thành viên của Hiệp hội.
+Thumbnail: https://bcp2.cdnchinhphu.vn/zoom/1200_630/334894974524682240/2026/7/30/base64-17853894845621464204885.png
+Author: Gia Huy
+Published date: Thu, 30 Jul 2026 12:00:00 +0000
+
+Completed! Added a total of 6 new news items to Firebase.
