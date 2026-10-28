@@ -1,0 +1,22 @@
+Article: https://semiwiki.com/semiconductor-manufacturers/intel/375218-from-metrology-to-autonomy-why-intel-foundrys-manufacturing-roadmap-matters/
+Title: From Metrology to Autonomy: Why Intel Foundry’s Manufacturing Roadmap Matters
+Summary: <p>Semiconductor manufacturing has always depended on precise measurement. As devices become more complex and packaging integrates more components, however, measuring individual process steps is no...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Metrology-analytics-and-autonomous-manufacturing.jpg
+Author: Daniel Nenni
+Published date: Wed, 28 Oct 2026 17:00:44 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/373421-when-nanomagnets-do-the-math-frances-new-machine-for-impossible-choices/
+Title: When Nanomagnets Do the Math: France’s New Machine for Impossible Choices
+Summary: <p>French researchers have demonstrated a hybrid nanoelectronic <strong>“Ising machine”</strong> designed to solve difficult combinatorial optimization problems more efficiently. The experimental s...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/09/image002-5.png
+Author: Admin
+Published date: Wed, 28 Oct 2026 13:00:56 +0000
+
+Article: https://semiwiki.com/ip/375410-cevas-next-generation-neupro-brings-a-unified-ai-platform-from-sensors-to-infrastructure/
+Title: Ceva’s Next-Generation NeuPro Brings a Unified AI Platform from Sensors to Infrastructure
+Summary: <p>Ceva is expanding the reach of its neural processing technology with a next-generation NeuPro portfolio designed to serve everything from always-on sensors to AI infrastructure. The announcement...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/NeuPro_-Sensors-to-AI-infrastructure.jpg
+Author: Daniel Nenni
+Published date: Wed, 28 Oct 2026 11:00:37 +0000
+
+Completed! Added a total of 2 new news items to Firebase.

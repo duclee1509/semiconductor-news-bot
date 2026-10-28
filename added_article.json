@@ -1,33 +1,5 @@
 [
   {
-    "title_org": "Defect Prediction in Optical Lithography, EUVL, and NIL (National Taiwan University)",
-    "title_vietnamese": "Dự đoán lỗi trong quang khắc quang học, EUVL và NIL (Đại học Quốc gia Đài Loan)",
-    "summary_org": "Researchers at National Taiwan University published a technical paper on advanced patterning technologies. The paper explores physics-based, data-driven, and hybrid frameworks for defect prediction in lithography, EUVL, and nanoimprint. These frameworks help address challenges shaped by imaging physics, material response, and process variation.",
-    "summary_vietnamese": "Các nhà nghiên cứu tại Đại học Quốc gia Đài Loan đã công bố một bài báo kỹ thuật về các công nghệ tạo mẫu tiên tiến. Bài báo khám phá các framework dựa trên vật lý, dựa على dữ liệu và lai để dự đoán lỗi trong quang khắc, EUVL và nanoimprint. Các framework này giúp giải quyết những thách thức được hình thành bởi vật lý hình ảnh, phản ứng vật liệu và biến động quy trình.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/defect-prediction-in-optical-lithography-euvl-and-nil-national-taiwan-university/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/06/wafer-06-26-AdobeStock_569552758-scaled.jpeg",
-    "author": "Technical Paper Link",
-    "createdAt": "2026-08-12T20:53:57.305869+00:00",
-    "publishedAt": "2026-08-12T17:46:29+00:00"
-  },
-  {
-    "title_org": "Self-Supervised Layout Generation To Fix Advanced-Node DRVs (Nvidia, Duke)",
-    "title_vietnamese": "Tạo bố cục tự giám sát để khắc phục lỗi DRV ở tiến trình tiên tiến (Nvidia, Duke)",
-    "summary_org": "Researchers from NVIDIA and Duke University have published a paper on SCALE, a self-supervised and constraint-aware layout generation method. This approach addresses local place-and-route design-rule violation (DRV) fixing as semiconductor manufacturing advances toward sub-2nm nodes, overcoming complex rule interactions and foundry-specific constraints.",
-    "summary_vietnamese": "Các nhà nghiên cứu từ NVIDIA và Đại học Duke đã công bố một bài báo kỹ thuật về SCALE, phương pháp tạo bố cục tự giám sát và nhận biết ràng buộc. Phương pháp này giải quyết việc khắc phục lỗi vi phạm quy tắc thiết kế định vị và đi dây cục bộ (DRV) khi quá trình sản xuất chất bán dẫn tiếns đến các nút dưới 2nm, vượt qua các tương tác quy tắc phức tạp và các ràng buộc cụ thể của xưởng đúc.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/self-supervised-layout-generation-to-fix-advanced-node-drvs-nvidia-duke/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_617037593-02-27-2026-scaled.jpeg",
-    "author": "Technical Paper Link",
-    "createdAt": "2026-08-13T01:20:42.932231+00:00",
-    "publishedAt": "2026-08-12T22:47:43+00:00"
-  },
-  {
     "title_org": "Micron Advanced Memory Portfolio Positioned for AI Infrastructure Expansion",
     "title_vietnamese": "Danh mục bộ nhớ tiên tiến của Micron sẵn sàng cho việc mở rộng cơ sở hạ tầng AI",
     "summary_org": "Micron Technology has positioned itself as a key supplier in the AI compute ecosystem through its leadership in advanced DRAM, High Bandwidth Memory (HBM), and NAND flash technologies. The company is strategically addressing the rapidly growing demand from hyperscale data centers and AI accelerator platforms.",
@@ -6998,5 +6970,33 @@
     "author": "Gia Huy",
     "createdAt": "2026-10-28T10:17:11.326318+00:00",
     "publishedAt": "2026-07-30T12:00:00+00:00"
+  },
+  {
+    "title_org": "From Metrology to Autonomy: Why Intel Foundry’s Manufacturing Roadmap Matters",
+    "title_vietnamese": "Từ Đo lường đến Tự trị: Tại sao Lộ trình Sản xuất của Intel Foundry lại Quan trọng",
+    "summary_org": "Semiconductor manufacturing is shifting beyond traditional metrology as devices and advanced packaging become increasingly complex. Manufacturers now require holistic visibility into how fabrication, assembly, and test decisions collectively impact the final product. This evolution highlights the significance of Intel Foundry's latest manufacturing roadmap in achieving true operational autonomy.",
+    "summary_vietnamese": "Sản xuất chất bán dẫn đang vượt ra ngoài phương pháp đo lường truyền thống khi các thiết bị và công nghệ Packaging nâng cao ngày càng trở nên phức tạp. Các nhà sản xuất hiện đòi hỏi cái nhìn toàn diện về cách các quyết định trong khâu chế tạo, lắp ráp và kiểm thử tác động đến sản phẩm hoàn thiện. Sự tiến hóa này làm nổi bật tầm quan trọng trong lộ trình sản xuất mới nhất của Intel Foundry nhằm đạt được quyền tự chủ vận hành thực sự.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/intel/375218-from-metrology-to-autonomy-why-intel-foundrys-manufacturing-roadmap-matters/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Metrology-analytics-and-autonomous-manufacturing.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-28T17:48:59.135268+00:00",
+    "publishedAt": "2026-10-28T17:00:44+00:00"
+  },
+  {
+    "title_org": "When Nanomagnets Do the Math: France’s New Machine for Impossible Choices",
+    "title_vietnamese": "Khi Nam châm cỡ Nano thực hiện phép tính: Cỗ máy mới của Pháp giải quyết các bài toán lựa chọn bất khả thi",
+    "summary_org": "French researchers have developed a hybrid nanoelectronic Ising machine to solve complex combinatorial optimization problems more efficiently. The experimental system integrates resistive memory and spintronics technologies to execute optimization algorithms. This innovative approach highlights the potential of combining emerging device technologies for advanced computing applications.",
+    "summary_vietnamese": "Các nhà nghiên cứu Pháp đã phát triển một máy Ising nano điện tử lai để giải quyết các bài toán tối ưu hóa tổ hợp phức tạp một cách hiệu quả hơn. Hệ thống thử nghiệm tích hợp các công nghệ bộ nhớ điện trở (resistive memory) và spintronics để thực hiện các thuật toán tối ưu hóa. Cách tiếp cận đổi mới này làm nổi bật tiềm năng kết hợp các công nghệ thiết bị mới nổi cho các ứng dụng điện toán tiên tiến.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/373421-when-nanomagnets-do-the-math-frances-new-machine-for-impossible-choices/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/image002-5.png",
+    "author": "Admin",
+    "createdAt": "2026-10-28T17:49:19.355000+00:00",
+    "publishedAt": "2026-10-28T13:00:56+00:00"
   }
 ]
