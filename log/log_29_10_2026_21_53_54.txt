@@ -1,0 +1,43 @@
+Article: https://semiengineering.com/auto-generation-of-properties-methodology-insertion/
+Title: Auto-Generation Of Properties: Methodology Insertion
+Summary: <p>Technology is only useful if it improves an existing methodology. Property generation is still refining that goal, but in the long term it could be very useful.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_576655008-June-15-2023-scaled.jpeg?fit=2560%2C1706&ssl=1
+Author: Brian Bailey
+Published date: Thu, 29 Oct 2026 07:13:12 +0000
+
+Article: https://semiengineering.com/rethinking-shift-left-in-chip-design/
+Title: Rethinking Shift Left In Chip Design
+Summary: <p>Is it better to do everything earlier in the flow, or should design be more flexible and iterative? </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-3.10.10-PM.png
+Author: Ed Sperling
+Published date: Thu, 29 Oct 2026 07:11:57 +0000
+
+Article: https://semiengineering.com/ai-raises-the-bar-for-tomorrows-engineers/
+Title: AI Raises The Bar For Tomorrow’s Engineers
+Summary: <p>Universities are redesigning curricula and assessments around judgment, validation, and technical depth. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/10/Purdue-pic-2-scaled.jpeg
+Author: Liz Allan
+Published date: Thu, 29 Oct 2026 07:11:29 +0000
+
+Article: https://semiengineering.com/the-complexity-between-the-bits/
+Title: The Complexity Between The Bits
+Summary: <p>What biological reasoning can teach us about verifying silicon systems.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2019/09/iStock-927247700-Brain-AI.jpg?fit=787%2C443&ssl=1
+Author: Vidya Chandran Darbari
+Published date: Thu, 29 Oct 2026 07:09:52 +0000
+
+Article: https://semiengineering.com/is-it-getting-hot-in-here-why-thermal-is-no-longer-a-signoff-problem/
+Title: Is It Getting Hot In Here? Why Thermal Is No Longer A Signoff Problem
+Summary: <p>Applying the appropriate level of simulation and abstraction at each stage of the design process is key to effective thermal analysis.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_443447880-burning-12-05-22-scaled.jpeg?fit=2560%2C1350&ssl=1
+Author: Chris Mueth
+Published date: Thu, 29 Oct 2026 07:08:48 +0000
+
+Article: https://semiwiki.com/artificial-intelligence/375466-ml-based-power-models-for-cpus-innovation-in-verification/
+Title: ML-Based Power Models for CPUs. Innovation in Verification
+Summary: <p>An effective learned power model for a CPU could be a significant advantage in early estimation of power performance against realistic workloads in complex architectures. Paul Cunningham (GM, Ve...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Innovation-New.jpeg
+Author: Bernard Murphy
+Published date: Thu, 29 Oct 2026 13:00:22 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
