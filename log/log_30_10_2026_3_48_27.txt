@@ -1,0 +1,22 @@
+Article: https://semiengineering.com/is-it-getting-hot-in-here-why-thermal-is-no-longer-a-signoff-problem/
+Title: Is It Getting Hot In Here? Why Thermal Is No Longer A Signoff Problem
+Summary: <p>Applying the appropriate level of simulation and abstraction at each stage of the design process is key to effective thermal analysis.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_443447880-burning-12-05-22-scaled.jpeg?fit=2560%2C1350&ssl=1
+Author: Chris Mueth
+Published date: Thu, 29 Oct 2026 07:08:48 +0000
+
+Article: https://semiwiki.com/events/375312-semicon-west-2026-ai-made-the-steps-faster-the-time-between-them-is-next/
+Title: SEMICON West 2026: AI Made the Steps Faster. The Time Between Them Is Next.
+Summary: <p>The semiconductor industry crossed $1 trillion in annual revenue this year, almost four years ahead of earlier projections. SEMI President and CEO Ajit Manocha opened the CEO Summit at SEMICON W...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/SemiWiki_SEMICON_West_Inline_Time_Between-scaled.jpg
+Author: Joel Jorgensen
+Published date: Thu, 29 Oct 2026 17:00:16 +0000
+
+Article: https://semiwiki.com/eda/pdf-solutions/375398-pdf-solutions-connect-2026-trip-report/
+Title: PDF Solutions CONNECT 2026 Trip Report
+Summary: <p>On October 15–16, at the tail end of SEMICON West 2026, PDF Solutions held its 2026 CONNECT Conference at the Westin St. Francis in San Francisco.</p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/PDF-Solutions-CONNECT-2026-trip-report.jpg
+Author: Lauro Rizzatti
+Published date: Thu, 29 Oct 2026 15:00:08 +0000
+
+Completed! Added a total of 3 new news items to Firebase.

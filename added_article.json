@@ -1,47 +1,5 @@
 [
   {
-    "title_org": "Chip Industry Week In Review",
-    "title_vietnamese": "Điểm tin ngành công nghiệp vi mạch trong tuần",
-    "summary_org": "This week's review covers major expansions by Lam Research and ASE, architectural shifts in data centers, and new technological breakthroughs including CPO systems and 2D-transistor interfaces. It also highlights updates on USENIX hardware security, patent lawsuits, image sensors, programmable AI memtransistors, Nvidia's new plans, and corporate earnings.",
-    "summary_vietnamese": "Bản tin tuần này đề cập đến việc mở rộng quy mô của Lam Research và ASE, sự chuyển dịch trong trung tâm dữ liệu, cùng các đột phá công nghệ mới như hệ thống CPO và giao diện 2D-transistor. Ngoài ra, bài viết cũng tổng hợp các thông tin về bảo mật phần cứng USENIX, các vụ kiện bằng sáng chế, cảm biến hình ảnh, memtransistor AI lập trình được, kế hoạch mới của Nvidia và kết quả kinh doanh của các doanh nghiệp.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/chip-industry-week-in-review-151/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_596228503-wafer-scaled.jpeg?fit=2560%2C890&ssl=1",
-    "author": "The SE Staff",
-    "createdAt": "2026-08-14T09:13:30.688911+00:00",
-    "publishedAt": "2026-08-14T07:01:48+00:00"
-  },
-  {
-    "title_org": "ASML’s Path to Lithography Dominance—and the Coming Maskless Revolution",
-    "title_vietnamese": "Hành trình thống trị quang khắc của ASML và cuộc cách mạng không cần mặt nạ sắp tới",
-    "summary_org": "ASML's market dominance is the result of four decades of systems engineering, strategic supplier coordination, and massive investments in advanced lithography transitions. Founded in 1984 as a joint venture, the Dutch company built its success on modular design and continuous technological innovation.",
-    "summary_vietnamese": "Sự thống trị thị trường của ASML là kết quả của bốn thập kỷ kỹ thuật hệ thống, phối hợp chuỗi cung ứng chiến lược và các khoản đầu tư lớn vào các bước chuyển đổi công nghệ quang khắc tiên tiến. Được thành lập vào năm 1984 dưới dạng liên doanh, công ty Hà Lan này đã xây dựng thành công dựa trên thiết kế mô-đun và đổi mới công nghệ liên tục.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/lithography/372177-asmls-path-to-lithography-dominance-and-the-coming-maskless-revolution/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/ASMLs-Path-to-Lithography-Dominance—and-the-Coming-Maskless-Revolution-1200x675.jpg",
-    "author": "Daniel Nenni",
-    "createdAt": "2026-08-14T13:19:50.961592+00:00",
-    "publishedAt": "2026-08-14T13:00:53+00:00"
-  },
-  {
-    "title_org": "A 0.42-Nanometer Breakthrough From TSMC Could Push Transistors Beyond Silicon",
-    "title_vietnamese": "Bước đột phá 0,42 nanômét từ TSMC có thể đưa transistor vượt qua giới hạn của silicon",
-    "summary_org": "Researchers from National Yang Ming Chiao Tung University and TSMC have developed a 0.42-nanometer aluminum-oxide interface. This innovation protects electron transport in monolayer MoS2 transistors while maintaining strong gate control, potentially helping push semiconductor technology beyond traditional silicon limits.",
-    "summary_vietnamese": "Các nhà nghiên cứu từ Đại học Quốc lập Dương Minh Chiao Tung và TSMC đã phát triển một lớp màng oxit nhôm giao diện dày 0,42 nanômét. Cải tiến này giúp bảo vệ quá trình vận chuyển điện tử trong các transistor MoS2 đơn lớp đồng thời duy trì khả năng kiểm soát cổng mạnh mẽ, có thể giúp đẩy công nghệ bán dẫn vượt qua các giới hạn truyền thống của silicon.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/semiconductor-manufacturers/tsmc/372146-a-0-42-nanometer-breakthrough-from-tsmc-could-push-transistors-beyond-silicon/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/A-0.42-Nanometer-Breakthrough-Could-Push-Transistors-Beyond-Silicon-1200x675.jpg",
-    "author": "Daniel Nenni",
-    "createdAt": "2026-08-14T17:00:10.179905+00:00",
-    "publishedAt": "2026-08-14T15:00:13+00:00"
-  },
-  {
     "title_org": "Viện Công nghệ Châu Á hợp tác đại học Việt Nam thành lập Viện Công nghệ Mới nổi",
     "title_vietnamese": "",
     "summary_org": "Viện Công nghệ Châu Á đã hợp tác với các trường đại học tại Việt Nam để thành lập Viện Công nghệ Mới nổi. Viện này sẽ triển khai các chương trình đào tạo đại học và cấp bằng cử nhân trong các lĩnh vực công nghệ trọng điểm như trí tuệ nhân tạo, an ninh mạng, khoa học dữ liệu, robot và bán dẫn.",
@@ -6998,5 +6956,47 @@
     "author": "Bernard Murphy",
     "createdAt": "2026-10-29T14:57:16.456816+00:00",
     "publishedAt": "2026-10-29T13:00:22+00:00"
+  },
+  {
+    "title_org": "Is It Getting Hot In Here? Why Thermal Is No Longer A Signoff Problem",
+    "title_vietnamese": "Trời đang nóng lên phải không? Tại sao vấn đề nhiệt độ không còn chỉ nằm ở khâu Signoff",
+    "summary_org": "Effective thermal analysis requires applying the appropriate level of simulation and abstraction at each stage of the design process. Managing thermal effects is becoming critical throughout the entire workflow rather than just being a final signoff check.",
+    "summary_vietnamese": "Phân tích nhiệt hiệu quả đòi hỏi việc áp dụng mức độ mô phỏng và trừu tượng hóa phù hợp ở từng giai đoạn của quá trình thiết kế. Việc quản lý hiệu ứng nhiệt đang trở nên quan trọng xuyên suốt toàn bộ quy trình làm việc thay vì chỉ là một bước kiểm tra signoff cuối cùng.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/is-it-getting-hot-in-here-why-thermal-is-no-longer-a-signoff-problem/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_443447880-burning-12-05-22-scaled.jpeg?fit=2560%2C1350&ssl=1",
+    "author": "Chris Mueth",
+    "createdAt": "2026-10-29T20:48:38.785271+00:00",
+    "publishedAt": "2026-10-29T07:08:48+00:00"
+  },
+  {
+    "title_org": "SEMICON West 2026: AI Made the Steps Faster. The Time Between Them Is Next.",
+    "title_vietnamese": "SEMICON West 2026: AI giúp đẩy nhanh các bước tiến, và khoảng thời gian giữa chúng là thử thách tiếp theo",
+    "summary_org": "The semiconductor industry has achieved $1 trillion in annual revenue four years ahead of schedule, driven heavily by rapid growth. During the CEO Summit at SEMICON West, SEMI President and CEO Ajit Manocha shared that the 2030 forecast has now doubled to $2 trillion, with a potential reach of $3 trillion.",
+    "summary_vietnamese": "Ngành công nghiệp bán dẫn đã đạt mốc doanh thu hàng năm 1 nghìn tỷ USD sớm hơn 4 năm so với dự kiến nhờ sự tăng trưởng mạnh mẽ. Tại hội nghị thượng đỉnh CEO tại SEMICON West, Chủ tịch kiêm CEO SEMI Ajit Manocha chia sẻ rằng dự báo cho năm 2030 nay đã tăng gấp đôi lên 2 nghìn tỷ USD, với tiềm năng đạt tới 3 nghìn tỷ USD.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/events/375312-semicon-west-2026-ai-made-the-steps-faster-the-time-between-them-is-next/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/SemiWiki_SEMICON_West_Inline_Time_Between-scaled.jpg",
+    "author": "Joel Jorgensen",
+    "createdAt": "2026-10-29T20:48:51.509279+00:00",
+    "publishedAt": "2026-10-29T17:00:16+00:00"
+  },
+  {
+    "title_org": "PDF Solutions CONNECT 2026 Trip Report",
+    "title_vietnamese": "Báo cáo chuyến đi hội nghị PDF Solutions CONNECT 2026",
+    "summary_org": "On October 15–16, right after SEMICON West 2026, PDF Solutions hosted its annual CONNECT Conference at the Westin St. Francis in San Francisco. Based in Santa Clara and founded in 1991, PDF Solutions specializes in semiconductor data, analytics, and connectivity, operating around three core pillars.",
+    "summary_vietnamese": "Vào ngày 15-16 tháng 10, ngay sau sự kiện SEMICON West 2026, PDF Solutions đã tổ chức Hội nghị CONNECT thường niên tại khách sạn Westin St. Francis ở San Francisco. Có trụ sở tại Santa Clara và được thành lập từ năm 1991, PDF Solutions chuyên cung cấp các giải pháp về dữ liệu, phân tích và kết nối trong ngành bán dẫn, hoạt động dựa trên ba trụ cột cốt lõi.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/pdf-solutions/375398-pdf-solutions-connect-2026-trip-report/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/PDF-Solutions-CONNECT-2026-trip-report.jpg",
+    "author": "Lauro Rizzatti",
+    "createdAt": "2026-10-29T20:49:01.885739+00:00",
+    "publishedAt": "2026-10-29T15:00:08+00:00"
   }
 ]
