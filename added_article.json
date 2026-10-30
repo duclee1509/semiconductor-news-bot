@@ -1,33 +1,5 @@
 [
   {
-    "title_org": "Copper’s Grip On AI Scaling Is Starting To Slip",
-    "title_vietnamese": "Sự thống trị của đồng trong mở rộng quy mô AI đang dần suy giảm",
-    "summary_org": "As AI computing clusters expand beyond traditional rack-scale limits, data centers are increasingly turning to advanced technologies like optical interconnects and circuit switching. These new interconnection methods are reshaping how modern AI infrastructure scales to meet growing performance demands, overcoming the physical limitations of traditional copper cabling.",
-    "summary_vietnamese": "Khi các cụm máy tính AI mở rộng vượt qua giới hạn quy mô rack truyền thống, các trung tâm dữ liệu đang ngày càng chuyển sang sử dụng các công nghệ tiên tiến như quang liên kết (optical interconnects) và chuyển mạch mạch (circuit switching). Các phương pháp kết nối mới này đang định hình lại cách cơ sở hạ tầng AI hiện đại mở rộng quy mô để đáp ứng nhu cầu hiệu năng ngày càng tăng, qua đó vượt qua các giới hạn vật lý của cáp đồng truyền thống.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/coppers-grip-on-ai-scaling-is-starting-to-slip/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/Image-from-iOS-6.gif",
-    "author": "Bryon Moyer",
-    "createdAt": "2026-08-16T16:40:11.585926+00:00",
-    "publishedAt": "2026-08-13T07:11:36+00:00"
-  },
-  {
-    "title_org": "DDR5 9600 RDIMMs: Raising The Performance Benchmark For Server Memory",
-    "title_vietnamese": "DDR5 9600 RDIMMs: Nâng tầm chuẩn mực hiệu năng cho bộ nhớ máy chủ",
-    "summary_org": "Efficient data movement and management remain critical challenges for modern data center architects. This article highlights the introduction of DDR5 9600 RDIMMs as a new performance benchmark for server memory solutions.",
-    "summary_vietnamese": "Khả năng di chuyển và quản lý dữ liệu hiệu quả vẫn là những thách thức cốt lõi đối với các kiến trúc sư trung tâm dữ liệu. Bài viết này nổi bật việc giới thiệu DDR5 9600 RDIMMs như một chuẩn mực hiệu năng mới cho các giải pháp bộ nhớ máy chủ.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/ddr5-9600-rdimms-raising-the-performance-benchmark-for-server-memory/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/06/data-center-06-26-AdobeStock_1647933846-scaled.jpeg?fit=2560%2C1440&ssl=1",
-    "author": "Zaman Mollah",
-    "createdAt": "2026-08-16T16:40:16.731463+00:00",
-    "publishedAt": "2026-08-13T07:08:19+00:00"
-  },
-  {
     "title_org": "Optical Tech Would Update a Robot’s AI on the Fly",
     "title_vietnamese": "Công nghệ quang học giúp cập nhật AI cho robot ngay trong khi hoạt động",
     "summary_org": "Researchers at Cornell Tech have developed a new optical receiver that uses light beams to directly update AI model parameters in SRAM memory, bypassing power-hungry analog circuits. This fully digital optical communication approach aims to reduce energy consumption and bottlenecks caused by traditional DRAM-to-processor data transfers in AI systems, data centers, and edge robotics.",
@@ -6998,5 +6970,33 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-10-30T14:46:46.495816+00:00",
     "publishedAt": "2026-10-30T13:00:30+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Dr. Sean Wei of Easy-Logic",
+    "title_vietnamese": "Phỏng vấn CEO Dr. Sean Wei của Easy-Logic",
+    "summary_org": "Dr. Sean Wei, CEO of Easy-Logic since 2020, has focused on establishing a robust operational foundation for the company. Previously serving as CTO, he spearheaded the development of the core algorithms and tool architecture for their flagship EDA product, EasylogicECO.",
+    "summary_vietnamese": "Tiến sĩ Sean Wei, Giám đốc điều hành của Easy-Logic từ năm 2020, đã tập trung xây dựng nền tảng vận hành vững chắc cho công ty. Trước đó, với tư cách là Giám đốc Công nghệ (CTO), ông đã dẫn dắt việc phát triển các thuật toán cốt lõi và kiến trúc công cụ cho sản phẩm EDA chủ lực của họ, EasylogicECO.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/easy-logic/375390-ceo-interview-with-dr-sean-wei-of-easy-logic/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Easy-Logic-Technology-functional-ECO-profile.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-30T20:19:51.702007+00:00",
+    "publishedAt": "2026-10-30T17:00:37+00:00"
+  },
+  {
+    "title_org": "TSMC’s Patent and the Harsh Realities of 3D DRAM Competition",
+    "title_vietnamese": "Bằng sáng chế của TSMC và thực tế khắc nghiệt trong cuộc đua cạnh tranh 3D DRAM",
+    "summary_org": "Discussions surrounding TSMC's vertical DRAM patents explore whether the leading foundry might eventually compete with established memory manufacturers. Patent disclosures reveal that TSMC is actively investigating advanced architectures like vertical transistors and integrated capacitors.",
+    "summary_vietnamese": "Các cuộc thảo luận xoay quanh bằng sáng chế DRAM theo chiều dọc của TSMC đặt ra câu hỏi liệu xưởng đúc hàng đầu này có thể cạnh tranh với các nhà sản xuất bộ nhớ lâu đời hay không. Các hồ sơ bằng sáng chế cho thấy TSMC đang tích cực nghiên cứu các kiến trúc tiên tiến như transistor thẳng đứng và tụ điện tích hợp.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/375329-tsmcs-patent-and-the-harsh-realities-of-3d-dram-competition/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Layered-Memory-Fierce-DRAM-Competition.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-30T20:19:56.726310+00:00",
+    "publishedAt": "2026-10-30T15:00:38+00:00"
   }
 ]

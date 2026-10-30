@@ -1,0 +1,15 @@
+Article: https://semiwiki.com/eda/easy-logic/375390-ceo-interview-with-dr-sean-wei-of-easy-logic/
+Title: CEO Interview with Dr. Sean Wei of Easy-Logic
+Summary: <p>Dr. Wei has served as CEO of Easy-Logic since 2020, focusing on building a strong operational foundation for the company. Previously, as CTO, he led the development of the core algorithms and to...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Easy-Logic-Technology-functional-ECO-profile.jpg
+Author: Daniel Nenni
+Published date: Fri, 30 Oct 2026 17:00:37 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/375329-tsmcs-patent-and-the-harsh-realities-of-3d-dram-competition/
+Title: TSMC’s Patent and the Harsh Realities of 3D DRAM Competition
+Summary: <p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Layered-Memory-Fierce-DRAM-Competition.jpg
+Author: Daniel Nenni
+Published date: Fri, 30 Oct 2026 15:00:38 +0000
+
+Completed! Added a total of 2 new news items to Firebase.
