@@ -1,33 +1,5 @@
 [
   {
-    "title_org": "Viện Công nghệ Châu Á hợp tác đại học Việt Nam thành lập Viện Công nghệ Mới nổi",
-    "title_vietnamese": "",
-    "summary_org": "Viện Công nghệ Châu Á đã hợp tác với các trường đại học tại Việt Nam để thành lập Viện Công nghệ Mới nổi. Viện này sẽ triển khai các chương trình đào tạo đại học và cấp bằng cử nhân trong các lĩnh vực công nghệ trọng điểm như trí tuệ nhân tạo, an ninh mạng, khoa học dữ liệu, robot và bán dẫn.",
-    "summary_vietnamese": "",
-    "source": "Báo Tuổi Trẻ",
-    "url": "https://tuoitre.vn/vien-cong-nghe-chau-a-hop-tac-dai-hoc-viet-nam-thanh-lap-vien-cong-nghe-moi-noi-100260707122640399.htm",
-    "category": "VietNam",
-    "isPolicy": false,
-    "thumbnail": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/7/7/hinh-anh-1783401903998411956235-125-107-956-1693-crop-1783403701587323617275.jpeg",
-    "author": "Minh Giảng",
-    "createdAt": "2026-08-15T04:37:59.328142+00:00",
-    "publishedAt": "2026-07-07T12:52:00+00:00"
-  },
-  {
-    "title_org": "Common Earth Project Aims to End Chip Supply Chain Bottlenecks",
-    "title_vietnamese": "Dự án Common Earth nhằm chấm dứt tình trạng tắc nghẽn chuỗi cung ứng chip",
-    "summary_org": "Researchers at the University of Michigan and Imec have launched the \"Common Earth\" project to address critical material bottlenecks and environmental hazards in the semiconductor supply chain. By finding alternatives to rare earths, hafnium, and toxic PFAS chemicals, and leveraging advanced architectures like chiplets, the team aims to build a more resilient and sustainable chipmaking ecosystem.",
-    "summary_vietnamese": "Các nhà nghiên cứu tại Đại học Michigan và Imec đã khởi động dự án \"Common Earth\" nhằm giải quyết tình trạng tắc nghẽn vật liệu trọng yếu và các mối nguy hại môi trường trong chuỗi cung ứng bán dẫn. Bằng cách tìm kiếm các giải pháp thay thế cho đất hiếm, hafnium cùng hóa chất độc hại PFAS, đồng thời tận dụng các kiến trúc tiên tiến như chiplets, nhóm nghiên cứu hướng tới việc xây dựng một hệ sinh thái sản xuất chip có khả năng chống chịu tốt hơn và bền vững hơn.",
-    "source": "IEEE Spectrum - Semiconductors",
-    "url": "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://spectrum.ieee.org/media-library/three-professors-standing-around-a-colleague-seated-at-a-computer-workstation.jpg?id=67625295&width=1200&height=600&coordinates=0%2C81%2C0%2C419",
-    "author": "Alex Music",
-    "createdAt": "2026-08-15T16:32:16.466724+00:00",
-    "publishedAt": "2026-08-15T13:00:01+00:00"
-  },
-  {
     "title_org": "Copper’s Grip On AI Scaling Is Starting To Slip",
     "title_vietnamese": "Sự thống trị của đồng trong mở rộng quy mô AI đang dần suy giảm",
     "summary_org": "As AI computing clusters expand beyond traditional rack-scale limits, data centers are increasingly turning to advanced technologies like optical interconnects and circuit switching. These new interconnection methods are reshaping how modern AI infrastructure scales to meet growing performance demands, overcoming the physical limitations of traditional copper cabling.",
@@ -6998,5 +6970,33 @@
     "author": "Lauro Rizzatti",
     "createdAt": "2026-10-29T20:49:01.885739+00:00",
     "publishedAt": "2026-10-29T15:00:08+00:00"
+  },
+  {
+    "title_org": "Chip Industry Week In Review",
+    "title_vietnamese": "Điểm tin tuần ngành công nghiệp vi mạch",
+    "summary_org": "This week's review highlights critical HBM shortages threatening AI growth, TSMC considering price hikes, and accelerated advanced packaging developments. Key updates also cover increased fab investments by Infineon and UMC, along with advancements in quantum computing and 3D integration.",
+    "summary_vietnamese": "Điểm tin tuần này nổi bật tình trạng thiếu hụt HBM trầm trọng đe dọa sự tăng trưởng của AI, TSMC cân nhắc tăng giá và sự phát triển mạnh mẽ của công nghệ advanced packaging. Các cập nhật quan trọng khác cũng đề cập đến việc Infineon và UMC gia tăng đầu tư vào fab, cùng với những tiến bộ trong điện toán lượng tử và tích hợp 3D.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-week-in-review-162/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_539332899-10-10-23.jpeg?fit=1200%2C721&ssl=1",
+    "author": "The SE Staff",
+    "createdAt": "2026-10-30T14:46:34.985623+00:00",
+    "publishedAt": "2026-10-30T07:01:27+00:00"
+  },
+  {
+    "title_org": "How AI is Reshaping Semiconductor Design and Manufacturing",
+    "title_vietnamese": "Trí tuệ nhân tạo đang định hình lại thiết kế và sản xuất chất bán dẫn như thế nào",
+    "summary_org": "Artificial intelligence is deeply transforming semiconductor manufacturing and chip design. These advancements in factories and fabrication processes directly impact the performance, efficiency, and time-to-market for modern AI systems.",
+    "summary_vietnamese": "Trí tuệ nhân tạo đang tạo ra những biến đổi sâu sắc trong quy trình sản xuất và thiết kế vi mạch bán dẫn. Những tiến bộ này tại các nhà máy và xưởng đúc (foundry) tác động trực tiếp đến hiệu năng, hiệu suất và thời gianưa sản phẩm ra thị trường của các hệ thống AI hiện đại.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/intel/374862-how-ai-is-reshaping-semiconductor-design-and-manufacturing/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/How-AI-is-Reshaping-Semiconductor-Design-and-Manufacturing.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-10-30T14:46:46.495816+00:00",
+    "publishedAt": "2026-10-30T13:00:30+00:00"
   }
 ]

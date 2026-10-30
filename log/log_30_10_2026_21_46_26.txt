@@ -1,0 +1,15 @@
+Article: https://semiengineering.com/chip-industry-week-in-review-162/
+Title: Chip Industry Week In Review
+Summary: <p>HBM shortages threaten AI expansion; TSMC weighs price hikes; advanced packaging ramps; domain-specialized AI models; Infineon and UMC boost fab investments; Intel's quantum move; Lam and imec a...
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_539332899-10-10-23.jpeg?fit=1200%2C721&ssl=1
+Author: The SE Staff
+Published date: Fri, 30 Oct 2026 07:01:27 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/intel/374862-how-ai-is-reshaping-semiconductor-design-and-manufacturing/
+Title: How AI is Reshaping Semiconductor Design and Manufacturing
+Summary: <p>While AI is transforming nearly every industry, some of its most significant advances are happening inside the semiconductor factories building the chips that power it. If you design AI systems,...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/How-AI-is-Reshaping-Semiconductor-Design-and-Manufacturing.jpg
+Author: Daniel Nenni
+Published date: Fri, 30 Oct 2026 13:00:30 +0000
+
+Completed! Added a total of 2 new news items to Firebase.
