@@ -1,0 +1,15 @@
+Article: https://semiwiki.com/ceo-interviews/375564-ceo-interview-with-vera-yang-of-flexcompute/
+Title: CEO Interview with Vera Yang of Flexcompute
+Summary: <p> Vera Yang is President and Co-Founder of Flexcompute, a frontier AI lab building a Physics World Model that bridges data-driven AI and the laws of physics. She focuses on the problems where the...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Vera-Yang_-Grounding-AI-in-Physics.jpg
+Author: Daniel Nenni
+Published date: Sun, 01 Nov 2026 19:00:36 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/375803-high-nas-obituary-was-premature/
+Title: High-NA’s Obituary Was Premature
+Summary: <p> High numerical aperture EUV lithography was supposed to be the next step in semiconductor manufacturing. Then came the doubts: expensive scanners, smaller exposure fields, difficult economics a...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/High-NAs-premature-obituary.jpg
+Author: Daniel Nenni
+Published date: Sun, 01 Nov 2026 18:00:10 +0000
+
+Completed! Added a total of 2 new news items to Firebase.

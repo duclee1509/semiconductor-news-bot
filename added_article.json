@@ -1,33 +1,5 @@
 [
   {
-    "title_org": "Đi đúng hướng và bước đầu hình thành nền tảng phát triển công nghiệp bán dẫn",
-    "title_vietnamese": "",
-    "summary_org": "Tại phiên họp của Ban Chỉ đạo quốc gia về phát triển ngành công nghiệp bán dẫn, Phó Thủ tướng Nguyễn Chí Dũng khẳng định Việt Nam đã đi đúng hướng và bước đầu hình thành nền tảng quan trọng cho ngành bán dẫn. Ban Chỉ đạo thống nhất phương châm hành động năm 2026 là quyết liệt triển khai, phối hợp đồng bộ, tập trung trọng điểm và tạo kết quả thực chất.",
-    "summary_vietnamese": "",
-    "source": "Báo Chính phủ ",
-    "url": "https://baochinhphu.vn/di-dung-huong-va-buoc-dau-hinh-thanh-nen-tang-phat-trien-cong-nghiep-ban-dan-10226031018055547.htm",
-    "category": "VietNam",
-    "isPolicy": true,
-    "thumbnail": "https://bcp2.cdnchinhphu.vn/zoom/1200_630/334894974524682240/2026/3/10/z7606691897585d9b745ebd362315cf1ff138ac15cca04-17731404623281004380808-16-0-900-1415-crop-17731407120321762576785.jpg",
-    "author": "Thu Sa",
-    "createdAt": "2026-08-16T16:40:36.232003+00:00",
-    "publishedAt": "2026-03-10T18:14:00+00:00"
-  },
-  {
-    "title_org": "Chuyên gia: Việt Nam là tâm điểm thương mại AI ở châu Á",
-    "title_vietnamese": "",
-    "summary_org": "Thị phần thương mại của Việt Nam trong mảng thiết bị liên quan đến Trí tuệ nhân tạo (AI) đã tăng vọt trong thập kỷ qua. Theo Tổng giám đốc HSBC Việt Nam, điều này đưa Việt Nam trở thành tâm điểm thương mại AI tại khu vực châu Á.",
-    "summary_vietnamese": "",
-    "source": "VnExpress",
-    "url": "https://vnexpress.net/chuyen-gia-viet-nam-la-tam-diem-thuong-mai-ai-o-chau-a-5097751.html",
-    "category": "VietNam",
-    "isPolicy": false,
-    "thumbnail": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/15/tim-1784102928-5691-1784103406.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=1qP-kLfRzQiblqvavgfd6g",
-    "author": "Viễn Thông",
-    "createdAt": "2026-08-16T16:40:44.957469+00:00",
-    "publishedAt": "2026-07-16T09:16:42+00:00"
-  },
-  {
     "title_org": "'Tự chủ chip Việt cần xóa khoảng trống về nhân lực và hạ tầng'",
     "title_vietnamese": "",
     "summary_org": "Việt Nam có lợi thế về nguồn nhân lực và việc đi sau trong ngành vi mạch bán dẫn, nhưng vẫn tồn tại nhiều khoảng trống lớn cần lấp đầy. Để đạt được sự tự chủ công nghệ thực sự, việc giải quyết các bài toán về hạ tầng và phát triển đội ngũ chuyên gia là vô cùng cấp thiết.",
@@ -6998,5 +6970,33 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-11-01T17:33:32.204852+00:00",
     "publishedAt": "2026-11-01T14:00:28+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Vera Yang of Flexcompute",
+    "title_vietnamese": "Phỏng vấn CEO Vera Yang của Flexcompute",
+    "summary_org": "Vera Yang, President and Co-Founder of Flexcompute, discusses the company's work on a Physics World Model that bridges AI and physical laws. She focuses on high-stakes applications such as photonic chips for AI data centers, advanced semiconductor packaging, and spacecraft.",
+    "summary_vietnamese": "Vera Yang, Chủ tịch kiêm Đồng sáng lập Flexcompute, thảo luận về công việc của công ty trong việc xây dựng Mô hình thế giới vật lý kết nối AI và các định luật vật lý. Cô tập trung vào các ứng dụng có tính rủi ro cao như chip quang tử cho trung tâm dữ liệu AI, advanced semiconductor packaging (đóng gói bán dẫn tiên tiến) và tàu vũ trụ.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/375564-ceo-interview-with-vera-yang-of-flexcompute/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Vera-Yang_-Grounding-AI-in-Physics.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-11-01T23:19:06.861320+00:00",
+    "publishedAt": "2026-11-01T19:00:36+00:00"
+  },
+  {
+    "title_org": "High-NA’s Obituary Was Premature",
+    "title_vietnamese": "Cáo phó cho công nghệ High-NA EUV là quá sớm",
+    "summary_org": "High-numerical aperture EUV lithography faced widespread skepticism due to high scanner costs, smaller exposure fields, and difficult economics, leading major customers to stretch existing equipment. However, confusing this delayed adoption curve with the death of the technology itself proved premature.",
+    "summary_vietnamese": "Công nghệ quang khắc EUV khẩu độ số cao (High-NA) từng đối mặt với nhiều hoài nghi do chi phí máy quét đắt đỏ, trường phơi sáng nhỏ và bài toán kinh tế khó khăn, khiến các khách hàng lớn tìm cách kéo dài vòng đời thiết bị hiện có. Tuy nhiên, việc nhầm lẫn độ trễ trong quá trình áp dụng này với cái chết của công nghệ là một nhận định quá vội vàng.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/375803-high-nas-obituary-was-premature/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/High-NAs-premature-obituary.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-11-01T23:19:11.826534+00:00",
+    "publishedAt": "2026-11-01T18:00:10+00:00"
   }
 ]
