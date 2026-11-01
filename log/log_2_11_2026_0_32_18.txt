@@ -1,0 +1,29 @@
+Article: https://semiwiki.com/ceo-interviews/375343-ceo-interview-with-andrew-seddon-of-circuithub/
+Title: CEO Interview with Andrew Seddon of CircuitHub
+Summary: <p>Andrew Seddon is a British engineer and the co-founder and CEO of CircuitHub. His product design background spans industrial equipment, medical devices and special effects equipment, including w...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Andrew-Seddon_-Faster-Hardware-Development.jpg
+Author: Daniel Nenni
+Published date: Sun, 01 Nov 2026 17:00:29 +0000
+
+Article: https://semiwiki.com/general/374750-the-compass-finding-tomorrow-in-the-minds-of-yesterday/
+Title: The Compass: Finding Tomorrow in the Minds of Yesterday
+Summary: <p>What makes a breakthrough possible? Intelligence, certainly, but also curiosity, persistence and the courage to follow an idea before anyone can see where it leads. Sunil Mehta’s novel <strong><...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/The-Compass-Novel-Cover.jpg
+Author: Daniel Nenni
+Published date: Sun, 01 Nov 2026 16:00:40 +0000
+
+Article: https://semiwiki.com/ceo-interviews/375302-ceo-interview-with-peter-jenkins-of-infinitesima/
+Title: CEO Interview with Peter Jenkins of Infinitesima
+Summary: <p>As CEO, Peter Jenkins, leads the development and commercialisation of angstrom-scale process control technology, helping semiconductor manufacturers gain deeper process insights, improve yields ...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Peter-Jenkins_-Angstrom-Scale-Process-Control.jpg
+Author: Daniel Nenni
+Published date: Sun, 01 Nov 2026 15:00:51 +0000
+
+Article: https://semiwiki.com/ceo-interviews/375308-ceo-interview-with-ram-machness-of-arbe/
+Title: CEO Interview with Ram Machness of Arbe
+Summary: <div></div>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Ram-Machness_-Radar-for-Eyes-Off-Driving.jpg
+Author: Daniel Nenni
+Published date: Sun, 01 Nov 2026 14:00:28 +0000
+
+Completed! Added a total of 4 new news items to Firebase.
