@@ -1,0 +1,50 @@
+Article: https://semiengineering.com/chip-industry-technical-paper-roundup-nov-3/
+Title: Chip Industry Technical Paper Roundup: Nov. 3
+Summary: <p>Meter-scale quantum interconnects; 2.5D/3D GPU integration and embodied emissions; secure memory-dependent prefetching; routing-aware analog placement; AI-enhanced flip-chip defect detection; su...
+Thumbnail: https://semiengineering.com/wp-content/uploads/iStock-1351473349-11-29-2023.jpeg?fit=1411%2C744&ssl=1
+Author: Linda Christensen
+Published date: Tue, 03 Nov 2026 08:01:14 +0000
+
+Article: https://semiwiki.com/eda/yieldhub/374503-how-allegro-microsystems-increased-oee-by-several-percentage-points-with-yieldhub-live/
+Title: How Allegro MicroSystems Increased OEE by Several Percentage Points with yieldHUB Live
+Summary: <p>Allegro MicroSystems’ experience with yieldHUB Live shows how better use of production data can translate into measurable manufacturing gains. At its high-volume semiconductor operation in the P...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/How-Allegro-MicroSystems-Increased-OEE-by-Several-Percentage-Points-with-yieldHUB-Live.jpg
+Author: Daniel Nenni
+Published date: Tue, 03 Nov 2026 14:00:46 +0000
+
+Article: https://vnexpress.net/fpt-van-hanh-thu-nghiem-nha-may-chip-tai-bac-ninh-5140108.html
+Title: FPT vận hành thử nghiệm nhà máy chip tại Bắc Ninh
+Summary: FPT bắt đầu vận hành thử nghiệm nhà máy kiểm thử và đóng gói chip tại Bắc Ninh với 6 dây chuyền, công suất thiết kế tối đa 300 triệu chip mỗi năm.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/11/03/ndm00962-1793681713-7322-1793682094.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=CSn8IXI8iLII9iRDkkWe_A
+Author: Bảo Lâm
+Published date: Tue, 03 Nov 2026 05:09:47 +0000
+
+Article: https://vnexpress.net/chip-bao-mat-28-nm-do-ky-su-viet-phat-trien-5140152.html
+Title: Chip bảo mật 28 nm do kỹ sư Việt phát triển
+Summary: Chip VGC v1.0 do các kỹ sư Viettel và Ban Cơ yếu Chính phủ phát triển, có tốc độ mã hóa, giải mã nhanh gấp 15 lần giải pháp phần mềm, hướng đến bảo vệ dữ liệu trên thiết bị số.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/11/03/lq-1793695270-5982-1793695297.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=uDT7qJrGtOQT1M_hFAqr7A
+Author: Lưu Quý
+Published date: Tue, 03 Nov 2026 08:54:24 +0000
+
+Article: https://tuoitre.vn/dien-thoai-thong-minh-san-xuat-tai-bac-ninh-tang-gap-359-lan-100261103192416552.htm
+Title: Điện thoại thông minh sản xuất tại Bắc Ninh tăng gấp 3,59 lần
+Summary: Trong 10 tháng đầu năm 2026, giá trị sản xuất công nghiệp ở Bắc Ninh đạt trên 312.700 tỉ đồng. Một số sản phẩm chủ lực tăng cao như điện thoại thông minh đạt 3,59 lần hay thiết bị bán dẫn khác đạt ...
+Thumbnail: https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/3/cong-nhan-san-xuat-dien-thoai-bac-ninh-1701956600004294865314-102-0-1149-2000-crop-17937084929901363796370.jpg
+Author: Hà Quân
+Published date: Tue, 03 Nov 2026 19:38:00 +0000
+
+Article: https://tuoitre.vn/hai-phong-thuc-tien-do-du-an-fdi-ban-dan-ti-usd-100261103162241037.htm
+Title: Hải Phòng thúc tiến độ dự án FDI bán dẫn tỉ USD
+Summary: Lãnh đạo TP Hải Phòng đề nghị các doanh nghiệp FDI đẩy nhanh tiến độ đầu tư, sớm đưa các nhà máy công nghệ cao vào hoạt động. Trong đó, có dự án bán dẫn tỉ USD.
+Thumbnail: https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/3/du-an-2-1793696882947831284416-287-0-1627-2560-crop-1793697606503496338391.jpg
+Author: Tiến Thắng
+Published date: Tue, 03 Nov 2026 16:36:00 +0000
+
+Article: https://tuoitre.vn/fpt-van-hanh-thu-nghiem-nha-may-kiem-thu-cong-suat-300-trieu-chip-nam-100261103150033706.htm
+Title: FPT vận hành thử nghiệm nhà máy kiểm thử công suất 300 triệu chip/năm
+Summary: Ngày 3-11, Tập đoàn FPT chính thức đưa nhà máy kiểm thử và đóng gói chip bán dẫn tại Bắc Ninh vào vận hành thử nghiệm giai đoạn 1, sở hữu 6 dây chuyền với công suất tối đa 300 triệu chip mỗi năm.
+Thumbnail: https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/3/fpt-nha-may-chip-kiem-thu-ban-dan-1793692756984746508287-247-0-1587-2560-crop-1793692809770841392153.jpg
+Author: Đức Thiện
+Published date: Tue, 03 Nov 2026 16:14:00 +0000
+
+Completed! Added a total of 7 new news items to Firebase.
