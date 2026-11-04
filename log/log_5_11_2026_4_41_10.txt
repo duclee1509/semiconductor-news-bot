@@ -1,0 +1,36 @@
+Article: https://semiwiki.com/ip/certus-semiconductor/374963-cto-interview-with-taylor-barton-of-certus-semiconductor/
+Title: CTO Interview with Taylor Barton of Certus Semiconductor
+Summary: <p>Taylor Barton is a Lead Analog/Mixed-Signal and I/O IC Design Engineer at Certus Semiconductor, where he has worked since December 2022. He has designed more than 20 silicon-proven I/O and ESD l...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Smaller-footprint-greater-possibility.jpg
+Author: Daniel Nenni
+Published date: Wed, 04 Nov 2026 20:00:45 +0000
+
+Article: https://semiwiki.com/eda/defacto-technologies/375844-generating-chip-subsystems-automatically-a-new-answer-to-manage-chip-design-complexity/
+Title: Generating Chip Subsystems Automatically: A New Answer to Manage Chip Design Complexity
+Summary: <h4><em><strong>By Defacto Staff</strong></em></h4>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/blog-picture.png
+Author: Admin
+Published date: Wed, 04 Nov 2026 18:00:16 +0000
+
+Article: https://semiwiki.com/eda/siemens-eda/375653-reimagining-3d-ic-design-from-architecture-to-signoff/
+Title: Reimagining 3D IC Design: From Architecture to Signoff
+Summary: <p><em>By Keith Felton, Andras Vass-Varnai and Todd Burkholder, Siemens EDA</em></p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/figure1_digital-twin-creation.png
+Author: Admin
+Published date: Wed, 04 Nov 2026 16:00:31 +0000
+
+Article: https://semiwiki.com/events/375599-gsa-honors-sanjay-mehrotra-as-memory-takes-center-stage-in-computing/
+Title: GSA Honors Sanjay Mehrotra as Memory Takes Center Stage in Computing
+Summary: <p>The Global Semiconductor Alliance will present Micron Technology Chairman and CEO Sanjay Mehrotra with its 2026 Dr. Morris Chang Exemplary Leadership Award, recognizing a career that connects fo...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/GSA-Honors-Sanjay-Mehrotra.jpg
+Author: Daniel Nenni
+Published date: Wed, 04 Nov 2026 15:00:18 +0000
+
+Article: https://tuoitre.vn/1500-nha-khoa-hoc-tre-sinh-vien-xuat-sac-duoc-cap-hoc-bong-hoc-cong-nghe-chien-luoc-o-nuoc-ngoai-100260820092232388.htm
+Title: 1.500 nhà khoa học trẻ, sinh viên xuất sắc được cấp học bổng học công nghệ chiến lược ở nước ngoài
+Summary: Từ năm 2027 đến 2035, 1.500 nhà khoa học trẻ, sinh viên xuất sắc sẽ được cấp học bổng toàn phần học tập, nghiên cứu tại nước ngoài về công nghệ chiến lược.
+Thumbnail: https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/8/20/vimach-1-read-only-17249435293011514199641-17871914891211041412562-23-0-405-730-crop-1787191549309529920871.jpg
+Author: Minh Giảng
+Published date: Thu, 20 Aug 2026 10:08:00 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
