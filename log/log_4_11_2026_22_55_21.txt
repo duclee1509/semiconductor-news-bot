@@ -1,0 +1,43 @@
+Article: https://semiengineering.com/accelerating-plug-and-play-prototyping-in-chiplet-based-designs/
+Title: Accelerating Plug-And-Play Prototyping In Chiplet-Based Designs
+Summary: <p>Shared resources, a mix of tools running at different speeds, and multiple dies are adding new challenges for design teams.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-3.09.43-PM.png?fit=1474%2C1426&ssl=1
+Author: Ed Sperling
+Published date: Wed, 04 Nov 2026 08:15:25 +0000
+
+Article: https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers/
+Title: Adding Network Security to AI, HPC and Data Centers
+Summary: <p>How data center operators can protect critical data and communications without compromising the performance demanded by distributed AI and HPC workloads.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-9.28.28-AM.png?fit=1626%2C540&ssl=1
+Author: Rambus
+Published date: Wed, 04 Nov 2026 08:04:45 +0000
+
+Article: https://semiengineering.com/built-to-last-why-automotive-grade-pqc-cant-wait/
+Title: Built to Last: Why Automotive-Grade PQC Can’t Wait
+Summary: <p>Why automotive-grade PQC IP matters, what sets it apart from general-purpose PQC, and what SoC design teams should look for when choosing a PQC accelerator.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_310321486-11-7-24-Car-scaled.jpeg?fit=2560%2C1384&ssl=1
+Author: Synopsys
+Published date: Wed, 04 Nov 2026 08:04:17 +0000
+
+Article: https://semiengineering.com/validate-sovereign-ai-sites-before-you-commit-capital-ebook/
+Title: Validate Sovereign AI Sites Before You Commit Capital: eBook
+Summary: <p>How to validate sites before commitment, protect capacity after deployment, and plan for long-term performance.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/11/Screenshot-2026-11-02-at-1.28.57-PM.png?fit=1988%2C668&ssl=1
+Author: Cadence
+Published date: Wed, 04 Nov 2026 08:03:39 +0000
+
+Article: https://semiengineering.com/3d-ic-signal-integrity-from-silicon-interposers-to-system-signoff/
+Title: 3D-IC Signal Integrity: From Silicon Interposers To System Signoff
+Summary: <p>A unified, system-level environment that aggregates several proven technologies into a seamless workflow spanning architecture exploration, electromagnetic extraction, channel simulation, protoc...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/06-26-AdobeStock_143980229-scaled.jpeg?fit=2560%2C1398&ssl=1
+Author: Siemens EDA
+Published date: Wed, 04 Nov 2026 08:02:20 +0000
+
+Article: https://semiwiki.com/security/pqshield/375585-nist-sets-a-clearer-course-for-the-post-quantum-security-transition/
+Title: NIST Sets a Clearer Course for the Post-Quantum Security Transition
+Summary: <p>NIST’s report, <a href="https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography"><em>Transition to Post-Quantum Cryptography Standards<...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/NISTs-Post-Quantum-Migration-Roadmap.jpg
+Author: Daniel Nenni
+Published date: Wed, 04 Nov 2026 14:00:53 +0000
+
+Completed! Added a total of 6 new news items to Firebase.
