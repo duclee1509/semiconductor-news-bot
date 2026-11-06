@@ -1,0 +1,29 @@
+Article: https://semiengineering.com/a-system-level-approach-to-protecting-3d-ic-signal-integrity/
+Title: A System-Level Approach To Protecting 3D-IC Signal Integrity
+Summary: <p>Accurate SI analysis must account for interactions across vertical interconnects, interposers, silicon bridges, package transitions, and neighboring high-speed channels. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/11/Siemens_Protecting-3D-IC-SI-fig1-systems.png
+Author: Muhammad Hassan
+Published date: Thu, 05 Nov 2026 08:04:55 +0000
+
+Article: https://semiwiki.com/eda/chipnexus/375471-chipnexus-brings-agentic-ai-into-established-analog-design-flows/
+Title: ChipNexus Brings Agentic AI into Established Analog Design Flows
+Summary: <p>ChipNexus has introduced its NEX Analog Agent, bringing conversational automation to analog engineering workflows built around Cadence Virtuoso, Spectre simulation and Siemens Calibre physical v...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Agentic-AI-for-Analog-Chip-Design.jpg
+Author: Daniel Nenni
+Published date: Fri, 06 Nov 2026 18:00:17 +0000
+
+Article: https://semiwiki.com/semiconductor-services/flow-accel/376003-delivering-silicon-systems-through-ai-disruption-part-2-the-conductor/
+Title: Delivering Silicon Systems Through AI Disruption, Part 2: The Conductor
+Summary: <p>Conductor: the person who keeps every section of the orchestra in time without playing an instrument. In this article, it&#8217;s your operating model.</p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/The_Conductor_SemiWiki_3360x1888-1-scaled.jpg
+Author: Joel Jorgensen
+Published date: Fri, 06 Nov 2026 16:00:32 +0000
+
+Article: https://semiwiki.com/eda/mach42/375789-interview-with-david-tester-vp-of-engineering-mach42/
+Title: Interview with David Tester VP of Engineering Mach42
+Summary: <p>David Tester is the VP of Engineering at Mach42, with 30 years of experience in semiconductor development, engineering leadership, and business growth. As Chief Engineer at EnSilica, he helped t...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Pre-Silicon-Problems_-David-Tester-Interview.jpg
+Author: Daniel Nenni
+Published date: Thu, 05 Nov 2026 20:00:05 +0000
+
+Completed! Added a total of 4 new news items to Firebase.
