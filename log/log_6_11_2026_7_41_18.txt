@@ -1,0 +1,64 @@
+Article: https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers-2/
+Title: Adding Network Security To AI, HPC, And Data Centers
+Summary: <p>The location of security functions such as MACsec or IPsec has become a key architectural decision.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/11/Rambus_Adding-Network-Security-AI-HPC-fig1.png
+Author: Maxim Demchenko
+Published date: Thu, 05 Nov 2026 08:06:45 +0000
+
+Article: https://semiengineering.com/turning-conv2d-into-a-practical-gpu-compute-pattern/
+Title: Turning Conv2D Into A Practical GPU Compute Pattern
+Summary: <p>A reusable optimization mindset for engineers building GPU compute kernels.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2019/02/iStock-937898842-NeuralNetwork.jpg
+Author: Mario Florea
+Published date: Thu, 05 Nov 2026 08:05:35 +0000
+
+Article: https://semiengineering.com/a-system-level-approach-to-protecting-3d-ic-signal-integrity/
+Title: A System-Level Approach To Protecting 3D-IC Signal Integrity
+Summary: <p>Accurate SI analysis must account for interactions across vertical interconnects, interposers, silicon bridges, package transitions, and neighboring high-speed channels. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/11/Siemens_Protecting-3D-IC-SI-fig1-systems.png
+Author: Muhammad Hassan
+Published date: Thu, 05 Nov 2026 08:04:55 +0000
+
+Article: https://semiengineering.com/fitting-ai-models-to-edge-applications/
+Title: Fitting AI Models To Edge Applications
+Summary: <p>Compression can shrink AI models, but efficient edge deployment starts with matching the architecture to the workload and hardware limits.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/AdobeStock_183702829-scaled.jpeg
+Author: Liz Allan
+Published date: Thu, 05 Nov 2026 08:04:08 +0000
+
+Article: https://semiengineering.com/why-testing-automated-driving-is-harder-than-it-looks/
+Title: Why Testing Automated Driving Is Harder Than It Looks
+Summary: <p>Instead of waiting for rare situations to occur on public roads, engineers can create those situations virtually. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/01/AdobeStock_196160897-car-Jan-2026-scaled.jpeg?fit=2560%2C1945&ssl=1
+Author: Michael Tran
+Published date: Thu, 05 Nov 2026 08:02:40 +0000
+
+Article: https://semiwiki.com/eda/mach42/375789-interview-with-david-tester-vp-of-engineering-mach42/
+Title: Interview with David Tester VP of Engineering Mach42
+Summary: <p>David Tester is the VP of Engineering at Mach42, with 30 years of experience in semiconductor development, engineering leadership, and business growth. As Chief Engineer at EnSilica, he helped t...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Pre-Silicon-Problems_-David-Tester-Interview.jpg
+Author: Daniel Nenni
+Published date: Thu, 05 Nov 2026 20:00:05 +0000
+
+Article: https://semiwiki.com/3dic/375726-glass-is-becoming-an-ai-infrastructure-platform/
+Title: Glass Is Becoming an AI Infrastructure Platform
+Summary: <p><strong>The value of glass will be determined not by its material properties alone, but by whether it can expand the package architecture window and be realized repeatedly at manufacturing scale...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Glass_substrate_as_arch_SemiWiki_oct5-1-1.jpg
+Author: Moh Kolb
+Published date: Thu, 05 Nov 2026 18:00:10 +0000
+
+Article: https://semiwiki.com/ip/ceva/375820-ceva-and-mobilint-bring-physical-ai-closer-to-everyday-devices/
+Title: Ceva and Mobilint Bring Physical AI Closer to Everyday Devices
+Summary: <p>Physical AI is moving closer to everyday reality, and a new collaboration between Ceva and Mobilint offers an encouraging example of how that progress can reach commercial devices. Mobilint’s RE...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/REGULUS-Powers-the-Intelligent-Factory.jpg
+Author: Daniel Nenni
+Published date: Thu, 05 Nov 2026 16:00:57 +0000
+
+Article: https://semiwiki.com/artificial-intelligence/375867-the-725-million-chip-development-why-execution-risk-not-ip-cost-now-dictates-advanced-node-survival/
+Title: The $725 Million Chip Development: Why Execution Risk, Not IP Cost, Now Dictates Advanced-Node Survival
+Summary: <p>The philosophy of relying on a single, unified IP stack to lower your total cost of ownership is not a new concept invented just for the AI era. Semiconductor engineering teams have been weighin...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/The-Real-Value-of-Predictable-Execution-scaled.png
+Author: Kalar Rajendiran
+Published date: Thu, 05 Nov 2026 14:00:08 +0000
+
+Completed! Added a total of 4 new news items to Firebase.
