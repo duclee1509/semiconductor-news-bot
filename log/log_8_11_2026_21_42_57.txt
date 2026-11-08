@@ -1,0 +1,15 @@
+Article: https://semiwiki.com/ceo-interviews/375765-ceo-interview-with-jun-yuan-of-arcas-tech/
+Title: CEO Interview with Jun Yuan of Arcas-Tech
+Summary: <h3>JUN YUAN BIO</h3>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Arcas-tech_-Proving-the-future-of-silicon.jpg
+Author: Daniel Nenni
+Published date: Sun, 08 Nov 2026 14:00:10 +0000
+
+Article: https://semiwiki.com/ceo-interviews/375988-ceo-interview-with-pratap-ranade-of-arena-physica/
+Title: CEO Interview with Pratap Ranade of Arena Physica
+Summary: <p>Pratap Ranade is CEO and Co-Founder of Arena Physica. Pratap first trained as a physicist at Stanford and Columbia before joining McKinsey as an Associate Partner advising tech and semiconductor...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Pratap-Ranade_-physics-native-AI.jpg
+Author: Daniel Nenni
+Published date: Sun, 08 Nov 2026 13:00:07 +0000
+
+Completed! Added a total of 2 new news items to Firebase.

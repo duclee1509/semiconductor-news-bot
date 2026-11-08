@@ -1,33 +1,5 @@
 [
   {
-    "title_org": "What Hot Chips 2026 Tells Us About What Silicon Valley Is Actually Building",
-    "title_vietnamese": "Hot Chips 2026 hé lộ những gì Thung lũng Silicon đang thực thực hiện",
-    "summary_org": "The article discusses how the lineup of presentations at the 2026 Hot Chips Conference at Stanford provides insights into current engineering projects by Silicon Valley companies. Although detailed abstracts are not published in advance, the conference program reveals the primary focus areas of the semiconductor industry.",
-    "summary_vietnamese": "Bài viết thảo luận về cách danh sách các bài thuyết trình tại Hội nghị Hot Chips 2026 diễn ra tại Stanford mang lại cái nhìn chi tiết về các dự án kỹ thuật hiện tại của các công ty tại Thung lũng Silicon. Mặc dù các bản tóm tắt chi tiết không được công bố trước, chương trình hội nghị vẫn hé lộ các lĩnh vực trọng tâm chính của ngành công nghiệp bán dẫn.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/events/372540-what-hot-chips-2026-tells-us-about-what-silicon-valley-is-actually-building/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/What-Hot-Chips-Tells-us-2026-1200x675.jpg",
-    "author": "Jonah McLeod",
-    "createdAt": "2026-08-24T15:54:40.620107+00:00",
-    "publishedAt": "2026-08-24T01:00:43+00:00"
-  },
-  {
-    "title_org": "Reducing EUV Exposure Dose Through Underlayer Engineering",
-    "title_vietnamese": "Giảm liều lượng phơi sáng EUV thông qua kỹ thuật lớp nền (Underlayer Engineering)",
-    "summary_org": "Extreme-ultraviolet lithography scaling faces severe materials challenges, requiring photoresists to balance high resolution, low exposure dose, low line roughness, and minimal defects. This article discusses how underlayer engineering can help reduce the EUV exposure dose to address these scaling difficulties.",
-    "summary_vietnamese": "Việc thu nhỏ quang khắc cực tím sâu (EUV) đang đối mặt với những thách thức nghiêm trọng về vật liệu, đòi hỏi chất cản quang phải cân bằng giữa độ phân giải cao, liều lượng phơi sáng thấp, độ nhám đường nét thấp và ít khuyết tật nhất có thể. Bài viết này thảo luận về cách kỹ thuật lớp nền (underlayer engineering) có thể giúp giảm liều lượng phơi sáng EUV nhằm giải quyết những khó khăn trong quá trình thu nhỏ này.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/lithography/372293-reducing-euv-exposure-dose-through-underlayer-engineering/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Reducing-EUV-Exposure-Dose-Through-Underlayer-Engineering-1200x675.jpg",
-    "author": "Admin",
-    "createdAt": "2026-08-24T15:54:43.595614+00:00",
-    "publishedAt": "2026-08-23T21:00:24+00:00"
-  },
-  {
     "title_org": "CEO Interview with Ajit Prabhu of Quest Global",
     "title_vietnamese": "Phỏng vấn CEO Ajit Prabhu của Quest Global",
     "summary_org": "Ajit Prabhu is the Co-Founder and CEO of Quest Global, a global engineering services company focused on solving complex engineering challenges. Under his leadership, the company has established sustainable partnerships to deliver comprehensive engineering solutions.",
@@ -6998,5 +6970,33 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-11-06T18:47:57.978373+00:00",
     "publishedAt": "2026-11-05T20:00:05+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Jun Yuan of Arcas-Tech",
+    "title_vietnamese": "Phỏng vấn CEO Jun Yuan của Arcas-Tech",
+    "summary_org": "This article features a biographical overview of Jun Yuan, the founder of Arcas-tech. It highlights his extensive engineering and management career in chip design, verification, and EDA tools at prominent companies including AMD, Motorola, Verplex, Jasper, and Cadence.",
+    "summary_vietnamese": "Bài viết giới thiệu về tiểu sử của Jun Yuan, nhà sáng lập Arcas-tech. Nội dung nhấn mạnh sự nghiệp kỹ thuật và quản lý lâu năm của ông trong lĩnh vực thiết kế chip, kiểm chứng (verification) và công cụ EDA tại các tập đoàn lớn như AMD, Motorola, Verplex, Jasper và Cadence.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/375765-ceo-interview-with-jun-yuan-of-arcas-tech/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/10/Arcas-tech_-Proving-the-future-of-silicon.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-11-08T14:43:01.966846+00:00",
+    "publishedAt": "2026-11-08T14:00:10+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Pratap Ranade of Arena Physica",
+    "title_vietnamese": "Phỏng vấn CEO Pratap Ranade của Arena Physica",
+    "summary_org": "This article features an interview with Pratap Ranade, CEO and Co-Founder of Arena Physica. With a strong background in physics from Stanford and Columbia, Ranade previously worked at McKinsey and founded Kimono Labs, which was later acquired by Palantir.",
+    "summary_vietnamese": "Bài viết này giới thiệu cuộc phỏng vấn với Pratap Ranade, CEO kiêm Đồng sáng lập của Arena Physica. Với nền tảng vững chắc về vật lý từ Stanford và Columbia, Ranade trước đây từng làm việc tại McKinsey và sáng lập Kimono Labs, công ty sau đó đã được Palantir mua lại.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/375988-ceo-interview-with-pratap-ranade-of-arena-physica/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/Pratap-Ranade_-physics-native-AI.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-11-08T14:43:06.602275+00:00",
+    "publishedAt": "2026-11-08T13:00:07+00:00"
   }
 ]
