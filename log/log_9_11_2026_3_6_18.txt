@@ -1,0 +1,29 @@
+Article: https://semiwiki.com/ceo-interviews/375744-ceo-interview-with-trey-closson-of-amplio/
+Title: CEO Interview With Trey Closson of Amplio
+Summary: <p>Trey Closson is the Co-Founder and CEO of Amplio, an AI-powered industrial asset recovery company helping manufacturers recover value from surplus equipment and inventory. With over a decade of ...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Turning-Surplus-Into-Value.jpg
+Author: Daniel Nenni
+Published date: Sun, 08 Nov 2026 19:00:04 +0000
+
+Article: https://semiwiki.com/ceo-interviews/375923-ceo-interview-with-albert-liu-of-kneron/
+Title: CEO Interview with Albert Liu of Kneron
+Summary: <p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Albert-Liu-on-private-edge-AI.jpg
+Author: Daniel Nenni
+Published date: Sun, 08 Nov 2026 18:00:25 +0000
+
+Article: https://semiwiki.com/ceo-interviews/375857-ceo-interview-with-mishiel-biton-of-addionics/
+Title: CEO Interview with Moshiel Biton of Addionics
+Summary: <p>Dr. Moshiel Biton is the CEO and Founder of Addionics, a pioneer in battery innovation. Under his leadership, the company has raised over $85 million, built partnerships with global industry lea...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Powering-the-autonomous-era.jpg
+Author: Daniel Nenni
+Published date: Sun, 08 Nov 2026 17:00:37 +0000
+
+Article: https://semiwiki.com/ceo-interviews/375666-ceo-interview-with-brett-walker-of-electroninks-2/
+Title: CEO Interview with Brett Walker of Electroninks
+Summary: <p>S. Brett Walker, Ph.D. is the Co-Founder and CEO of Electroninks and has extensive Materials Science experience.  Dr. Walker built Electroninks, Inc. to over $1M in revenue after 1 year in busin...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Rethinking-thin-film-metallization.jpg
+Author: Daniel Nenni
+Published date: Sun, 08 Nov 2026 16:00:52 +0000
+
+Completed! Added a total of 4 new news items to Firebase.
