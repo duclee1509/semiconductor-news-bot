@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/ceo-interviews/375759-ceo-interview-with-mark-rushworth-of-finchetto/
+Title: CEO Interview with Mark Rushworth of Finchetto
+Summary: <p>Mark Rushworth is CEO of the all-optical network switch company, Finchetto, a photonics startup developing fully optical network switching technology for AI and hyperscale data centers. He speci...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/Mark-Rushworth_-Using-Light-to-Control-Light.jpg
+Author: Daniel Nenni
+Published date: Sun, 08 Nov 2026 20:00:11 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
