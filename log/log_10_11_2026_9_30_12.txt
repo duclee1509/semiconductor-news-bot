@@ -1,0 +1,50 @@
+Article: https://semiengineering.com/memory-in-physical-ai/
+Title: Memory In Physical AI
+Summary: <p>LPDDR6 becomes an essential ingredient as intelligence moves into autonomous and mobile edge systems.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/11/Screenshot-2026-11-08-at-3.04.59-PM-1024x946.png
+Author: Ed Sperling
+Published date: Mon, 09 Nov 2026 08:15:21 +0000
+
+Article: https://semiengineering.com/the-optical-super-highway-for-ai/
+Title: The Optical Superhighway For AI
+Summary: <p>Exponentially increasing AI compute performance requires exponential interconnect speeds.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/11/Tate_Optical-Super-Highway-For-AI-fig1.png
+Author: Geoff Tate
+Published date: Mon, 09 Nov 2026 08:01:28 +0000
+
+Article: https://spectrum.ieee.org/find-my-ai-chip
+Title: The Race to Build a “Find My” for AI Chips
+Summary: <img src="https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-radar-scanning-a-large-computer-chip-with-pieces-of-the-chip-featuring-different-regions-of-the-un.jpg?id=68612492&amp...
+Thumbnail: https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-radar-scanning-a-large-computer-chip-with-pieces-of-the-chip-featuring-different-regions-of-the-un.jpg?id=68612492&width=1200&height=600&coordinates=0%2C688%2C0%2C561
+Author: Rina Diane Caballar
+Published date: Mon, 09 Nov 2026 13:00:02 +0000
+
+Article: https://semiwiki.com/ceo-interviews/375783-cto-interview-with-ed-plowman-of-imagination-technologies-2/
+Title: CTO Interview with Ed Plowman of Imagination Technologies
+Summary: <p>Ed Plowman is Chief Technology Officer at Imagination Technologies, where he leads technology strategy, advanced architecture research and long-term innovation initiatives. He focuses on the con...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Real-world-compute-built-for-products-1200x800.png
+Author: Daniel Nenni
+Published date: Mon, 09 Nov 2026 20:00:12 +0000
+
+Article: https://semiwiki.com/eda/376069-golden-testcases-you-can-check-with-a-calculator/
+Title: Golden Testcases You Can Check With a Calculator
+Summary: <p><em>Two timing tools that agree can still both be wrong. A small testcase where you can re-derive every printed digit by hand shows that the engine is correct, and when it isn’t, it shows which ...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/03_fig1_worked_example_ledger.jpg
+Author: Admin
+Published date: Mon, 09 Nov 2026 18:00:44 +0000
+
+Article: https://semiwiki.com/eda/siemens-eda/376032-curvilinear-opc-and-next-gen-photomask-optimization/
+Title: Curvilinear OPC and next-gen photomask optimization
+Summary: <p><em>A vector-based approach for semiconductor manufacturing</em></p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/fig1-manhattan-vs-curve-targets.jpg
+Author: Admin
+Published date: Mon, 09 Nov 2026 16:00:56 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/375778-who-owns-the-voice-in-your-head/
+Title: Who Owns the Voice in Your Head?
+Summary: <p>On May 13, 2024, OpenAI demonstrated GPT-4o, a model that could carry on a spoken conversation with the timing and inflection of a person. One of its voices, called Sky, was warm, quick and more...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Her-in-the-ear.jpg
+Author: Jonah McLeod
+Published date: Mon, 09 Nov 2026 14:00:56 +0000
+
+Completed! Added a total of 7 new news items to Firebase.
