@@ -1,0 +1,50 @@
+Article: https://semiengineering.com/the-definitive-afm-modes-handbook-2026-edition/
+Title: The Definitive AFM Modes Handbook: 2026 Edition
+Summary: <p>A comprehensive guide to expanding materials research capabilities.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_617037143-scaled.jpeg?fit=2560%2C1707&ssl=1
+Author: Bruker
+Published date: Tue, 10 Nov 2026 08:01:35 +0000
+
+Article: https://semiwiki.com/eda/chipagents-ai/375937-cxo-interview-with-solaiman-rahim-of-chipagents/
+Title: CXO Interview with Solaiman Rahim of ChipAgents
+Summary: <p>Dr. Solaiman Rahim is a multidisciplinary technology executive with over 25 years of experience driving innovation in the chip automation space at the intersection of systems, semiconductors, hi...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/SemiWiki-CXO-Interview_-Solaiman-Rahim.jpg
+Author: Daniel Nenni
+Published date: Tue, 10 Nov 2026 20:00:32 +0000
+
+Article: https://semiwiki.com/3dic/376055-cpos-next-challenge-turning-optical-performance-into-manufacturable-systems/
+Title: CPO’s Next Challenge: Turning Optical Performance into Manufacturable Systems
+Summary: <p><strong><em>Why integration boundaries, assembly strategies, and manufacturing yield must be engineered together</em></strong></p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/CPO_Challanges_SemiWikI_nov5.jpg
+Author: Moh Kolb
+Published date: Tue, 10 Nov 2026 18:00:23 +0000
+
+Article: https://semiwiki.com/ip/weebit-nano/375980-weebit-nano-launches-matrix-research-program-to-test-ai-computing-inside-memory/
+Title: Weebit Nano launches Matrix research program to explore AI computing inside memory
+Summary: <p>Weebit Nano launched its Weebit Matrix In-Memory Compute Research Program on November 4, 2026, giving academic and industry researchers access to hardware built around its resistive random-acces...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Weebit-Matrix-green-graphite-chip-banner.jpg
+Author: Daniel Nenni
+Published date: Tue, 10 Nov 2026 16:00:24 +0000
+
+Article: https://semiwiki.com/3dic/376045-challenges-of-power-integrity-for-multi-die-designs/
+Title: Three-Dimensional Chess Anyone? The Challenges of Power Integrity for Multi-Die Designs
+Summary: <p style="font-weight: 400;">Power integrity has been a substantial design challenge for a long time. In the multi-die era, the problems associated with EMIR analysis must now move beyond the chip ...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Three-Dimensional-Chess-Anyone-The-Challenges-of-Power-Integrity-for-Multi-Die-Designs.png
+Author: Mike Gianfagna
+Published date: Tue, 10 Nov 2026 14:00:08 +0000
+
+Article: https://semiwiki.com/ip/imagination-technologies/375783-cto-interview-with-ed-plowman-of-imagination-technologies-2/
+Title: CTO Interview with Ed Plowman of Imagination Technologies
+Summary: <p>Ed Plowman is Chief Technology Officer at Imagination Technologies, where he leads technology strategy, advanced architecture research and long-term innovation initiatives. He focuses on the con...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Real-world-compute-built-for-products-1200x800.png
+Author: Daniel Nenni
+Published date: Mon, 09 Nov 2026 20:00:12 +0000
+
+Article: https://vnexpress.net/tam-wafer-kim-cuong-don-tinh-the-200-mm-dau-tien-tren-the-gioi-5142585.html
+Title: Tấm wafer kim cương đơn tinh thể 200 mm đầu tiên trên thế giới
+Summary: Công ty Diamond Foundry thông báo sản xuất thành công tấm wafer kim cương đơn tinh thể 200 mm hôm 6/11, mở đường cho chip bán dẫn thế hệ mới.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/11/09/VNEDiamond-1794219467-7103-1794219584.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=f9IbGA8DHDTtenOX1K4IJw
+Author: VnExpress
+Published date: Tue, 10 Nov 2026 05:02:29 +0000
+
+Completed! Added a total of 4 new news items to Firebase.
