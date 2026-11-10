@@ -1,0 +1,64 @@
+Article: https://semiengineering.com/reducing-lithography-learning-cycles-to-accelerate-foplp-ramps/
+Title: Reducing Lithography Learning Cycles To Accelerate FOPLP Ramps
+Summary: <p>How yield prediction technology can reduce trial-and-error in advanced packaging lithography.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/11/Onto_Litho-Learning-Cycles-FOPLP-Ramps-fig3.jpg?fit=743%2C354&ssl=1
+Author: John Chang
+Published date: Tue, 10 Nov 2026 08:08:35 +0000
+
+Article: https://semiengineering.com/test-struggles-to-keep-pace-with-ai/
+Title: Test Struggles To Keep Pace With AI
+Summary: <p>Rapidly changing workloads, more test insertions, and fragmented data complicate chip testing.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_209584838-Feb-20-2024-scaled.jpeg?fit=2560%2C1149&ssl=1
+Author: Ed Sperling
+Published date: Tue, 10 Nov 2026 08:07:24 +0000
+
+Article: https://semiengineering.com/which-passing-chips-need-more-testing/
+Title: Which Passing Chips Need More Testing?
+Summary: <p>Manufacturers are using test data and predictive models to identify marginal chips and determine when additional screening is justified.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/wafer-11-07-24-AdobeStock_531475555.jpeg?fit=1200%2C550&ssl=1
+Author: Gregory Haley
+Published date: Tue, 10 Nov 2026 08:05:20 +0000
+
+Article: https://semiengineering.com/ais-efficiency-challenge-for-the-semiconductor-industry/
+Title: AI’s Efficiency Challenge For The Semiconductor Industry
+Summary: <p>AI is reshaping the tools, data, and collaboration models used to design, manufacture, and test silicon.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/11/PDF_AI-Efficiency-Challenge-Semi-Industry-fig2.webp?fit=780%2C366&ssl=1
+Author: John Kibarian
+Published date: Tue, 10 Nov 2026 08:03:58 +0000
+
+Article: https://semiengineering.com/the-definitive-afm-modes-handbook-2026-edition/
+Title: The Definitive AFM Modes Handbook: 2026 Edition
+Summary: <p>A comprehensive guide to expanding materials research capabilities.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_617037143-scaled.jpeg?fit=2560%2C1707&ssl=1
+Author: Bruker
+Published date: Tue, 10 Nov 2026 08:01:35 +0000
+
+Article: https://semiwiki.com/ip/imagination-technologies/375783-cto-interview-with-ed-plowman-of-imagination-technologies-2/
+Title: CTO Interview with Ed Plowman of Imagination Technologies
+Summary: <p>Ed Plowman is Chief Technology Officer at Imagination Technologies, where he leads technology strategy, advanced architecture research and long-term innovation initiatives. He focuses on the con...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Real-world-compute-built-for-products-1200x800.png
+Author: Daniel Nenni
+Published date: Mon, 09 Nov 2026 20:00:12 +0000
+
+Article: https://baochinhphu.vn/viet-nam-nhat-ban-dong-tai-tro-11-du-an-nghien-cuu-cong-nghe-ban-dan-102261110120452481.htm
+Title: Việt Nam – Nhật Bản đồng tài trợ 11 dự án nghiên cứu công nghệ bán dẫn
+Summary: (Chinhphu.vn) - Ngày 9/11, tại Tokyo, trong khuôn khổ Diễn đàn công tư về hợp tác kinh tế, khoa học và công nghệ Việt Nam – Nhật Bản, Bộ Khoa học và Công nghệ Việt Nam và Bộ Giáo dục, Văn hóa, Thể ...
+Thumbnail: https://bcp2.cdnchinhphu.vn/zoom/1200_630/334894974524682240/2026/11/10/thumb-anh-trao-van-kien-1794286700341439404666-17942869918631809995795-260-308-1101-1653-crop-17942870197881546778501.jpg
+Author: Thu Giang
+Published date: Tue, 10 Nov 2026 11:57:00 +0000
+
+Article: https://vnexpress.net/tam-wafer-kim-cuong-don-tinh-the-200-mm-dau-tien-tren-the-gioi-5142585.html
+Title: Tấm wafer kim cương đơn tinh thể 200 mm đầu tiên trên thế giới
+Summary: Công ty Diamond Foundry thông báo sản xuất thành công tấm wafer kim cương đơn tinh thể 200 mm hôm 6/11, mở đường cho chip bán dẫn thế hệ mới.
+Thumbnail: None
+Author: VnExpress
+Published date: Tue, 10 Nov 2026 05:02:29 +0000
+
+Article: https://tuoitre.vn/viet-nam-nhat-ban-rot-gan-500-ti-dong-cho-11-du-an-ban-dan-100261110120103386.htm
+Title: Việt Nam - Nhật Bản rót gần 500 tỉ đồng cho 11 dự án bán dẫn
+Summary: Việt Nam và Nhật Bản đồng tài trợ gần 500 tỉ đồng cho 11 dự án nghiên cứu bán dẫn, đồng thời lên kế hoạch đào tạo 100 tiến sĩ AI từ năm 2027.
+Thumbnail: https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/10/thumb-trao-van-kien-vn-nhat-edit-1794290821696958830816-17942908419312047764397-500-559-984-1483-crop-17942911041482101472296.jpg
+Author: Nguyên Bảo
+Published date: Tue, 10 Nov 2026 13:02:00 +0000
+
+Completed! Added a total of 6 new news items to Firebase.
