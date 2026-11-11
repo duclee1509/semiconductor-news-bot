@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/variable-length-prompts-on-chimera-gpnpu/
+Title: Variable-Length Prompts on Chimera GPNPU
+Summary: <p>How a flexible binary can serve every length up to the capacity you set.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-10.35.51-AM.png?fit=1066%2C624&ssl=1
+Author: Quadric.io
+Published date: Wed, 11 Nov 2026 08:02:29 +0000
+
+Article: https://semiengineering.com/ucie-connectivity-for-2-5d-and-3d-multi-die-designs/
+Title: UCIe Connectivity for 2.5D and 3D Multi-Die Designs
+Summary: <p>The differences and engineering considerations behind choosing and implementing UCIe connectivity for advanced multi-die designs.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1748350067-08-26-turquoise-chip-scaled.jpeg?fit=2560%2C1440&ssl=1
+Author: Synopsys
+Published date: Wed, 11 Nov 2026 08:01:52 +0000
+
+Article: https://semiengineering.com/blog-review-nov-11-3/
+Title: Blog Review: Nov. 11
+Summary: <p>Interconnects key in AI infrastructure; floating nets; mitigating Control Flow attacks; PNT trends; SEMI Market Symposium.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_1887001471-02-27-2026-scaled.jpeg
+Author: Jesse Allen
+Published date: Wed, 11 Nov 2026 08:01:21 +0000
+
+Article: https://semiwiki.com/ip/chipsmedia/375958-why-video-processing-matters-for-the-next-generation-of-robots/
+Title: Why Video Processing Matters for the Next Generation of Robots
+Summary: <p>Mobilint has begun mass production of next-generation edge AI chips that incorporate video codec technology from Chips&#38;Media, the companies announced on November 4. The South Korean partners...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/AI-Chips-for-Robotics.jpg
+Author: Daniel Nenni
+Published date: Wed, 11 Nov 2026 14:00:59 +0000
+
+Article: https://semiwiki.com/ip/weebit-nano/375980-weebit-nano-launches-matrix-research-program-to-test-ai-computing-inside-memory/
+Title: Weebit Nano launches Matrix research program to explore AI computing inside memory
+Summary: <p>Weebit Nano launched its Weebit Matrix In-Memory Compute Research Program on November 4, 2026, giving academic and industry researchers access to hardware built around its resistive random-acces...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Weebit-Matrix-green-graphite-chip-banner.jpg
+Author: Daniel Nenni
+Published date: Tue, 10 Nov 2026 16:00:24 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
