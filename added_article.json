@@ -1,47 +1,5 @@
 [
   {
-    "title_org": "Chip Industry Week in Review",
-    "title_vietnamese": "Điểm tin tuần ngành công nghiệp bán dẫn",
-    "summary_org": "This weekly review covers major semiconductor developments, including new AI hardware trends, HBM memory comparisons, manufacturing capacity expansions, and company earnings from Nvidia and Synopsys. It also highlights critical issues such as advanced packaging, foundry updates, IC tariffs, and geopolitical reliance on Taiwan.",
-    "summary_vietnamese": "Bản tổng hợp tuần này đề cập đến các xu hướng phần cứng AI mới, sự so sánh giữa HBM và HBC, việc mở rộng năng lực sản xuất, và báo cáo tài chính của Nvidia cùng Synopsys. Bài viết cũng nhấn mạnh các vấn đề quan trọng như advanced packaging, báo cáo foundry, thuế quan đối với IC, và sự phụ thuộc địa chính trị vào Đài Loan.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/chip-industry-week-in-review-153/",
-    "category": "International",
-    "isPolicy": true,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_539332899-10-10-23.jpeg",
-    "author": "The SE Staff",
-    "createdAt": "2026-08-28T16:28:59.178714+00:00",
-    "publishedAt": "2026-08-28T07:01:37+00:00"
-  },
-  {
-    "title_org": "Will Agentic AI Help the Open-Source EDA Market?",
-    "title_vietnamese": "AI Tác tử sẽ giúp ích cho thị trường EDA mã nguồn mở chứ?",
-    "summary_org": "Agentic artificial intelligence is poised to give the open-source EDA market a significant boost by making these tools easier to use. While it will not immediately replace established commercial platforms from giants like Cadence, Synopsys, or Siemens, it lowers the barrier to entry for open-source alternatives.",
-    "summary_vietnamese": "Trí tuệ nhân tạo tác tử (agentic AI) chuẩn bị tạo ra cú hích ý nghĩa cho thị trường EDA mã nguồn mở bằng cách giúp các công cụ này dễ sử dụng hơn. Mặc dù nó sẽ không thay thế ngay lập tức các nền tảng thương mại đã khẳng định vị thế từ Cadence, Synopsys hay Siemens, nhưng nó lại hạ thấp rào cản gia nhập cho các giải pháp mã nguồn mở.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/eda/372107-will-agentic-ai-help-the-open-source-eda-market/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Will-Agentic-AI-Help-the-Open-Source-EDA-Market-1200x675.jpg",
-    "author": "Daniel Nenni",
-    "createdAt": "2026-08-28T16:29:12.606173+00:00",
-    "publishedAt": "2026-08-28T15:00:30+00:00"
-  },
-  {
-    "title_org": "TSMC’s Overseas Fabs Are Paying Off",
-    "title_vietnamese": "Các nhà máy nước ngoài của TSMC đang mang lại “quả ngọt”",
-    "summary_org": "TSMC's strategy of expanding fabs overseas is successfully providing geographic redundancy, closer ties with major customers, and access to government subsidies. Facilities in Arizona and Kumamoto are already actively producing, proving the early value of this global footprint despite lacking immediate cost parity with Taiwan.",
-    "summary_vietnamese": "Chiến lược mở rộng các fab của TSMC ra nước ngoài đang mang lại hiệu quả thiết thực khi tạo ra sự dự phòng về mặt địa lý, thắt chặt mối quan hệ với các khách hàng lớn và tiếp cận được các khoản trợ cấp chính phủ. Các cơ sở tại Arizona và Kumamoto đã đi vào sản xuất, chứng minh giá trị ban đầu của mạng lưới toàn cầu này dù chưa đạt được sự tương đương về chi phí ngay lập tức với Đài Loan.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/semiconductor-manufacturers/tsmc/372625-tsmcs-overseas-fabs-are-paying-off/",
-    "category": "International",
-    "isPolicy": true,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/TSMCs-Overseas-Fabs-Are-Paying-Off-1200x675.jpg",
-    "author": "Daniel Nenni",
-    "createdAt": "2026-08-28T16:29:16.858869+00:00",
-    "publishedAt": "2026-08-28T13:00:40+00:00"
-  },
-  {
     "title_org": "Open-Source Benchmark Suite For 2.5D/3D Heterogeneous Integration Research in Physical Design (UCLA)",
     "title_vietnamese": "Bộ công cụ chuẩn hóa mã nguồn mở cho nghiên cứu tích hợp dị thể 2.5D/3D trong thiết kế vật lý từ UCLA",
     "summary_org": "Researchers from UCLA have published a technical paper introducing an open-source suite of 3D-IC benchmark testcases. The suite provides reusable virtual chiplet models covering compute, memory, I/O, analog, and substrate components to support physical design research.",
@@ -6998,5 +6956,47 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-11-11T15:48:22.122022+00:00",
     "publishedAt": "2026-11-10T16:00:24+00:00"
+  },
+  {
+    "title_org": "CTO Interview Kevin Robinson, VP of Operations, yieldHUB",
+    "title_vietnamese": "Phỏng vấn CTO: Gặp gỡ Kevin Robinson, Phó Chủ tịch Vận hành tại yieldHUB",
+    "summary_org": "Kevin Robinson, VP of Operations at yieldHUB, brings over 25 years of semiconductor experience in product and test engineering. He currently leads global operations, program delivery, customer execution, and operational scalability worldwide.",
+    "summary_vietnamese": "Kevin Robinson, Phó Chủ tịch Vận hành tại yieldHUB, mang lại hơn 25 năm kinh nghiệm trong ngành bán dẫn về kỹ thuật sản phẩm và kiểm tra (test engineering). Ông hiện dẫn dắt các hoạt động toàn cầu, phân phối chương trình, thực thi khách hàng và khả năng mở rộng quy mô vận hành trên toàn thế giới.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/yieldhub/375794-cto-interview-kevin-robinson-vp-of-operations-yieldhub/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/Kevin-Robinson-VP-of-Operations-yieldHUB.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-11-11T22:26:12.028140+00:00",
+    "publishedAt": "2026-11-11T20:00:08+00:00"
+  },
+  {
+    "title_org": "Semiconductors and SOI: From Bulk Wafers to Engineered Substrates",
+    "title_vietnamese": "Chất bán dẫn và công nghệ SOI: Từ đế đơn tinh thể đến các đế kỹ thuật tiên tiến",
+    "summary_org": "The article discusses the fundamental importance of semiconductor substrates, explaining why silicon became the dominant material due to its favorable physical properties and native oxide. It transitions into exploring engineered substrates like Silicon-on-Insulator (SOI) to overcome the limitations of traditional bulk wafers.",
+    "summary_vietnamese": "Bài viết thảo luận về tầm quan trọng cốt lõi của các đế bán dẫn, giải thích lý do tại sao silicon trở thành vật liệu thống trị nhờ các tính chất vật lý thuận lợi và lớp oxit tự nhiên. Bài viết cũng chuyển sang khám phá các đế kỹ thuật như Silicon trên chất cách điện (SOI) để vượt qua các giới hạn của wafer nguyên khối truyền thống.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/soitec/376187-semiconductors-and-soi-from-bulk-wafers-to-engineered-substrates/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/Picture1-scaled.jpeg",
+    "author": "Lauro Rizzatti",
+    "createdAt": "2026-11-11T22:26:16.582952+00:00",
+    "publishedAt": "2026-11-11T18:00:58+00:00"
+  },
+  {
+    "title_org": "NVHBM: Can Custom HBM Change Who Builds the Memory Stack?",
+    "title_vietnamese": "NVHBM: Liệu HBM tùy chỉnh có thay đổi đơn vị xây dựng ngăn xếp bộ nhớ?",
+    "summary_org": "NVIDIA's proposed NVHBM initiative could significantly alter the semiconductor industry by reshaping how responsibilities for designing, manufacturing, and qualifying high-bandwidth memory are divided among tech giants. According to recent reports, NVIDIA has engaged major memory makers like Samsung and SK Hynix regarding these custom HBM solutions.",
+    "summary_vietnamese": "Sáng kiến NVHBM được đề xuất của NVIDIA có thể thay đổi đáng kể ngành công nghiệp bán dẫn bằng cách định hình lại cách phân chia trách nhiệm thiết kế, sản xuất và kiểm định bộ nhớ HBM giữa các ôngใหญ่ công nghệ. Theo các báo cáo gần đây, NVIDIA đã làm việc với các nhà sản xuất bộ nhớ lớn như Samsung và SK Hynix liên quan đến các giải pháp HBM tùy chỉnh này.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/376093-nvhbm-can-custom-hbm-change-who-builds-the-memory-stack/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/NVHBM_CUSTOM_HBM_SEmiWIki_nov6-1.jpg",
+    "author": "Moh Kolb",
+    "createdAt": "2026-11-11T22:26:19.965934+00:00",
+    "publishedAt": "2026-11-11T16:00:14+00:00"
   }
 ]

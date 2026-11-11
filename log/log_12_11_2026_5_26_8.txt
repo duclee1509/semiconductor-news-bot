@@ -1,0 +1,22 @@
+Article: https://semiwiki.com/eda/yieldhub/375794-cto-interview-kevin-robinson-vp-of-operations-yieldhub/
+Title: CTO Interview Kevin Robinson, VP of Operations, yieldHUB
+Summary: <p>Kevin Robinson is VP of Operations at yieldHUB, where he leads global operations, program delivery, and customer execution. He oversees structured onboarding, customer delivery, and the scalabil...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Kevin-Robinson-VP-of-Operations-yieldHUB.jpg
+Author: Daniel Nenni
+Published date: Wed, 11 Nov 2026 20:00:08 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/soitec/376187-semiconductors-and-soi-from-bulk-wafers-to-engineered-substrates/
+Title: Semiconductors and SOI: From Bulk Wafers to Engineered Substrates
+Summary: <p><strong>1. Why the substrate matters</strong></p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Picture1-scaled.jpeg
+Author: Lauro Rizzatti
+Published date: Wed, 11 Nov 2026 18:00:58 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/376093-nvhbm-can-custom-hbm-change-who-builds-the-memory-stack/
+Title: NVHBM: Can Custom HBM Change Who Builds the Memory Stack?
+Summary: <p>NVIDIA&#8217;s NVHBM could change more than how memory connects to an AI accelerator. It could also change how the semiconductor industry divides responsibility for designing, manufacturing, and...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/NVHBM_CUSTOM_HBM_SEmiWIki_nov6-1.jpg
+Author: Moh Kolb
+Published date: Wed, 11 Nov 2026 16:00:14 +0000
+
+Completed! Added a total of 3 new news items to Firebase.
