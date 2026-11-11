@@ -1,33 +1,5 @@
 [
   {
-    "title_org": "Planning Your AI Design Journey: Start With What You’d Lose",
-    "title_vietnamese": "Lên kế hoạch cho hành trình thiết kế AI: Bắt đầu từ những gì bạn sẽ mất",
-    "summary_org": "The article discusses how to build artificial intelligence capabilities in semiconductor design without forcing disruptive changes to existing workflows that successfully ship products. It suggests starting the AI journey by evaluating potential losses or risks rather than disrupting current productive processes.",
-    "summary_vietnamese": "Bài viết thảo luận về cách xây dựng năng lực trí tuệ nhân tạo (AI) trong thiết kế bán dẫn mà không làm gián đoạn các quy trình làm việc hiện tại vốn đang cung cấp sản phẩm thành công ra thị trường. Bài viết đề xuất bắt đầu hành trình AI bằng cách đánh giá các tổn thất hoặc rủi ro tiềm ẩn thay vì xáo trộn các quy trình sản xuất hiện hành.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/planning-your-ai-design-journey-start-with-what-youd-lose/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/06/AdobeStock_532528757-scaled.jpeg?fit=2560%2C1440&ssl=1",
-    "author": "Daren McClearnon",
-    "createdAt": "2026-08-27T18:45:45.941057+00:00",
-    "publishedAt": "2026-08-27T07:09:31+00:00"
-  },
-  {
-    "title_org": "How Cache Coherency Simplifies AI Software",
-    "title_vietnamese": "Tính đồng bộ bộ nhớ đệm đơn giản hóa phần mềm AI như thế nào",
-    "summary_org": "This article discusses the design of SoCs focused on reducing the software overhead needed to coordinate increasingly complex systems. It highlights how cache coherency plays a crucial role in simplifying AI software development.",
-    "summary_vietnamese": "Bài viết thảo luận về việc thiết kế SoC nhằm giảm bớt khối lượng phần mềm cần thiết để điều phối các hệ thống ngày càng phức tạp. Nội dung nhấn mạnh cách tính đồng bộ bộ nhớ đệm đóng vai trò quan trọng trong việc đơn giản hóa quá trình phát triển phần mềm AI.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/how-cache-coherency-simplifies-ai-software/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/Arteris_Cache-Coherency-Simplifies-AI-Software-fig1.jpg?fit=936%2C460&ssl=1",
-    "author": "Ashley Stevens",
-    "createdAt": "2026-08-27T18:45:49.377501+00:00",
-    "publishedAt": "2026-08-27T07:08:29+00:00"
-  },
-  {
     "title_org": "Report: U.S. Building CHIPS Act Fabs but Neglecting R&D",
     "title_vietnamese": "Báo cáo: Mỹ đang xây dựng các nhà máy Fab theo Đạo luật CHIPS nhưng lơ là hoạt động R&D",
     "summary_org": "A recent U.S. GAO report reveals that while semiconductor manufacturing projects funded by the 2022 CHIPS Act are progressing well, the R&D funds remain largely unused due to policy shifts and contract cancellations by the Department of Commerce. Industry experts warn that neglecting advanced research and the National Semiconductor Technology Center could cause the U.S. to lose its technological leadership to other global regions.",
@@ -6998,5 +6970,33 @@
     "author": "VnExpress",
     "createdAt": "2026-11-10T21:38:03.029305+00:00",
     "publishedAt": "2026-11-10T05:02:29+00:00"
+  },
+  {
+    "title_org": "Three-Dimensional Chess Anyone? The Challenges of Power Integrity for Multi-Die Designs",
+    "title_vietnamese": "Chơi cờ ba chiều? Thách thức về tính toàn vẹn nguồn điện đối với thiết kế đa die",
+    "summary_org": "Power integrity has long been a significant design challenge, but the multi-die era now requires EMIR analysis to extend beyond the single chip to account for interactions across the entire stack. Analyzing these effects involves navigating a complex, multi-dimensional, and multi-material space.",
+    "summary_vietnamese": "Tính toàn vẹn nguồn điện từ lâu đã là một thách thức thiết kế lớn, nhưng kỷ nguyên đa die hiện đòi hỏi phân tích EMIR phải mở rộng ra ngoài một con chip đơn lẻ để tính toán các tương tác trên toàn bộ stack. Việc phân tích các hiệu ứng này đòi hỏi phải điều hướng qua một không gian đa chiều và đa vật liệu phức tạp.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/3dic/376045-challenges-of-power-integrity-for-multi-die-designs/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/Three-Dimensional-Chess-Anyone-The-Challenges-of-Power-Integrity-for-Multi-Die-Designs.png",
+    "author": "Mike Gianfagna",
+    "createdAt": "2026-11-11T04:21:51.087019+00:00",
+    "publishedAt": "2026-11-10T14:00:08+00:00"
+  },
+  {
+    "title_org": "CTO Interview with Ed Plowman of Imagination Technologies",
+    "title_vietnamese": "Phỏng vấn CTO Ed Plowman của hãng Imagination Technologies",
+    "summary_org": "This article features an interview with Ed Plowman, Chief Technology Officer at Imagination Technologies. He discusses his role in leading technology strategy, advanced architecture research, and the convergence of graphics, compute, and artificial intelligence to shape next-generation efficient computing.",
+    "summary_vietnamese": "Bài viết này có nội dung phỏng vấn ông Ed Plowman, Giám đốc Công nghệ (CTO) tại Imagination Technologies. Ông thảo luận về vai trò dẫn dắt chiến lược công nghệ, nghiên cứu kiến trúc tiên tiến và sự hội tụ giữa đồ họa, điện toán cùng trí tuệ nhân tạo nhằm định hình thế hệ điện toán hiệu quả tiếp theo.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ip/imagination-technologies/375783-cto-interview-with-ed-plowman-of-imagination-technologies-2/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/Real-world-compute-built-for-products-1200x800.png",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-11-11T04:21:55.243576+00:00",
+    "publishedAt": "2026-11-09T20:00:12+00:00"
   }
 ]

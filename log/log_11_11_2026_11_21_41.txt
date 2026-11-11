@@ -1,0 +1,22 @@
+Article: https://semiwiki.com/ip/weebit-nano/375980-weebit-nano-launches-matrix-research-program-to-test-ai-computing-inside-memory/
+Title: Weebit Nano launches Matrix research program to explore AI computing inside memory
+Summary: <p>Weebit Nano launched its Weebit Matrix In-Memory Compute Research Program on November 4, 2026, giving academic and industry researchers access to hardware built around its resistive random-acces...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Weebit-Matrix-green-graphite-chip-banner.jpg
+Author: Daniel Nenni
+Published date: Tue, 10 Nov 2026 16:00:24 +0000
+
+Article: https://semiwiki.com/3dic/376045-challenges-of-power-integrity-for-multi-die-designs/
+Title: Three-Dimensional Chess Anyone? The Challenges of Power Integrity for Multi-Die Designs
+Summary: <p style="font-weight: 400;">Power integrity has been a substantial design challenge for a long time. In the multi-die era, the problems associated with EMIR analysis must now move beyond the chip ...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Three-Dimensional-Chess-Anyone-The-Challenges-of-Power-Integrity-for-Multi-Die-Designs.png
+Author: Mike Gianfagna
+Published date: Tue, 10 Nov 2026 14:00:08 +0000
+
+Article: https://semiwiki.com/ip/imagination-technologies/375783-cto-interview-with-ed-plowman-of-imagination-technologies-2/
+Title: CTO Interview with Ed Plowman of Imagination Technologies
+Summary: <p>Ed Plowman is Chief Technology Officer at Imagination Technologies, where he leads technology strategy, advanced architecture research and long-term innovation initiatives. He focuses on the con...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Real-world-compute-built-for-products-1200x800.png
+Author: Daniel Nenni
+Published date: Mon, 09 Nov 2026 20:00:12 +0000
+
+Completed! Added a total of 2 new news items to Firebase.
