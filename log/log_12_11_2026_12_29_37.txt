@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/hardware-based-location-checks-target-ai-chip-smuggling-texas-am/
+Title: Hardware-Based Location Checks Target AI Chip Smuggling (Texas A&M)
+Summary: <p>Researchers at Texas A&#38;M University published “5G CATS: 5G-Based Cryptographic Authorization Against Trafficking of Semiconductor Devices.” Abstract: &#8220;Enforcing export controls on AI a...
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_1017253461-March-26-2025.jpeg
+Author: Technical Paper Link
+Published date: Thu, 12 Nov 2026 00:59:35 +0000
+
+Article: https://semiengineering.com/embedded-ecc-protects-ai-weights-against-bit-flip-attacks-university-of-florida/
+Title: Embedded ECC Protects AI Weights Against Bit-Flip Attacks (University of Florida)
+Summary: <p>Researchers at the University of Florida published “SANAI: Secure ECC Distributed Keyed Parity Embedded in Weights for Protecting Neural Networks against Bit-Flip Attacks.” Abstract Excerpt: &#8...
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_488222178-feb-20-2024-scaled.jpeg
+Author: Technical Paper Link
+Published date: Thu, 12 Nov 2026 00:42:18 +0000
+
+Article: https://semiengineering.com/single-crystal-high-%ce%ba-dielectric-enables-low-power-2d-cfets-nus-et-al/
+Title: Single-Crystal High-κ Dielectric Enables Low-Power 2D CFETs (NUS et al.)
+Summary: <p>Researchers led by the National University of Singapore  and Nexstrom published “Low-power 2D CFETs using single-crystal high-κ dielectrics.” Abstract Excerpt: &#8220;Here we demonstrate that a ...
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_416615461-01-29-25-scaled.jpeg
+Author: Technical Paper Link
+Published date: Thu, 12 Nov 2026 00:28:49 +0000
+
+Article: https://semiengineering.com/optimized-e-beam-evaporation-reduces-metal-semiconductor-contact-degradation-rwth-aachen/
+Title: Optimized E-Beam Evaporation Reduces Metal-Semiconductor Contact Degradation (RWTH Aachen)
+Summary: <p>Researchers at RWTH Aachen University published “Mitigating the degradation of metal–semiconductor contacts with optimized electron beam evaporation.” Abstract &#8220;An optimized electron beam ...
+Thumbnail: https://semiengineering.com/wp-content/uploads/wafer-11-07-24-AdobeStock_531475555.jpeg
+Author: Technical Paper Link
+Published date: Wed, 11 Nov 2026 23:00:41 +0000
+
+Article: https://vnexpress.net/jensen-huang-roi-top-10-giau-nhat-hanh-tinh-5143688.html
+Title: Jensen Huang rời top 10 giàu nhất hành tinh
+Summary: CEO Nvidia Jensen Huang rời nhóm 10 người giàu nhất thế giới sau khi cổ phiếu công ty lao dốc những ngày qua vì bê bối ngoại tình.
+Thumbnail: https://vcdn1-kinhdoanh.vnecdn.net/2026/11/12/afp-dpa-pa-dpai-v1-highres-nvi-6478-7542-1794450636.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=AvS_sgYR1FR3ucaYeopxPg
+Author: Phiên An
+Published date: Thu, 12 Nov 2026 03:00:36 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
