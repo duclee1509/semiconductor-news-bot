@@ -1,0 +1,57 @@
+Article: https://semiengineering.com/the-semiconductor-singularity/
+Title: The Semiconductor Singularity
+Summary: <p>Accelerating IC innovation with AI.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2017/05/semi_fb_thumb.jpg?fit=250%2C250&ssl=1
+Author: Siemens EDA
+Published date: Thu, 12 Nov 2026 15:57:50 +0000
+
+Article: https://semiengineering.com/rethinking-memory-for-ai-inference/
+Title: Rethinking Memory For AI Inference
+Summary: <p>Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/AdobeStock_1104488381-03-26-2025-scaled.jpeg
+Author: Liz Allan
+Published date: Thu, 12 Nov 2026 08:11:46 +0000
+
+Article: https://semiengineering.com/beyond-bandwidth-ai-inference-is-reshaping-the-memory-wall/
+Title: Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall
+Summary: <p>Longer contexts, higher concurrency, multimodal models, and AI agents will continue changing where memory pressure appears. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/11/Rambus_Beyond-Bandwidth-AI-Infer-Memory-Wall-fig2-scaled.webp
+Author: Kushal Koolwal
+Published date: Thu, 12 Nov 2026 08:08:39 +0000
+
+Article: https://semiengineering.com/the-semiconductor-singularity-when-ai-starts-accelerating-the-silicon-that-accelerates-ai/
+Title: The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI
+Summary: <p>Use evidence from silicon to improve the tools and decisions that create the next generation of hardware.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/11/Siemens_semi-singularity-AI-fig1-120-yrs-moores-law-drawn.jpg
+Author: Jim Shiely
+Published date: Thu, 12 Nov 2026 08:06:49 +0000
+
+Article: https://semiengineering.com/designing-edge-ai-socs-at-near-threshold-why-foundation-ip-can-help-you-break-down-the-power-wall/
+Title: Designing Edge AI SoCs At Near-Threshold: Why Foundation IP Can Help You Break Down The Power Wall
+Summary: <p>Traditional voltage scaling is no longer sufficient to deliver real-time performance within tight energy and thermal limits.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/11/Synopsys_Edge-AI-SoCs-at-Near-Threshold-fig1.jpg
+Author: Andrew Appleby
+Published date: Thu, 12 Nov 2026 08:05:04 +0000
+
+Article: https://semiwiki.com/ip/arteris/376116-what-1000-arteris-design-starts-reveal-about-semiconductor-innovation/
+Title: What 1,000 Arteris Design Starts Reveal About Semiconductor Innovation
+Summary: <p>Arteris has surpassed 1,000 customer silicon design starts using its interconnect intellectual property, a milestone that highlights an increasingly consequential shift in chip design: moving da...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/1000-Design-Starts-Announcement_110526.png
+Author: Daniel Nenni
+Published date: Thu, 12 Nov 2026 16:00:00 +0000
+
+Article: https://semiwiki.com/events/375295-bring-your-innovation-to-silicon-valley-at-dac-2027/
+Title: Bring Your Innovation to Silicon Valley at DAC 2027
+Summary: <p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/DAC-2027-chip-showcase-in-Silicon-Valley.jpg
+Author: Admin
+Published date: Thu, 12 Nov 2026 14:00:40 +0000
+
+Article: https://vnexpress.net/viet-nam-han-quoc-ban-chien-luoc-phat-trien-nganh-ban-dan-va-ai-5143732.html
+Title: Chủ tịch FPT IS: 'Nhân lực là nền tảng của ngành bán dẫn thế hệ mới'
+Summary: Hà NộiTại Hội nghị cấp cao AI - Bán dẫn Việt Nam - Hàn Quốc 2026 (VKAISS 2026), ông Trần Đăng Hoà, Chủ tịch FPT IS, Tập đoàn FPT cho biết FPT tập trung đào tạo nhân lực trước khi xây dựng nhà máy k...
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/11/12/2aoborc6hdmddsiliy5bslaekbdhag-3883-5712-1794476932.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=RBZzCxZHjoRIti1Ypr95Jw
+Author: VnExpress
+Published date: Thu, 12 Nov 2026 07:10:00 +0000
+
+Completed! Added a total of 3 new news items to Firebase.

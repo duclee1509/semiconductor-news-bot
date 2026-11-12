@@ -1,47 +1,5 @@
 [
   {
-    "title_org": "Rowhammer Backdoor Injection Attack During Inference (Northeastern)",
-    "title_vietnamese": "Tấn công chèn cửa hậu bằng Rowhammer trong quá trình suy luận (Northeastern)",
-    "summary_org": "Researchers from Northeastern University introduced ROBBIN, a novel hardware-aware backdoor injection attack that exploits Rowhammer vulnerabilities in DRAM during model inference. The technique characterizes target DRAM bit-flip patterns to iteratively select and inject backdoors directly into the hardware. This research highlights security risks in modern memory systems when running AI workloads.",
-    "summary_vietnamese": "Các nhà nghiên cứu từ Đại học Northeastern đã giới thiệu ROBBIN, một phương thức tấn công chèn cửa hậu (backdoor) nhận thức phần cứng mới, khai thác lỗ hổng Rowhammer trong DRAM trong quá trình suy luận mô hình. Kỹ thuật này đặc tả các mẫu lật bit của DRAM mục tiêu để lựa chọn lặp đi lặp lại và chèn cửa hậu trực tiếp vào phần cứng. Nghiên cứu này làm nổi bật các rủi ro bảo mật trong các hệ thống bộ nhớ hiện đại khi chạy các tác vụ AI.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/rowhammer-backdoor-injection-attack-during-inference-northeastern/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_716241307-security-scaled.jpeg?fit=2560%2C1280&ssl=1",
-    "author": "Technical Paper Link",
-    "createdAt": "2026-08-29T10:41:04.191550+00:00",
-    "publishedAt": "2026-08-29T07:01:49+00:00"
-  },
-  {
-    "title_org": "Predicting Post-Route PPA from Macro and Standard-Cell Placements (U. of Alberta)",
-    "title_vietnamese": "Dự đoán PPA sau định tuyến từ vị trí đặt Macro và Standard-Cell (ĐH Alberta)",
-    "summary_org": "Researchers from the University of Alberta published a paper on 'PPAPlace,' introducing differentiable cross-stage objectives for chip placement optimization. The study addresses the poor correlation between traditional half-perimeter wirelength (HPWL) optimization and actual post-route timing metrics, aiming to better predict post-route power, performance, and area (PPA) from macro and standard-cell placements.",
-    "summary_vietnamese": "Các nhà nghiên cứu từ Đại học Alberta đã công bố một bài báo về 'PPAPlace', giới thiệu các mục tiêu đa giai đoạn khả vi để tối ưu hóa việc bố trí chip. Nghiên cứu giải quyết sự tương quan kém giữa việc tối ưu hóa chiều dài dây nửa chu vi (HPWL) truyền thống và các chỉ số thời gian sau định tuyến thực tế, nhằm dự đoán tốt hơn công suất, hiệu năng và diện tích (PPA) sau định tuyến từ các vị trí đặt macro và standard-cell.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/predicting-post-route-ppa-from-macro-and-standard-cell-placements-u-of-alberta/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/06/AdobeStock_183702829-scaled.jpeg",
-    "author": "Technical Paper Link",
-    "createdAt": "2026-08-29T22:14:03.952323+00:00",
-    "publishedAt": "2026-08-29T17:00:22+00:00"
-  },
-  {
-    "title_org": "Hybrid HBM-HBF Architecture in LLM Inference (University of Oxford)",
-    "title_vietnamese": "Kiến trúc HBM-HBF lai trong suy luận LLM (Đại học Oxford)",
-    "summary_org": "Researchers at the University of Oxford published a paper on using a hardware-managed heterogeneous High-Bandwidth Memory and High-Bandwidth Flash (HBF) architecture for LLM inference. They demonstrate that while replacing HBM entirely with HBF addresses capacity limitations due to its 16x higher density, a hybrid approach is explored to optimize performance.",
-    "summary_vietnamese": "Các nhà nghiên cứu tại Đại học Oxford đã công bố một bài báo kỹ thuật về việc sử dụng kiến trúc kết hợp giữa Bộ nhớ băng thông cao (HBM) và Flash băng thông cao (HBF) do phần cứng quản lý trong các hệ thống suy luận LLM. Họ chỉ ra rằng mặc dù việc thay thế hoàn toàn HBM bằng HBF giải quyết được các hạn chế về dung lượng nhờ mật độ cao hơn gấp 16 lần, nhưng một phương pháp tiếp cận lai vẫn được nghiên cứu để tối ưu hóa hiệu suất.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/hybrid-hbm-hbf-architecture-in-llm-inference-university-of-oxford/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/06/06-26-AdobeStock_143980229-scaled.jpeg?fit=2560%2C1398&ssl=1",
-    "author": "Technical Paper Link",
-    "createdAt": "2026-08-30T09:41:23.298211+00:00",
-    "publishedAt": "2026-08-30T07:06:37+00:00"
-  },
-  {
     "title_org": "M3D 6T SRAM With BEOL Pass-Gates at 2nm (Georgia Tech, Synopsys)",
     "title_vietnamese": "M3D 6T SRAM với các cổng truyền (pass-gates) BEOL ở tiến trình 2nm (Georgia Tech, Synopsys)",
     "summary_org": "Researchers from Georgia Institute of Technology and Synopsys published a paper on a monolithic-3D (M3D) 6T SRAM for the 2nm node. The design integrates BEOL IGO pass-gates with an all-silicon nanosheet latch and buried power rails. This innovative approach aims to advance SRAM scaling and performance for future semiconductor nodes.",
@@ -6998,5 +6956,47 @@
     "author": "Phiên An",
     "createdAt": "2026-11-12T05:30:17.786587+00:00",
     "publishedAt": "2026-11-12T03:00:36+00:00"
+  },
+  {
+    "title_org": "The Semiconductor Singularity",
+    "title_vietnamese": "Điểm kỳ dị bán dẫn",
+    "summary_org": "The article discusses the acceleration of IC innovation driven by artificial intelligence. It highlights how AI is transforming semiconductor design and development processes to achieve unprecedented performance gains.",
+    "summary_vietnamese": "Bài viết thảo luận về việc thúc đẩy đổi mới vi mạch (IC) được thúc đẩy bởi trí tuệ nhân tạo (AI). Nội dung nhấn mạnh cách AI đang chuyển đổi các quy trình thiết kế và phát triển chất bán dẫn để đạt được hiệu suất vượt trội.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/the-semiconductor-singularity/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2017/05/semi_fb_thumb.jpg?fit=250%2C250&ssl=1",
+    "author": "Siemens EDA",
+    "createdAt": "2026-11-12T16:31:01.505158+00:00",
+    "publishedAt": "2026-11-12T15:57:50+00:00"
+  },
+  {
+    "title_org": "Rethinking Memory For AI Inference",
+    "title_vietnamese": "Định hình lại bộ nhớ cho suy luận AI",
+    "summary_org": "Processing data closer to memory has the potential to significantly reduce power consumption and improve performance for AI workloads. However, realizing this approach requires overcoming significant software, thermal, and architectural challenges. These hurdles must be addressed before memory-centric computing can be widely adopted in the industry.",
+    "summary_vietnamese": "Việc xử lý dữ liệu gần bộ nhớ hơn có tiềm năng giảm đáng kể mức tiêu thụ điện năng và cải thiện hiệu suất cho các tác vụ AI. Mặc dù vậy, việc hiện thực hóa phương pháp này đòi hỏi phải vượt qua những thách thức lớn về phần mềm, nhiệt độ và kiến trúc. Những rào cản này cần được giải quyết trước khi điện toán tập trung vào bộ nhớ có thể được áp dụng rộng rãi trong ngành.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_1104488381-03-26-2025-scaled.jpeg",
+    "author": "Liz Allan",
+    "createdAt": "2026-11-12T16:31:14.613963+00:00",
+    "publishedAt": "2026-11-12T08:11:46+00:00"
+  },
+  {
+    "title_org": "Designing Edge AI SoCs At Near-Threshold: Why Foundation IP Can Help You Break Down The Power Wall",
+    "title_vietnamese": "Thiết kế SoC AI Biên ở mức cận ngưỡng: Tại sao IP nền tảng có thể giúp bạn phá vỡ rào cản công suất",
+    "summary_org": "Traditional voltage scaling is no longer sufficient for achieving real-time performance within strict energy and thermal constraints. The article explores how leveraging foundation IP helps designers overcome these power wall challenges when developing Edge AI SoCs at near-threshold voltages.",
+    "summary_vietnamese": "Phương pháp chia tỉ lệ điện áp truyền thống không còn đủ để đạt được hiệu suất thời gian thực trong các giới hạn nghiêm ngặt về năng lượng và nhiệt. Bài viết khám phá cách tận dụng IP nền tảng giúp các nhà thiết kế vượt qua những thách thức về rào cản công suất khi phát triển SoC AI Biên ở điện áp cận ngưỡng.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/designing-edge-ai-socs-at-near-threshold-why-foundation-ip-can-help-you-break-down-the-power-wall/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/11/Synopsys_Edge-AI-SoCs-at-Near-Threshold-fig1.jpg",
+    "author": "Andrew Appleby",
+    "createdAt": "2026-11-12T16:32:24.032203+00:00",
+    "publishedAt": "2026-11-12T08:05:04+00:00"
   }
 ]
