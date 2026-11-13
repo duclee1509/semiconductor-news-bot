@@ -1,0 +1,43 @@
+Article: https://semiengineering.com/beyond-bandwidth-ai-inference-is-reshaping-the-memory-wall/
+Title: Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall
+Summary: <p>Longer contexts, higher concurrency, multimodal models, and AI agents will continue changing where memory pressure appears. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/11/Rambus_Beyond-Bandwidth-AI-Infer-Memory-Wall-fig2-scaled.webp
+Author: Kushal Koolwal
+Published date: Thu, 12 Nov 2026 08:08:39 +0000
+
+Article: https://semiengineering.com/the-semiconductor-singularity-when-ai-starts-accelerating-the-silicon-that-accelerates-ai/
+Title: The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI
+Summary: <p>Use evidence from silicon to improve the tools and decisions that create the next generation of hardware.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/11/Siemens_semi-singularity-AI-fig1-120-yrs-moores-law-drawn.jpg
+Author: Jim Shiely
+Published date: Thu, 12 Nov 2026 08:06:49 +0000
+
+Article: https://semiwiki.com/eda/siemens-eda/376086-cto-interview-with-uan-rey-senior-vp-and-general-manager-of-calibre-and-cto-of-siemens-eda/
+Title: CTO Interview With Juan Rey, senior VP and general manager of Calibre and CTO of Siemens EDA
+Summary: <p><em><strong>By Juan Rey, Chief Technology Officer, Siemens</strong></em></p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Juan-Rey_-Trusted-AI-engineering.jpg
+Author: Daniel Nenni
+Published date: Thu, 12 Nov 2026 20:00:22 +0000
+
+Article: https://semiwiki.com/ip/arteris/376116-what-1000-arteris-design-starts-reveal-about-semiconductor-innovation/
+Title: What 1,000 Arteris Design Starts Reveal About Semiconductor Innovation
+Summary: <p>Arteris has surpassed 1,000 customer silicon design starts using its interconnect intellectual property, a milestone that highlights an increasingly consequential shift in chip design: moving da...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/1000-Design-Starts-Announcement_110526.png
+Author: Daniel Nenni
+Published date: Thu, 12 Nov 2026 17:00:00 +0000
+
+Article: https://semiwiki.com/events/375295-bring-your-innovation-to-silicon-valley-at-dac-2027/
+Title: Bring Your Innovation to Silicon Valley at DAC 2027
+Summary: <p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/DAC-2027-chip-showcase-in-Silicon-Valley.jpg
+Author: Admin
+Published date: Thu, 12 Nov 2026 14:00:40 +0000
+
+Article: https://vnexpress.net/viet-nam-han-quoc-ban-chien-luoc-phat-trien-nganh-ban-dan-va-ai-5143732-tong-thuat.html
+Title: Chủ tịch FPT IS: 'Nhân lực là nền tảng của ngành bán dẫn thế hệ mới'
+Summary: Hà NộiTại Hội nghị cấp cao AI - Bán dẫn Việt Nam - Hàn Quốc 2026 (VKAISS 2026), ông Trần Đăng Hòa, Chủ tịch FPT IS, Tập đoàn FPT cho biết FPT tập trung đào tạo nhân lực trước khi xây dựng nhà máy k...
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/11/12/2aoborc6hdmddsiliy5bslaekbdhag-3883-5712-1794476932.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=RBZzCxZHjoRIti1Ypr95Jw
+Author: VnExpress
+Published date: Thu, 12 Nov 2026 07:10:00 +0000
+
+Completed! Added a total of 6 new news items to Firebase.
