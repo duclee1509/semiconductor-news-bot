@@ -1,0 +1,15 @@
+Article: https://semiwiki.com/eda/quilter/376102-ceo-interview-with-sergiy-nesterenko-of-quilter-on-ai-pcb-layout/
+Title: CEO Interview with Sergiy Nesterenko of Quilter on AI PCB Layout
+Summary: <p>Sergiy Nesterenko is founder and CEO of Quilter, which builds physics-driven AI for printed circuit board (PCB) layout. He triple majored in mathematics, physics, and chemistry at UC Berkeley an...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Physics-driven-AI-for-PCB-layout.jpg
+Author: Daniel Nenni
+Published date: Fri, 13 Nov 2026 17:00:32 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/376254-jensen-huang-and-the-accountability-crisis-at-nvidia/
+Title: Jensen Huang and the Cost of Unchecked Influence
+Summary: <p>As a semiconductor professional with 45 years in the industry, born and raised in Silicon Valley, I’ve followed Nvidia and Jensen Huang from the beginning. Jensen has been my No. 1 semiconductor...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Jensen-Huang_-Leadership-Under-Scrutiny.jpg
+Author: Daniel Nenni
+Published date: Fri, 13 Nov 2026 13:00:18 +0000
+
+Completed! Added a total of 2 new news items to Firebase.
