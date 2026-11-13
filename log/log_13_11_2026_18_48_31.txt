@@ -1,0 +1,8 @@
+Article: https://semiengineering.com/chip-industry-week-in-review-164/
+Title: Chip Industry Week In Review
+Summary: <p>Nvidia faces questions about security and oversight; 300mm SiC breakthrough; Siemens buys Lauterbach; chiplet standards; new memory bets; imec interposer process flow; TPUs with CPUs; 2D transis...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_617037143-scaled.jpeg?fit=2560%2C1707&ssl=1
+Author: The SE Staff
+Published date: Fri, 13 Nov 2026 08:01:34 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
