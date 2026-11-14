@@ -1,19 +1,5 @@
 [
   {
-    "title_org": "Trust, But Verify",
-    "title_vietnamese": "Tin cậy, nhưng phải kiểm chứng",
-    "summary_org": "The article discusses the necessity of verification in semiconductor design, as human designers are not infallible. It emphasizes that artificial intelligence, when involved in the design process, cannot be trusted blindly and requires rigorous verification.",
-    "summary_vietnamese": "Bài viết bàn về sự cần thiết của việc kiểm chứng trong thiết kế vi mạch vì các nhà thiết kế con người không thể hoàn hảo. Bài viết nhấn mạnh rằng khi trí tuệ nhân tạo tham gia vào quá trình này, nó không thể được tin tưởng một cách mù quáng và đòi hỏi phải được kiểm chứng ngặt nghèo.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/trust-but-verify/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/06/Blue-circuit-board-06-22-26-AdobeStock_443617467-scaled.jpeg",
-    "author": "Brian Bailey",
-    "createdAt": "2026-08-31T18:39:53.181831+00:00",
-    "publishedAt": "2026-08-31T07:03:35+00:00"
-  },
-  {
     "title_org": "The EU’s AI Drive Undermines Its ​Own Chip Strategy",
     "title_vietnamese": "Chiến lược AI của EU đang làm suy yếu chính chiến lược chip của khối này",
     "summary_org": "The European Union's aggressive push to build AI infrastructure like factories and data centers is triggering a massive surge in demand for advanced chips, which Europe largely cannot produce domestically. Consequently, this reliance on U.S. designers and Asian manufacturers creates a paradox that exposes the continent to new dependencies, complicating the goals of the upcoming Chips Act 2.0.",
@@ -6998,5 +6984,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-11-13T19:06:40.325811+00:00",
     "publishedAt": "2026-11-13T13:00:18+00:00"
+  },
+  {
+    "title_org": "Shifting HBM4 Controller Functions Closer To Memory (UC Riverside)",
+    "title_vietnamese": "Đưa các chức năng bộ điều khiển HBM4 đến gần bộ nhớ hơn (Đại học UC Riverside)",
+    "summary_org": "Researchers Tharunya Yogananda and Wantong Li from the University of California, Riverside, published a technical paper exploring the partitioning of HBM controllers across host and HBM base dies. This approach leverages the logic process capability of HBM4 base dies to shift controller functions closer to the memory stack.",
+    "summary_vietnamese": "Các nhà nghiên cứu Tharunya Yogananda và Wantong Li từ Đại học California, Riverside đã công bố một bài báo kỹ thuật khám phá việc phân chia bộ điều khiển HBM giữa die chủ (host die) và die nền HBM. Tiếp cận này tận dụng năng lực quy trình logic của các die nền HBM4 để chuyển dịch các chức năng bộ điều khiển đến gần stack bộ nhớ hơn.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/shifting-hbm4-controller-functions-closer-to-memory-uc-riverside/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1748350067-08-26-turquoise-chip-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-11-14T00:37:15.228780+00:00",
+    "publishedAt": "2026-11-13T21:53:30+00:00"
   }
 ]

@@ -1,0 +1,8 @@
+Article: https://semiengineering.com/shifting-hbm4-controller-functions-closer-to-memory-uc-riverside/
+Title: Shifting HBM4 Controller Functions Closer To Memory (UC Riverside)
+Summary: <p>Tharunya Yogananda and Wantong Li of the University of California, Riverside published a technical paper titled “Beyond Host-Side Control: HBM Controller Partitioning Across Host and HBM Base Di...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1748350067-08-26-turquoise-chip-scaled.jpeg
+Author: Technical Paper Link
+Published date: Fri, 13 Nov 2026 21:53:30 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
