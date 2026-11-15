@@ -1,47 +1,5 @@
 [
   {
-    "title_org": "Exploiting agentic automation cost-effectively. Innovation in Verification",
-    "title_vietnamese": "Khai thác hiệu quả chi phí tự động hóa tác nhân: Đổi mới trong kiểm thử vi mạch",
-    "summary_org": "Frontier AI models are powerful but become costly when processing high token counts in semiconductor verification. Industry experts like Paul Cunningham from Cadence and Raúl Camposano are exploring solutions by combining frontier models with local open-weight models to achieve cost-effective agentic automation.",
-    "summary_vietnamese": "Các mô hình AI tiên tiến rất mạnh mẽ nhưng trở nên tốn kém khi xử lý số lượng token lớn trong công tác kiểm thử vi mạch. Các chuyên gia trong ngành như Paul Cunningham từ Cadence và Raúl Camposano đang khám phá các giải pháp bằng cách kết hợp các mô hình tiên tiến với các mô hình mã nguồn mở cục bộ để đạt được tự động hóa tác nhân với chi phí hợp lý.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/artificial-intelligence/372524-exploiting-agentic-automation-cost-effectively-innovation-in-verification/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Innovation-New-1.jpeg",
-    "author": "Bernard Murphy",
-    "createdAt": "2026-08-31T18:40:01.812354+00:00",
-    "publishedAt": "2026-08-31T13:00:23+00:00"
-  },
-  {
-    "title_org": "Intel’s 14A Is Winning the Race Against Defects",
-    "title_vietnamese": "Tiến trình 14A của Intel đang chiến thắng trong cuộc đua giảm thiểu lỗi sản xuất",
-    "summary_org": "Intel's next-generation 14A manufacturing process is showing unexpectedly rapid progress with defect density falling faster than anticipated. This technical improvement provides a significant boost to Intel's efforts to restore confidence, attract foundry customers, and prove its manufacturing capabilities.",
-    "summary_vietnamese": "Quy trình sản xuất thế hệ tiếp theo 14A của Intel đang cho thấy những tiến bộ vượt bậc ngoài mong đợi, với mật độ lỗi giảm nhanh hơn dự kiến. Cải tiến kỹ thuật này mang lại bước đệm quan trọng cho nỗ lực khôi phục niềm tin, thu hút khách hàng dịch vụ đúc (foundry) và chứng minh năng lực sản xuất của Intel.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/semiconductor-manufacturers/intel/372866-intels-14a-is-winning-the-race-against-defects/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Intels-14A-Is-Winning-the-Race-Against-Defects-1200x675.jpg",
-    "author": "Daniel Nenni",
-    "createdAt": "2026-08-31T23:34:36.877866+00:00",
-    "publishedAt": "2026-08-31T21:00:22+00:00"
-  },
-  {
-    "title_org": "Advancing The CFET-Based Device Roadmap: Novel Integration Modules And Standard Cell Configurations",
-    "title_vietnamese": "Thúc đẩy lộ trình thiết bị dựa trên CFET: Các mô-đun tích hợp mới và cấu hình ô tiêu chuẩn",
-    "summary_org": "This article discusses pioneering work in developing critical Complementary FET (CFET) modules, focusing on an improved backside contact module and a novel gate stack for threshold voltage tuning. These advancements are crucial for pushing the boundaries of future semiconductor device scaling and architecture.",
-    "summary_vietnamese": "Bài viết thảo luận về công việc tiên phong trong việc phát triển các mô-đun CFET quan trọng, tập trung vào mô-đun tiếp xúc mặt sau được cải tiến và một ngăn xếp cổng mới để điều chỉnh điện áp ngưỡng. Những tiến bộ này đóng vai trò quan trọng trong việc thúc đẩy giới hạn thu nhỏ và kiến trúc thiết bị bán dẫn trong tương lai.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/advancing-the-cfet-based-device-roadmap-novel-integration-modules-and-standard-cell-configurations/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/imec_Advancing-CFET-device-roadmap-fig0.jpg?fit=728%2C709&ssl=1",
-    "author": "Cassie Sheng",
-    "createdAt": "2026-09-01T09:06:22.674589+00:00",
-    "publishedAt": "2026-09-01T07:01:52+00:00"
-  },
-  {
     "title_org": "Research Bits: Sep. 1",
     "title_vietnamese": "Điểm tin nghiên cứu: Ngày 1 tháng 9",
     "summary_org": "This research brief highlights recent advancements in gallium nitride technology, focusing on high voltage, low resistance, and the application of a diamond interposer. These developments aim to improve the performance and thermal management of semiconductor devices.",
@@ -6998,5 +6956,47 @@
     "author": "Trần Huỳnh",
     "createdAt": "2026-11-15T15:14:41.458103+00:00",
     "publishedAt": "2026-11-15T19:10:00+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Kurt Busch of Syntiant",
+    "title_vietnamese": "Phỏng vấn CEO Kurt Busch của Syntiant",
+    "summary_org": "This article features an interview with Kurt Busch, CEO of Syntiant Corp. He brings extensive product development experience across SaaS, semiconductors, telecom, consumer electronics, and data center systems. The full interview provides deeper insights into his background and leadership.",
+    "summary_vietnamese": "Bài viết này có nội dung phỏng vấn Kurt Busch, CEO của Syntiant Corp. Ông mang lại nhiều kinh nghiệm phong phú trong việc phát triển sản phẩm từ SaaS, chất bán dẫn (semiconductors) cho viễn thông đến các hệ thống trung tâm dữ liệu (data center systems). Bài phỏng vấn đầy đủ cung cấp thêm những góc nhìn sâu sắc về nền tảng sự nghiệp và vai trò lãnh đạo của ông.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/376259-ceo-interview-with-kurt-busch-of-syntiant/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/Physical-AI-at-the-sensor.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-11-15T20:44:32.529473+00:00",
+    "publishedAt": "2026-11-15T20:00:41+00:00"
+  },
+  {
+    "title_org": "IEDM 2026 Reveals New Paths to Faster, More Efficient AI",
+    "title_vietnamese": "IEDM 2026 hé lộ các hướng đi mới giúp AI nhanh hơn và hiệu quả hơn",
+    "summary_org": "The semiconductor industry is entering a promising era driven by AI's high demand for computing power, faster memory, and energy efficiency. Researchers are addressing these needs across the entire technology stack, which will be showcased at the upcoming 2026 IEEE International Electron Devices Meeting (IEDM).",
+    "summary_vietnamese": "Ngành công nghiệp bán dẫn đang bước vào một giai đoạn đầy hứa hẹn nhờ nhu cầu cao của AI về năng lực tính toán, bộ nhớ nhanh hơn và hiệu quả năng lượng. Các nhà nghiên cứu đang giải quyết những nhu cầu này trên toàn bộ stack công nghệ, điều này sẽ được trưng bày tại sự kiện IEDM 2026 sắp diễn ra.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/events/376230-iedm-2026-reveals-new-paths-to-faster-more-efficient-ai/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/Semiconductor-Innovation-Powers-Ahead.jpg",
+    "author": "Admin",
+    "createdAt": "2026-11-15T20:44:37.053169+00:00",
+    "publishedAt": "2026-11-15T18:00:47+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Daisuke Okanohara of Matlantis",
+    "title_vietnamese": "Phỏng vấn CEO Daisuke Okanohara của Matlantis",
+    "summary_org": "This article features an interview with Daisuke Okanohara, President and CEO of Matlantis Corporation and Co-founder and CEO of Preferred Networks (PFN). He discusses his background in Information Science and Engineering from the University of Tokyo and his journey in founding PFN's predecessor in 2006 during his graduate studies.",
+    "summary_vietnamese": "Bài viết này có nội dung phỏng vấn ông Daisuke Okanohara, Chủ tịch kiêm CEO của Matlantis Corporation đồng thời là Đồng sáng lập kiêm CEO của Preferred Networks (PFN). Ông chia sẻ về nền tảng học vấn ngành Khoa học và Kỹ thuật Thông tin tại Đại học Tokyo cùng hành trình đồng sáng lập công ty tiền thân của PFN vào năm 2006 khi vẫn đang học cao học.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/376079-ceo-interview-with-daisuke-okanohara-of-matlantis/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/Daisuke-Okanohara_-AI-Materials-Discovery.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-11-15T20:44:40.067461+00:00",
+    "publishedAt": "2026-11-15T16:00:20+00:00"
   }
 ]
