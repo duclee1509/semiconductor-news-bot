@@ -1,0 +1,15 @@
+Article: https://semiwiki.com/semiconductor-manufacturers/376352-after-jensen-a-window-for-nvidias-rivals-a-problem-for-its-suppliers/
+Title: After Jensen: A Window for Nvidia’s Rivals, a Problem for Its Suppliers
+Summary: <p>On November 12, Nvidia announced that Jensen Huang had resigned as president, CEO, and director, effective immediately. CFO Colette Kress is interim CEO, longtime director Harvey Jones becomes t...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Nvidias-next-chapter.jpg
+Author: Lauro Rizzatti
+Published date: Sun, 15 Nov 2026 14:00:58 +0000
+
+Article: https://tuoitre.vn/them-7-truong-dai-hoc-duoc-uu-tien-dau-tu-phong-thi-nghiem-ban-dan-3-co-so-khong-con-gop-mat-100261115184702415.htm
+Title: Thêm 7 trường đại học được ưu tiên đầu tư phòng thí nghiệm bán dẫn, 3 cơ sở không còn góp mặt
+Summary: Danh mục tham gia chương trình phát triển nguồn nhân lực ngành công nghiệp bán dẫn được mở rộng lên 25 cơ sở đào tạo, với 53 chương trình đào tạo được Bộ Giáo dục và Đào tạo phê duyệt trong đợt 2.
+Thumbnail: https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/15/iuh-179474253669066278513-47-0-806-1450-crop-17947430059441422139902.png
+Author: Trần Huỳnh
+Published date: Sun, 15 Nov 2026 19:10:00 +0000
+
+Completed! Added a total of 2 new news items to Firebase.

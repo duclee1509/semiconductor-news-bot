@@ -1,33 +1,5 @@
 [
   {
-    "title_org": "The EU’s AI Drive Undermines Its ​Own Chip Strategy",
-    "title_vietnamese": "Chiến lược AI của EU đang làm suy yếu chính chiến lược chip của khối này",
-    "summary_org": "The European Union's aggressive push to build AI infrastructure like factories and data centers is triggering a massive surge in demand for advanced chips, which Europe largely cannot produce domestically. Consequently, this reliance on U.S. designers and Asian manufacturers creates a paradox that exposes the continent to new dependencies, complicating the goals of the upcoming Chips Act 2.0.",
-    "summary_vietnamese": "Nỗ lực thúc đẩy mạnh mẽ của Liên minh Châu Âu nhằm xây dựng cơ sở hạ tầng AI như các nhà máy AI và trung tâm dữ liệu đang tạo ra nhu cầu bùng nổ về chip tiên tiến, loại linh kiện mà Châu Âu phần lớn không thể tự sản xuất trong nước. Do đó, sự phụ thuộc vào các nhà thiết kế Mỹ và nhà sản xuất châu Á này tạo ra một nghịch lý khiến châu lục đối mặt với các phụ thuộc mới, làm phức tạp thêm các mục tiêu của Đạo luật Chip 2.0 sắp tới.",
-    "source": "IEEE Spectrum - Semiconductors",
-    "url": "https://spectrum.ieee.org/europes-ai-drive",
-    "category": "International",
-    "isPolicy": true,
-    "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-a-microchip-with-eu-flag-symbols.jpg?id=67681157&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
-    "author": "Joana Soares",
-    "createdAt": "2026-08-31T18:39:55.257158+00:00",
-    "publishedAt": "2026-08-31T14:00:04+00:00"
-  },
-  {
-    "title_org": "GenAlpha Brings a Practical Approach for Analog AI to DAC 2026",
-    "title_vietnamese": "GenAlpha mang đến cách tiếp cận thực tế cho AI tương tự tại hội nghị DAC 2026",
-    "summary_org": "Agentic AI and verification dominated discussions at DAC 2026, highlighting critical areas in the chip design flow. Analog design also emerged as a significant pressure point, as nearly every modern semiconductor design incorporates analog content. GenAlpha introduced a practical approach to address these challenges in analog AI.",
-    "summary_vietnamese": "Agentic AI và khâu kiểm thử (verification) là tâm điểm thảo luận tại DAC 2026, làm nổi bật các trọng tâm trong quy trình thiết kế chip. Thiết kế analog cũng nổi lên là một điểm nghẽn quan trọng vì hầu như mọi thiết kế bán dẫn hiện đại đều tích hợp thành phần analog, và GenAlpha đã giới thiệu một phương pháp thực tế để giải quyết các thách thức này trong AI tương tự.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/eda/generation-alpha-transistor/372802-genalpha-brings-a-practical-approach-for-analog-ai-to-dac-2026/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/GenAlpha-Booth.jpg",
-    "author": "Mike Gianfagna",
-    "createdAt": "2026-08-31T18:39:58.885346+00:00",
-    "publishedAt": "2026-08-31T17:00:31+00:00"
-  },
-  {
     "title_org": "Exploiting agentic automation cost-effectively. Innovation in Verification",
     "title_vietnamese": "Khai thác hiệu quả chi phí tự động hóa tác nhân: Đổi mới trong kiểm thử vi mạch",
     "summary_org": "Frontier AI models are powerful but become costly when processing high token counts in semiconductor verification. Industry experts like Paul Cunningham from Cadence and Raúl Camposano are exploring solutions by combining frontier models with local open-weight models to achieve cost-effective agentic automation.",
@@ -6998,5 +6970,33 @@
     "author": "Technical Paper Link",
     "createdAt": "2026-11-14T00:37:15.228780+00:00",
     "publishedAt": "2026-11-13T21:53:30+00:00"
+  },
+  {
+    "title_org": "After Jensen: A Window for Nvidia’s Rivals, a Problem for Its Suppliers",
+    "title_vietnamese": "Sau thời Jensen: Cơ hội cho đối thủ của Nvidia, thách thức cho các nhà cung cấp",
+    "summary_org": "Nvidia announced the immediate resignation of CEO Jensen Huang on November 12, with CFO Colette Kress stepping in as interim CEO. This sudden leadership change occurs just ahead of the company's upcoming quarterly earnings report and raises strategic questions for its rivals and supply chain partners.",
+    "summary_vietnamese": "Nvidia thông báo CEO Jensen Huang từ chức có hiệu lực ngay lập tức vào ngày 12 tháng 11, với Giám đốc Tài chính Colette Kress đảm nhận vị trí CEO tạm quyền. Sự thay đổi lãnh đạo đột ngột này diễn ra ngay trước thềm báo cáo kết quả kinh doanh hàng quý sắp tới của công ty, đồng thời đặt ra những câu hỏi chiến lược cho các đối thủ cạnh tranh và đối tác chuỗi cung ứng.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/376352-after-jensen-a-window-for-nvidias-rivals-a-problem-for-its-suppliers/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/Nvidias-next-chapter.jpg",
+    "author": "Lauro Rizzatti",
+    "createdAt": "2026-11-15T15:14:25.033807+00:00",
+    "publishedAt": "2026-11-15T14:00:58+00:00"
+  },
+  {
+    "title_org": "Thêm 7 trường đại học được ưu tiên đầu tư phòng thí nghiệm bán dẫn, 3 cơ sở không còn góp mặt",
+    "title_vietnamese": "",
+    "summary_org": "Bộ Giáo dục và Đào tạo đã phê duyệt đợt 2, nâng tổng số cơ sở đào tạo tham gia chương trình phát triển nguồn nhân lực ngành công nghiệp bán dẫn lên 25 trường với 53 chương trình. Trong đó, có 7 trường đại học mới được ưu tiên đầu tư phòng thí nghiệm bán dẫn và 3 cơ sở không còn góp mặt trong danh sách.",
+    "summary_vietnamese": "",
+    "source": "Báo Tuổi Trẻ",
+    "url": "https://tuoitre.vn/them-7-truong-dai-hoc-duoc-uu-tien-dau-tu-phong-thi-nghiem-ban-dan-3-co-so-khong-con-gop-mat-100261115184702415.htm",
+    "category": "VietNam",
+    "isPolicy": true,
+    "thumbnail": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/15/iuh-179474253669066278513-47-0-806-1450-crop-17947430059441422139902.png",
+    "author": "Trần Huỳnh",
+    "createdAt": "2026-11-15T15:14:41.458103+00:00",
+    "publishedAt": "2026-11-15T19:10:00+00:00"
   }
 ]
