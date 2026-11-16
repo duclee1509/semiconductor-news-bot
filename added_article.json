@@ -1,19 +1,5 @@
 [
   {
-    "title_org": "Research Bits: Sep. 1",
-    "title_vietnamese": "Điểm tin nghiên cứu: Ngày 1 tháng 9",
-    "summary_org": "This research brief highlights recent advancements in gallium nitride technology, focusing on high voltage, low resistance, and the application of a diamond interposer. These developments aim to improve the performance and thermal management of semiconductor devices.",
-    "summary_vietnamese": "Bản tin nghiên cứu này điểm lại những tiến bộ gần đây trong công nghệ gali nitrit (gallium nitride), tập trung vào điện áp cao, điện trở thấp và việc ứng dụng lớp đệm kim cương (diamond interposer). Những phát triển này nhằm cải thiện hiệu suất và khả năng quản lý nhiệt của các thiết bị bán dẫn.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/research-bits-sep-1/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_617037143-scaled.jpeg?fit=2560%2C1707&ssl=1",
-    "author": "Jesse Allen",
-    "createdAt": "2026-09-01T09:06:28.840738+00:00",
-    "publishedAt": "2026-09-01T07:01:15+00:00"
-  },
-  {
     "title_org": "Chip Industry Technical Paper Roundup: Sep. 1",
     "title_vietnamese": "Điểm tin tài liệu kỹ thuật ngành công nghiệp chip: Ngày 1 tháng 9",
     "summary_org": "This article provides a roundup of recent technical papers covering advanced semiconductor topics such as wafer-scale optical interconnects for LLM training, Rowhammer-based inference attacks, and thermal management solutions like liquid cooling for 2.5D/3D packages. Additionally, it highlights research on wafer-scale 2D semiconductor growth, machine learning-based parameter extraction, and chip-placement optimization.",
@@ -6998,5 +6984,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-11-15T20:44:40.067461+00:00",
     "publishedAt": "2026-11-15T16:00:20+00:00"
+  },
+  {
+    "title_org": "Chip Nvidia hơn chip Trung Quốc thế nào?",
+    "title_vietnamese": "",
+    "summary_org": "Bài viết phân tích những yếu điểm cốt lõi của ngành chip AI Trung Quốc so với Nvidia. Để vận hành hiệu quả, chip AI đòi hỏi sức mạnh tính toán, bộ nhớ tốc độ cao và phần mềm điều khiển chuyên dụng, những lĩnh vực mà Trung Quốc vẫn còn nhiều hạn chế.",
+    "summary_vietnamese": "",
+    "source": "VnExpress",
+    "url": "https://vnexpress.net/chip-nvidia-hon-chip-trung-quoc-the-nao-5144937.html",
+    "category": "VietNam",
+    "isPolicy": false,
+    "thumbnail": "https://i2-vnexpress.vnecdn.net/2026/11/15/Thumbngang8-1794742005-4281-1794742796.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=sqwSkDwfjwC5CMfMWZivYA",
+    "author": "VnExpress",
+    "createdAt": "2026-11-16T04:27:15.187890+00:00",
+    "publishedAt": "2026-11-15T23:00:00+00:00"
   }
 ]
