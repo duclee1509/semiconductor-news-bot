@@ -1,33 +1,5 @@
 [
   {
-    "title_org": "Building a Faster Path from Semiconductor Idea to Commercial Silicon",
-    "title_vietnamese": "Xây dựng con đường nhanh hơn từ ý tưởng vi mạch đến thương mại hóa silicon",
-    "summary_org": "SEMI and Silicon Catalyst have announced a strategic partnership via a memorandum of understanding signed at SEMICON Taiwan 2026. This collaboration aims to solve a major industry challenge by accelerating the transformation of promising hardware concepts into manufacturable and commercially viable semiconductor products.",
-    "summary_vietnamese": "SEMI và Silicon Catalyst đã công bố một mối quan hệ đối tác chiến lược thông qua biên bản ghi nhớ được ký kết tại SEMICON Taiwan 2026. Sự hợp tác này nhằm giải quyết một thách thức lớn của ngành bằng cách đẩy nhanh quá trình biến các ý tưởng phần cứng đầy hứa hẹn thành các sản phẩm vi mạch có thể sản xuất và khả thi về mặt thương mại.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/semiconductor-services/silicon-catalyst/372828-building-a-faster-path-from-semiconductor-idea-to-commercial-silicon/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Accelerating-Semiconductor-Innovation-1200x675.jpg",
-    "author": "Daniel Nenni",
-    "createdAt": "2026-09-02T15:51:28.560984+00:00",
-    "publishedAt": "2026-09-02T15:00:11+00:00"
-  },
-  {
-    "title_org": "DAC 2026: A Discussion of Who Owns the Intelligence Behind Tomorrow’s Chips and How to Make it Better",
-    "title_vietnamese": "DAC 2026: Thảo luận về quyền sở hữu trí tuệ nhân tạo đằng sau các con chip tương lai và cách tối ưu hóa",
-    "summary_org": "The semiconductor industry is transitioning from basic documentation chatbots to advanced agentic workflows for tasks like design creation, verification, and library characterization. At DAC 2026, industry experts gathered to discuss how these AI agents can boost engineering productivity by approximately 50% and address questions regarding ownership and improvement of the underlying intelligence.",
-    "summary_vietnamese": "Ngành công nghiệp bán dẫn đang chuyển dịch từ các chatbot tài liệu đơn giản sang quy trình làm việc dạng tác nhân (agentic workflows) cho các tác vụ như thiết kế, xác minh và mô tả đặc tính thư viện. Tại DAC 2026, các chuyên gia đã thảo luận về cách các tác nhân AI này có thể thúc đẩy năng suất kỹ thuật lên khoảng 50% và giải quyết các vấn đề về quyền sở hữu cũng như cách tối ưu hóa trí tuệ nhân tạo cốt lõi.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/eda/llmda-ai/372271-dac-2026-a-discussion-of-who-owns-the-intelligence-behind-tomorrows-chips-and-how-to-make-it-better/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/DAC-2026-A-Discussion-of-Who-Owns-the-Intelligence-Behind-Tomorrows-Chips-and-How-to-Make-it-Better-1200x708.png",
-    "author": "Mike Gianfagna",
-    "createdAt": "2026-09-02T15:51:33.925139+00:00",
-    "publishedAt": "2026-09-02T13:00:36+00:00"
-  },
-  {
     "title_org": "The Evolution Of Intelligent Systems: From Optimization To Automation to AI",
     "title_vietnamese": "Sự tiến hóa của các hệ thống thông minh: Từ tối ưu hóa đến tự động hóa và AI",
     "summary_org": "Engineering methodologies are evolving toward more integrated and intelligent approaches across three interconnected domains. These domains include optimization, automation, and AI, which are reshaping modern system design and development.",
@@ -6998,5 +6970,33 @@
     "author": "Viễn Thông",
     "createdAt": "2026-11-17T02:45:23.032783+00:00",
     "publishedAt": "2026-11-16T11:51:42+00:00"
+  },
+  {
+    "title_org": "Chip Industry Technical Paper Roundup: Nov. 17",
+    "title_vietnamese": "Điểm tin bài báo kỹ thuật ngành chip: Ngày 17 tháng 11",
+    "summary_org": "This technical roundup highlights recent advancements in semiconductor technology, including HBM4 controller partitioning, single-crystal high-κ dielectrics for 2D CFETs, and hardware-based location checks to prevent AI chip smuggling. It also covers embedded ECC for AI weight protection, sub-volt HZO ferroelectric capacitors, and randomized-cache hardware security.",
+    "summary_vietnamese": "Bản tổng hợp kỹ thuật này làm nổi bật các tiến bộ gần đây trong công nghệ bán dẫn, bao gồm việc phân vùng bộ điều khiển HBM4, vật liệu điện môi high-κ đơn tinh thể cho CFET 2D, và kiểm tra vị trí dựa trên phần cứng để ngăn chặn tình trạng buôn lậu chip AI. Nội dung cũng đề cập đến ECC nhúng để bảo vệ trọng số AI, tụ điện ferroelectric HZO dưới 1 volt, và tính bảo mật phần cứng của bộ nhớ cache ngẫu nhiên.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-17/",
+    "category": "International",
+    "isPolicy": true,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/06/AdobeStock_532528757-scaled.jpeg?fit=2560%2C1440&ssl=1",
+    "author": "Linda Christensen",
+    "createdAt": "2026-11-17T12:42:49.495386+00:00",
+    "publishedAt": "2026-11-17T08:01:08+00:00"
+  },
+  {
+    "title_org": "Self-Supervised Virtual Metrology For CMP MRR Prediction (SUTD, A*STAR, NUS)",
+    "title_vietnamese": "Đo lường ảo tự giám sát nhằm dự đoán tốc độ loại bỏ vật liệu CMP (SUTD, A*STAR, NUS)",
+    "summary_org": "Researchers from Singapore institutions have published a paper proposing Global Regression Pretraining (GREP), a self-supervised and attention-based framework. This framework is designed to predict CMP MRR by learning temporal representations from unlabeled sensor signals using global proxy-target regression.",
+    "summary_vietnamese": "Các nhà nghiên cứu từ các tổ chức tại Singapore đã công bố một bài báo đề xuất phương pháp Huấn luyện trước Hồi quy Toàn cục (GREP), một khung làm việc tự giám sát dựa trên cơ chế chú ý. Khung này được thiết kế để dự đoán tốc độ loại bỏ vật liệu CMP (CMP MRR) bằng cách học các biểu diễn chuỗi thời gian từ tín hiệu cảm biến chưa gán nhãn thông qua hồi quy mục tiêu proxy toàn cục.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/self-supervised-virtual-metrology-for-cmp-mrr-prediction-sutd-astar-nus/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/02/AdobeStock_617037143-scaled.jpeg",
+    "author": "Technical Paper Link",
+    "createdAt": "2026-11-17T12:42:59.948782+00:00",
+    "publishedAt": "2026-11-17T00:56:29+00:00"
   }
 ]
