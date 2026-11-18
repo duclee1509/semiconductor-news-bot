@@ -1,33 +1,5 @@
 [
   {
-    "title_org": "How Many Design Experiments Does A Machine Learning Predictor Actually Need?",
-    "title_vietnamese": "Bộ dự báo học máy thực sự cần bao nhiêu thí nghiệm thiết kế?",
-    "summary_org": "This article discusses how the required dataset size and achievable accuracy in machine learning predictors depend on the smoothness of the response rather than the model size or the number of design variables. Understanding this relationship helps engineers determine the actual number of design experiments needed for accurate predictions.",
-    "summary_vietnamese": "Bài viết thảo luận về việc kích thước tập dữ liệu cần thiết và độ chính xác đạt được trong các bộ dự báo học máy phụ thuộc vào độ mượt mà của phản hồi chứ không phải kích thước mô hình hay số lượng biến thiết kế. Việc hiểu rõ mối quan hệ này giúp các kỹ sư xác định chính xác số lượng thí nghiệm thiết kế cần thiết để đưa ra dự đoán chuẩn xác.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/how-many-design-experiments-does-a-machine-learning-predictor-actually-need/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/09/Cadence_Design-Experiments-ML-Predictor-fig4.webp?fit=852%2C616&ssl=1",
-    "author": "Anne-Marie Schelkens",
-    "createdAt": "2026-09-03T08:30:02.955851+00:00",
-    "publishedAt": "2026-09-03T07:02:30+00:00"
-  },
-  {
-    "title_org": "Building Trust Into Physical AI Systems",
-    "title_vietnamese": "Xây dựng niềm tin cho các hệ thống AI vật lý",
-    "summary_org": "Security and safety are fundamentally inseparable when it comes to physical AI systems. Ensuring trust requires addressing both aspects comprehensively in real-world applications.",
-    "summary_vietnamese": "Bảo mật và an toàn vốn không thể tách rời khi nói đến các hệ thống AI vật lý. Việc xây dựng niềm tin đòi hỏi phải giải quyết toàn diện cả hai khía cạnh này trong các ứng dụng thực tế.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/building-trust-into-physical-ai-systems/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2017/05/semi_fb_thumb.jpg?fit=250%2C250&ssl=1",
-    "author": "Dana Neustadter",
-    "createdAt": "2026-09-03T15:40:48.032258+00:00",
-    "publishedAt": "2026-09-03T07:03:52+00:00"
-  },
-  {
     "title_org": "HBM’s Vertical Ascent: Why Packaging Is Becoming the Heart of AI Memory",
     "title_vietnamese": "Sự bứt phá theo chiều dọc của HBM: Vì sao đóng gói đang trở thành trái tim của bộ nhớ AI",
     "summary_org": "SK hynix's Hot Chips 2026 presentation highlights how High Bandwidth Memory (HBM) is evolving to meet AI demands. The core message emphasizes that future advancements rely heavily on advanced packaging and denser vertical integration alongside improved DRAM circuits.",
@@ -6998,5 +6970,33 @@
     "author": "Lưu Quý",
     "createdAt": "2026-11-17T23:18:20.102112+00:00",
     "publishedAt": "2026-11-17T09:08:13+00:00"
+  },
+  {
+    "title_org": "Can AI Agents Really Shift Chip Design Left?",
+    "title_vietnamese": "AI Tự Hành Có Thật Sự Đưa Thiết Kế Vi Mạch Đến Giai Đoạn Sớm Hơn?",
+    "summary_org": "Agentic AI promises to automate more of the chip design flow, but integrating it with existing EDA tools remains a significant challenge. Additionally, capturing decades of specialized engineering expertise is non-trivial, making widespread adoption complex.",
+    "summary_vietnamese": "AI tự hành hứa hẹn tự động hóa nhiều công đoạn hơn trong quy trình thiết kế vi mạch, nhưng việc tích hợp với các công cụ EDA hiện có vẫn là một thử thách lớn. Thêm vào đó, việc đúc kết hàng thập kỷ chuyên môn kỹ thuật là không hề dễ dàng, khiến việc ứng dụng rộng rãi trở nên phức tạp.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/can-ai-agents-really-shift-chip-design-left/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-3.10.10-PM.png",
+    "author": "Ed Sperling",
+    "createdAt": "2026-11-18T16:53:47.038830+00:00",
+    "publishedAt": "2026-11-18T08:01:53+00:00"
+  },
+  {
+    "title_org": "PDF Solutions: Has the Puck Finally Arrived?",
+    "title_vietnamese": "PDF Solutions: Quả bóng khúc côn cầu cuối cùng đã đến đích?",
+    "summary_org": "This article explores how PDF Solutions has spent over a decade making strategic, niche investments to build the foundational infrastructure for semiconductor autonomy. The essay argues that these long-term efforts are now culminating in a powerful operational system for the chip industry.",
+    "summary_vietnamese": "Bài viết khám phá cách PDF Solutions đã dành hơn một thập kỷ thực hiện các khoản đầu tư chiến lược mang tính ngách để xây dựng cơ sở hạ tầng nền tảng cho sự tự chủ về bán dẫn. Tác giả lập luận rằng những nỗ lực dài hạn này hiện đang đơm hoa kết trái thành một hệ thống vận hành mạnh mẽ cho ngành công nghiệp chip.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/pdf-solutions/376337-pdf-solutions-has-the-puck-finally-arrived/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/PDF-Solutions-blue-semiconductor-editorial.jpg",
+    "author": "Admin",
+    "createdAt": "2026-11-18T16:54:18.049917+00:00",
+    "publishedAt": "2026-11-18T14:00:31+00:00"
   }
 ]

@@ -1,0 +1,29 @@
+Article: https://semiengineering.com/can-ai-agents-really-shift-chip-design-left/
+Title: Can AI Agents Really Shift Chip Design Left?
+Summary: <p>Agentic AI promises to automate more of the chip flow, but integration with EDA tools and capturing decades of engineering expertise are non-trivial.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-3.10.10-PM.png
+Author: Ed Sperling
+Published date: Wed, 18 Nov 2026 08:01:53 +0000
+
+Article: https://semiengineering.com/blog-review-nov-18-3/
+Title: Blog Review: Nov. 18
+Summary: <p>PCIe and trust; rack-scale co-design; heterogeneous scaling; AI data center primer; on-device balancing; EU semi trends.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/data-center-06-26-AdobeStock_1647933846-scaled.jpeg?fit=2560%2C1440&ssl=1
+Author: Jesse Allen
+Published date: Wed, 18 Nov 2026 08:01:49 +0000
+
+Article: https://semiwiki.com/eda/undo/376342-is-ai-ready-to-help-chip-teams-get-the-architecture-right/
+Title: Is AI Ready to Help Chip Teams Get the Architecture Right?
+Summary: <h4><strong>By Michael Sanie</strong></h4>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/AI-and-precision-in-chip-architecture.jpg
+Author: Admin
+Published date: Wed, 18 Nov 2026 16:00:33 +0000
+
+Article: https://semiwiki.com/eda/pdf-solutions/376337-pdf-solutions-has-the-puck-finally-arrived/
+Title: PDF Solutions: Has the Puck Finally Arrived?
+Summary: <p>How a decade of seemingly niche investments may have created the infrastructure for an operating system for semiconductor autonomy</p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/PDF-Solutions-blue-semiconductor-editorial.jpg
+Author: Admin
+Published date: Wed, 18 Nov 2026 14:00:31 +0000
+
+Completed! Added a total of 2 new news items to Firebase.
