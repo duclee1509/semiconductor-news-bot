@@ -1,47 +1,5 @@
 [
   {
-    "title_org": "Cần Thơ trình đề án lập quỹ đầu tư mạo hiểm 500 tỉ đồng, rót vốn vào AI, bán dẫn",
-    "title_vietnamese": "",
-    "summary_org": "Thành phố Cần Thơ đang trình đề án thành lập quỹ đầu tư mạo hiểm với số vốn ban đầu là 500 tỉ đồng. Mục tiêu của quỹ này là rót vốn và thúc đẩy đầu tư vào các lĩnh vực công nghệ mới nổi như AI, bán dẫn và vi mạch. Sáng kiến này tạo cơ hội phát triển mạnh mẽ cho thị trường công nghệ cao tại địa phương.",
-    "summary_vietnamese": "",
-    "source": "Báo Tuổi Trẻ",
-    "url": "https://tuoitre.vn/can-tho-trinh-de-an-lap-quy-dau-tu-mao-hiem-500-ti-dong-rot-von-vao-ai-ban-dan-100260907145302231.htm",
-    "category": "VietNam",
-    "isPolicy": true,
-    "thumbnail": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/9/7/anh-2-1788766718758549454468-200-0-1540-2560-crop-1788767456313814878200.jpg",
-    "author": "Ca Linh",
-    "createdAt": "2026-09-07T08:51:33.326097+00:00",
-    "publishedAt": "2026-09-07T15:34:00+00:00"
-  },
-  {
-    "title_org": "AI Memory Gap at DAC 2026",
-    "title_vietnamese": "Khoảng cách bộ nhớ AI tại sự kiện DAC 2026",
-    "summary_org": "At DAC 2026, Synopsys hosted a session focusing on how silicon startups are addressing the AI memory gap. Presentations by TetraMem and ANAFLASH highlighted innovative approaches to tackle memory bottlenecks as datacenter consumption surges. The discussion emphasized the critical challenges startups face in meeting high-performance AI memory demands.",
-    "summary_vietnamese": "Tại sự kiện DAC 2026, Synopsys đã tổ chức một phiên thảo luận tập trung vào cách các startup vi mạch giải quyết khoảng cách bộ nhớ AI. Các bài thuyết trình từ TetraMem và ANAFLASH đã nêu bật những cách tiếp cận đổi mới để giải quyết các nút thắt cổ chai về bộ nhớ khi mức tiêu thụ của trung tâm dữ liệu tăng vọt. Cuộc thảo luận nhấn mạnh những thách thức cốt lõi mà các startup phải đối mặt trong việc đáp ứng nhu cầu bộ nhớ AI hiệu năng cao.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/eda/372945-ai-memory-gap-at-dac-2026/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/AI-memory-gap.jpg",
-    "author": "Daniel Payne",
-    "createdAt": "2026-09-07T17:06:30.470130+00:00",
-    "publishedAt": "2026-09-07T17:00:29+00:00"
-  },
-  {
-    "title_org": "When Design Gets Faster, the Bottleneck Moves Through the Physical Stack",
-    "title_vietnamese": "Khi thiết kế tăng tốc, nút thắt cổ chai dịch chuyển qua tầng vật lý",
-    "summary_org": "AI is compressing the semiconductor design cycle, speeding up architecture exploration, RTL development, and verification. As a result, the new bottleneck in chip development is shifting toward physical realization and implementation. This highlights the growing need to accelerate physical design processes to match the speed of AI-driven front-end design.",
-    "summary_vietnamese": "Trí tuệ nhân tạo (AI) đang rút ngắn chu kỳ thiết kế chất bán dẫn, đẩy nhanh quá trình khám phá kiến trúc, phát triển RTL và kiểm tra. Kết quả là, nút thắt cổ chai mới trong việc phát triển chip đang dịch chuyển sang giai đoạn hiện thực hóa và triển khai vật lý. Điều này làm nổi bật nhu cầu cấp thiết phải tăng tốc các quy trình thiết kế vật lý để bắt kịp tốc độ của thiết kế front-end do AI điều khiển.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/eda/372881-when-design-gets-faster-the-bottleneck-moves-through-the-physical-stack/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/Desing_fast_Bott_through_physicalstack-1200x799.jpg",
-    "author": "Moh Kolb",
-    "createdAt": "2026-09-07T17:06:34.894569+00:00",
-    "publishedAt": "2026-09-07T13:00:04+00:00"
-  },
-  {
     "title_org": "Smart Outlier Detection",
     "title_vietnamese": "Phát hiện điểm bất thường thông minh",
     "summary_org": "Even if a semiconductor chip passes initial testing and is considered good, it may still fail to perform as expected in real-world applications. Advanced outlier detection methods are required to identify these latent defects before deployment.",
@@ -6998,5 +6956,47 @@
     "author": "Sungho Yoon",
     "createdAt": "2026-11-19T12:26:06.119805+00:00",
     "publishedAt": "2026-11-19T08:01:54+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Khaled Alashmouny of AIDAChip",
+    "title_vietnamese": "Phỏng vấn CEO Khaled Alashmouny của AIDAChip",
+    "summary_org": "Khaled Alashmouny, founder and CEO of AIDAChip, draws on his 13 years at Apple and two decades of silicon-building experience. He established AIDAChip to address the common industry challenge of talented teams wasting valuable time and silicon due to misalignments in complex programs.",
+    "summary_vietnamese": "Khaled Alashmouny, nhà sáng lập kiêm CEO của AIDAChip, đúc kết từ 13 năm làm việc tại Apple và hai thập kỷ kinh nghiệm chế tạo silicon. Ông thành lập AIDAChip nhằm giải quyết thách thức phổ biến trong ngành là việc các đội ngũ tài năng bị lãng phí thời gian và silicon quý giá do sự thiếu đồng bộ trong các dự án phức tạp.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/376621-ceo-interview-with-khaled-alashmouny-of-aidachip/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/Semiconductor-founder-interview-banner.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-11-19T22:52:38.186082+00:00",
+    "publishedAt": "2026-11-19T20:00:15+00:00"
+  },
+  {
+    "title_org": "The AI Chip Boom’s Uncomfortable Arithmetic",
+    "title_vietnamese": "Bài toán khó nhằn của cơn sốt chip AI",
+    "summary_org": "The semiconductor industry faces a critical risk of misinterpreting its current boom by confusing surging revenues driven by higher prices with genuine sustainable growth in volume. Expanding capacity based on these inflated sales figures could lead to dangerous oversupply and market instability. Industry players must carefully analyze whether market demand truly matches their aggressive expansion plans.",
+    "summary_vietnamese": "Ngành công nghiệp bán dẫn đối mặt với rủi ro nghiêm trọng là hiểu sai về thời kỳ bùng nổ hiện tại khi nhầm lẫn giữa doanh thu tăng vọt do giá cao với sự tăng trưởng bền vững thực sự về sản lượng. Việc mở rộng công suất dựa trên các con số doanh số bị thổi phồng này có thể dẫn đến tình trạng dư thừa nguồn cung nguy hiểm và sự bất ổn của thị trường. Các bên trong ngành phải cẩn trọng phân tích xem nhu cầu thị trường có thực sự phù hợp với kế hoạch mở rộng mạnh mẽ của họ hay không.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-services/future-horizons/376470-the-ai-chip-booms-uncomfortable-arithmetic/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/Chip-Prices-Outrun-Demand.png",
+    "author": "Malcolm Penn",
+    "createdAt": "2026-11-19T22:52:43.340255+00:00",
+    "publishedAt": "2026-11-19T16:00:03+00:00"
+  },
+  {
+    "title_org": "PSS 3.1 Opens New Possibilities for Hardware and Software Verification",
+    "title_vietnamese": "PSS 3.1 Mở ra những khả năng mới cho việc xác thực phần cứng và phần mềm",
+    "summary_org": "Accellera has approved the Portable Test and Stimulus Standard (PSS) 3.1, marking the first update since PSS 3.0 in August 2024. This release promotes a more connected and reusable verification approach, addressing common engineering challenges in hardware and software verification.",
+    "summary_vietnamese": "Accellera đã phê duyệt Tiêu chuẩn Kiểm tra và Kích thích Di động (PSS) 3.1, đánh dấu bản cập nhật đầu tiên kể từ phiên bản PSS 3.0 vào tháng 8 năm 2024. Bản phát hành này thúc đẩy phương pháp xác thực có tính liên kết và tái sử dụng cao hơn, giải quyết các thách thức kỹ thuật quen thuộc trong việc xác thực phần cứng và phần mềm.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-services/accellera/376235-pss-3-1-opens-new-possibilities-for-hardware-and-software-verification/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/PSS-3.1-Accellera-blue-gold-banner.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-11-19T22:52:46.618943+00:00",
+    "publishedAt": "2026-11-19T14:00:02+00:00"
   }
 ]

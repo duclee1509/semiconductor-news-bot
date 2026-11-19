@@ -1,0 +1,29 @@
+Article: https://semiengineering.com/beyond-pass-fail-characterizing-silicon-margin-with-pvtw/
+Title: Beyond Pass/Fail: Characterizing Silicon Margin With PVTW
+Summary: <p>Determining not only whether a device meets specification, but how far it is from the boundary, helps inform product robustness and future design decisions.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_660575817-08-26-wafers-scaled.jpeg?fit=2560%2C1709&ssl=1
+Author: Gerard John
+Published date: Thu, 19 Nov 2026 08:06:18 +0000
+
+Article: https://semiwiki.com/ceo-interviews/376621-ceo-interview-with-khaled-alashmouny-of-aidachip/
+Title: CEO Interview with Khaled Alashmouny of AIDAChip
+Summary: <p>Khaled Alashmouny is the founder and CEO of AIDAChip. He spent 13 years at Apple leading analog and mixed-signal design teams and has about two decades of experience building silicon. He founded...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Semiconductor-founder-interview-banner.jpg
+Author: Daniel Nenni
+Published date: Thu, 19 Nov 2026 20:00:15 +0000
+
+Article: https://semiwiki.com/semiconductor-services/future-horizons/376470-the-ai-chip-booms-uncomfortable-arithmetic/
+Title: The AI Chip Boom’s Uncomfortable Arithmetic
+Summary: <p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Chip-Prices-Outrun-Demand.png
+Author: Malcolm Penn
+Published date: Thu, 19 Nov 2026 16:00:03 +0000
+
+Article: https://semiwiki.com/semiconductor-services/accellera/376235-pss-3-1-opens-new-possibilities-for-hardware-and-software-verification/
+Title: PSS 3.1 Opens New Possibilities for Hardware and Software Verification
+Summary: <p style="font-weight: 400;">Accellera’s approval of the Portable Test and Stimulus Standard (PSS) 3.1 marks an encouraging step toward a more connected, reusable approach to verification. Announce...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/PSS-3.1-Accellera-blue-gold-banner.jpg
+Author: Daniel Nenni
+Published date: Thu, 19 Nov 2026 14:00:02 +0000
+
+Completed! Added a total of 3 new news items to Firebase.
