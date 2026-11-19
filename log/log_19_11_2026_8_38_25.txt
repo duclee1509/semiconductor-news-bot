@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/blog-review-nov-18-3/
+Title: Blog Review: Nov. 18
+Summary: <p>PCIe and trust; rack-scale co-design; heterogeneous scaling; AI data center primer; on-device balancing; EU semi trends.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/data-center-06-26-AdobeStock_1647933846-scaled.jpeg?fit=2560%2C1440&ssl=1
+Author: Jesse Allen
+Published date: Wed, 18 Nov 2026 08:01:49 +0000
+
+Article: https://semiwiki.com/semiconductor-services/semiconductor-intelligence/376566-semiconductor-market-doubling-in-2026-last-issue/
+Title: Semiconductor Market Doubling in 2026 – Last Issue
+Summary: <p>The global semiconductor market was $481 billion in 3rd quarter 2026, according to WSTS. 3Q 2026 was up 27% from 2Q 2026 and up 129% from 3Q 2025. The 3Q 2026 year-to-year growth was the highest...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Bill-Jewell-2.png
+Author: Bill Jewell
+Published date: Wed, 18 Nov 2026 22:00:39 +0000
+
+Article: https://semiwiki.com/eda/chipnexus/376283-cto-interview-with-dr-valerio-tenace-of-chipnexus/
+Title: CTO Interview with Dr. Valerio Tenace of ChipNexus
+Summary: <p>Dr. Valerio Tenace is CTO and Co-Founder of ChipNexus, developer of agentic AI software for semiconductor and hardware design, and an expert in hardware design automation and machine learning ap...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/ChipNexus_-From-idea-to-silicon.jpg
+Author: Daniel Nenni
+Published date: Wed, 18 Nov 2026 20:00:27 +0000
+
+Article: https://semiwiki.com/3dic/376374-physics-over-probability-how-agentic-ai-solves-electronic-systems-verification/
+Title: Physics Over Probability: How Agentic AI Solves Electronic Systems Verification
+Summary: <p>As data rates climb into 112 Gbps and 224 Gbps regimes, high-speed electronic systems design is running into a wall. Printed circuit boards are no longer passive interconnections; they have beco...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/A-seamless-thread-chip-package-board-system-scaled.png
+Author: Kalar Rajendiran
+Published date: Wed, 18 Nov 2026 18:00:29 +0000
+
+Article: https://semiwiki.com/eda/undo/376342-is-ai-ready-to-help-chip-teams-get-the-architecture-right/
+Title: Is AI Ready to Help Chip Teams Get the Architecture Right?
+Summary: <p>Every silicon executive worries about schedule. A slipped tape-out is painful. A chip that works but loses to the previous generation is worse. The question that matters most is simple. Will thi...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/AI-and-precision-in-chip-architecture.jpg
+Author: Admin
+Published date: Wed, 18 Nov 2026 16:00:33 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
