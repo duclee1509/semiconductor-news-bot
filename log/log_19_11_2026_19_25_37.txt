@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/beyond-pass-fail-characterizing-silicon-margin-with-pvtw/
+Title: Beyond Pass/Fail: Characterizing Silicon Margin With PVTW
+Summary: <p>Determining not only whether a device meets specification, but how far it is from the boundary, helps inform product robustness and future design decisions.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_660575817-08-26-wafers-scaled.jpeg?fit=2560%2C1709&ssl=1
+Author: Gerard John
+Published date: Thu, 19 Nov 2026 08:06:18 +0000
+
+Article: https://semiengineering.com/ai-accelerators-drive-changes-in-power-delivery-networks/
+Title: AI Accelerators Drive Changes In Power Delivery Networks
+Summary: <p>Moving voltage regulators closer to processors can reduce power loss, but adds challenges for advanced packaging, thermal management, and system-level design.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/11/pdn3-1.png?fit=830%2C354&ssl=1
+Author: Laura Peters
+Published date: Thu, 19 Nov 2026 08:05:17 +0000
+
+Article: https://semiengineering.com/how-virtual-twins-and-machine-learning-optimize-dram-yield/
+Title: How Virtual Twins And Machine Learning Optimize DRAM Yield
+Summary: <p>Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/11/Lam_Virtual-Twins-ML-DRAM-Yield-fig2.webp?fit=1309%2C747&ssl=1
+Author: Taeyeon Oh
+Published date: Thu, 19 Nov 2026 08:03:18 +0000
+
+Article: https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/
+Title: From Metrology To Autonomy: Scaling Yield, Quality, And Innovation
+Summary: <p>Operationalizing intelligence across the manufacturing stack begins with trusted data. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_2043350125-08-26-scaled.jpeg?fit=2560%2C1440&ssl=1
+Author: Lori Scott
+Published date: Thu, 19 Nov 2026 08:02:31 +0000
+
+Article: https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/
+Title: What Is Driving Silicon Wafer Demand Recovery?
+Summary: <p>The high number of new and upcoming production lines is a unique factor influencing this particular cycle. </p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/11/SEMI_What-Driving-Silicon-Wafer-Demand-fig1.webp?fit=2200%2C944&ssl=1
+Author: Sungho Yoon
+Published date: Thu, 19 Nov 2026 08:01:54 +0000
+
+Completed! Added a total of 4 new news items to Firebase.
