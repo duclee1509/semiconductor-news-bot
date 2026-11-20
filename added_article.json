@@ -1,19 +1,5 @@
 [
   {
-    "title_org": "Smart Outlier Detection",
-    "title_vietnamese": "Phát hiện điểm bất thường thông minh",
-    "summary_org": "Even if a semiconductor chip passes initial testing and is considered good, it may still fail to perform as expected in real-world applications. Advanced outlier detection methods are required to identify these latent defects before deployment.",
-    "summary_vietnamese": "Ngay cả khi một con chip bán dẫn vượt qua quá trình kiểm tra ban đầu và được coi là tốt, nó vẫn có thể không hoạt động như mong đợi trong các ứng dụng thực tế. Các phương pháp phát hiện điểm bất thường tiên tiến là cần thiết để xác định các lỗi tiềm ẩn này trước khi đưa vào sử dụng.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/smart-outlier-detection/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-7.28.38-PM.png",
-    "author": "Ed Sperling",
-    "createdAt": "2026-09-08T08:31:30.853541+00:00",
-    "publishedAt": "2026-09-08T07:15:48+00:00"
-  },
-  {
     "title_org": "Research Bits: Sept. 8",
     "title_vietnamese": "Điểm tin nghiên cứu: Ngày 8 tháng 9",
     "summary_org": "This research brief highlights recent advancements in semiconductor technology, including carbon insulators for interconnects, high-temperature SiC JFETs, and VCT dielectrics. These developments focus on improving performance, thermal stability, and material properties in advanced electronic components.",
@@ -6998,5 +6984,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-11-19T22:52:46.618943+00:00",
     "publishedAt": "2026-11-19T14:00:02+00:00"
+  },
+  {
+    "title_org": "Beyond Pass/Fail: Characterizing Silicon Margin With PVTW",
+    "title_vietnamese": "Vượt ngoài ranh giới Đạt/Trượt: Đặc tính hóa biên độ silicon với PVTW",
+    "summary_org": "Determining how far a silicon device is from its specification boundary, rather than just checking pass or fail, helps evaluate product robustness. This characterization using PVTW provides critical insights that inform future semiconductor design decisions.",
+    "summary_vietnamese": "Việc xác định khoảng cách từ một thiết bị silicon đến ranh giới thông số kỹ thuật, thay vì chỉ kiểm tra đạt hay trượt, giúp đánh giá độ bền vững của sản phẩm. Quá trình đặc tính hóa này sử dụng PVTW cung cấp những thông tin chi tiết quan trọng định hướng cho các quyết định thiết kế bán dẫn trong tương lai.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/beyond-pass-fail-characterizing-silicon-margin-with-pvtw/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_660575817-08-26-wafers-scaled.jpeg?fit=2560%2C1709&ssl=1",
+    "author": "Gerard John",
+    "createdAt": "2026-11-20T05:27:40.533280+00:00",
+    "publishedAt": "2026-11-19T08:06:18+00:00"
   }
 ]

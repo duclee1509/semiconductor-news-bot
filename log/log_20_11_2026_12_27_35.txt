@@ -1,0 +1,8 @@
+Article: https://semiengineering.com/beyond-pass-fail-characterizing-silicon-margin-with-pvtw/
+Title: Beyond Pass/Fail: Characterizing Silicon Margin With PVTW
+Summary: <p>Determining not only whether a device meets specification, but how far it is from the boundary, helps inform product robustness and future design decisions.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_660575817-08-26-wafers-scaled.jpeg?fit=2560%2C1709&ssl=1
+Author: Gerard John
+Published date: Thu, 19 Nov 2026 08:06:18 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
