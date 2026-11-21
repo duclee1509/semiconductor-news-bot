@@ -1,19 +1,5 @@
 [
   {
-    "title_org": "ASML and TSMC’s 12-Inch Photomask Initiative: Technical Significance",
-    "title_vietnamese": "Sáng kiến photomask 12 inch của ASML và TSMC: Ý nghĩa kỹ thuật",
-    "summary_org": "ASML and TSMC are proposing a transition from 6-inch to 12-inch photomasks to redesign a crucial yet often overlooked component in advanced semiconductor manufacturing. Photomasks act as precision plates that carry intricate circuit patterns which are subsequently projected onto silicon wafers by advanced lithography scanners.",
-    "summary_vietnamese": "ASML và TSMC đang đề xuất chuyển đổi từ photomask 6 inch sang 12 inch nhằm thiết kế lại một thành phần quan trọng nhưng thường ít được chú ý trong sản xuất bán dẫn tiên tiến. Photomasks đóng vai trò là các tấm chính xác chứa các mẫu mạch phức tạp, sau đó được chiếu lên wafer silicon bởi các máy quét quang khắc tiên tiến.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/semiconductor-manufacturers/tsmc/373405-asml-and-tsmcs-12-inch-photomask-initiative-technical-significance/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/ASML-and-TSMCs-12-Inch-Photomask-Initiative-1200x675.jpg",
-    "author": "Daniel Nenni",
-    "createdAt": "2026-09-08T08:31:46.186970+00:00",
-    "publishedAt": "2026-09-08T06:00:28+00:00"
-  },
-  {
     "title_org": "Nâng cao giá trị gia tăng, giảm phụ thuộc vào nhập khẩu trong ngành điện tử",
     "title_vietnamese": "",
     "summary_org": "Phó Thủ tướng Thường trực Chính phủ làm việc với Hiệp hội Doanh nghiệp điện tử Việt Nam và các doanh nghiệp lớn nhằm thúc đẩy ngành công nghiệp điện tử và bán dẫn phát triển. Mục tiêu trọng tâm là nâng cao giá trị gia tăng và giảm sự phụ thuộc vào nguồn nguyên liệu nhập khẩu. Buổi làm việc nhấn mạnh vai trò chiến lược của công nghệ và thị trường trong việc tự chủ chuỗi cung ứng.",
@@ -6998,5 +6984,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-11-21T01:02:19.912221+00:00",
     "publishedAt": "2026-11-20T14:00:03+00:00"
+  },
+  {
+    "title_org": "Ông Trump dọa đánh thuế doanh nghiệp xây trung tâm dữ liệu ở nước ngoài",
+    "title_vietnamese": "",
+    "summary_org": "Tổng thống Donald Trump đe dọa áp mức thuế rất lớn đối với các doanh nghiệp Mỹ xây dựng trung tâm dữ liệu trí tuệ nhân tạo (AI) ở nước ngoài. Động thái này nhằm bảo vệ lợi ích công nghệ và thị trường trong nước của Hoa Kỳ trước xu hướng đầu tư hạ tầng AI toàn cầu.",
+    "summary_vietnamese": "",
+    "source": "VnExpress",
+    "url": "https://vnexpress.net/ong-trump-doa-danh-thue-doanh-nghiep-xay-trung-tam-du-lieu-o-nuoc-ngoai-5147345.html",
+    "category": "VietNam",
+    "isPolicy": true,
+    "thumbnail": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/21/afp-d87a4yq-v2-highres-uspolit-9922-1922-1795230931.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=G_RPY5D36Sl80N-q6Xh-RQ",
+    "author": "Phiên An",
+    "createdAt": "2026-11-21T12:00:24.332765+00:00",
+    "publishedAt": "2026-11-21T04:26:18+00:00"
   }
 ]
