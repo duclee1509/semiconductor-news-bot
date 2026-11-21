@@ -1,0 +1,15 @@
+Article: https://spectrum.ieee.org/sram-memory-z2ram
+Title: Z2RAM Claims SRAM Memory Speeds at Much Greater Density
+Summary: <img src="https://spectrum.ieee.org/media-library/two-men-smiling-together-as-they-operate-an-advanced-wafer-probe-station.jpg?id=68654814&amp;width=1245&amp;height=700&amp;coordinates=0%2C260%2C0%...
+Thumbnail: https://spectrum.ieee.org/media-library/startup-claims-sram-memory-speeds-at-5x-the-density.jpg?id=68654814&width=1200&height=600&coordinates=0%2C245%2C0%2C588
+Author: Matthew S. Smith
+Published date: Sat, 21 Nov 2026 14:00:02 +0000
+
+Article: https://baochinhphu.vn/nang-cao-gia-tri-gia-tang-giam-phu-thuoc-vao-nhap-khau-trong-nganh-dien-tu-102260908145128679.htm
+Title: Nâng cao giá trị gia tăng, giảm phụ thuộc vào nhập khẩu trong ngành điện tử
+Summary: (Chinhphu.vn) - Sáng 8/9, tại Trụ sở Chính phủ, Ủy viên Bộ Chính trị, Phó Thủ tướng Thường trực Chính phủ Phạm Gia Túc làm việc với Hiệp hội Doanh nghiệp điện tử Việt Nam và một số doanh nghiệp xuấ...
+Thumbnail: https://bcp2.cdnchinhphu.vn/zoom/1200_630/334894974524682240/2026/9/8/base64-1788853584429626475310.png
+Author: Phương Nguyên
+Published date: Tue, 08 Sep 2026 14:55:00 +0000
+
+Completed! Added a total of 2 new news items to Firebase.

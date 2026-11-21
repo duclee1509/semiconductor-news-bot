@@ -1,33 +1,5 @@
 [
   {
-    "title_org": "Nâng cao giá trị gia tăng, giảm phụ thuộc vào nhập khẩu trong ngành điện tử",
-    "title_vietnamese": "",
-    "summary_org": "Phó Thủ tướng Thường trực Chính phủ làm việc với Hiệp hội Doanh nghiệp điện tử Việt Nam và các doanh nghiệp lớn nhằm thúc đẩy ngành công nghiệp điện tử và bán dẫn phát triển. Mục tiêu trọng tâm là nâng cao giá trị gia tăng và giảm sự phụ thuộc vào nguồn nguyên liệu nhập khẩu. Buổi làm việc nhấn mạnh vai trò chiến lược của công nghệ và thị trường trong việc tự chủ chuỗi cung ứng.",
-    "summary_vietnamese": "",
-    "source": "Báo Chính phủ ",
-    "url": "https://baochinhphu.vn/nang-cao-gia-tri-gia-tang-giam-phu-thuoc-vao-nhap-khau-trong-nganh-dien-tu-102260908145128679.htm",
-    "category": "VietNam",
-    "isPolicy": true,
-    "thumbnail": "https://bcp2.cdnchinhphu.vn/zoom/1200_630/334894974524682240/2026/9/8/base64-1788853584429626475310.png",
-    "author": "Phương Nguyên",
-    "createdAt": "2026-09-08T08:31:51.422498+00:00",
-    "publishedAt": "2026-09-08T14:55:00+00:00"
-  },
-  {
-    "title_org": "Fail-Safe Frames: Why Chips&Media’s ASIL-B Video IP Matters",
-    "title_vietnamese": "Khung hình an toàn: Lý do vì sao IP Video đạt chuẩn ASIL-B của Chips&Media đóng vai trò quan trọng",
-    "summary_org": "As vehicles evolve into software-defined and autonomous platforms, video processing has become a critical part of safety-related computing chains. Camera feeds are essential for driver assistance, object detection, and automated driving functions. Consequently, reliable hardware processing for these video streams is vital for vehicle safety.",
-    "summary_vietnamese": "Khi xe hơi phát triển thành các nền tảng tự trị và định hình bằng phần mềm, việc xử lý video đã trở thành một phần quan trọng trong chuỗi điện toán an toàn. Các luồng camera đóng vai trò thiết yếu cho các chức năng hỗ trợ lái xe, nhận diện vật thể và lái xe tự động. Do đó, phần cứng xử lý đáng tin cậy cho các luồng video này đóng vai trò sống còn đối với sự an toàn của phương tiện.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/ip/chipsmedia/373341-fail-safe-frames-why-chipsmedias-asil-b-video-ip-matters/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Fail-Safe-Frames-and-Why-ChipsMedias-ASIL-B-Video-IP-Matters-1200x675.png",
-    "author": "Admin",
-    "createdAt": "2026-09-08T15:53:06.330050+00:00",
-    "publishedAt": "2026-09-08T13:00:14+00:00"
-  },
-  {
     "title_org": "NVIDIA Vera: Rebuilding the CPU for Agentic AI",
     "title_vietnamese": "NVIDIA Vera: Tái thiết kế CPU dành cho AI tự hành (Agentic AI)",
     "summary_org": "NVIDIA has introduced the Vera CPU, a server processor specifically engineered to meet the demands of agentic AI workloads where language models continuously observe and reason. Based on presentations at Hot Chips 2026, this processor marks a significant architectural shift in how CPUs support advanced artificial intelligence applications.",
@@ -6998,5 +6970,33 @@
     "author": "Phiên An",
     "createdAt": "2026-11-21T12:00:24.332765+00:00",
     "publishedAt": "2026-11-21T04:26:18+00:00"
+  },
+  {
+    "title_org": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
+    "title_vietnamese": "Z2RAM tuyên bố tốc độ bộ nhớ SRAM với mật độ cao hơn nhiều",
+    "summary_org": "Nagare Labs, a startup spun out of Georgia Tech backed by Playground, has introduced Z2RAM, a novel capacitor-less memory technology that combines SRAM-like read speeds with significantly higher density through 3D vertical stacking. Designed as an SRAM addition rather than a DRAM replacement, Z2RAM aims to address low-latency bottlenecks for AI workloads and edge robotics, though it still faces hurdles in stability and manufacturing.",
+    "summary_vietnamese": "Nagare Labs, một công ty spin-out từ Viện Công nghệ Georgia được quỹ Playground hậu thuẫn, đã giới thiệu Z2RAM, một công nghệ bộ nhớ không tụ điện mới kết hợp tốc độ đọc tương tự SRAM với mật độ cao hơn đáng kể nhờ kỹ thuật xếp chồng theo chiều dọc (3D vertical stacking). Được định vị là giải pháp bổ sung cho SRAM chứ không phải thay thế DRAM, Z2RAM hướng đến việc giải quyết các nút thắt cổ chai về độ trễ thấp cho các tác vụ AI và robot biên, dù vẫn phải đối mặt với nhiều rào cản về độ ổn định và chế tạo.",
+    "source": "IEEE Spectrum - Semiconductors",
+    "url": "https://spectrum.ieee.org/sram-memory-z2ram",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://spectrum.ieee.org/media-library/startup-claims-sram-memory-speeds-at-5x-the-density.jpg?id=68654814&width=1200&height=600&coordinates=0%2C245%2C0%2C588",
+    "author": "Matthew S. Smith",
+    "createdAt": "2026-11-21T19:03:10.799573+00:00",
+    "publishedAt": "2026-11-21T14:00:02+00:00"
+  },
+  {
+    "title_org": "Nâng cao giá trị gia tăng, giảm phụ thuộc vào nhập khẩu trong ngành điện tử",
+    "title_vietnamese": "",
+    "summary_org": "Phó Thủ tướng Thường trực Chính phủ Phạm Gia Túc đã có buổi làm việc với Hiệp hội Doanh nghiệp điện tử Việt Nam và các doanh nghiệp lớn trong ngành điện tử, bán dẫn. Cuộc họp tập trung thảo luận các giải pháp nhằm nâng cao giá trị gia tăng và giảm sự phụ thuộc vào nguồn nguyên liệu nhập khẩu. Đây là bước đi quan trọng nhằm thúc đẩy sự phát triển bền vững của ngành công nghiệp bán dẫn và điện tử trong nước.",
+    "summary_vietnamese": "",
+    "source": "Báo Chính phủ ",
+    "url": "https://baochinhphu.vn/nang-cao-gia-tri-gia-tang-giam-phu-thuoc-vao-nhap-khau-trong-nganh-dien-tu-102260908145128679.htm",
+    "category": "VietNam",
+    "isPolicy": true,
+    "thumbnail": "https://bcp2.cdnchinhphu.vn/zoom/1200_630/334894974524682240/2026/9/8/base64-1788853584429626475310.png",
+    "author": "Phương Nguyên",
+    "createdAt": "2026-11-21T19:03:20.085351+00:00",
+    "publishedAt": "2026-09-08T14:55:00+00:00"
   }
 ]
