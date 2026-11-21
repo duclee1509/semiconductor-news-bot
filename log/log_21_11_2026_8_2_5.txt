@@ -1,0 +1,22 @@
+Article: https://semiengineering.com/chip-industry-week-in-review-165/
+Title: Chip Industry Week In Review
+Summary: <p>Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2020/06/blue-Turquoise-chip-iStock-1195411440-06-24-20.jpg
+Author: The SE Staff
+Published date: Fri, 20 Nov 2026 08:01:14 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/tsmc/376475-tsmcs-supplier-awards-put-manufacturing-execution-in-focus/
+Title: TSMC’s Supplier Awards Put Manufacturing Execution in Focus
+Summary: <p><em>&#8220;Amid macroeconomic uncertainties, TSMC’s confidence in continuous investment and growth stems from the deep trust we share with our supply chain partners,&#8221; said Dr. C.C. Wei, TS...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Dr.-C.C.-Wei-TSMC-Chairman-and-Chief-Executive-Officer_台積公司董事長暨總裁魏哲家-scaled.jpg
+Author: Daniel Nenni
+Published date: Fri, 20 Nov 2026 16:00:16 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/intel/376571-why-intels-emib-matters-for-microsoft-azure/
+Title: Why Intel’s EMIB Matters for Microsoft Azure
+Summary: <p>Microsoft and Intel are expanding their decades-long partnership, and the most consequential part of the multiyear agreement may be how Microsoft puts its future Azure chips together. Microsoft ...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Intel-Azure-partnership-announcement.jpg
+Author: Daniel Nenni
+Published date: Fri, 20 Nov 2026 14:00:03 +0000
+
+Completed! Added a total of 3 new news items to Firebase.

@@ -1,47 +1,5 @@
 [
   {
-    "title_org": "Research Bits: Sept. 8",
-    "title_vietnamese": "Điểm tin nghiên cứu: Ngày 8 tháng 9",
-    "summary_org": "This research brief highlights recent advancements in semiconductor technology, including carbon insulators for interconnects, high-temperature SiC JFETs, and VCT dielectrics. These developments focus on improving performance, thermal stability, and material properties in advanced electronic components.",
-    "summary_vietnamese": "Bản tin nghiên cứu này điểm lại những tiến bộ gần đây trong công nghệ bán dẫn, bao gồm chất cách điện carbon cho các kết nối liên thông, JFET SiC nhiệt độ cao và vật liệu điện môi VCT. Những phát triển này tập trung vào việc cải thiện hiệu suất, độ ổn định nhiệt và tính chất vật liệu trong các linh kiện điện tử tiên tiến.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/research-bits-sept-8-2/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_205182431-08-26-Quantum-scaled.jpeg?fit=2560%2C1575&ssl=1",
-    "author": "Jesse Allen",
-    "createdAt": "2026-09-08T08:31:35.984095+00:00",
-    "publishedAt": "2026-09-08T07:01:53+00:00"
-  },
-  {
-    "title_org": "Chip Industry Technical Paper Roundup: Sept. 8",
-    "title_vietnamese": "Điểm tin bài báo kỹ thuật ngành công nghiệp chip: Ngày 8 tháng 9",
-    "summary_org": "This article summarizes key technical papers focusing on advanced semiconductor innovations, including HBF for LLM inference, M3D SRAM at 2nm, distributed GPU architectures, and hybrid memory solutions. It also highlights breakthroughs in GaN-on-silicon devices, programmable silicon photonics, and material science for power electronics.",
-    "summary_vietnamese": "Bài viết này tóm tắt các bài báo kỹ thuật quan trọng tập trung vào các đổi mới chất bán dẫn tiên tiến, bao gồm HBF cho suy luận LLM, M3D SRAM ở tiến trình 2nm, kiến trúc GPU phân tán và các giải pháp bộ nhớ lai. Bài viết cũng nhấn mạnh những đột phá trong thiết bị GaN trên nền silicon, quang tử silicon lập trình được và khoa học vật liệu cho điện tử công suất.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-8-2/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/AdobeStock_175523179-01-29-25-scaled.jpeg?fit=2560%2C1440&ssl=1",
-    "author": "Linda Christensen",
-    "createdAt": "2026-09-08T08:31:39.895451+00:00",
-    "publishedAt": "2026-09-08T07:01:25+00:00"
-  },
-  {
-    "title_org": "High-NA EUV Moves From Experiment to Manufacturing",
-    "title_vietnamese": "Công nghệ High-NA EUV chuyển từ giai đoạn thử nghiệm sang sản xuất thương mại",
-    "summary_org": "Intel Foundry and ASML announced that high-numerical-aperture extreme-ultraviolet (High-NA EUV) lithography has transitioned from a development tool into a viable production technology. Representatives from both companies shared this milestone at the SPIE Photomask Technology and Extreme Ultraviolet Lithography conference, highlighting Intel's recent processing achievements.",
-    "summary_vietnamese": "Intel Foundry và ASML thông báo rằng công nghệ quang khắc cực tím có khẩu độ số cao (High-NA EUV) đã chuyển mình từ một công cụ phát triển thành công nghệ sản xuất thực tế. Đại diện từ cả hai công ty đã chia sẻ cột mốc quan trọng này tại hội nghị SPIE về Công nghệ Photomask và Quang khắc Cực tím, nhấn mạnh những thành tựu xử lý gần đây của Intel.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/semiconductor-manufacturers/intel/373350-high-na-euv-moves-from-experiment-to-manufacturing/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/HNA-EUV-Moves-into-Manufacturing-1200x675.jpg",
-    "author": "Daniel Nenni",
-    "createdAt": "2026-09-08T08:31:43.504587+00:00",
-    "publishedAt": "2026-09-08T06:00:59+00:00"
-  },
-  {
     "title_org": "ASML and TSMC’s 12-Inch Photomask Initiative: Technical Significance",
     "title_vietnamese": "Sáng kiến photomask 12 inch của ASML và TSMC: Ý nghĩa kỹ thuật",
     "summary_org": "ASML and TSMC are proposing a transition from 6-inch to 12-inch photomasks to redesign a crucial yet often overlooked component in advanced semiconductor manufacturing. Photomasks act as precision plates that carry intricate circuit patterns which are subsequently projected onto silicon wafers by advanced lithography scanners.",
@@ -6998,5 +6956,47 @@
     "author": "Gerard John",
     "createdAt": "2026-11-20T05:27:40.533280+00:00",
     "publishedAt": "2026-11-19T08:06:18+00:00"
+  },
+  {
+    "title_org": "Chip Industry Week In Review",
+    "title_vietnamese": "Điểm tin ngành công nghiệp vi mạch trong tuần",
+    "summary_org": "This week's chip industry highlights include Intel signing its first 18A-P external customer, Siemens acquiring Breker, and tightening export controls around China. Additionally, advancements in packaging, HPC hardware, and European funding initiatives shaped the semiconductor landscape.",
+    "summary_vietnamese": "Những điểm nhấn của ngành vi mạch tuần này bao gồm việc Intel ký hợp đồng với khách hàng bên ngoài đầu tiên cho tiến trình 18A-P, Siemens thâu tóm Breker, và các biện pháp kiểm soát xuất khẩu đối với Trung Quốc tiếp tục được thắt chặt. Bên cạnh đó, các tiến bộ về công nghệ Packaging, phần cứng HPC và các sáng kiến rót vốn tại châu Âu đã định hình bức tranh toàn cảnh ngành bán dẫn.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/chip-industry-week-in-review-165/",
+    "category": "International",
+    "isPolicy": true,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2020/06/blue-Turquoise-chip-iStock-1195411440-06-24-20.jpg",
+    "author": "The SE Staff",
+    "createdAt": "2026-11-21T01:02:10.327580+00:00",
+    "publishedAt": "2026-11-20T08:01:14+00:00"
+  },
+  {
+    "title_org": "TSMC’s Supplier Awards Put Manufacturing Execution in Focus",
+    "title_vietnamese": "Giải thưởng nhà cung cấp của TSMC nhấn mạnh tầm quan trọng của việc thực thi sản xuất",
+    "summary_org": "TSMC's CEO Dr. C.C. Wei emphasized the vital role of supply chain partnerships in driving continuous investment and growth amid macroeconomic uncertainties. The annual supplier awards highlight the company's commitment to enabling customer innovation through robust manufacturing execution.",
+    "summary_vietnamese": "CEO TSMC, Tiến sĩ C.C. Wei, nhấn mạnh vai trò quan trọng của quan hệ đối tác chuỗi cung ứng trong việc thúc đẩy đầu tư và tăng trưởng liên tục giữa những bất ổn kinh tế vĩ mô. Các giải thưởng nhà cung cấp hàng năm làm nổi bật cam kết của công ty trong việc thúc đẩy sự đổi mới của khách hàng thông qua hoạt động thực thi sản xuất mạnh mẽ.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/tsmc/376475-tsmcs-supplier-awards-put-manufacturing-execution-in-focus/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/Dr.-C.C.-Wei-TSMC-Chairman-and-Chief-Executive-Officer_台積公司董事長暨總裁魏哲家-scaled.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-11-21T01:02:16.706445+00:00",
+    "publishedAt": "2026-11-20T16:00:16+00:00"
+  },
+  {
+    "title_org": "Why Intel’s EMIB Matters for Microsoft Azure",
+    "title_vietnamese": "Lý do công nghệ EMIB của Intel đóng vai trò quan trọng đối với Microsoft Azure",
+    "summary_org": "Microsoft and Intel are expanding their longstanding partnership through a multiyear agreement where Microsoft will utilize Intel Foundry's Advanced Packaging technology, specifically EMIB. This makes Microsoft the first external company to announce plans to use EMIB for its custom-designed Azure silicon, marking a major milestone for Intel Foundry.",
+    "summary_vietnamese": "Microsoft và Intel đang mở rộng mối quan hệ đối tác lâu năm thông qua thỏa thuận nhiều năm, trong đó Microsoft sẽ sử dụng công nghệ Advanced Packaging của Intel Foundry, cụ thể là EMIB. Điều này biến Microsoft thành công ty đầu tiên công bố kế hoạch ứng dụng EMIB cho các dòng chip Azure tự thiết kế, đánh dấu một cột mốc quan trọng đối với Intel Foundry.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/intel/376571-why-intels-emib-matters-for-microsoft-azure/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/Intel-Azure-partnership-announcement.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-11-21T01:02:19.912221+00:00",
+    "publishedAt": "2026-11-20T14:00:03+00:00"
   }
 ]
