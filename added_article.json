@@ -1,33 +1,5 @@
 [
   {
-    "title_org": "NVIDIA Vera: Rebuilding the CPU for Agentic AI",
-    "title_vietnamese": "NVIDIA Vera: Tái thiết kế CPU dành cho AI tự hành (Agentic AI)",
-    "summary_org": "NVIDIA has introduced the Vera CPU, a server processor specifically engineered to meet the demands of agentic AI workloads where language models continuously observe and reason. Based on presentations at Hot Chips 2026, this processor marks a significant architectural shift in how CPUs support advanced artificial intelligence applications.",
-    "summary_vietnamese": "NVIDIA vừa giới thiệu CPU Vera, một bộ xử lý máy chủ được thiết kế chuyên biệt để đáp ứng nhu cầu của các khối lượng công việc AI tự hành (agentic AI), nơi các mô hình ngôn ngữ liên tục quan sát và suy luận. Dựa trên các bài thuyết trình tại sự kiện Hot Chips 2026, bộ xử lý này đánh dấu một bước chuyển dịch kiến trúc quan trọng trong cách CPU hỗ trợ các ứng dụng trí tuệ nhân tạo tiên tiến.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/events/372854-nvidia-vera-rebuilding-the-cpu-for-agentic-ai/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/No-Agent-Left-Waiting-1200x800.jpg",
-    "author": "Admin",
-    "createdAt": "2026-09-08T19:13:26.268767+00:00",
-    "publishedAt": "2026-09-08T17:00:20+00:00"
-  },
-  {
-    "title_org": "HBM’s Second Act: When Memory Starts Thinking",
-    "title_vietnamese": "Hành trình thứ hai của HBM: Khi bộ nhớ bắt đầu biết suy nghĩ",
-    "summary_org": "Samsung's upcoming presentation at Hot Chips 2026 highlights how the base die in High Bandwidth Memory (HBM) will evolve beyond a simple communication layer. Traditionally used to connect stacked DRAM to processors, the HBM base die is now shifting toward utilizing advanced logic processes to integrate more processing capabilities.",
-    "summary_vietnamese": "Bài thuyết trình sắp tới của Samsung tại sự kiện Hot Chips 2026 nhấn mạnh cách lớp đế (base die) trong bộ nhớ Băng thông Cao (HBM) sẽ tiến hóa vượt ra ngoài chức năng là một lớp truyền thông đơn thuần. Vốn dĩ trước đây chỉ được dùng để kết nối DRAM xếp chồng với bộ xử lý, lớp đế HBM giờ đây đang chuyển hướng sang việc tận dụng các tiến trình logic tiên tiến để tích hợp thêm nhiều khả năng xử lý hơn.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/events/372843-372843/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/08/HBM-Base-Die-Revolution-1200x675.jpg",
-    "author": "Admin",
-    "createdAt": "2026-09-08T22:19:12.180912+00:00",
-    "publishedAt": "2026-09-08T21:00:55+00:00"
-  },
-  {
     "title_org": "The Intersection Of AI And Voice At The Edge",
     "title_vietnamese": "Điểm giao thoa giữa Trí tuệ nhân tạo và Giọng nói tại biên (Edge)",
     "summary_org": "This article explores how advancements in natural language processing are set to fundamentally transform how humans interact with machines. It highlights the growing integration of AI and voice technologies at the edge, enabling smarter and more intuitive device interfaces.",
@@ -6998,5 +6970,33 @@
     "author": "Phương Nguyên",
     "createdAt": "2026-11-21T19:03:20.085351+00:00",
     "publishedAt": "2026-09-08T14:55:00+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Manu Gulati of Velaura AI",
+    "title_vietnamese": "Phỏng vấn CEO Manu Gulati của Velaura AI",
+    "summary_org": "This article features an interview with Manu Gulati, Co-founder and Chief Development Officer at Velaura AI and a renowned silicon architect with experience at Apple, Google, Qualcomm, and NUVIA. The discussion highlights his extensive industry background in high-performance silicon engineering and leadership.",
+    "summary_vietnamese": "Bài viết này có nội dung phỏng vấn Manu Gulati, Đồng sáng lập kiêm Giám đốc Phát triển của Velaura AI và là một kiến trúc sư silicon nổi tiếng từng làm việc tại Apple, Google, Qualcomm và NUVIA. Cuộc phỏng vấn nhấn mạnh bề dày kinh nghiệm của ông trong lĩnh vực kỹ thuật và lãnh đạo thiết kế silicon hiệu năng cao.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/376481-ceo-interview-with-manu-gulati-of-velaura-ai/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/Manu-Gulati-AI-Interview-Cover.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-11-22T21:27:57.539148+00:00",
+    "publishedAt": "2026-11-22T18:00:42+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Tobias Pohl of CELUS",
+    "title_vietnamese": "Phỏng vấn CEO Tobias Pohl của CELUS",
+    "summary_org": "Tobias Pohl is the co-founder and CEO of CELUS, a Munich-based company that develops an AI-powered electronics design platform serving over 70,000 engineers. With a background in mechanical and automotive engineering from the Technical University of Munich, he has extensive experience in automotive research, software development, and custom engineering projects.",
+    "summary_vietnamese": "Tobias Pohl là đồng sáng lập kiêm CEO của CELUS, một công ty có trụ sở tại Munich chuyên phát triển nền tảng thiết kế điện tử tích hợp AI phục vụ hơn 70.000 kỹ sư. Với nền tảng học vấn về kỹ thuật cơ khí và ô tô tại Đại học Kỹ thuật Munich, ông có nhiều kinh nghiệm trong các dự án nghiên cứu ô tô, phát triển phần mềm và kỹ thuật tùy chỉnh.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/376273-ceo-interview-with-tobias-pohl-of-celus/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/Tobias-Pohl_-AI-powered-electronics-design-1.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-11-22T21:28:01.903060+00:00",
+    "publishedAt": "2026-11-22T16:00:19+00:00"
   }
 ]

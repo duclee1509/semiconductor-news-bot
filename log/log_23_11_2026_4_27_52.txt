@@ -1,0 +1,22 @@
+Article: https://semiwiki.com/ceo-interviews/376481-ceo-interview-with-manu-gulati-of-velaura-ai/
+Title: CEO Interview with Manu Gulati of Velaura AI
+Summary: <p>Manu Gulati serves as Co-founder &#38; Chief Development Officer at Velaura AI. Manu is an industry-renowned silicon architect and engineering leader whose work spans Apple, Google, Qualcomm, an...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Manu-Gulati-AI-Interview-Cover.jpg
+Author: Daniel Nenni
+Published date: Sun, 22 Nov 2026 18:00:42 +0000
+
+Article: https://semiwiki.com/ceo-interviews/376273-ceo-interview-with-tobias-pohl-of-celus/
+Title: CEO Interview with Tobias Pohl of CELUS
+Summary: <p><span style="font-weight: 400;">Tobias Pohl is co-founder and CEO of CELUS, a Munich-based company that builds an AI-powered electronics design platform used by more than 70,000 engineers. He st...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Tobias-Pohl_-AI-powered-electronics-design-1.jpg
+Author: Daniel Nenni
+Published date: Sun, 22 Nov 2026 16:00:19 +0000
+
+Article: https://semiwiki.com/ceo-interviews/376107-ceo-interview-with-dr-sameer-pawanekar-of-ramtera/
+Title: CEO Interview with Dr. Sameer Pawanekar of Ramtera
+Summary: <p>Dr. Sameer Pawanekar is the founder and CEO of Ramtera Inc., an EDA company building physical design and physical verification software. He is the architect and principal developer of both Ramte...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Ramtera-CEO-Interview_-Physical-Design.jpg
+Author: Daniel Nenni
+Published date: Sun, 22 Nov 2026 14:00:58 +0000
+
+Completed! Added a total of 2 new news items to Firebase.
