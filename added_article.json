@@ -1,19 +1,5 @@
 [
   {
-    "title_org": "The Intersection Of AI And Voice At The Edge",
-    "title_vietnamese": "Điểm giao thoa giữa Trí tuệ nhân tạo và Giọng nói tại biên (Edge)",
-    "summary_org": "This article explores how advancements in natural language processing are set to fundamentally transform how humans interact with machines. It highlights the growing integration of AI and voice technologies at the edge, enabling smarter and more intuitive device interfaces.",
-    "summary_vietnamese": "Bài viết khám phá cách các tiến bộ trong xử lý ngôn ngữ tự nhiên sẽ thay đổi căn bản cách con người giao tiếp với máy móc. Nội dung nhấn mạnh sự tích hợp ngày càng tăng của công nghệ AI và giọng nói tại biên (edge), cho phép tạo ra các giao diện thiết bị thông minh và trực quan hơn.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/the-intersection-of-ai-and-voice-at-the-edge/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-7.26.40-PM.png",
-    "author": "Ed Sperling",
-    "createdAt": "2026-09-09T08:33:42.460171+00:00",
-    "publishedAt": "2026-09-09T07:15:07+00:00"
-  },
-  {
     "title_org": "When Digital Forensics Reaches The Hardware Layer",
     "title_vietnamese": "Khi Khoa học pháp y kỹ thuật số chạm đến tầng phần cứng",
     "summary_org": "Security controls are increasingly being implemented in ways that restrict access to vital information needed during investigations. This creates new challenges for digital forensics as it must now reach down to the hardware layer to uncover evidence. Consequently, investigators need to adapt to modern hardware-level security measures.",
@@ -6998,5 +6984,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-11-22T21:28:01.903060+00:00",
     "publishedAt": "2026-11-22T16:00:19+00:00"
+  },
+  {
+    "title_org": "CEO Interview with Dr. Sameer Pawanekar of Ramtera",
+    "title_vietnamese": "Phỏng vấn CEO Dr. Sameer Pawanekar của Ramtera",
+    "summary_org": "This article features an interview with Dr. Sameer Pawanekar, founder and CEO of Ramtera Inc., an EDA company specializing in physical design and verification software. He discusses his background and development of core company products including LVR for DRC, LVS, and ERC, as well as PRE for place-and-route.",
+    "summary_vietnamese": "Bài viết này giới thiệu cuộc phỏng vấn với Tiến sĩ Sameer Pawanekar, nhà sáng lập kiêm CEO của Ramtera Inc., một công ty EDA chuyên về phần mềm thiết kế vật lý và kiểm tra vật lý. Ông thảo luận về nền tảng chuyên môn và quá trình phát triển các sản phẩm cốt lõi của công ty, bao gồm LVR dùng cho DRC, LVS và ERC, cũng như PRE dùng cho place-and-route.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/ceo-interviews/376107-ceo-interview-with-dr-sameer-pawanekar-of-ramtera/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/Ramtera-CEO-Interview_-Physical-Design.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-11-23T05:24:06.556215+00:00",
+    "publishedAt": "2026-11-22T14:00:58+00:00"
   }
 ]

@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/ceo-interviews/376107-ceo-interview-with-dr-sameer-pawanekar-of-ramtera/
+Title: CEO Interview with Dr. Sameer Pawanekar of Ramtera
+Summary: <p>Dr. Sameer Pawanekar is the founder and CEO of Ramtera Inc., an EDA company building physical design and physical verification software. He is the architect and principal developer of both Ramte...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Ramtera-CEO-Interview_-Physical-Design.jpg
+Author: Daniel Nenni
+Published date: Sun, 22 Nov 2026 14:00:58 +0000
+
+Completed! Added a total of 1 new news items to Firebase.
