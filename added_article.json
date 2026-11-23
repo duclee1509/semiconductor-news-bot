@@ -1,33 +1,5 @@
 [
   {
-    "title_org": "When Digital Forensics Reaches The Hardware Layer",
-    "title_vietnamese": "Khi Khoa học pháp y kỹ thuật số chạm đến tầng phần cứng",
-    "summary_org": "Security controls are increasingly being implemented in ways that restrict access to vital information needed during investigations. This creates new challenges for digital forensics as it must now reach down to the hardware layer to uncover evidence. Consequently, investigators need to adapt to modern hardware-level security measures.",
-    "summary_vietnamese": "Các biện pháp kiểm soát bảo mật đang ngày càng được triển khai theo cách hạn chế quyền truy cập vào các thông tin quan trọng cần thiết trong quá trình điều tra. Điều này tạo ra những thách thức mới cho khoa học pháp y kỹ thuật số khi giờ đây họ phải thâm nhập sâu xuống tầng phần cứng để thu thập bằng chứng. Do đó, các điều tra viên cần phải thích ứng với các biện pháp bảo mật cấp độ phần cứng hiện đại.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/when-digital-forensics-reaches-the-hardware-layer/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/Security-AdobeStock_328668955-01-29-25-scaled.jpeg?fit=2560%2C1716&ssl=1",
-    "author": "Marc Witteman",
-    "createdAt": "2026-09-09T08:34:22.163355+00:00",
-    "publishedAt": "2026-09-09T07:03:23+00:00"
-  },
-  {
-    "title_org": "Can GPUs Continue To Dominate AI Compute?",
-    "title_vietnamese": "GPU có thể tiếp tục thống trị điện toán AI không?",
-    "summary_org": "Google, Amazon, and OpenAI are developing their own competitive offerings to process AI workloads. As a result, these alternatives are gaining market share and challenging the long-standing dominance of GPUs in AI compute.",
-    "summary_vietnamese": "Google, Amazon và OpenAI đang phát triển các giải pháp cạnh tranh của riêng họ để xử lý khối lượng công việc AI. Nhờ đó, các giải pháp thay thế này đang giành được thị phần và thách thức sự thống trị lâu đời của GPU trong lĩnh vực điện toán AI.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/can-gpus-continue-to-dominate-ai-compute/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/09/Tate_Can-GPUs-Dominate-AI-Compute-fig1.webp?fit=1430%2C953&ssl=1",
-    "author": "Geoff Tate",
-    "createdAt": "2026-09-09T08:34:25.223519+00:00",
-    "publishedAt": "2026-09-09T07:01:53+00:00"
-  },
-  {
     "title_org": "Token Costs Are Becoming The New EDA Budget Battle",
     "title_vietnamese": "Chi phí Token đang trở thành cuộc chiến ngân sách EDA mới",
     "summary_org": "The rising cost per token is causing electronic design automation (EDA) budgets to expand rapidly. As artificial intelligence integration deepens in chip design, the industry faces uncertainty regarding how these escalating computational and token expenses will impact future financial planning.",
@@ -6998,5 +6970,33 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-11-23T05:24:06.556215+00:00",
     "publishedAt": "2026-11-22T14:00:58+00:00"
+  },
+  {
+    "title_org": "ChipAgents Webinar – How a Multi-Agent Platform Accelerates Functional and Formal Verification",
+    "title_vietnamese": "Webinar ChipAgents: Nền tảng đa tác nhân (Multi-Agent) tăng tốc xác thực chức năng và hình thức như thế nào",
+    "summary_org": "Functional verification consumes the majority of front-end design effort, leading to lengthy planning, simulation, debugging, and iteration cycles. To address the growing complexity of modern chip designs, the webinar introduces an AI-powered multi-agent platform designed to accelerate verification while enhancing overall quality.",
+    "summary_vietnamese": "Xác thực chức năng chiếm phần lớn nỗ lực thiết kế phần đầu, dẫn đến các chu kỳ lập kế hoạch, mô phỏng, gỡ lỗi và lặp đi lặp lại kéo dài. Để giải quyết độ phức tạp ngày càng tăng của các thiết kế chip hiện đại, buổi hội thảo trực tuyến giới thiệu một nền tảng đa tác nhân tích hợp AI được thiết kế để tăng tốc quá trình xác thực đồng thời nâng cao chất lượng tổng thể.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/events/376394-chipagents-webinar-how-a-multi-agent-platform-accelerates-functional-and-formal-verification/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/ChipAgents-Webinar-–-How-a-Multi-Agent-Platform-Accelerates-Functional-and-Formal-Verification.png",
+    "author": "Mike Gianfagna",
+    "createdAt": "2026-11-23T19:45:37.089325+00:00",
+    "publishedAt": "2026-11-23T16:00:59+00:00"
+  },
+  {
+    "title_org": "Ông Trump giục Nvidia phục chức cho Jensen Huang",
+    "title_vietnamese": "",
+    "summary_org": "Tổng thống Donald Trump đã lên tiếng kêu gọi Nvidia phục chức CEO cho Jensen Huang. Động thái này được cho là mang lại lợi ích chiến lược cho cả tập đoàn công nghệ này lẫn nền kinh tế Mỹ.",
+    "summary_vietnamese": "",
+    "source": "VnExpress",
+    "url": "https://vnexpress.net/ong-trump-giuc-nvidia-phuc-chuc-cho-jensen-huang-5148098.html",
+    "category": "VietNam",
+    "isPolicy": false,
+    "thumbnail": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/2026t135606z-rc2o2lab5l5u-rtrm-2919-7444-1795423725.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=IOe1fFJ_98RlvWu5fcrSqw",
+    "author": "Phiên An",
+    "createdAt": "2026-11-23T19:45:53.418067+00:00",
+    "publishedAt": "2026-11-23T09:14:15+00:00"
   }
 ]

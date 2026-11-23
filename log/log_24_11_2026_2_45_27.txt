@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/ai-changes-what-chip-engineers-need-to-learn/
+Title: AI Changes What Chip Engineers Need To Learn
+Summary: <p>AI is automating routine design tasks, shifting engineering education toward architecture, specifications, verification, and the ability to evaluate results.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/AdobeStock_532528757-scaled.jpeg?fit=2560%2C1440&ssl=1
+Author: Brian Bailey
+Published date: Mon, 23 Nov 2026 08:01:13 +0000
+
+Article: https://semiwiki.com/artificial-intelligence/376608-2000-zero-zero-party-over-oops-out-of-time/
+Title: 2000 Zero Zero, Party Over — Oops, Out of Time
+Summary: <p>Money fuels a high-tech bubble. Early money comes from investors betting on a market that doesn’t exist yet. Mike Markkula put up roughly $250,000 to incorporate Apple and launch the Apple II, a...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Fiber-optics-to-GPU-racks-at-midnight.jpg
+Author: Jonah McLeod
+Published date: Mon, 23 Nov 2026 18:00:01 +0000
+
+Article: https://semiwiki.com/events/376394-chipagents-webinar-how-a-multi-agent-platform-accelerates-functional-and-formal-verification/
+Title: ChipAgents Webinar – How a Multi-Agent Platform Accelerates Functional and Formal Verification
+Summary: <p style="font-weight: 400;">We all know that functional verification consumes most of the front-end design effort. Most teams face hours of planning, days of simulation and debugging, and weeks of...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/ChipAgents-Webinar-–-How-a-Multi-Agent-Platform-Accelerates-Functional-and-Formal-Verification.png
+Author: Mike Gianfagna
+Published date: Mon, 23 Nov 2026 16:00:59 +0000
+
+Article: https://vnexpress.net/viet-nam-nen-tap-trung-vao-chip-chuyen-dung-5147936.html
+Title: Việt Nam nên tập trung vào chip chuyên dụng
+Summary: TP HCMBộ trưởng Khoa học và Công nghệ Vũ Hải Quân cho rằng lĩnh vực bán dẫn Việt Nam nên hướng đến chip chuyên dụng thay vì chip phổ thông.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/11/23/wm1-wm1-dsc02512-jpg-1795416300-9759-1795416395.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=z1kdg6Onk2Vr7Osb0IT6hg
+Author: Bảo Lâm
+Published date: Mon, 23 Nov 2026 06:20:13 +0000
+
+Article: https://vnexpress.net/ong-trump-giuc-nvidia-phuc-chuc-cho-jensen-huang-5148098.html
+Title: Ông Trump giục Nvidia phục chức cho Jensen Huang
+Summary: Tổng thống Donald Trump liên tục kêu gọi Nvidia khôi phục chức vụ CEO cho Jensen Huang vì lợi ích của tập đoàn này lẫn nước Mỹ.
+Thumbnail: https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/2026t135606z-rc2o2lab5l5u-rtrm-2919-7444-1795423725.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=IOe1fFJ_98RlvWu5fcrSqw
+Author: Phiên An
+Published date: Mon, 23 Nov 2026 09:14:15 +0000
+
+Completed! Added a total of 2 new news items to Firebase.
