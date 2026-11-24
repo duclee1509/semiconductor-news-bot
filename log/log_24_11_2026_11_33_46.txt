@@ -1,0 +1,43 @@
+Article: https://semiengineering.com/hybrid-bonded-3d-nand-boosts-analog-in-memory-compute-density/
+Title: Hybrid-Bonded 3D NAND Boosts Analog In-Memory Compute Density (IBM, Micron, U. of Patras)
+Summary: <p>Researchers at IBM Research, Micron Technology, and University of Patras published “3D-NAND-CIM: A Hybrid-Bonded 3D-NAND-Flash-based Analog In-Memory-Compute macro offering 4.8M weights/mm².” Fi...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/Blue-circuit-board-06-22-26-AdobeStock_443617467-scaled.jpeg
+Author: Technical Paper Link
+Published date: Mon, 23 Nov 2026 21:35:38 +0000
+
+Article: https://semiengineering.com/e-beam-stitching-errors-increase-loss-in-soi-waveguides-amo-gmbh-rwth-aachen/
+Title: E-Beam Stitching Errors Increase Loss In SOI Waveguides (AMO GmbH, RWTH Aachen)
+Summary: <p>Researchers at AMO GmbH and RWTH Aachen University published “The Impact of Field Stitching on Optical Losses in SOI Waveguides Fabricated via Electron Beam Lithography.” Abstract &#8220;Electro...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_790988626-wafer-scaled.jpeg
+Author: Technical Paper Link
+Published date: Mon, 23 Nov 2026 21:34:45 +0000
+
+Article: https://semiengineering.com/measuring-verification-gaps-in-llm-generated-post-quantum-hardware-lucid-eyl/
+Title: Measuring Verification Gaps In LLM-Generated Post-Quantum Hardware (Lucid, EYL)
+Summary: <p>Researchers at Lucid Motors and EYL Inc. published “From FIPS to FPGA with LLM Agents: Measuring What Tests and Reviews Miss in Post-Quantum Cryptographic Hardware.” Abstract &#8220;As LLM agent...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_362075371-security-scaled.jpeg
+Author: Technical Paper Link
+Published date: Mon, 23 Nov 2026 21:19:13 +0000
+
+Article: https://semiengineering.com/ai-changes-what-chip-engineers-need-to-learn/
+Title: AI Changes What Chip Engineers Need To Learn
+Summary: <p>AI is automating routine design tasks, shifting engineering education toward architecture, specifications, verification, and the ability to evaluate results.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/06/AdobeStock_532528757-scaled.jpeg?fit=2560%2C1440&ssl=1
+Author: Brian Bailey
+Published date: Mon, 23 Nov 2026 08:01:13 +0000
+
+Article: https://semiwiki.com/artificial-intelligence/376608-2000-zero-zero-party-over-oops-out-of-time/
+Title: 2000 Zero Zero, Party Over — Oops, Out of Time
+Summary: <p>Money fuels a high-tech bubble. Early money comes from investors betting on a market that doesn’t exist yet. Mike Markkula put up roughly $250,000 to incorporate Apple and launch the Apple II, a...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Fiber-optics-to-GPU-racks-at-midnight.jpg
+Author: Jonah McLeod
+Published date: Mon, 23 Nov 2026 18:00:01 +0000
+
+Article: https://vnexpress.net/viet-nam-nen-tap-trung-vao-chip-chuyen-dung-5147936.html
+Title: Việt Nam nên tập trung vào chip chuyên dụng
+Summary: TP HCMBộ trưởng Khoa học và Công nghệ Vũ Hải Quân cho rằng lĩnh vực bán dẫn Việt Nam nên hướng đến chip chuyên dụng thay vì chip phổ thông.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/11/23/wm1-wm1-dsc02512-jpg-1795416300-9759-1795416395.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=z1kdg6Onk2Vr7Osb0IT6hg
+Author: Bảo Lâm
+Published date: Mon, 23 Nov 2026 06:20:13 +0000
+
+Completed! Added a total of 6 new news items to Firebase.
