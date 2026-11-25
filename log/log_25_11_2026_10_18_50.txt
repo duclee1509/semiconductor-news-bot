@@ -1,0 +1,43 @@
+Article: https://semiengineering.com/ai-vs-high-level-synthesis/
+Title: AI Vs. High-Level Synthesis
+Summary: <p>AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results?</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/11/Screenshot-2026-11-23-at-6.57.13-PM.png?fit=912%2C1058&ssl=1
+Author: Brian Bailey
+Published date: Tue, 24 Nov 2026 08:11:34 +0000
+
+Article: https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/
+Title: Hope Is Not A Strategy: What First-Silicon Success Really Takes
+Summary: <p>Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1748350067-08-26-tgreen-scaled.jpeg?fit=2560%2C1280&ssl=1
+Author: Fabiana Muto
+Published date: Tue, 24 Nov 2026 08:08:01 +0000
+
+Article: https://semiwiki.com/eda/moores-lab-ai/375754-moores-lab-ais-benchmark-push-measuring-whether-ai-can-actually-verify-chips/
+Title: Moores Lab AI’s Benchmark Push: Measuring Whether AI Can Actually Verify Chips
+Summary: <p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/10/AI-Inspection-Reveals-Hidden-Chip-Bugs.jpg
+Author: Daniel Nenni
+Published date: Tue, 24 Nov 2026 18:00:52 +0000
+
+Article: https://semiwiki.com/eda/376542-why-siemens-breker-deal-matters-for-the-next-generation-of-ai-chips/
+Title: Why Siemens’ Breker Deal Matters for the Next Generation of AI Chips
+Summary: <p>A chip can pass tests for every major component and still run into trouble when those components work together. A processor, a memory controller and an accelerator can each behave as designed, y...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Siemens-Breker-deal-prevents-costly-chip-bugs.jpg
+Author: Daniel Nenni
+Published date: Tue, 24 Nov 2026 16:00:26 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/vsora/376702-why-peak-flops-is-the-wrong-yardstick-for-inference-hardware/
+Title: Why Peak FLOPS is the Wrong Yardstick for Inference Hardware
+Summary: <p>For a decade we have ranked AI processors by peak FLOPS. The bigger the compute engine, the better the chip. That made sense when the defining workload was training. It makes much less sense now...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Janus-of-Inference-Hardware.jpg
+Author: Lauro Rizzatti
+Published date: Tue, 24 Nov 2026 14:00:02 +0000
+
+Article: https://vnexpress.net/jensen-huang-nvidia-khong-can-ke-hoach-ke-nhiem-5148520.html
+Title: Jensen Huang: Nvidia không cần kế hoạch kế nhiệm
+Summary: Trong cuộc họp đầu tiên với nhân viên từ khi được tái bổ nhiệm, Jensen Huang nói đang phải trị liệu tâm lý nhưng khẳng định Nvidia đã được xây dựng để không cần lập kế hoạch kế nhiệm.
+Thumbnail: https://vcdn1-kinhdoanh.vnecdn.net/2026/11/25/afp-c9q39qc-v1-highres-1795558-2808-2829-1795558472.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=PVp-54go4wmScyFQFICSxw
+Author: Hà Thu
+Published date: Tue, 24 Nov 2026 22:22:32 +0000
+
+Completed! Added a total of 6 new news items to Firebase.
