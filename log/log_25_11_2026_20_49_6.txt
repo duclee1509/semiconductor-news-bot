@@ -1,0 +1,15 @@
+Article: https://semiengineering.com/blog-review-nov-25-3/
+Title: Blog Review: Nov. 25
+Summary: <p>PCIe SVC; co-packaged optics; liquid-cooled data center model; LUT-GEMM; automotive traceability.</p>
+Thumbnail: https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_1595867352-scaled.jpeg?fit=2560%2C1143&ssl=1
+Author: Jesse Allen
+Published date: Wed, 25 Nov 2026 08:01:39 +0000
+
+Article: https://semiengineering.com/chip-industry-technical-paper-roundup-nov-25-2/
+Title: Chip Industry Technical Paper Roundup: Nov. 25
+Summary: <p>Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; ...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1748350067-08-26-tgreen-scaled.jpeg?fit=2560%2C1280&ssl=1
+Author: Linda Christensen
+Published date: Wed, 25 Nov 2026 08:01:01 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

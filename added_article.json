@@ -1,19 +1,5 @@
 [
   {
-    "title_org": "Reducing HBM ECC Controller Overhead For AI Inference (RPI, IBM)",
-    "title_vietnamese": "Giảm thiểu chi phí bộ điều khiển HBM ECC cho suy luận AI (RPI, IBM)",
-    "summary_org": "Researchers from Rensselaer Polytechnic Institute and IBM have introduced REACH, a controller-managed long-span ECC solution designed for High-Bandwidth Memory (HBM). This approach addresses the high costs of HBM by providing stronger controller protection to handle a wider range of device error rates in AI inference workloads.",
-    "summary_vietnamese": "Các nhà nghiên cứu từ Viện Bách khoa Rensselaer (RPI) và IBM đã giới thiệu REACH, một giải pháp ECC khoảng cách dài do bộ điều khiển quản lý được thiết kế cho High-Bandwidth Memory (HBM). Phương pháp này giải quyết vấn đề chi phí cao của HBM bằng cách cung cấp khả năng bảo vệ tốt hơn từ bộ điều khiển để xử lý nhiều loại tỷ lệ lỗi thiết bị trong các tác vụ suy luận AI.",
-    "source": "Semiconductor Engineering",
-    "url": "https://semiengineering.com/reducing-hbm-ecc-controller-overhead-for-ai-inference-rpi-ibm/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1748350067-08-26-tgreen-scaled.jpeg",
-    "author": "Technical Paper Link",
-    "createdAt": "2026-09-11T22:10:28.788350+00:00",
-    "publishedAt": "2026-09-11T21:43:18+00:00"
-  },
-  {
     "title_org": "Molybdenum Quasi Phase-Only Masks Improve EUV Imaging (NYCU, TSMC)",
     "title_vietnamese": "Mặt nạ pha quasi Molybdenum cải thiện quá trình chụp ảnh EUV (NYCU, TSMC)",
     "summary_org": "Researchers from National Yang Ming Chiao Tung University and TSMC have published a paper on using molybdenum-based quasi phase-only masks (quasi-POMs) to improve EUV imaging. The proposed technology offers high reflectivity and minimal absorption, marking a paradigm shift in EUV phase-shift mask technology through electromagnetic simulations.",
@@ -6998,5 +6984,19 @@
     "author": "Hà Thu",
     "createdAt": "2026-11-25T03:19:25.710982+00:00",
     "publishedAt": "2026-11-24T22:22:32+00:00"
+  },
+  {
+    "title_org": "Blog Review: Nov. 25",
+    "title_vietnamese": "Điểm tin Blog: Ngày 25 tháng 11",
+    "summary_org": "This blog review covers several advanced semiconductor and computing topics, including PCIe SVC, co-packaged optics, and liquid-cooled data center models. It also highlights technical concepts such as LUT-GEMM and automotive traceability in modern hardware design.",
+    "summary_vietnamese": "Bài tổng hợp blog này đề cập đến một số chủ đề tiên tiến về bán dẫn và điện toán, bao gồm PCIe SVC, quang học đồng đóng gói (co-packaged optics) và mô hình trung tâm dữ liệu làm mát bằng chất lỏng. Bài viết cũng làm nổi bật các khái niệm kỹ thuật như LUT-GEMM và khả năng truy xuất nguồn gốc trong ngành ô tô đối với thiết kế phần cứng hiện đại.",
+    "source": "Semiconductor Engineering",
+    "url": "https://semiengineering.com/blog-review-nov-25-3/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_1595867352-scaled.jpeg?fit=2560%2C1143&ssl=1",
+    "author": "Jesse Allen",
+    "createdAt": "2026-11-25T13:49:11.368074+00:00",
+    "publishedAt": "2026-11-25T08:01:39+00:00"
   }
 ]
