@@ -1,0 +1,36 @@
+Article: https://semiengineering.com/chip-industry-technical-paper-roundup-nov-25-2/
+Title: Chip Industry Technical Paper Roundup: Nov. 25
+Summary: <p>Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; ...
+Thumbnail: https://semiengineering.com/wp-content/uploads/2026/08/AdobeStock_1748350067-08-26-tgreen-scaled.jpeg?fit=2560%2C1280&ssl=1
+Author: Linda Christensen
+Published date: Wed, 25 Nov 2026 08:01:01 +0000
+
+Article: https://semiwiki.com/artificial-intelligence/376841-nvidia-what-really-happened-behind-closed-doors-between-november-11-and-november-23/
+Title: NVIDIA: What Really Happened Behind Closed Doors Between November 11 and November 23?
+Summary: <p><em><strong>An investigative hypothesis for semiconductor ecosystem stakeholders, financial journalists, corporate-governance experts, institutional investors, and serious investigative sleuths....
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/nvidia_linkedin_article_graphic-Nov-24-2026.png
+Author: Kalar Rajendiran
+Published date: Wed, 25 Nov 2026 21:30:36 +0000
+
+Article: https://semiwiki.com/eda/yieldwerx/376626-cxo-interview-with-osman-chaudry-of-yieldwerx/
+Title: CXO Interview with Osman Chaudry of yieldWerx
+Summary: <div>Osman Chaudry is a business and technology leader with over 25 years of experience in software development, investment management, and e-commerce. With a Bachelor of Engineering (BEng) in Info...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Semiconductor-Data-Interview-Cover.jpg
+Author: Daniel Nenni
+Published date: Wed, 25 Nov 2026 18:00:37 +0000
+
+Article: https://semiwiki.com/eda/keysight-eda/376442-keysight-unites-rf-and-photonic-design-for-tower-semiconductor/
+Title: Keysight Unites RF and Photonic Design for Tower Semiconductor
+Summary: <p>Keysight Technologies has certified its Advanced Design System (ADS) Photonic Designer for Tower Semiconductor’s PH18 silicon photonics process design kits, bringing electronic and photonic circ...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Keysight-Unites-RF-and-Photonic-Design.jpg
+Author: Daniel Nenni
+Published date: Wed, 25 Nov 2026 16:00:42 +0000
+
+Article: https://semiwiki.com/eda/pdf-solutions/376678-pdf-solutions-what-happens-now-that-the-puck-has-arrived/
+Title: PDF Solutions: What Happens Now That the Puck Has Arrived?
+Summary: <p><em>The forces that could begin turning a decade of infrastructure investment into accelerating growth</em></p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/Hockey-puck-on-a-semiconductor-wafer.png
+Author: Admin
+Published date: Wed, 25 Nov 2026 14:00:07 +0000
+
+Completed! Added a total of 5 new news items to Firebase.
