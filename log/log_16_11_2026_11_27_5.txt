@@ -1,8 +1,0 @@
-Article: https://vnexpress.net/chip-nvidia-hon-chip-trung-quoc-the-nao-5144937.html
-Title: Chip Nvidia hơn chip Trung Quốc thế nào?
-Summary: Để vận hành hiệu quả, chip AI cần sức mạnh tính toán, bộ nhớ tốc độ cao và phần mềm điều khiển, đều là những mắt xích Trung Quốc còn hạn chế.
-Thumbnail: https://i2-vnexpress.vnecdn.net/2026/11/15/Thumbngang8-1794742005-4281-1794742796.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=sqwSkDwfjwC5CMfMWZivYA
-Author: VnExpress
-Published date: Sun, 15 Nov 2026 23:00:00 +0000
-
-Completed! Added a total of 1 new news items to Firebase.

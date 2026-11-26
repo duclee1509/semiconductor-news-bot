@@ -1,0 +1,22 @@
+Article: https://semiwiki.com/eda/siemens-eda/376672-from-aa-to-usb-c-follow-shrouks-pcb-build-with-a-free-60-day-trial/
+Title: From AA to USB-C: Follow Shrouk’s PCB Build with a Free 60-Day Trial
+Summary: <p>What if the next time your favorite gadget ran out of juice, you could plug in a USB-C cable? That’s the idea behind Shrouk’s latest project. She’s designing a compact, rechargeable module aroun...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/AA-to-USB-C-PCB-concept.jpg
+Author: Daniel Nenni
+Published date: Thu, 26 Nov 2026 16:00:29 +0000
+
+Article: https://semiwiki.com/3dic/376684-a-defect-is-not-yet-a-scrap-decision/
+Title: A Defect Is Not Yet a Scrap Decision
+Summary: <p><em>How advanced packaging connects inspection, process control, repair, and product acceptance</em></p>
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/A_defect_is_not_Scrap.jpg
+Author: Moh Kolb
+Published date: Thu, 26 Nov 2026 14:00:20 +0000
+
+Article: https://vnexpress.net/ong-lon-ban-dan-mo-lab-thiet-ke-vi-mach-dau-tien-o-dai-hoc-5148934.html
+Title: 'Ông lớn' bán dẫn mở lab thiết kế vi mạch đầu tiên ở đại học
+Summary: Phòng thí nghiệm thiết kế vi mạch tiên tiến tại trường Đại học Bách khoa TP HCM là lab đầu tiên Marvell đầu tư cho một cơ sở giáo dục ở Việt Nam.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/11/26/dsc1163-1795626131-9836-1795627490.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=v17p1p_zy7sI5zYKgg1BKg
+Author: Lệ Nguyễn
+Published date: Thu, 26 Nov 2026 08:03:18 +0000
+
+Completed! Added a total of 3 new news items to Firebase.
