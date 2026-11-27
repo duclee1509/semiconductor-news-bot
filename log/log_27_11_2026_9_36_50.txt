@@ -1,0 +1,8 @@
+Article: https://semiwiki.com/eda/siemens-eda/376688-four-signoff-assumptions-that-dont-survive-the-move-to-3d-ics/
+Title: Four signoff assumptions that don’t survive the move to 3D ICs
+Summary: <p>Hybrid bonding and tight die stacking break habits that served planar design well. Here is where die-by-die thinking goes wrong in parasitic extraction, and what an assembly-aware flow does inst...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/fig1-hybrid-bonding.jpg
+Author: Admin
+Published date: Thu, 26 Nov 2026 18:00:15 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

@@ -1,19 +1,5 @@
 [
   {
-    "title_org": "CAST Moves the Full TCP/IP Stack into Hardware at 100 Gbps",
-    "title_vietnamese": "CAST đưa toàn bộ ngăn xếp TCP/IP vào phần cứng ở tốc độ 100 Gbps",
-    "summary_org": "CAST has introduced TCPIP-100G, a synthesizable IP core that implements a complete TCP/IP stack in hardware for ASICs and FPGAs. The core is designed to handle transmission and reception at up to 100 Gbps independently without relying on a host processor. This hardware-based approach goes beyond a simple checksum engine or network interface, offering high-speed networking capabilities.",
-    "summary_vietnamese": "CAST đã giới thiệu TCPIP-100G, một IP core tổng hợp thực hiện toàn bộ ngăn xếp TCP/IP trong phần cứng cho các vi mạch ASIC và FPGA. Lõi này được thiết kế để xử lý việc truyền và nhận dữ liệu lên tới 100 Gbps một cách độc lập mà không phụ thuộc vào vi xử lý chủ. Cách tiếp cận dựa trên phần cứng này vượt xa một công cụ tính tổng kiểm tra (checksum engine) hoặc giao diện mạng đơn giản, mang lại khả năng kết nối mạng tốc độ cao.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/ip/373416-cast-moves-the-full-tcp-ip-stack-into-hardware-at-100-gbps/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/CAST_TCPIP-100G_PressFigure.png",
-    "author": "Daniel Nenni",
-    "createdAt": "2026-09-14T17:30:37.534480+00:00",
-    "publishedAt": "2026-09-14T17:00:24+00:00"
-  },
-  {
     "title_org": "Semiconductor Engineering Has a State-Continuity Problem",
     "title_vietnamese": "Ngành kỹ thuật bán dẫn đang đối mặt với vấn đề duy trì tính liên tục trạng thái",
     "summary_org": "Product realization in semiconductor development depends not only on reaching sequential engineering states, but also on preserving the critical relationships between these states from initial intent through qualification, release, and lifecycle learning. Semiconductor development is typically viewed as a disconnected sequence of activities such as architecture, design, fabrication, and packaging.",
@@ -6998,5 +6984,19 @@
     "author": "Lệ Nguyễn",
     "createdAt": "2026-11-26T18:04:05.205848+00:00",
     "publishedAt": "2026-11-26T08:03:18+00:00"
+  },
+  {
+    "title_org": "Four signoff assumptions that don’t survive the move to 3D ICs",
+    "title_vietnamese": "Bốn giả định signoff không còn phù hợp khi chuyển sang vi mạch 3D",
+    "summary_org": "Hybrid bonding and tight die stacking in 3D ICs invalidate traditional planar design assumptions, particularly in parasitic extraction. To address these challenges, design teams must transition from die-by-die thinking to an assembly-aware flow.",
+    "summary_vietnamese": "Công nghệ hybrid bonding và việc xếp chồng die khít trong vi mạch 3D đã phá vỡ các giả định thiết kế planar truyền thống, đặc biệt là trong quá trình trích xuất ký sinh (parasitic extraction). Để giải quyết những thách thức này, các nhóm thiết kế phải chuyển từ tư duy thiết kế từng die riêng lẻ sang quy trình xem xét toàn diện cụm lắp ráp (assembly-aware flow).",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/eda/siemens-eda/376688-four-signoff-assumptions-that-dont-survive-the-move-to-3d-ics/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/fig1-hybrid-bonding.jpg",
+    "author": "Admin",
+    "createdAt": "2026-11-27T02:36:55.171283+00:00",
+    "publishedAt": "2026-11-26T18:00:15+00:00"
   }
 ]
