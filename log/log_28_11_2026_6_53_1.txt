@@ -1,0 +1,15 @@
+Article: https://semiwiki.com/semiconductor-manufacturers/tsmc/376876-tsmc-reveals-details-of-a14-manufacturing-compared-to-n2p/
+Title: TSMC Reveals Details of A14 Manufacturing Compared to N2P
+Summary: <p>TSMC has revealed additional technical details about its upcoming A14 (1.4nm-class) manufacturing technology at the 2026 Europe OIP Ecosystem Workshop, providing semiconductor designers with a c...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/TSMC-NanoFlex-Pro-Architecture.jpg
+Author: Daniel Nenni
+Published date: Fri, 27 Nov 2026 16:00:24 +0000
+
+Article: https://semiwiki.com/semiconductor-manufacturers/intel/376763-intel-foundry-how-better-power-delivery-could-unlock-more-ai-performance/
+Title: Intel Foundry: How Better Power Delivery Could Unlock More AI Performance
+Summary: <p>An AI accelerator can have more transistors, more memory bandwidth, and a faster interconnect, yet still leave performance on the table if its power delivery network cannot keep up. Intel Foundr...
+Thumbnail: https://semiwiki.com/wp-content/uploads/2026/11/AI-Accelerator-Power-Delivery.jpg
+Author: Daniel Nenni
+Published date: Fri, 27 Nov 2026 14:00:11 +0000
+
+Completed! Added a total of 2 new news items to Firebase.

@@ -1,33 +1,5 @@
 [
   {
-    "title_org": "Semiconductor Engineering Has a State-Continuity Problem",
-    "title_vietnamese": "Ngành kỹ thuật bán dẫn đang đối mặt với vấn đề duy trì tính liên tục trạng thái",
-    "summary_org": "Product realization in semiconductor development depends not only on reaching sequential engineering states, but also on preserving the critical relationships between these states from initial intent through qualification, release, and lifecycle learning. Semiconductor development is typically viewed as a disconnected sequence of activities such as architecture, design, fabrication, and packaging.",
-    "summary_vietnamese": "Quá trình hiện thực hóa sản phẩm trong phát triển bán dẫn không chỉ phụ thuộc vào việc đạt được các mốc kỹ thuật tuần tự, mà còn ở việc duy trì mối quan hệ quan trọng giữa các trạng thái từ ý tưởng ban đầu đến khâu đủ điều kiện, phát hành và học hỏi trong vòng đời. Phát triển bán dẫn thường được xem là một chuỗi các hoạt động rời rạc như kiến trúc, thiết kế, chế tạo và packaging.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/eda/373472-semiconductor-engineering-has-a-state-continuity-problem/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Semi_eng_state_conti_Problem_sept11_semiwiki-1200x799.jpg",
-    "author": "Moh Kolb",
-    "createdAt": "2026-09-14T17:30:40.831201+00:00",
-    "publishedAt": "2026-09-14T15:00:24+00:00"
-  },
-  {
-    "title_org": "Samtec Puts AI’s Interconnect Bottleneck on Display at ECOC and AI Infra Summit",
-    "title_vietnamese": "Samtec Đưa Nút Thắt Cổ Tựt Kết Nối AI Lên Sân Khấu Tại Sự Kiện ECOC và AI Infra Summit",
-    "summary_org": "Samtec is demonstrating at two major 2026 events that faster AI accelerators alone are insufficient for next-generation performance. They emphasize that the copper and optical links connecting chips, boards, and data centers must also scale in bandwidth to overcome interconnect bottlenecks.",
-    "summary_vietnamese": "Samtec đang trình diễn tại hai sự kiện lớn vào năm 2026 rằng các bộ tăng tốc AI chạy nhanh hơn là chưa đủ để đạt hiệu suất thế hệ mới. Họ nhấn mạnh rằng các liên kết đồng và quang học kết nối chip, bo mạch và trung tâm dữ liệu cũng phải mở rộng băng thông để vượt qua các nút thắt cổ chai về kết nối.",
-    "source": "SemiWiki",
-    "url": "https://semiwiki.com/semiconductor-services/samtec/373513-samtec-puts-ais-interconnect-bottleneck-on-display-at-ecoc-and-ai-infra-summit/",
-    "category": "International",
-    "isPolicy": false,
-    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/09/Samtec-Connects-the-AI-Era-1200x675.jpg",
-    "author": "Daniel Nenni",
-    "createdAt": "2026-09-14T17:30:44.088695+00:00",
-    "publishedAt": "2026-09-14T13:00:33+00:00"
-  },
-  {
     "title_org": "Ưu tiên hỗ trợ doanh nghiệp trong nước nghiên cứu, làm chủ công nghệ ngành điện tử",
     "title_vietnamese": "",
     "summary_org": "Nhà nước đặt ưu tiên hàng đầu trong việc hỗ trợ các doanh nghiệp trong nước nghiên cứu và làm chủ các công nghệ lõi, công nghệ nền. Trọng tâm là các lĩnh vực chiến lược bao gồm bán dẫn, vi mạch, vật liệu điện tử và tự động hóa.",
@@ -6998,5 +6970,33 @@
     "author": "Admin",
     "createdAt": "2026-11-27T02:36:55.171283+00:00",
     "publishedAt": "2026-11-26T18:00:15+00:00"
+  },
+  {
+    "title_org": "TSMC Reveals Details of A14 Manufacturing Compared to N2P",
+    "title_vietnamese": "TSMC hé lộ chi tiết về quy trình sản xuất A14 so với N2P",
+    "summary_org": "TSMC has disclosed additional technical details regarding its upcoming A14 (1.4nm-class) manufacturing technology at the 2026 Europe OIP Ecosystem Workshop. The presentation gave semiconductor designers a clearer view of the performance, power efficiency, and density improvements expected from this next-generation process compared to N2P.",
+    "summary_vietnamese": "TSMC đã tiết lộ thêm các chi tiết kỹ thuật về công nghệ sản xuất A14 (dòng 1.4nm) sắp ra mắt tại Hội thảo Hệ sinh thái OIP Châu Âu 2026. Bài thuyết trình đã mang lại cho các nhà thiết kế chất bán dẫn cái nhìn rõ ràng hơn về hiệu năng, hiệu quả năng lượng và cải tiến mật độ dự kiến từ quy trình thế hệ tiếp theo này so với N2P.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/tsmc/376876-tsmc-reveals-details-of-a14-manufacturing-compared-to-n2p/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/TSMC-NanoFlex-Pro-Architecture.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-11-27T23:53:06.119128+00:00",
+    "publishedAt": "2026-11-27T16:00:24+00:00"
+  },
+  {
+    "title_org": "Intel Foundry: How Better Power Delivery Could Unlock More AI Performance",
+    "title_vietnamese": "Intel Foundry: Hệ thống cấp nguồn tốt hơn có thể khai mở thêm hiệu năng AI như thế nào",
+    "summary_org": "An AI accelerator may underperform if its power delivery network cannot keep up, despite having advanced transistors and memory bandwidth. Intel Foundry's recent white paper explores innovative solutions in power delivery to overcome these bottlenecks for the AI data center era. Engineers and industry observers are looking at how these improvements can unlock greater performance.",
+    "summary_vietnamese": "Bộ gia tốc AI có thể bị giảm hiệu năng nếu mạng lưới cấp nguồn không theo kịp, dù sở hữu các transistor và băng thông bộ nhớ tiên tiến. Sách trắng gần đây của Intel Foundry khám phá các giải pháp cải tiến trong việc cấp nguồn để vượt qua những nút thắt này trong kỷ kỷ nguyên trung tâm dữ liệu AI. Các kỹ sư và nhà quan sát trong ngành đang kỳ vọng những cải tiến này sẽ giúp khai mở hiệu năng cao hơn.",
+    "source": "SemiWiki",
+    "url": "https://semiwiki.com/semiconductor-manufacturers/intel/376763-intel-foundry-how-better-power-delivery-could-unlock-more-ai-performance/",
+    "category": "International",
+    "isPolicy": false,
+    "thumbnail": "https://semiwiki.com/wp-content/uploads/2026/11/AI-Accelerator-Power-Delivery.jpg",
+    "author": "Daniel Nenni",
+    "createdAt": "2026-11-27T23:53:10.789893+00:00",
+    "publishedAt": "2026-11-27T14:00:11+00:00"
   }
 ]
