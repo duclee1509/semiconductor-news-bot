@@ -1,0 +1,8 @@
+Article: https://vnexpress.net/singapore-dam-phan-voi-my-de-duy-tri-nguon-chip-ai-tien-tien-5150013.html
+Title: Singapore đàm phán với Mỹ để duy trì nguồn chip AI tiên tiến
+Summary: Sau thông tin Nvidia dừng vận chuyển chip đến Singapore, Phó thủ tướng nước này thông báo đang trao đổi với Mỹ và doanh nghiệp trong nước.
+Thumbnail: https://i2-vnexpress.vnecdn.net/2026/11/28/20260624t002647z233179107rc2ke-6577-2669-1795856446.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=_XdTxMpP9tPfOUOUsHP7xg
+Author: Thu Thảo
+Published date: Sat, 28 Nov 2026 09:10:12 +0000
+
+Completed! Added a total of 1 new news items to Firebase.

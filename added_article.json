@@ -1,19 +1,5 @@
 [
   {
-    "title_org": "Ưu tiên hỗ trợ doanh nghiệp trong nước nghiên cứu, làm chủ công nghệ ngành điện tử",
-    "title_vietnamese": "",
-    "summary_org": "Nhà nước đặt ưu tiên hàng đầu trong việc hỗ trợ các doanh nghiệp trong nước nghiên cứu và làm chủ các công nghệ lõi, công nghệ nền. Trọng tâm là các lĩnh vực chiến lược bao gồm bán dẫn, vi mạch, vật liệu điện tử và tự động hóa.",
-    "summary_vietnamese": "",
-    "source": "Báo Chính phủ ",
-    "url": "https://baochinhphu.vn/uu-tien-ho-tro-doanh-nghiep-trong-nuoc-nghien-cuu-lam-chu-cong-nghe-nganh-dien-tu-102260914155701987.htm",
-    "category": "VietNam",
-    "isPolicy": true,
-    "thumbnail": "https://bcp2.cdnchinhphu.vn/zoom/1200_630/334894974524682240/2026/9/14/quy-trinh-san-xuat-linh-kien-dien-tu97298-1789375632168108580913-28-0-459-690-crop-17893756510941069700750.jpg",
-    "author": "Phương Nhi",
-    "createdAt": "2026-09-14T17:30:49.009331+00:00",
-    "publishedAt": "2026-09-14T17:00:00+00:00"
-  },
-  {
     "title_org": "Đào tạo nhân lực, hỗ trợ doanh nghiệp Việt làm chủ công nghệ bán dẫn",
     "title_vietnamese": "",
     "summary_org": "Bộ Khoa học và Công nghệ đang khẩn trương triển khai các nhiệm vụ phát triển công nghệ lõi trong ngành điện tử và bán dẫn. Trọng tâm của chiến lược này là làm chủ công nghệ thiết kế vi mạch, vật liệu bán dẫn, cùng với các công đoạn đóng gói và kiểm thử nhằm hỗ trợ doanh nghiệp Việt Nam.",
@@ -6998,5 +6984,19 @@
     "author": "Daniel Nenni",
     "createdAt": "2026-11-27T23:53:10.789893+00:00",
     "publishedAt": "2026-11-27T14:00:11+00:00"
+  },
+  {
+    "title_org": "Singapore đàm phán với Mỹ để duy trì nguồn chip AI tiên tiến",
+    "title_vietnamese": "",
+    "summary_org": "Singapore đang tiến hành đàm phán với Chính phủ Mỹ và các doanh nghiệp trong nước nhằm duy trì nguồn cung chip AI tiên tiến. Động thái này diễn ra ngay sau khi có thông tin Nvidia dừng vận chuyển các dòng chip này đến thị trường Singapore.",
+    "summary_vietnamese": "",
+    "source": "VnExpress",
+    "url": "https://vnexpress.net/singapore-dam-phan-voi-my-de-duy-tri-nguon-chip-ai-tien-tien-5150013.html",
+    "category": "VietNam",
+    "isPolicy": true,
+    "thumbnail": "https://i2-vnexpress.vnecdn.net/2026/11/28/20260624t002647z233179107rc2ke-6577-2669-1795856446.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=_XdTxMpP9tPfOUOUsHP7xg",
+    "author": "Thu Thảo",
+    "createdAt": "2026-11-28T16:34:46.720691+00:00",
+    "publishedAt": "2026-11-28T09:10:12+00:00"
   }
 ]
